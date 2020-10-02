@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2023,
+      "franchise": 1,
+      "name": "BS MARIBOR - PUHOVA",
+      "address": "PUHOVA ULICA 3",
+      "lat": 46.54782826,
+      "lng": 15.67767389,
+      "prices": {
+        "95": 1,
+        "dizel": 1,
+        "98": null,
+        "100": 1.126,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-14:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2024,
       "franchise": 1,
       "name": "BS PTUJ - DORNAVSKA",
@@ -506,27 +527,6 @@
       "direction": "Ljubljana -> Koper",
       "open_hours": "NON-STOP",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2302,
-      "franchise": 7,
-      "name": "Bencinski servis Brezovica",
-      "address": "Tržaška cesta 358",
-      "lat": 46.026026,
-      "lng": 14.4284534,
-      "prices": {
-        "95": 1,
-        "dizel": 1,
-        "98": 1.128,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.30",
-      "zip_code": "1351"
     }
   ],
   "position": null

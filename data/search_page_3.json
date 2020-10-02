@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 2066,
+      "franchise": 1,
+      "name": "BS RADOVLJICA - KRANJSKA",
+      "address": "KRANJSKA CESTA 20",
+      "lat": 46.34605506,
+      "lng": 14.1817862,
+      "prices": {
+        "95": 1,
+        "dizel": 1,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.778
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "4240"
+    },
+    {
       "pk": 1555,
       "franchise": 4,
       "name": "BS MOL RIBNICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
       "zip_code": "6250"
-    },
-    {
-      "pk": 1565,
-      "franchise": 4,
-      "name": "BS MOL NOVO MESTO",
-      "address": "MIRNOPEŠKA CESTA 4",
-      "lat": 45.8211663,
-      "lng": 15.1506657,
-      "prices": {
-        "95": 1,
-        "dizel": 1,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "8000"
     }
   ],
   "position": null

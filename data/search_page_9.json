@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 855,
+      "franchise": 2,
+      "name": "OMV SLOVENSKE KONJICE",
+      "address": "Liptovska 36a",
+      "lat": 46.34068,
+      "lng": 15.41675,
+      "prices": {
+        "95": 1,
+        "dizel": 1,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.777
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3210"
+    },
+    {
       "pk": 2135,
       "franchise": 1,
       "name": "BS LJUBLJANA - KAJUHOVA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8210"
-    },
-    {
-      "pk": 2149,
-      "franchise": 1,
-      "name": "BS BRESTANICA",
-      "address": "CESTA PRVIH BORCEV 17",
-      "lat": 45.995159,
-      "lng": 15.476035,
-      "prices": {
-        "95": 1,
-        "dizel": 1,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.778
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:30-19:00",
-      "zip_code": "8280"
     }
   ],
   "position": null
