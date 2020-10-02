@@ -1,5 +1,5 @@
 {
-  "count": 538,
+  "count": 539,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
@@ -361,6 +361,27 @@
       "zip_code": "4270"
     },
     {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-sob: 6,00 - 22,00\r\nned: 7,00 - 21,00",
+      "zip_code": "6253"
+    },
+    {
       "pk": 784,
       "franchise": 2,
       "name": "ET CAR.C.SEŽANA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-18:00",
       "zip_code": "8311"
-    },
-    {
-      "pk": 2258,
-      "franchise": 5,
-      "name": "SHELL KOPER",
-      "address": "SERMIN 7C",
-      "lat": 45.552486,
-      "lng": 13.762092,
-      "prices": {
-        "95": null,
-        "dizel": 1,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "6000"
     }
   ],
   "position": null
