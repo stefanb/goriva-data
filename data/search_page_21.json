@@ -1,5 +1,5 @@
 {
-  "count": 539,
+  "count": 540,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
@@ -382,6 +382,27 @@
       "zip_code": "4270"
     },
     {
+      "pk": 2312,
+      "franchise": 17,
+      "name": "BS  HOJNIK OIL",
+      "address": "Leskovec 15",
+      "lat": 46.259264,
+      "lng": 15.310556,
+      "prices": {
+        "95": null,
+        "dizel": 0.94,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.5,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Celje",
+      "open_hours": "PON. - PET.      7.00 - 17.00        \r\nSOB.                 7.00 - 12.00",
+      "zip_code": "3000"
+    },
+    {
       "pk": 784,
       "franchise": 2,
       "name": "ET CAR.C.SEŽANA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:30",
       "zip_code": "4260"
-    },
-    {
-      "pk": 2226,
-      "franchise": 1,
-      "name": "BS KOSTANJEVICA NA KRKI",
-      "address": "KRŠKA CESTA 10",
-      "lat": 45.85248233,
-      "lng": 15.42354624,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-18:00",
-      "zip_code": "8311"
     }
   ],
   "position": null
