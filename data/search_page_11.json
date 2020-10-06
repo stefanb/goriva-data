@@ -130,6 +130,27 @@
       "zip_code": "2288"
     },
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 0.998,
+        "dizel": 1.002,
+        "98": null,
+        "100": 1.122,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.782
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2013,
       "franchise": 1,
       "name": "BS MAJŠPERK",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "Ljubljana -> Kranj",
       "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2037,
-      "franchise": 1,
-      "name": "BS LJUBLJANA - RAKOVNIK",
-      "address": "DOLENJSKA CESTA 136A",
-      "lat": 46.03323598,
-      "lng": 14.52693479,
-      "prices": {
-        "95": 0.998,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.122,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "1000"
     }
   ],
