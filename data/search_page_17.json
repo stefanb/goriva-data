@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 865,
+      "franchise": 2,
+      "name": "OMV ŠKOFJA LOKA",
+      "address": "Kidričeva 23a",
+      "lat": 46.168842,
+      "lng": 14.31952,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.781
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 06:00-22:00; Apr-Sep: Pon-Ned 06:00-22:30",
+      "zip_code": "4220"
+    },
+    {
       "pk": 866,
       "franchise": 2,
       "name": "OMV ŠMARJE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8330"
-    },
-    {
-      "pk": 2248,
-      "franchise": 3,
-      "name": "BS MAXEN PREDGRAD",
-      "address": "Paka pri Predgradu bš",
-      "lat": 45.5025792,
-      "lng": 15.0603264,
-      "prices": {
-        "95": 1,
-        "dizel": 1,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8342"
     }
   ],
   "position": null

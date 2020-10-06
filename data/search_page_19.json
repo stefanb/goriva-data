@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 811,
+      "franchise": 2,
+      "name": "OMV KRVAVI POTOK",
+      "address": "Krvavi potok 1",
+      "lat": 45.61885,
+      "lng": 13.910126,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.009,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6240"
+    },
+    {
       "pk": 812,
       "franchise": 2,
       "name": "OMV LAZARET",
@@ -493,27 +514,6 @@
       "address": "CESTA 2. JULIJA 19",
       "lat": 46.68509786,
       "lng": 15.64986497,
-      "prices": {
-        "95": 1.029,
-        "dizel": 1.025,
-        "98": null,
-        "100": 1.146,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2212"
-    },
-    {
-      "pk": 1945,
-      "franchise": 1,
-      "name": "BS ŠENTILJ AC - VZHOD",
-      "address": "CESTA 2. JULIJA 22",
-      "lat": 46.6859127,
-      "lng": 15.65055471,
       "prices": {
         "95": 1.029,
         "dizel": 1.025,

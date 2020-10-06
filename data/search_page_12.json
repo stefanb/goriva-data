@@ -466,6 +466,27 @@
       "zip_code": "6215"
     },
     {
+      "pk": 2313,
+      "franchise": 14,
+      "name": "Zibis d.o.o.",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1,
+        "dizel": 1,
+        "98": 1.124,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.807
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
+      "zip_code": "2283"
+    },
+    {
       "pk": 779,
       "franchise": 2,
       "name": "OMV DOL PRI LJUBLJANI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
       "zip_code": "2370"
-    },
-    {
-      "pk": 1548,
-      "franchise": 4,
-      "name": "BS MOL KIDRIČEVO",
-      "address": "TOVARNIŠKA CESTA 8A",
-      "lat": 46.404094,
-      "lng": 15.799085,
-      "prices": {
-        "95": 1,
-        "dizel": 1,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "2325"
     }
   ],
   "position": null
