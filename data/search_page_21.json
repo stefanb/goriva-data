@@ -1,5 +1,5 @@
 {
-  "count": 540,
+  "count": 541,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
@@ -403,6 +403,27 @@
       "zip_code": "3000"
     },
     {
+      "pk": 2313,
+      "franchise": 14,
+      "name": "Zibis d.o.o.",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
+      "zip_code": "2283"
+    },
+    {
       "pk": 784,
       "franchise": 2,
       "name": "ET CAR.C.SEŽANA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
-    },
-    {
-      "pk": 2081,
-      "franchise": 1,
-      "name": "BS BLED - LJUBLJANSKA SEVER",
-      "address": "LJUBLJANSKA CESTA 15A",
-      "lat": 46.368737,
-      "lng": 14.115882,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "4260"
     }
   ],
   "position": null
