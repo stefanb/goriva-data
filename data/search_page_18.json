@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2237,
-      "franchise": 3,
-      "name": "BS MAXEN TRŽIČ",
-      "address": "Cesta Ste Marie aux Mines bš",
-      "lat": 46.3583296,
-      "lng": 14.2978288,
-      "prices": {
-        "95": 1,
-        "dizel": 1.002,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4290"
-    },
-    {
-      "pk": 2238,
-      "franchise": 3,
-      "name": "BS MAXEN KOPER",
-      "address": "Ulica 15. maja bš",
-      "lat": 45.5371584,
-      "lng": 13.7323296,
-      "prices": {
-        "95": 1,
-        "dizel": 1.002,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 2239,
-      "franchise": 3,
-      "name": "BS MAXEN NIZKA",
-      "address": "Nizka bš",
-      "lat": 46.3157792,
-      "lng": 14.9116624,
-      "prices": {
-        "95": 1,
-        "dizel": 1.002,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "3332"
-    },
-    {
       "pk": 2240,
       "franchise": 3,
       "name": "BS MAXEN GORNJA RADGONA",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 767,
+      "franchise": 2,
+      "name": "OMV BENEDIKT",
+      "address": "Radgonska c. 15",
+      "lat": 46.61068,
+      "lng": 15.89416,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.781
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
+      "zip_code": "2234"
+    },
+    {
+      "pk": 769,
+      "franchise": 2,
+      "name": "OMV BRESTOVICA",
+      "address": "Brestovica 116b",
+      "lat": 45.81302,
+      "lng": 13.62228,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.009,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
+      "zip_code": "6223"
+    },
+    {
+      "pk": 789,
+      "franchise": 2,
+      "name": "OMV FERNETIČI",
+      "address": "Partizanska c. 151",
+      "lat": 45.701768,
+      "lng": 13.841505,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.009,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.582,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Sežana",
+      "open_hours": "Pon-Ned 07:00-22:00",
+      "zip_code": "6210"
     }
   ],
   "position": null

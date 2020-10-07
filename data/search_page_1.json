@@ -319,69 +319,6 @@
       "zip_code": "1317"
     },
     {
-      "pk": 2308,
-      "franchise": 7,
-      "name": "Tankomat Grosuplje",
-      "address": "Ljubljanska cesta 66",
-      "lat": 45.96573257446289,
-      "lng": 14.659423828125,
-      "prices": {
-        "95": 0.997,
-        "dizel": 1,
-        "98": 1.127,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "1290"
-    },
-    {
-      "pk": 2309,
-      "franchise": 7,
-      "name": "Tankomat Sežana",
-      "address": "Cesta na Lenivec 32",
-      "lat": 45.7087287902832,
-      "lng": 13.8604755401611,
-      "prices": {
-        "95": 0.997,
-        "dizel": 1,
-        "98": 1.127,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2310,
-      "franchise": 7,
-      "name": "Tankomat Jesenice",
-      "address": "Cesta železarjev 8",
-      "lat": 46.43106460571289,
-      "lng": 14.07077407836914,
-      "prices": {
-        "95": 0.997,
-        "dizel": 1,
-        "98": 1.127,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "4270"
-    },
-    {
       "pk": 2302,
       "franchise": 7,
       "name": "Bencinski servis Brezovica",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2053,
+      "franchise": 1,
+      "name": "BS DOBROVA",
+      "address": "POLHOGRAJSKA CESTA 12",
+      "lat": 46.0520304,
+      "lng": 14.42151956,
+      "prices": {
+        "95": 0.998,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.782
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
+      "zip_code": "1356"
+    },
+    {
+      "pk": 2054,
+      "franchise": 1,
+      "name": "BS PODPEČ",
+      "address": "JEZERO 103",
+      "lat": 45.973133,
+      "lng": 14.422124,
+      "prices": {
+        "95": 0.998,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.782
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1352"
+    },
+    {
+      "pk": 2055,
+      "franchise": 1,
+      "name": "BS LJUBLJANA - ČRNUČE, DUNAJSKA",
+      "address": "DUNAJSKA CESTA 460",
+      "lat": 46.10458934,
+      "lng": 14.54127278,
+      "prices": {
+        "95": 0.998,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-13:00",
+      "zip_code": "1231"
     }
   ],
   "position": null

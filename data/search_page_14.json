@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 1581,
-      "franchise": 4,
-      "name": "BS MOL ZASAVJE",
-      "address": "ZAVRŠJE 30",
-      "lat": 46.1110129,
-      "lng": 15.0066052,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.578,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
-      "pk": 1582,
-      "franchise": 4,
-      "name": "BS MOL MIKLAVŽ",
-      "address": "PTUJSKA CESTA 135",
-      "lat": 46.496423,
-      "lng": 15.713914,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.578,
-        "KOEL": 0.782
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - pet. 06:00 - 22:00\r\nsobota 07:00 - 21:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2204"
-    },
-    {
-      "pk": 1583,
-      "franchise": 4,
-      "name": "BS MOL DRNOVO",
-      "address": "VELIKA VAS PRI KRŠKEM 69",
-      "lat": 45.920289,
-      "lng": 15.473747,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.782
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 -20:30\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "8273"
-    },
-    {
       "pk": 1584,
       "franchise": 4,
       "name": "BS MOL ŠMARJE",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 774,
+      "franchise": 2,
+      "name": "OMV CELJE MEDLOG",
+      "address": "Ljubljanska cesta 110",
+      "lat": 46.238118,
+      "lng": 15.235194,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 05:00-22:00, Sob/Ned/Praz 06:00-21:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 775,
+      "franchise": 2,
+      "name": "OMV ČRNOMELJ",
+      "address": "Belokranjska c. 18a",
+      "lat": 45.57995,
+      "lng": 15.19583,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8340"
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1,
+        "dizel": 1,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": 0.778
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-sob: 6,00 - 22,00\r\nned: 7,00 - 21,00",
+      "zip_code": "6253"
     }
   ],
   "position": null

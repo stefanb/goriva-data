@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 849,
-      "franchise": 2,
-      "name": "OMV ROŽNA DOLINA",
-      "address": "Angela Besednjaka 8",
-      "lat": 45.940972,
-      "lng": 13.640395,
-      "prices": {
-        "95": 1,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5000"
-    },
-    {
-      "pk": 850,
-      "franchise": 2,
-      "name": "OMV RUŠE BEZENA",
-      "address": "Bezena 99",
-      "lat": 46.54981,
-      "lng": 15.53794,
-      "prices": {
-        "95": 1,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "2342"
-    },
-    {
-      "pk": 851,
-      "franchise": 2,
-      "name": "OMV SENOVO",
-      "address": "Titova ulica 101c",
-      "lat": 46.02489,
-      "lng": 15.47797,
-      "prices": {
-        "95": 1,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "8281"
-    },
-    {
       "pk": 852,
       "franchise": 2,
       "name": "OMV SENOŽEČE",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2237,
+      "franchise": 3,
+      "name": "BS MAXEN TRŽIČ",
+      "address": "Cesta Ste Marie aux Mines bš",
+      "lat": 46.3583296,
+      "lng": 14.2978288,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "4290"
+    },
+    {
+      "pk": 2238,
+      "franchise": 3,
+      "name": "BS MAXEN KOPER",
+      "address": "Ulica 15. maja bš",
+      "lat": 45.5371584,
+      "lng": 13.7323296,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 2239,
+      "franchise": 3,
+      "name": "BS MAXEN NIZKA",
+      "address": "Nizka bš",
+      "lat": 46.3157792,
+      "lng": 14.9116624,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "3332"
     }
   ],
   "position": null

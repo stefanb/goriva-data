@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "BS VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.029,
-        "dizel": 1.025,
-        "98": null,
-        "100": 1.146,
-        "dizel-premium": 1.236,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.03,
-        "dizel": 1.025,
-        "98": null,
-        "100": 1.15,
-        "dizel-premium": 1.238,
-        "avtoplin-lpg": 0.583,
-        "KOEL": 0.965
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.03,
-        "dizel": 1.025,
-        "98": null,
-        "100": 1.15,
-        "dizel-premium": 1.238,
-        "avtoplin-lpg": 0.575,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
       "pk": 777,
       "franchise": 2,
       "name": "OMV DOBRENJE VZHOD",
@@ -401,6 +338,69 @@
       "direction": "Nova Gorica",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5261"
+    },
+    {
+      "pk": 2308,
+      "franchise": 7,
+      "name": "Tankomat Grosuplje",
+      "address": "Ljubljanska cesta 66",
+      "lat": 45.96573257446289,
+      "lng": 14.659423828125,
+      "prices": {
+        "95": null,
+        "dizel": 1,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "neprenehoma 24/7",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 2309,
+      "franchise": 7,
+      "name": "Tankomat Sežana",
+      "address": "Cesta na Lenivec 32",
+      "lat": 45.7087287902832,
+      "lng": 13.8604755401611,
+      "prices": {
+        "95": null,
+        "dizel": 1,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "neprenehoma 24/7",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 2310,
+      "franchise": 7,
+      "name": "Tankomat Jesenice",
+      "address": "Cesta železarjev 8",
+      "lat": 46.43106460571289,
+      "lng": 14.07077407836914,
+      "prices": {
+        "95": null,
+        "dizel": 1,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "neprenehoma 24/7",
+      "zip_code": "4270"
     },
     {
       "pk": 2312,
