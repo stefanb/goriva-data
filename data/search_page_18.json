@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2239,
+      "franchise": 3,
+      "name": "BS MAXEN NIZKA",
+      "address": "Nizka bš",
+      "lat": 46.3157792,
+      "lng": 14.9116624,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "3332"
+    },
+    {
       "pk": 2240,
       "franchise": 3,
       "name": "BS MAXEN GORNJA RADGONA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
       "zip_code": "6223"
-    },
-    {
-      "pk": 789,
-      "franchise": 2,
-      "name": "OMV FERNETIČI",
-      "address": "Partizanska c. 151",
-      "lat": 45.701768,
-      "lng": 13.841505,
-      "prices": {
-        "95": 1.009,
-        "dizel": 1.009,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.582,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Sežana",
-      "open_hours": "Pon-Ned 07:00-22:00",
-      "zip_code": "6210"
     }
   ],
   "position": null
