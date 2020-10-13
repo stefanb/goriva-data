@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 816,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA LETALIŠKA",
+      "address": "Letališka c. 33b",
+      "lat": 46.062474,
+      "lng": 14.570349,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 06:00-22:00, Sob 08:00-20:00, Ned/Praz. zaprto",
+      "zip_code": "1000"
+    },
+    {
       "pk": 817,
       "franchise": 2,
       "name": "OMV LJUBLJANA LITIJSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5000"
-    },
-    {
-      "pk": 850,
-      "franchise": 2,
-      "name": "OMV RUŠE BEZENA",
-      "address": "Bezena 99",
-      "lat": 46.54981,
-      "lng": 15.53794,
-      "prices": {
-        "95": 1,
-        "dizel": 1.002,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "2342"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2238,
+      "franchise": 3,
+      "name": "BS MAXEN KOPER",
+      "address": "Ulica 15. maja bš",
+      "lat": 45.5371584,
+      "lng": 13.7323296,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "6000"
+    },
+    {
       "pk": 2239,
       "franchise": 3,
       "name": "BS MAXEN NIZKA",
@@ -401,27 +422,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "5270"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1,
-        "dizel": 1,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.778
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2268,
