@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2237,
+      "franchise": 3,
+      "name": "BS MAXEN TRŽIČ",
+      "address": "Cesta Ste Marie aux Mines bš",
+      "lat": 46.3583296,
+      "lng": 14.2978288,
+      "prices": {
+        "95": 1,
+        "dizel": 1.002,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "4290"
+    },
+    {
       "pk": 2238,
       "franchise": 3,
       "name": "BS MAXEN KOPER",
@@ -424,27 +445,6 @@
       "zip_code": "5270"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.222,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2271,
       "franchise": 2,
       "name": "OMV MARIBOR STUDENCI",
@@ -500,7 +500,7 @@
         "100": 1.129,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.781
+        "KOEL": 0.795
       },
       "distance": null,
       "direction": "",
@@ -516,7 +516,7 @@
       "lng": 13.62228,
       "prices": {
         "95": 1.009,
-        "dizel": 1.009,
+        "dizel": 1.019,
         "98": null,
         "100": null,
         "dizel-premium": null,
