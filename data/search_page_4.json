@@ -1,8 +1,29 @@
 {
-  "count": 541,
+  "count": 543,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
+    {
+      "pk": 2084,
+      "franchise": 1,
+      "name": "BS KRANJ - STANETA ŽAGARJA 58B",
+      "address": "CESTA STANETA ŽAGARJA 58B",
+      "lat": 46.24334118,
+      "lng": 14.36914271,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-13:00",
+      "zip_code": "4000"
+    },
     {
       "pk": 1573,
       "franchise": 4,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "1295"
-    },
-    {
-      "pk": 1587,
-      "franchise": 4,
-      "name": "BS MOL LETUŠ",
-      "address": "LETUŠ 11 D",
-      "lat": 46.311732,
-      "lng": 15.026208,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "3327"
     }
   ],
   "position": null

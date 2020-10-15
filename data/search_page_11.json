@@ -1,8 +1,29 @@
 {
-  "count": 541,
+  "count": 543,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
+    {
+      "pk": 1960,
+      "franchise": 1,
+      "name": "BS MIREN",
+      "address": "MIREN 13D",
+      "lat": 45.898043,
+      "lng": 13.608726,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": 1.13,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
+      "zip_code": "5291"
+    },
     {
       "pk": 1961,
       "franchise": 1,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
       "zip_code": "5275"
-    },
-    {
-      "pk": 1974,
-      "franchise": 1,
-      "name": "BS CANKOVA",
-      "address": "CANKOVA 35",
-      "lat": 46.71906544,
-      "lng": 16.02095244,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-13:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "9261"
     }
   ],
   "position": null

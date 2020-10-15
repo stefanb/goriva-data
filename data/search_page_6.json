@@ -1,8 +1,29 @@
 {
-  "count": 541,
+  "count": 543,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
+    {
+      "pk": 2119,
+      "franchise": 1,
+      "name": "BS GROSUPLJE",
+      "address": "LJUBLJANSKA CESTA 16A",
+      "lat": 45.958264,
+      "lng": 14.657955,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": 1.13,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 07:00-13:00",
+      "zip_code": "1290"
+    },
     {
       "pk": 2121,
       "franchise": 1,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "8340"
-    },
-    {
-      "pk": 2147,
-      "franchise": 1,
-      "name": "BS TREBNJE - POD GRADOM",
-      "address": "CESTA VILME BUKOVEC 2",
-      "lat": 45.90473997,
-      "lng": 15.00357364,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.13,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.583,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "8210"
     }
   ],
   "position": null

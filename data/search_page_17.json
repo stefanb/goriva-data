@@ -1,8 +1,29 @@
 {
-  "count": 541,
+  "count": 543,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
+    {
+      "pk": 846,
+      "franchise": 2,
+      "name": "OMV RAKEK",
+      "address": "Partizanska 73a",
+      "lat": 45.808113,
+      "lng": 14.329101,
+      "prices": {
+        "95": 1,
+        "dizel": 1.016,
+        "98": null,
+        "100": 1.134,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.795
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1381"
+    },
     {
       "pk": 849,
       "franchise": 2,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2314"
-    },
-    {
-      "pk": 2236,
-      "franchise": 2,
-      "name": "OMV PTUJ",
-      "address": "Ormoška cesta 32",
-      "lat": 46.41600383,
-      "lng": 15.88503332,
-      "prices": {
-        "95": 1,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.582,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2250"
     }
   ],
   "position": null

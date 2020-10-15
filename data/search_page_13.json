@@ -1,8 +1,29 @@
 {
-  "count": 541,
+  "count": 543,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
+    {
+      "pk": 2001,
+      "franchise": 1,
+      "name": "BS VIPAVA",
+      "address": "GORIŠKA CESTA 41",
+      "lat": 45.8488706,
+      "lng": 13.95468545,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": 1.13,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "5271"
+    },
     {
       "pk": 2002,
       "franchise": 1,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2283,
-      "franchise": 4,
-      "name": "BS MOL ŠALOVCI",
-      "address": "Šalovci 168",
-      "lat": 46.821993,
-      "lng": 16.278851,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.126,
-        "dizel-premium": 1.136,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-19:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
-      "zip_code": "9204"
     }
   ],
   "position": null
