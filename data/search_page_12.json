@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 1973,
+      "franchise": 1,
+      "name": "BS GODOVIČ",
+      "address": "GODOVIČ 2B",
+      "lat": 45.95665729,
+      "lng": 14.09433635,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
+      "zip_code": "5275"
+    },
+    {
       "pk": 1974,
       "franchise": 1,
       "name": "BS CANKOVA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6310"
-    },
-    {
-      "pk": 1999,
-      "franchise": 1,
-      "name": "BS CERKNO",
-      "address": "GORIŠKA CESTA 37",
-      "lat": 46.11808413,
-      "lng": 13.97148427,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.13,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5282"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2188,
+      "franchise": 1,
+      "name": "BS LAŠKO",
+      "address": "CELJSKA CESTA 40",
+      "lat": 46.16731495,
+      "lng": 15.2329947,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": 1.13,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "3270"
+    },
+    {
       "pk": 1933,
       "franchise": 1,
       "name": "BS RAČE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3000"
-    },
-    {
-      "pk": 1946,
-      "franchise": 1,
-      "name": "BS SREDIŠČE OB DRAVI",
-      "address": "SLOVENSKA CESTA 91A",
-      "lat": 46.394433,
-      "lng": 16.277736,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 07:00-12:00",
-      "zip_code": "2277"
     }
   ],
   "position": null
