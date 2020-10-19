@@ -235,6 +235,27 @@
       "zip_code": "2000"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 0.995,
+        "dizel": 1.01,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 2304,
       "franchise": 19,
       "name": "Bencinski servis Velika Pirešica",
@@ -384,7 +405,7 @@
     {
       "pk": 2048,
       "franchise": 1,
-      "name": "BS LJUBLJANA - TIVOLSKA",
+      "name": "PETROL LJUBLJANA - TIVOLSKA",
       "address": "TIVOLSKA CESTA 43",
       "lat": 46.0580724,
       "lng": 14.50344546,
@@ -405,7 +426,7 @@
     {
       "pk": 2049,
       "franchise": 1,
-      "name": "BS LJUBLJANA - ŠMARTINSKA 150",
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 150",
       "address": "ŠMARTINSKA CESTA 150",
       "lat": 46.06921194,
       "lng": 14.54248084,
@@ -426,7 +447,7 @@
     {
       "pk": 2050,
       "franchise": 1,
-      "name": "BS LJUBLJANA - CELOVŠKA 148",
+      "name": "PETROL LJUBLJANA - CELOVŠKA 148",
       "address": "CELOVŠKA CESTA 148",
       "lat": 46.07303365,
       "lng": 14.48691567,
@@ -447,7 +468,7 @@
     {
       "pk": 2051,
       "franchise": 1,
-      "name": "BS LJUBLJANA - POLJE",
+      "name": "PETROL LJUBLJANA - POLJE",
       "address": "POLJE 51",
       "lat": 46.05375935,
       "lng": 14.5873399,
@@ -468,7 +489,7 @@
     {
       "pk": 2052,
       "franchise": 1,
-      "name": "BS LJUBLJANA - TRNOVO",
+      "name": "PETROL LJUBLJANA - TRNOVO",
       "address": "RIHARJEVA ULICA 31",
       "lat": 46.03925962,
       "lng": 14.50003317,
@@ -489,7 +510,7 @@
     {
       "pk": 2053,
       "franchise": 1,
-      "name": "BS DOBROVA",
+      "name": "PETROL DOBROVA",
       "address": "POLHOGRAJSKA CESTA 12",
       "lat": 46.0520304,
       "lng": 14.42151956,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
       "zip_code": "1356"
-    },
-    {
-      "pk": 2054,
-      "franchise": 1,
-      "name": "BS PODPEČ",
-      "address": "JEZERO 103",
-      "lat": 45.973133,
-      "lng": 14.422124,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "1352"
     }
   ],
   "position": null

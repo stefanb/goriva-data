@@ -4,9 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 2054,
+      "franchise": 1,
+      "name": "PETROL PODPEČ",
+      "address": "JEZERO 103",
+      "lat": 45.973133,
+      "lng": 14.422124,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1352"
+    },
+    {
       "pk": 2055,
       "franchise": 1,
-      "name": "BS LJUBLJANA - ČRNUČE, DUNAJSKA",
+      "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
       "address": "DUNAJSKA CESTA 460",
       "lat": 46.10458934,
       "lng": 14.54127278,
@@ -48,7 +69,7 @@
     {
       "pk": 2056,
       "franchise": 1,
-      "name": "BS LJUBLJANA - DUNAJSKA 70",
+      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
       "address": "DUNAJSKA CESTA 70",
       "lat": 46.06882986,
       "lng": 14.51074492,
@@ -69,7 +90,7 @@
     {
       "pk": 2057,
       "franchise": 1,
-      "name": "BS LJUBLJANA - RUDNIK ZAHOD",
+      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
       "address": "DOLENJSKA CESTA 242F",
       "lat": 46.01990756,
       "lng": 14.54219888,
@@ -90,7 +111,7 @@
     {
       "pk": 2058,
       "franchise": 1,
-      "name": "BS ZADVOR",
+      "name": "PETROL ZADVOR",
       "address": "CESTA II. GRUPE ODREDOV 48",
       "lat": 46.03588324,
       "lng": 14.59614121,
@@ -107,27 +128,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:00-14:00",
       "zip_code": "1261"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
     },
     {
       "pk": 1548,
@@ -174,7 +174,7 @@
     {
       "pk": 2061,
       "franchise": 1,
-      "name": "BS BLED - LJUBLJANSKA JUG",
+      "name": "PETROL BLED - LJUBLJANSKA JUG",
       "address": "LJUBLJANSKA CESTA 30",
       "lat": 46.36846888,
       "lng": 14.11723896,
@@ -216,7 +216,7 @@
     {
       "pk": 2062,
       "franchise": 1,
-      "name": "BS DOMŽALE - LJUBLJANSKA",
+      "name": "PETROL DOMŽALE - LJUBLJANSKA",
       "address": "LJUBLJANSKA CESTA 2",
       "lat": 46.13555764,
       "lng": 14.58035495,
@@ -258,7 +258,7 @@
     {
       "pk": 2063,
       "franchise": 1,
-      "name": "BS KRANJ - ZLATO POLJE ZAHOD",
+      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
       "address": "KOROŠKA CESTA 53B",
       "lat": 46.247434,
       "lng": 14.349614,
@@ -300,7 +300,7 @@
     {
       "pk": 2064,
       "franchise": 1,
-      "name": "BS LITIJA - LJUBLJANSKA",
+      "name": "PETROL LITIJA - LJUBLJANSKA",
       "address": "LJUBLJANSKA CESTA 8",
       "lat": 46.05721177,
       "lng": 14.82416328,
@@ -342,7 +342,7 @@
     {
       "pk": 2065,
       "franchise": 1,
-      "name": "BS LOGATEC",
+      "name": "PETROL LOGATEC",
       "address": "TRŽAŠKA CESTA 21",
       "lat": 45.91699729,
       "lng": 14.22441176,
@@ -384,7 +384,7 @@
     {
       "pk": 2066,
       "franchise": 1,
-      "name": "BS RADOVLJICA - KRANJSKA",
+      "name": "PETROL RADOVLJICA - KRANJSKA",
       "address": "KRANJSKA CESTA 20",
       "lat": 46.34605506,
       "lng": 14.1817862,
@@ -426,7 +426,7 @@
     {
       "pk": 2067,
       "franchise": 1,
-      "name": "BS TRBOVLJE - TRG REVOLUCIJE",
+      "name": "PETROL TRBOVLJE - TRG REVOLUCIJE",
       "address": "TRG REVOLUCIJE 8A",
       "lat": 46.14637991,
       "lng": 15.04055907,
@@ -468,7 +468,7 @@
     {
       "pk": 2068,
       "franchise": 1,
-      "name": "BS TRŽIČ - VZHOD",
+      "name": "PETROL TRŽIČ - VZHOD",
       "address": "CESTA STE MARIE AUX MINES 13A",
       "lat": 46.35376615,
       "lng": 14.2930683,
@@ -510,7 +510,7 @@
     {
       "pk": 2069,
       "franchise": 1,
-      "name": "BS VRHNIKA - LJUBLJANSKA ZAHOD",
+      "name": "PETROL VRHNIKA - LJUBLJANSKA ZAHOD",
       "address": "LJUBLJANSKA CESTA 3",
       "lat": 45.968275,
       "lng": 14.299194,
