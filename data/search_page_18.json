@@ -4,15 +4,78 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 876,
-      "franchise": 2,
-      "name": "OMV ZGORNJA POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43075,
-      "lng": 15.62705,
+      "pk": 2286,
+      "franchise": 4,
+      "name": "BS MOL RADLJE OB DRAVI",
+      "address": "Mariborska cesta 60",
+      "lat": 46.612815,
+      "lng": 15.232126,
       "prices": {
-        "95": 1,
+        "95": 0.999,
         "dizel": 1.016,
+        "98": null,
+        "100": 1.131,
+        "dizel-premium": 1.136,
+        "avtoplin-lpg": 0.583,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
+      "zip_code": "2360"
+    },
+    {
+      "pk": 2287,
+      "franchise": 4,
+      "name": "BS MOL LAŠKO",
+      "address": "Celjska cesta 2",
+      "lat": 46.162431,
+      "lng": 15.23171,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": 1.131,
+        "dizel-premium": 1.136,
+        "avtoplin-lpg": null,
+        "KOEL": 0.796
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-16:00\r\nprazniki 07:00-16:00",
+      "zip_code": "3270"
+    },
+    {
+      "pk": 766,
+      "franchise": 2,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.019,
+        "98": null,
+        "100": 1.134,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
+    },
+    {
+      "pk": 767,
+      "franchise": 2,
+      "name": "OMV BENEDIKT",
+      "address": "Radgonska c. 15",
+      "lat": 46.61068,
+      "lng": 15.89416,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.019,
         "98": null,
         "100": 1.134,
         "dizel-premium": null,
@@ -21,29 +84,29 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2314"
+      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
+      "zip_code": "2234"
     },
     {
-      "pk": 2236,
-      "franchise": 2,
-      "name": "OMV PTUJ",
-      "address": "Ormoška cesta 32",
-      "lat": 46.41600383,
-      "lng": 15.88503332,
+      "pk": 2313,
+      "franchise": 14,
+      "name": "Zibis d.o.o.",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
       "prices": {
         "95": 1,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": 1.159,
-        "avtoplin-lpg": 0.582,
-        "KOEL": null
+        "dizel": 1,
+        "98": 1.124,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.807
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2250"
+      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
+      "zip_code": "2283"
     },
     {
       "pk": 2237,
@@ -464,69 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "4000"
-    },
-    {
-      "pk": 2257,
-      "franchise": 3,
-      "name": "BS MAXEN AJDOVŠČINA",
-      "address": "Vipavska cesta bš",
-      "lat": 45.8809344,
-      "lng": 13.9107888,
-      "prices": {
-        "95": 1,
-        "dizel": 1.016,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "5270"
-    },
-    {
-      "pk": 2271,
-      "franchise": 2,
-      "name": "OMV MARIBOR STUDENCI",
-      "address": "Ulica heroja Šercerja 60",
-      "lat": 46.548645,
-      "lng": 15.620617,
-      "prices": {
-        "95": 1,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": 1.159,
-        "avtoplin-lpg": 0.582,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Pet 05:00-22:00; Sob, Ned, Praz. 06:00-22:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 766,
-      "franchise": 2,
-      "name": "OMV AJŠEVICA",
-      "address": "Loke 40",
-      "lat": 45.95337,
-      "lng": 13.69157,
-      "prices": {
-        "95": 1,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
-      "zip_code": "5000"
     }
   ],
   "position": null
