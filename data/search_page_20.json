@@ -298,6 +298,27 @@
       "zip_code": "9000"
     },
     {
+      "pk": 2019,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - JUG",
+      "address": "BAKOVSKA ULICA 51",
+      "lat": 46.634461,
+      "lng": 16.164346,
+      "prices": {
+        "95": 1.019,
+        "dizel": 1.04,
+        "98": null,
+        "100": 1.167,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2026,
       "franchise": 1,
       "name": "PETROL LORMANJE AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
-    },
-    {
-      "pk": 2019,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA AC - JUG",
-      "address": "BAKOVSKA ULICA 51",
-      "lat": 46.634461,
-      "lng": 16.164346,
-      "prices": {
-        "95": 1.029,
-        "dizel": 1.039,
-        "98": null,
-        "100": 1.174,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9000"
     }
   ],
   "position": null
