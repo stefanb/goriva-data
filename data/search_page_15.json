@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 1578,
+      "franchise": 4,
+      "name": "BS MOL LJUTOMER",
+      "address": "KOLODVORSKA ULICA 2A",
+      "lat": 46.526083,
+      "lng": 16.193583,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.016,
+        "98": null,
+        "100": 1.131,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 05:00 - 21:00\r\nSOBOTA 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "9240"
+    },
+    {
       "pk": 1579,
       "franchise": 4,
       "name": "BS MOL ŠENTILJ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA 08:00-20:00",
       "zip_code": "5270"
-    },
-    {
-      "pk": 825,
-      "franchise": 2,
-      "name": "OMV LUCIJA VZHOD",
-      "address": "Vinjole 29b",
-      "lat": 45.50069,
-      "lng": 13.61044,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.019,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6320"
     }
   ],
   "position": null

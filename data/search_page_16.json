@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 825,
+      "franchise": 2,
+      "name": "OMV LUCIJA VZHOD",
+      "address": "Vinjole 29b",
+      "lat": 45.50069,
+      "lng": 13.61044,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.019,
+        "98": null,
+        "100": 1.134,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6320"
+    },
+    {
       "pk": 1593,
       "franchise": 4,
       "name": "BS MOL BRATISLAVSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "3210"
-    },
-    {
-      "pk": 856,
-      "franchise": 2,
-      "name": "OMV SMEDNIK",
-      "address": "Smednik 12a",
-      "lat": 45.90773,
-      "lng": 15.37137,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.019,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.582,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Novo Mesto",
-      "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
-      "zip_code": "8274"
     }
   ],
   "position": null

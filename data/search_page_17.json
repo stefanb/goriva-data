@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 856,
+      "franchise": 2,
+      "name": "OMV SMEDNIK",
+      "address": "Smednik 12a",
+      "lat": 45.90773,
+      "lng": 15.37137,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.019,
+        "98": null,
+        "100": 1.134,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.582,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Novo Mesto",
+      "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
+      "zip_code": "8274"
+    },
+    {
       "pk": 857,
       "franchise": 2,
       "name": "OMV SPODNJA IDRIJA",
@@ -422,27 +443,6 @@
       "direction": "",
       "open_hours": "24 ur - črpalka z osebjem",
       "zip_code": "2313"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.016,
-        "98": null,
-        "100": 1.222,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2271,
