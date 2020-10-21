@@ -4,88 +4,88 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 804,
-      "franchise": 2,
-      "name": "OMV KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
+      "pk": 2031,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - SEVER",
+      "address": "POVIR 96",
+      "lat": 45.703632,
+      "lng": 13.941688,
       "prices": {
-        "95": 1.025,
-        "dizel": 1.029,
+        "95": 1.019,
+        "dizel": 1.04,
         "98": null,
-        "100": 1.179,
-        "dizel-premium": 1.249,
-        "avtoplin-lpg": 0.587,
+        "100": 1.167,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
         "KOEL": null
       },
       "distance": null,
-      "direction": "Portorož",
-      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
     },
     {
-      "pk": 805,
-      "franchise": 2,
-      "name": "OMV KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.538903,
-      "lng": 13.728619,
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
       "prices": {
-        "95": 1.025,
-        "dizel": 1.029,
+        "95": 1.019,
+        "dizel": 1.04,
         "98": null,
-        "100": 1.179,
-        "dizel-premium": 1.249,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 863,
-      "franchise": 2,
-      "name": "OMV ŠKOFIJE BLOK VZHOD",
-      "address": "Sp.Škofije 260",
-      "lat": 45.580603,
-      "lng": 13.797535,
-      "prices": {
-        "95": 1.025,
-        "dizel": 1.029,
-        "98": null,
-        "100": 1.179,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.587,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
-      "zip_code": "6281"
-    },
-    {
-      "pk": 864,
-      "franchise": 2,
-      "name": "OMV ŠKOFIJE BLOK ZAHOD",
-      "address": "Sp.Škofije 256a",
-      "lat": 45.579851,
-      "lng": 13.796288,
-      "prices": {
-        "95": 1.025,
-        "dizel": 1.029,
-        "98": null,
-        "100": 1.179,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
+        "100": 1.167,
+        "dizel-premium": 1.251,
+        "avtoplin-lpg": 0.583,
         "KOEL": null
       },
       "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6281"
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
+    },
+    {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.02,
+        "dizel": 1.04,
+        "98": null,
+        "100": 1.169,
+        "dizel-premium": 1.251,
+        "avtoplin-lpg": 0.583,
+        "KOEL": 0.965
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 1568,
+      "franchise": 4,
+      "name": "BS MOL LORMANJE",
+      "address": "LORMANJE 22D",
+      "lat": 46.566917,
+      "lng": 15.8255,
+      "prices": {
+        "95": 1.02,
+        "dizel": 1.04,
+        "98": null,
+        "100": 1.169,
+        "dizel-premium": 1.251,
+        "avtoplin-lpg": 0.575,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Maribor",
+      "open_hours": "pon - ned 00:00 - 24:00",
+      "zip_code": "2230"
     },
     {
       "pk": 777,
@@ -95,7 +95,7 @@
       "lat": 46.605931,
       "lng": 15.663342,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -116,7 +116,7 @@
       "lat": 46.609699,
       "lng": 15.662384,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -137,7 +137,7 @@
       "lat": 46.428962,
       "lng": 15.794118,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -158,7 +158,7 @@
       "lat": 46.428104,
       "lng": 15.796613,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -179,7 +179,7 @@
       "lat": 45.704437,
       "lng": 13.846496,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -200,7 +200,7 @@
       "lat": 45.70492,
       "lng": 13.84554,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -221,7 +221,7 @@
       "lat": 46.584129,
       "lng": 16.008947,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -242,7 +242,7 @@
       "lat": 45.9730555555556,
       "lng": 14.625555555555556,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -263,7 +263,7 @@
       "lat": 46.261718,
       "lng": 15.22071,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -284,7 +284,7 @@
       "lat": 46.16606,
       "lng": 14.6896,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -305,7 +305,7 @@
       "lat": 45.854884,
       "lng": 15.684443,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -326,7 +326,7 @@
       "lat": 46.33865,
       "lng": 14.19095,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -347,7 +347,7 @@
       "lat": 46.33934,
       "lng": 14.19201,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
@@ -368,7 +368,7 @@
       "lat": 45.78312588,
       "lng": 14.22304178,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": null,
@@ -389,7 +389,7 @@
       "lat": 45.78536414,
       "lng": 14.22271237,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": null,
@@ -410,7 +410,7 @@
       "lat": 45.917693,
       "lng": 13.721916,
       "prices": {
-        "95": 1.035,
+        "95": 1.029,
         "dizel": 1.039,
         "98": null,
         "100": 1.179,
