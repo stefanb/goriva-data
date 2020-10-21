@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2201,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - JUG",
+      "address": "ZALOKE 16",
+      "lat": 45.908304,
+      "lng": 15.400616,
+      "prices": {
+        "95": 1.019,
+        "dizel": 1.04,
+        "98": null,
+        "100": 1.167,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
+      "pk": 2202,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - SEVER",
+      "address": "ZALOKE 15",
+      "lat": 45.909601,
+      "lng": 15.400316,
+      "prices": {
+        "95": 1.019,
+        "dizel": 1.04,
+        "98": null,
+        "100": 1.167,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
       "pk": 1949,
       "franchise": 1,
       "name": "PETROL PODLEHNIK AC - VZHOD",
@@ -484,48 +526,6 @@
       "distance": null,
       "direction": "Trst",
       "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 804,
-      "franchise": 2,
-      "name": "OMV KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.025,
-        "dizel": 1.029,
-        "98": null,
-        "100": 1.179,
-        "dizel-premium": 1.249,
-        "avtoplin-lpg": 0.587,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 805,
-      "franchise": 2,
-      "name": "OMV KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.538903,
-      "lng": 13.728619,
-      "prices": {
-        "95": 1.025,
-        "dizel": 1.029,
-        "98": null,
-        "100": 1.179,
-        "dizel-premium": 1.249,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6000"
     }
   ],

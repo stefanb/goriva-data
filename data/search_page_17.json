@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 843,
+      "franchise": 2,
+      "name": "OMV POSTOJNA TRŽAŠKA",
+      "address": "Tržaška c. 60b",
+      "lat": 45.772642,
+      "lng": 14.200028,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.019,
+        "98": null,
+        "100": 1.134,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.795
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 846,
+      "franchise": 2,
+      "name": "OMV RAKEK",
+      "address": "Partizanska 73a",
+      "lat": 45.808113,
+      "lng": 14.329101,
+      "prices": {
+        "95": 0.999,
+        "dizel": 1.019,
+        "98": null,
+        "100": 1.134,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.795
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1381"
+    },
+    {
       "pk": 849,
       "franchise": 2,
       "name": "OMV ROŽNA DOLINA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1303"
-    },
-    {
-      "pk": 876,
-      "franchise": 2,
-      "name": "OMV ZGORNJA POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43075,
-      "lng": 15.62705,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.019,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2314"
-    },
-    {
-      "pk": 2236,
-      "franchise": 2,
-      "name": "OMV PTUJ",
-      "address": "Ormoška cesta 32",
-      "lat": 46.41600383,
-      "lng": 15.88503332,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.019,
-        "98": null,
-        "100": 1.134,
-        "dizel-premium": 1.159,
-        "avtoplin-lpg": 0.582,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2250"
     }
   ],
   "position": null
