@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 1947,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - VOJKOVA VZHOD",
+      "address": "VOJKOVA CESTA 51",
+      "lat": 45.962335,
+      "lng": 13.649495,
+      "prices": {
+        "95": 0.976,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.106,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-24:00\r\nsobote 06:00-24:00\r\nnedelje in prazniki 06:00-24:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 2203,
       "franchise": 1,
       "name": "PETROL LOČE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2380"
-    },
-    {
-      "pk": 1960,
-      "franchise": 1,
-      "name": "PETROL MIREN",
-      "address": "MIREN 13D",
-      "lat": 45.898043,
-      "lng": 13.608726,
-      "prices": {
-        "95": 0.976,
-        "dizel": 1.011,
-        "98": null,
-        "100": 1.106,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
-      "zip_code": "5291"
     }
   ],
   "position": null

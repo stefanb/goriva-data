@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2036,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - CELOVŠKA 226",
+      "address": "CELOVŠKA CESTA 226",
+      "lat": 46.081849,
+      "lng": 14.479525,
+      "prices": {
+        "95": 0.976,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.106,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Kranj",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2037,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - RAKOVNIK",
@@ -233,27 +254,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 0.983,
-        "dizel": 1.012,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.791
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2304,
