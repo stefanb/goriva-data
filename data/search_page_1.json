@@ -4,6 +4,48 @@
   "previous": null,
   "results": [
     {
+      "pk": 2297,
+      "franchise": 16,
+      "name": "Agas Maribor",
+      "address": "Perhavčeva ulica 15",
+      "lat": 46.525107,
+      "lng": 15.667885,
+      "prices": {
+        "95": 0.959,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.519,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "Maribor Center",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2299,
+      "franchise": 16,
+      "name": "Agas Slovenska Bistrica",
+      "address": "Žolgarjeva ulica 25",
+      "lat": 46.385204,
+      "lng": 15.576529,
+      "prices": {
+        "95": 0.959,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.519,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "Izvoz Slovenska Bistrica jug",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2310"
+    },
+    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -191,48 +233,6 @@
       "direction": "",
       "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
       "zip_code": "6250"
-    },
-    {
-      "pk": 2297,
-      "franchise": 16,
-      "name": "Agas Maribor",
-      "address": "Perhavčeva ulica 15",
-      "lat": 46.525107,
-      "lng": 15.667885,
-      "prices": {
-        "95": 0.97,
-        "dizel": 1.017,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.519,
-        "KOEL": 0.775
-      },
-      "distance": null,
-      "direction": "Maribor Center",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 0.97,
-        "dizel": 1.017,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.519,
-        "KOEL": 0.775
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2310"
     },
     {
       "pk": 2267,
@@ -508,25 +508,25 @@
       "zip_code": "1261"
     },
     {
-      "pk": 2061,
-      "franchise": 1,
-      "name": "PETROL BLED - LJUBLJANSKA JUG",
-      "address": "LJUBLJANSKA CESTA 30",
-      "lat": 46.36846888,
-      "lng": 14.11723896,
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
       "prices": {
         "95": 0.976,
-        "dizel": 1.011,
+        "dizel": 1.01,
         "98": null,
-        "100": 1.106,
+        "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.794
+        "KOEL": 0.793
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "4260"
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     }
   ],
   "position": null

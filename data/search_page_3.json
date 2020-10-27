@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 2087,
+      "franchise": 1,
+      "name": "PETROL MORAVČE",
+      "address": "PARTIZANSKA CESTA 18",
+      "lat": 46.13700902,
+      "lng": 14.74115067,
+      "prices": {
+        "95": 0.976,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "1251"
+    },
+    {
       "pk": 2090,
       "franchise": 1,
       "name": "PETROL BLAGOVICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
       "zip_code": "4270"
-    },
-    {
-      "pk": 2118,
-      "franchise": 1,
-      "name": "PETROL GABROVKA",
-      "address": "KLANEC PRI GABROVKI 12",
-      "lat": 45.995845,
-      "lng": 14.976083,
-      "prices": {
-        "95": 0.976,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1274"
     }
   ],
   "position": null
