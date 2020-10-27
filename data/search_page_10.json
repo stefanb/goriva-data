@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 1975,
+      "franchise": 1,
+      "name": "PETROL KUZMA",
+      "address": "KUZMA 26B",
+      "lat": 46.83371949,
+      "lng": 16.08249735,
+      "prices": {
+        "95": 0.976,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:30-17:00\r\nsobote 07:30-13:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9263"
+    },
+    {
       "pk": 2233,
       "franchise": 1,
       "name": "PETROL MENGEŠ - KAMNIŠKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1380"
-    },
-    {
-      "pk": 2004,
-      "franchise": 1,
-      "name": "PETROL KOPER - ŠMARSKA",
-      "address": "ŠMARSKA CESTA 5F",
-      "lat": 45.53250448,
-      "lng": 13.73568232,
-      "prices": {
-        "95": 0.976,
-        "dizel": 1.011,
-        "98": null,
-        "100": 1.106,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 06:00-21:00",
-      "zip_code": "6000"
     }
   ],
   "position": null

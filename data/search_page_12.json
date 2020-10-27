@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2037,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - RAKOVNIK",
+      "address": "DOLENJSKA CESTA 136A",
+      "lat": 46.03323598,
+      "lng": 14.52693479,
+      "prices": {
+        "95": 0.976,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.106,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2038,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ŠMARTINSKA 45",
@@ -317,27 +338,6 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 0.985,
-        "dizel": 1.012,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.793
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
     },
     {
       "pk": 2302,

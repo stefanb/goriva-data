@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 2174,
+      "franchise": 1,
+      "name": "PETROL PODČETRTEK",
+      "address": "ZDRAVILIŠKA CESTA 27",
+      "lat": 46.15162206,
+      "lng": 15.59945055,
+      "prices": {
+        "95": 0.976,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.106,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3254"
+    },
+    {
       "pk": 1921,
       "franchise": 1,
       "name": "PETROL MARIBOR - TRŽAŠKA 36",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "2327"
-    },
-    {
-      "pk": 2189,
-      "franchise": 1,
-      "name": "PETROL GORNJI GRAD",
-      "address": "SPODNJI TRG 34",
-      "lat": 46.29907149,
-      "lng": 14.81925704,
-      "prices": {
-        "95": 0.976,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.794
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3342"
     }
   ],
   "position": null

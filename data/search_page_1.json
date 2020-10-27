@@ -235,6 +235,27 @@
       "zip_code": "2310"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 0.974,
+        "dizel": 1.006,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.791
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 2048,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TIVOLSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "1230"
-    },
-    {
-      "pk": 2063,
-      "franchise": 1,
-      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
-      "address": "KOROŠKA CESTA 53B",
-      "lat": 46.247434,
-      "lng": 14.349614,
-      "prices": {
-        "95": 0.976,
-        "dizel": 1.011,
-        "98": null,
-        "100": 1.106,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4000"
     }
   ],
   "position": null
