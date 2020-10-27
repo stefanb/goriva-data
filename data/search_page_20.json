@@ -214,6 +214,27 @@
       "zip_code": "9000"
     },
     {
+      "pk": 2019,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - JUG",
+      "address": "BAKOVSKA ULICA 51",
+      "lat": 46.634461,
+      "lng": 16.164346,
+      "prices": {
+        "95": 1.006,
+        "dizel": 1.034,
+        "98": null,
+        "100": 1.15,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2026,
       "franchise": 1,
       "name": "PETROL LORMANJE AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "Ljubljana",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6000"
-    },
-    {
-      "pk": 863,
-      "franchise": 2,
-      "name": "OMV ŠKOFIJE BLOK VZHOD",
-      "address": "Sp.Škofije 260",
-      "lat": 45.580603,
-      "lng": 13.797535,
-      "prices": {
-        "95": 1.019,
-        "dizel": 1.029,
-        "98": null,
-        "100": 1.179,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.587,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
-      "zip_code": "6281"
     }
   ],
   "position": null
