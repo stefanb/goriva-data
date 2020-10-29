@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 853,
+      "franchise": 2,
+      "name": "OMV SEŽANA",
+      "address": "Partizanska 63a",
+      "lat": 45.705649,
+      "lng": 13.863156,
+      "prices": {
+        "95": 0.986,
+        "dizel": 1.015,
+        "98": null,
+        "100": 1.124,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6210"
+    },
+    {
       "pk": 854,
       "franchise": 2,
       "name": "OMV SLOVENSKA BISTRICA",
@@ -485,27 +506,6 @@
       "direction": "",
       "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
       "zip_code": "2234"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 0.988,
-        "dizel": 1.017,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.796
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 769,
