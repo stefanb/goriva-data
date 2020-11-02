@@ -4,6 +4,132 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1579,
+      "franchise": 4,
+      "name": "BS MOL ŠENTILJ",
+      "address": "MARIBORSKA CESTA 6",
+      "lat": 46.677917,
+      "lng": 15.652583,
+      "prices": {
+        "95": 0.977,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.108,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1580,
+      "franchise": 4,
+      "name": "BS MOL PTUJ",
+      "address": "PUHOVA ULICA 18A",
+      "lat": 46.421507,
+      "lng": 15.88666,
+      "prices": {
+        "95": 0.977,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.108,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2250"
+    },
+    {
+      "pk": 1581,
+      "franchise": 4,
+      "name": "BS MOL ZASAVJE",
+      "address": "ZAVRŠJE 30",
+      "lat": 46.1110129,
+      "lng": 15.0066052,
+      "prices": {
+        "95": 0.977,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.108,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.578,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1582,
+      "franchise": 4,
+      "name": "BS MOL MIKLAVŽ",
+      "address": "PTUJSKA CESTA 135",
+      "lat": 46.496423,
+      "lng": 15.713914,
+      "prices": {
+        "95": 0.977,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.108,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.578,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - pet. 06:00 - 22:00\r\nsobota 07:00 - 21:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2204"
+    },
+    {
+      "pk": 1583,
+      "franchise": 4,
+      "name": "BS MOL DRNOVO",
+      "address": "VELIKA VAS PRI KRŠKEM 69",
+      "lat": 45.920289,
+      "lng": 15.473747,
+      "prices": {
+        "95": 0.977,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.108,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 -20:30\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "8273"
+    },
+    {
+      "pk": 1584,
+      "franchise": 4,
+      "name": "BS MOL ŠMARJE",
+      "address": "CELJSKA CESTA 55",
+      "lat": 46.228855,
+      "lng": 15.504098,
+      "prices": {
+        "95": 0.977,
+        "dizel": 1.011,
+        "98": null,
+        "100": 1.108,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 1585,
       "franchise": 4,
       "name": "BS MOL ARCLIN",
@@ -401,132 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "3332"
-    },
-    {
-      "pk": 2240,
-      "franchise": 3,
-      "name": "BS MAXEN GORNJA RADGONA",
-      "address": "Ljutomerska cesta bš",
-      "lat": 46.6636544,
-      "lng": 16.0091968,
-      "prices": {
-        "95": 0.979,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9250"
-    },
-    {
-      "pk": 2241,
-      "franchise": 3,
-      "name": "BS MAXEN BENEDIKT",
-      "address": "Radgonska cesta bš",
-      "lat": 46.6088,
-      "lng": 15.893144,
-      "prices": {
-        "95": 0.979,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2234"
-    },
-    {
-      "pk": 2242,
-      "franchise": 3,
-      "name": "BS MAXEN ČRNOMELJ",
-      "address": "Ulica heroja Stariha bš",
-      "lat": 45.5729152,
-      "lng": 15.1853056,
-      "prices": {
-        "95": 0.979,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8340"
-    },
-    {
-      "pk": 2243,
-      "franchise": 3,
-      "name": "BS MAXEN GRAD",
-      "address": "Grad bš",
-      "lat": 46.7978208,
-      "lng": 16.0886368,
-      "prices": {
-        "95": 0.979,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9264"
-    },
-    {
-      "pk": 2244,
-      "franchise": 3,
-      "name": "BS MAXEN DOLNJI LAKOŠ",
-      "address": "Glavna ulica bš",
-      "lat": 46.5525523,
-      "lng": 16.430912,
-      "prices": {
-        "95": 0.979,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2245,
-      "franchise": 3,
-      "name": "BS MAXEN SELNICA OB DRAVI",
-      "address": "Spodnja Selnica bš",
-      "lat": 46.5546048,
-      "lng": 15.5078896,
-      "prices": {
-        "95": 0.979,
-        "dizel": 1.011,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2352"
     }
   ],
   "position": null
