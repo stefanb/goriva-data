@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 2193,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA VZHOD",
+      "address": "CELJSKA CESTA 53",
+      "lat": 46.350795,
+      "lng": 15.13198,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.789
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3320"
+    },
+    {
       "pk": 1938,
       "franchise": 1,
       "name": "PETROL POLJČANE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:30-19:00",
       "zip_code": "2390"
-    },
-    {
-      "pk": 1952,
-      "franchise": 1,
-      "name": "PETROL ROŽNA DOLINA",
-      "address": "VIPAVSKA CESTA 3A",
-      "lat": 45.942191,
-      "lng": 13.638451,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.079,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5000"
     }
   ],
   "position": null

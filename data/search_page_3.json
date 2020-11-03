@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 2103,
+      "franchise": 1,
+      "name": "PETROL RAŠICA",
+      "address": "RAŠICA 40",
+      "lat": 45.84949633,
+      "lng": 14.62405548,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.789
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "1315"
+    },
+    {
       "pk": 2104,
       "franchise": 1,
       "name": "PETROL KRANJSKA GORA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 08:00-20:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2130,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ZALOG",
-      "address": "ZALOŠKA CESTA 255",
-      "lat": 46.056932,
-      "lng": 14.601065,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.079,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1260"
     }
   ],
   "position": null

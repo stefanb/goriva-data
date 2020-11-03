@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 2071,
+      "franchise": 1,
+      "name": "PETROL DOMŽALE - ČEŠMINOVA",
+      "address": "ČEŠMINOVA ULICA 1",
+      "lat": 46.146469,
+      "lng": 14.599615,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.079,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": 0.789
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1230"
+    },
+    {
       "pk": 2072,
       "franchise": 1,
       "name": "PETROL MENGEŠ - SLOVENSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-18:00\r\nsobote 06:00-12:00",
       "zip_code": "1420"
-    },
-    {
-      "pk": 2103,
-      "franchise": 1,
-      "name": "PETROL RAŠICA",
-      "address": "RAŠICA 40",
-      "lat": 45.84949633,
-      "lng": 14.62405548,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1315"
     }
   ],
   "position": null

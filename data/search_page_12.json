@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2045,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 101",
+      "address": "ŠMARTINSKA CESTA 101",
+      "lat": 46.066152,
+      "lng": 14.531219,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.079,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2046,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
@@ -338,27 +359,6 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
-    },
-    {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 0.96,
-        "dizel": 0.98,
-        "98": null,
-        "100": 1.106,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.53,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 14:00",
-      "zip_code": "2000"
     },
     {
       "pk": 2302,
