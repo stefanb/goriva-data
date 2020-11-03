@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 795,
+      "franchise": 2,
+      "name": "OMV GROSUPLJE",
+      "address": "Ljubljanska c. 62",
+      "lat": 45.967972,
+      "lng": 14.660767,
+      "prices": {
+        "95": 0.959,
+        "dizel": 0.999,
+        "98": null,
+        "100": 1.099,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.788
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:30",
+      "zip_code": "1290"
+    },
+    {
       "pk": 797,
       "franchise": 2,
       "name": "OMV ILIRSKA BISTRICA BAZOVIŠKA",
@@ -17,7 +38,7 @@
         "100": 1.099,
         "dizel-premium": 1.155,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -59,7 +80,7 @@
         "100": 1.099,
         "dizel-premium": 1.155,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -143,7 +164,7 @@
         "100": 1.099,
         "dizel-premium": 1.155,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -185,7 +206,7 @@
         "100": 1.099,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -248,7 +269,7 @@
         "100": 1.099,
         "dizel-premium": 1.155,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -290,7 +311,7 @@
         "100": 1.099,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -311,7 +332,7 @@
         "100": 1.099,
         "dizel-premium": 1.155,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -437,7 +458,7 @@
         "100": 1.099,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
@@ -500,33 +521,12 @@
         "100": 1.099,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.793
+        "KOEL": 0.788
       },
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6320"
-    },
-    {
-      "pk": 827,
-      "franchise": 2,
-      "name": "OMV LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.554681,
-      "lng": 13.744175,
-      "prices": {
-        "95": 0.959,
-        "dizel": 0.999,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
     }
   ],
   "position": null

@@ -4,6 +4,132 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2253,
+      "franchise": 3,
+      "name": "BS MAXEN LOGATEC",
+      "address": "Tržaška cesta bš",
+      "lat": 45.9388,
+      "lng": 14.2365616,
+      "prices": {
+        "95": 0.979,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 2254,
+      "franchise": 3,
+      "name": "BS MAXEN RIBNICA",
+      "address": "Gorenjska cesta bš",
+      "lat": 45.7490272,
+      "lng": 14.7190224,
+      "prices": {
+        "95": 0.979,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1310"
+    },
+    {
+      "pk": 2255,
+      "franchise": 3,
+      "name": "BS MAXEN NOVO MESTO",
+      "address": "Mirnopeška cesta bš",
+      "lat": 45.8202208,
+      "lng": 15.1490384,
+      "prices": {
+        "95": 0.979,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 2256,
+      "franchise": 3,
+      "name": "BS MAXEN KRANJ",
+      "address": "Cesta Staneta Žagarja bš",
+      "lat": 46.24224,
+      "lng": 14.3774704,
+      "prices": {
+        "95": 0.979,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "4000"
+    },
+    {
+      "pk": 2257,
+      "franchise": 3,
+      "name": "BS MAXEN AJDOVŠČINA",
+      "address": "Vipavska cesta bš",
+      "lat": 45.8809344,
+      "lng": 13.9107888,
+      "prices": {
+        "95": 0.979,
+        "dizel": 1.011,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "5270"
+    },
+    {
+      "pk": 2059,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA AC - BARJE SEVER",
+      "address": "CESTA DVEH CESARJEV 71",
+      "lat": 46.029136,
+      "lng": 14.481739,
+      "prices": {
+        "95": 0.98,
+        "dizel": 1.02,
+        "98": null,
+        "100": 1.123,
+        "dizel-premium": 1.229,
+        "avtoplin-lpg": 0.583,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2060,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE JUG",
@@ -401,132 +527,6 @@
       "direction": "Maribor -> Ljubljana",
       "open_hours": "NON-STOP",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2229,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - JUG",
-      "address": "ZAGRAD PRI OTOČCU 111",
-      "lat": 45.841312,
-      "lng": 15.217206,
-      "prices": {
-        "95": 0.98,
-        "dizel": 1.02,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": 1.229,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8222"
-    },
-    {
-      "pk": 2230,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - SEVER",
-      "address": "ZAGRAD PRI OTOČCU 110",
-      "lat": 45.841967,
-      "lng": 15.216726,
-      "prices": {
-        "95": 0.98,
-        "dizel": 1.02,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": 1.229,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8222"
-    },
-    {
-      "pk": 2231,
-      "franchise": 1,
-      "name": "PETROL DUL AC - JUG",
-      "address": "DOLENJI PODBORŠT PRI TREB. 50",
-      "lat": 45.898858,
-      "lng": 15.026398,
-      "prices": {
-        "95": 0.98,
-        "dizel": 1.02,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": 1.229,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Novo Me",
-      "open_hours": "NON-STOP",
-      "zip_code": "8210"
-    },
-    {
-      "pk": 1976,
-      "franchise": 1,
-      "name": "PETROL GRABONOŠ AC - SEVER",
-      "address": "GRABONOŠ 4D",
-      "lat": 46.585173,
-      "lng": 16.007142,
-      "prices": {
-        "95": 0.98,
-        "dizel": 1.02,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2232,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
-      "prices": {
-        "95": 0.98,
-        "dizel": 1.02,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": 1.229,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2286"
-    },
-    {
-      "pk": 1977,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - AC ZAHOD",
-      "address": "NA POLJU 24",
-      "lat": 46.532935,
-      "lng": 15.699297,
-      "prices": {
-        "95": 0.98,
-        "dizel": 1.02,
-        "98": null,
-        "100": 1.123,
-        "dizel-premium": 1.229,
-        "avtoplin-lpg": 0.583,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
     }
   ],
   "position": null
