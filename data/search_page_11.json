@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2272,
+      "franchise": 1,
+      "name": "PETROL BLED - SELIŠKA",
+      "address": "SELIŠKA CESTA 4C",
+      "lat": 46.370163,
+      "lng": 14.116395,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.079,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 06:00-21:00",
+      "zip_code": "4260"
+    },
+    {
       "pk": 2017,
       "franchise": 1,
       "name": "PETROL DOLGA VAS",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2288,
-      "franchise": 13,
-      "name": "FE_Trading d.o.o. / FE_AVANTI_TRŽIČ",
-      "address": "Cesta Ste Marie aux mines 7",
-      "lat": 46.358642,
-      "lng": 14.298618,
-      "prices": {
-        "95": 0.956,
-        "dizel": 0.985,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "4290"
     }
   ],
   "position": null

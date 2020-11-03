@@ -4,6 +4,27 @@
   "previous": null,
   "results": [
     {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 0.949,
+        "dizel": 0.996,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.793
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
+    },
+    {
       "pk": 2048,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TIVOLSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-20:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:30-18:30",
       "zip_code": "4283"
-    },
-    {
-      "pk": 2074,
-      "franchise": 1,
-      "name": "PETROL KRANJ - LABORE",
-      "address": "LJUBLJANSKA CESTA 23",
-      "lat": 46.229097,
-      "lng": 14.354692,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.079,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.583,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "4000"
     }
   ],
   "position": null

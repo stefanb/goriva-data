@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2222,
+      "franchise": 1,
+      "name": "PETROL KOČEVJE - LJUBLJANSKA VZHOD",
+      "address": "LJUBLJANSKA CESTA 44",
+      "lat": 45.64954924,
+      "lng": 14.85397187,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.079,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.789
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-20:00\r\nsobote 12:30-15:00",
+      "zip_code": "1330"
+    },
+    {
       "pk": 1967,
       "franchise": 1,
       "name": "PETROL KRIŽEVCI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 08:00-16:00",
       "zip_code": "5274"
-    },
-    {
-      "pk": 1988,
-      "franchise": 1,
-      "name": "PETROL DESKLE",
-      "address": "SREBRNIČEVA ULICA 4",
-      "lat": 46.05406598,
-      "lng": 13.61904093,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "5210"
     }
   ],
   "position": null
