@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 1951,
+      "franchise": 1,
+      "name": "PETROL LENART",
+      "address": "KRAIGHERJEVA ULICA 40",
+      "lat": 46.58401138,
+      "lng": 15.84030408,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.079,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": 0.789
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "2230"
+    },
+    {
+      "pk": 2207,
+      "franchise": 1,
+      "name": "PETROL RAVNE NA KOROŠKEM",
+      "address": "KOROŠKA CESTA 4A",
+      "lat": 46.54726828,
+      "lng": 14.96495101,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.079,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.583,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:30-19:00",
+      "zip_code": "2390"
+    },
+    {
       "pk": 1952,
       "franchise": 1,
       "name": "PETROL ROŽNA DOLINA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "3204"
-    },
-    {
-      "pk": 1964,
-      "franchise": 1,
-      "name": "PETROL DOLNJI LAKOŠ",
-      "address": "GLAVNA ULICA 3",
-      "lat": 46.55372124,
-      "lng": 16.44233518,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2220,
-      "franchise": 1,
-      "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
-      "address": "LJUBLJANSKA CESTA 69A",
-      "lat": 45.64870304,
-      "lng": 14.85374303,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.079,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.583,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1330"
     }
   ],
   "position": null

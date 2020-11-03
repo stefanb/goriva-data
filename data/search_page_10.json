@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 1983,
+      "franchise": 1,
+      "name": "PETROL GOLO BRDO V BRDIH",
+      "address": "GOLO BRDO 10B",
+      "lat": 46.054388,
+      "lng": 13.497915,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5212"
+    },
+    {
+      "pk": 1984,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
+      "address": "VOJKOVA CESTA 52",
+      "lat": 45.96223076,
+      "lng": 13.64898236,
+      "prices": {
+        "95": 0.95,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.079,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 1985,
       "franchise": 1,
       "name": "PETROL ŠEMPAS",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-15:00\r\nsobote 07:00-15:00",
       "zip_code": "2250"
-    },
-    {
-      "pk": 2012,
-      "franchise": 1,
-      "name": "PETROL HAJDOŠE",
-      "address": "HAJDOŠE 43D",
-      "lat": 46.42559375,
-      "lng": 15.82734335,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00",
-      "zip_code": "2288"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 0.95,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.079,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     }
   ],
   "position": null

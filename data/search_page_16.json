@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2302,
+      "franchise": 19,
+      "name": "Bencinski servis Brezovica",
+      "address": "Tržaška cesta 358",
+      "lat": 46.026026,
+      "lng": 14.4284534,
+      "prices": {
+        "95": 0.96,
+        "dizel": 0.998,
+        "98": null,
+        "100": 1.11,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.792
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.30",
+      "zip_code": "1351"
+    },
+    {
       "pk": 2303,
       "franchise": 19,
       "name": "Bencinski servis Tupaliče",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA  07:00 - 22:00\r\nPRAZNIKI 08:00 - 20:00",
       "zip_code": "2311"
-    },
-    {
-      "pk": 1565,
-      "franchise": 4,
-      "name": "BS MOL NOVO MESTO",
-      "address": "MIRNOPEŠKA CESTA 4",
-      "lat": 45.8211663,
-      "lng": 15.1506657,
-      "prices": {
-        "95": 0.977,
-        "dizel": 1.011,
-        "98": null,
-        "100": 1.108,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "8000"
     }
   ],
   "position": null
