@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2204,
-      "franchise": 1,
-      "name": "PETROL CELJE - CITY CENTER",
-      "address": "BEŽIGRAJSKA CESTA 1",
-      "lat": 46.24034,
-      "lng": 15.278699,
-      "prices": {
-        "95": 0.952,
-        "dizel": 1.003,
-        "98": null,
-        "100": 1.101,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 08:00-21:00\r\nnedelje in prazniki 09:00-15:00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 2205,
       "franchise": 1,
       "name": "PETROL NAZARJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "3220"
+    },
+    {
+      "pk": 1962,
+      "franchise": 1,
+      "name": "PETROL LENDAVA",
+      "address": "KOLODVORSKA ULICA 8A",
+      "lat": 46.55996722,
+      "lng": 16.44790177,
+      "prices": {
+        "95": 0.952,
+        "dizel": 1.003,
+        "98": null,
+        "100": 1.101,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": 0.795
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "9220"
     }
   ],
   "position": null
