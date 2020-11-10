@@ -4,6 +4,90 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 2084,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 58B",
+      "address": "CESTA STANETA ŽAGARJA 58B",
+      "lat": 46.24334118,
+      "lng": 14.36914271,
+      "prices": {
+        "95": 0.952,
+        "dizel": 1.003,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.795
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-13:00",
+      "zip_code": "4000"
+    },
+    {
+      "pk": 1573,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "BAKOVSKA 31/A",
+      "lat": 46.645667,
+      "lng": 16.168083,
+      "prices": {
+        "95": 0.952,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.099,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 21:00\r\nnedelja in prazniki 08:00 - 16:00",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2085,
+      "franchise": 1,
+      "name": "PETROL PODKOREN",
+      "address": "PODKOREN 1A",
+      "lat": 46.4896618,
+      "lng": 13.76471293,
+      "prices": {
+        "95": 0.952,
+        "dizel": 1.003,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 13:00-16:00",
+      "zip_code": "4280"
+    },
+    {
+      "pk": 1574,
+      "franchise": 4,
+      "name": "BS MOL KOČEVJE",
+      "address": "REŠKA CESTA 25/A",
+      "lat": 45.632833,
+      "lng": 14.864267,
+      "prices": {
+        "95": 0.952,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.099,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1330"
+    },
+    {
       "pk": 2086,
       "franchise": 1,
       "name": "PETROL NAKLO",
@@ -443,90 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "1295"
-    },
-    {
-      "pk": 1587,
-      "franchise": 4,
-      "name": "BS MOL LETUŠ",
-      "address": "LETUŠ 11 D",
-      "lat": 46.311732,
-      "lng": 15.026208,
-      "prices": {
-        "95": 0.952,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.099,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "3327"
-    },
-    {
-      "pk": 2099,
-      "franchise": 1,
-      "name": "PETROL ŠENČUR",
-      "address": "POSLOVNA CONA A 1",
-      "lat": 46.237904,
-      "lng": 14.411983,
-      "prices": {
-        "95": 0.952,
-        "dizel": 1.003,
-        "98": null,
-        "100": 1.101,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 05:30-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 1588,
-      "franchise": 4,
-      "name": "BS MOL SENOŽETI",
-      "address": "SENOŽETI 93",
-      "lat": 46.088644,
-      "lng": 14.716823,
-      "prices": {
-        "95": 0.952,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.099,
-        "dizel-premium": 1.137,
-        "avtoplin-lpg": null,
-        "KOEL": 0.789
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
-      "pk": 1589,
-      "franchise": 4,
-      "name": "BS MOL BTC",
-      "address": "LETALIŠKA CESTA 24",
-      "lat": 46.061644,
-      "lng": 14.564443,
-      "prices": {
-        "95": 0.952,
-        "dizel": 0.997,
-        "98": null,
-        "100": 1.099,
-        "dizel-premium": 1.137,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 06:00-22:00\r\nSOBOTA    07:00-22:00\r\nNEDELJA    08:00-20:00",
-      "zip_code": "1000"
     }
   ],
   "position": null

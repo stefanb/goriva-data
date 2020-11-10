@@ -4,6 +4,90 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 1587,
+      "franchise": 4,
+      "name": "BS MOL LETUŠ",
+      "address": "LETUŠ 11 D",
+      "lat": 46.311732,
+      "lng": 15.026208,
+      "prices": {
+        "95": 0.952,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.099,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.789
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3327"
+    },
+    {
+      "pk": 2099,
+      "franchise": 1,
+      "name": "PETROL ŠENČUR",
+      "address": "POSLOVNA CONA A 1",
+      "lat": 46.237904,
+      "lng": 14.411983,
+      "prices": {
+        "95": 0.952,
+        "dizel": 1.003,
+        "98": null,
+        "100": 1.101,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.795
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 05:30-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "4208"
+    },
+    {
+      "pk": 1588,
+      "franchise": 4,
+      "name": "BS MOL SENOŽETI",
+      "address": "SENOŽETI 93",
+      "lat": 46.088644,
+      "lng": 14.716823,
+      "prices": {
+        "95": 0.952,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.099,
+        "dizel-premium": 1.137,
+        "avtoplin-lpg": null,
+        "KOEL": 0.789
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1589,
+      "franchise": 4,
+      "name": "BS MOL BTC",
+      "address": "LETALIŠKA CESTA 24",
+      "lat": 46.061644,
+      "lng": 14.564443,
+      "prices": {
+        "95": 0.952,
+        "dizel": 0.997,
+        "98": null,
+        "100": 1.099,
+        "dizel-premium": 1.137,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 06:00-22:00\r\nSOBOTA    07:00-22:00\r\nNEDELJA    08:00-20:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 1590,
       "franchise": 4,
       "name": "BS MOL RUDNIK",
@@ -443,90 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "1274"
-    },
-    {
-      "pk": 2119,
-      "franchise": 1,
-      "name": "PETROL GROSUPLJE",
-      "address": "LJUBLJANSKA CESTA 16A",
-      "lat": 45.958264,
-      "lng": 14.657955,
-      "prices": {
-        "95": 0.952,
-        "dizel": 1.003,
-        "98": null,
-        "100": 1.101,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 07:00-13:00",
-      "zip_code": "1290"
-    },
-    {
-      "pk": 2121,
-      "franchise": 1,
-      "name": "PETROL KAMNIK - PEROVO",
-      "address": "PEROVO 24",
-      "lat": 46.20908766,
-      "lng": 14.60717566,
-      "prices": {
-        "95": 0.952,
-        "dizel": 1.003,
-        "98": null,
-        "100": 1.101,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1241"
-    },
-    {
-      "pk": 2122,
-      "franchise": 1,
-      "name": "PETROL ŠKOFJA LOKA - KIDRIČEVA JUG",
-      "address": "KIDRIČEVA CESTA 8",
-      "lat": 46.16681875,
-      "lng": 14.31398429,
-      "prices": {
-        "95": 0.952,
-        "dizel": 1.003,
-        "98": null,
-        "100": 1.101,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 22:00-24:00",
-      "zip_code": "4220"
-    },
-    {
-      "pk": 2124,
-      "franchise": 1,
-      "name": "PETROL BOROVNICA",
-      "address": "LJUBLJANSKA CESTA 10",
-      "lat": 45.92154962,
-      "lng": 14.3602911,
-      "prices": {
-        "95": 0.952,
-        "dizel": 1.003,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-20:30\r\nsobote 06:30-20:30\r\nnedelje in prazniki 08:00-15:00",
-      "zip_code": "1353"
     }
   ],
   "position": null
