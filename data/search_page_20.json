@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 1945,
-      "franchise": 1,
-      "name": "PETROL ŠENTILJ AC - VZHOD",
-      "address": "CESTA 2. JULIJA 22",
-      "lat": 46.6859127,
-      "lng": 15.65055471,
-      "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
-        "98": null,
-        "100": 1.151,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2212"
-    },
-    {
-      "pk": 2201,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - JUG",
-      "address": "ZALOKE 16",
-      "lat": 45.908304,
-      "lng": 15.400616,
-      "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
-        "98": null,
-        "100": 1.151,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8274"
-    },
-    {
       "pk": 2202,
       "franchise": 1,
       "name": "PETROL ZALOKE AC - SEVER",
@@ -527,6 +485,48 @@
       "direction": "Portorož",
       "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 805,
+      "franchise": 2,
+      "name": "OMV KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.538903,
+      "lng": 13.728619,
+      "prices": {
+        "95": 0.988,
+        "dizel": 1.025,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": 1.245,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 863,
+      "franchise": 2,
+      "name": "OMV ŠKOFIJE BLOK VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 0.988,
+        "dizel": 1.025,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.599,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
     }
   ],
   "position": null
