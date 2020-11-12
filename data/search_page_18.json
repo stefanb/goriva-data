@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 869,
+      "franchise": 2,
+      "name": "OMV TREBNJE",
+      "address": "Obrtniška 28",
+      "lat": 45.910462,
+      "lng": 15.025649,
+      "prices": {
+        "95": 0.959,
+        "dizel": 1.004,
+        "98": null,
+        "100": 1.109,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.794
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8210"
+    },
+    {
+      "pk": 870,
+      "franchise": 2,
+      "name": "OMV VELENJE GORENJE",
+      "address": "Partizanska c. 15a",
+      "lat": 46.359472,
+      "lng": 15.099174,
+      "prices": {
+        "95": 0.959,
+        "dizel": 1.004,
+        "98": null,
+        "100": 1.109,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:30",
+      "zip_code": "3320"
+    },
+    {
       "pk": 871,
       "franchise": 2,
       "name": "OMV VELENJE SELO",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "3320"
-    },
-    {
-      "pk": 2253,
-      "franchise": 3,
-      "name": "BS MAXEN LOGATEC",
-      "address": "Tržaška cesta bš",
-      "lat": 45.9388,
-      "lng": 14.2365616,
-      "prices": {
-        "95": 0.959,
-        "dizel": 1.004,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2254,
-      "franchise": 3,
-      "name": "BS MAXEN RIBNICA",
-      "address": "Gorenjska cesta bš",
-      "lat": 45.7490272,
-      "lng": 14.7190224,
-      "prices": {
-        "95": 0.959,
-        "dizel": 1.004,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1310"
     }
   ],
   "position": null
