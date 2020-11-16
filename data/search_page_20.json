@@ -4,6 +4,90 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2176,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - VZHOD",
+      "address": "SPODNJE GRUŠOVJE 10B",
+      "lat": 46.347484,
+      "lng": 15.48757,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.053,
+        "98": null,
+        "100": 1.172,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
+    },
+    {
+      "pk": 1923,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ AC - ZAHOD",
+      "address": "CESTA 2. JULIJA 19",
+      "lat": 46.68509786,
+      "lng": 15.64986497,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.053,
+        "98": null,
+        "100": 1.172,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2212"
+    },
+    {
+      "pk": 1945,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ AC - VZHOD",
+      "address": "CESTA 2. JULIJA 22",
+      "lat": 46.6859127,
+      "lng": 15.65055471,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.053,
+        "98": null,
+        "100": 1.172,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2212"
+    },
+    {
+      "pk": 2201,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - JUG",
+      "address": "ZALOKE 16",
+      "lat": 45.908304,
+      "lng": 15.400616,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.053,
+        "98": null,
+        "100": 1.172,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
       "pk": 2202,
       "franchise": 1,
       "name": "PETROL ZALOKE AC - SEVER",
@@ -11,10 +95,10 @@
       "lat": 45.909601,
       "lng": 15.400316,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": 0.598,
         "KOEL": null
@@ -32,11 +116,11 @@
       "lat": 46.326604,
       "lng": 15.880214,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -53,11 +137,11 @@
       "lat": 46.262458,
       "lng": 15.222118,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -74,11 +158,11 @@
       "lat": 45.841312,
       "lng": 15.217206,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -95,11 +179,11 @@
       "lat": 45.841967,
       "lng": 15.216726,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -116,11 +200,11 @@
       "lat": 45.898858,
       "lng": 15.026398,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -137,10 +221,10 @@
       "lat": 46.585173,
       "lng": 16.007142,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": 0.598,
         "KOEL": null
@@ -158,11 +242,11 @@
       "lat": 46.329098,
       "lng": 15.878359,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -179,11 +263,11 @@
       "lat": 46.532935,
       "lng": 15.699297,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -200,11 +284,11 @@
       "lat": 46.531265,
       "lng": 15.701209,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -221,10 +305,10 @@
       "lat": 45.920547,
       "lng": 13.628483,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -242,11 +326,11 @@
       "lat": 45.91934,
       "lng": 13.627636,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -256,27 +340,6 @@
       "zip_code": "5290"
     },
     {
-      "pk": 2008,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS AC - JUG",
-      "address": "ŠEMPAS 160C",
-      "lat": 45.917,
-      "lng": 13.719403,
-      "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
-        "98": null,
-        "100": 1.151,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5261"
-    },
-    {
       "pk": 2009,
       "franchise": 1,
       "name": "PETROL KOZINA AC - VZHOD",
@@ -284,11 +347,11 @@
       "lat": 45.60515,
       "lng": 13.928699,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -305,10 +368,10 @@
       "lat": 46.635944,
       "lng": 16.166272,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": 0.598,
         "KOEL": null
@@ -326,10 +389,10 @@
       "lat": 46.634461,
       "lng": 16.164346,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -347,10 +410,10 @@
       "lat": 46.564825,
       "lng": 15.826899,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": 0.598,
         "KOEL": null
@@ -368,10 +431,10 @@
       "lat": 46.52174721,
       "lng": 16.51820014,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": 0.598,
         "KOEL": null
@@ -389,10 +452,10 @@
       "lat": 45.703393,
       "lng": 13.940151,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": 0.598,
         "KOEL": null
@@ -410,10 +473,10 @@
       "lat": 45.703632,
       "lng": 13.941688,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
+        "100": 1.172,
         "dizel-premium": null,
         "avtoplin-lpg": 0.598,
         "KOEL": null
@@ -431,11 +494,11 @@
       "lat": 45.829264,
       "lng": 13.958807,
       "prices": {
-        "95": 0.982,
-        "dizel": 1.026,
+        "95": 1.005,
+        "dizel": 1.053,
         "98": null,
-        "100": 1.151,
-        "dizel-premium": 1.243,
+        "100": 1.172,
+        "dizel-premium": 1.267,
         "avtoplin-lpg": 0.598,
         "KOEL": null
       },
@@ -443,69 +506,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "5271"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 0.989,
-        "dizel": 1.026,
-        "98": null,
-        "100": 1.155,
-        "dizel-premium": 1.245,
-        "avtoplin-lpg": 0.583,
-        "KOEL": 0.965
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 0.989,
-        "dizel": 1.026,
-        "98": null,
-        "100": 1.155,
-        "dizel-premium": 1.245,
-        "avtoplin-lpg": 0.575,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "Zibis d.o.o.",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1,
-        "dizel": 1,
-        "98": 1.124,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.807
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
-      "zip_code": "2283"
     },
     {
       "pk": 768,
