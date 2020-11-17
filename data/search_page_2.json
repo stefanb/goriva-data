@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 1558,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA",
-      "address": "LENDAVSKA ULICA 75",
-      "lat": 46.6676096,
-      "lng": 16.1767565,
-      "prices": {
-        "95": 0.955,
-        "dizel": 1.003,
-        "98": null,
-        "100": 1.105,
-        "dizel-premium": 1.149,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "9000"
-    },
-    {
       "pk": 1560,
       "franchise": 4,
       "name": "BS MOL ROŽNA DOLINA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1585,
+      "franchise": 4,
+      "name": "BS MOL ARCLIN",
+      "address": "ARCLIN 101",
+      "lat": 46.278837,
+      "lng": 15.300182,
+      "prices": {
+        "95": 0.955,
+        "dizel": 1.003,
+        "98": null,
+        "100": 1.105,
+        "dizel-premium": 1.149,
+        "avtoplin-lpg": null,
+        "KOEL": 0.795
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA  08:00-20:00\r\nPRAZNIKI 08:00-20:00",
+      "zip_code": "3211"
     }
   ],
   "position": null
