@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2022,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ZAGREBŠKA",
-      "address": "ZAGREBŠKA CESTA 49B",
-      "lat": 46.40705215,
-      "lng": 15.866315,
-      "prices": {
-        "95": 0.975,
-        "dizel": 1.029,
-        "98": null,
-        "100": 1.122,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.824
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2023,
       "franchise": 1,
       "name": "PETROL MARIBOR - PUHOVA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "3250"
+    },
+    {
+      "pk": 1550,
+      "franchise": 4,
+      "name": "BS MOL CELJE, KIDRIČEVA",
+      "address": "KIDRIČEVA ULICA 40",
+      "lat": 46.234044,
+      "lng": 15.2961655,
+      "prices": {
+        "95": 0.978,
+        "dizel": 1.029,
+        "98": null,
+        "100": 1.126,
+        "dizel-premium": 1.175,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 05:00 - 22:00\r\nSOBOTA 05:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3000"
     }
   ],
   "position": null
