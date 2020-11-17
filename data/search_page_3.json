@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1586,
-      "franchise": 4,
-      "name": "BS MOL TRBOVLJE",
-      "address": "VODENSKA CESTA 28A",
-      "lat": 46.142862,
-      "lng": 15.036079,
-      "prices": {
-        "95": 0.955,
-        "dizel": 1.003,
-        "98": null,
-        "100": 1.105,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.795
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 1587,
       "franchise": 4,
       "name": "BS MOL LETUŠ",
@@ -401,6 +380,27 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.30 - 17.30\r\ntorek:          6.30 - 17.30\r\nsreda:          6.30 - 17.30\r\nčetrtek:        6.30 - 17.30\r\npetek:          6.30 - 17.30\r\nsobota:        6.30 - 17.30\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
       "zip_code": "9201"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 0.973,
+        "dizel": 1.024,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.791
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     },
     {
       "pk": 2048,
