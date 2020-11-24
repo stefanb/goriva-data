@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 2063,
+      "franchise": 1,
+      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
+      "address": "KOROŠKA CESTA 53B",
+      "lat": 46.247434,
+      "lng": 14.349614,
+      "prices": {
+        "95": 0.967,
+        "dizel": 1.034,
+        "98": null,
+        "100": 1.113,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2064,
       "franchise": 1,
       "name": "PETROL LITIJA - LJUBLJANSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 10:30-13:00",
       "zip_code": "1223"
-    },
-    {
-      "pk": 2091,
-      "franchise": 1,
-      "name": "PETROL BOHINJSKA BISTRICA",
-      "address": "SAVSKA CESTA 22",
-      "lat": 46.27794883,
-      "lng": 13.9514971,
-      "prices": {
-        "95": 0.967,
-        "dizel": 1.034,
-        "98": null,
-        "100": 1.113,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.828
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "4264"
     }
   ],
   "position": null
