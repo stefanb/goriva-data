@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1587,
+      "franchise": 4,
+      "name": "BS MOL LETUŠ",
+      "address": "LETUŠ 11 D",
+      "lat": 46.311732,
+      "lng": 15.026208,
+      "prices": {
+        "95": 0.971,
+        "dizel": 1.034,
+        "98": null,
+        "100": 1.119,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.829
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3327"
+    },
+    {
       "pk": 1588,
       "franchise": 4,
       "name": "BS MOL SENOŽETI",
@@ -369,7 +390,7 @@
       "lng": 15.385325730057207,
       "prices": {
         "95": 0.975,
-        "dizel": 1.029,
+        "dizel": 1.034,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -422,27 +443,6 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.30 - 17.30\r\ntorek:          6.30 - 17.30\r\nsreda:          6.30 - 17.30\r\nčetrtek:        6.30 - 17.30\r\npetek:          6.30 - 17.30\r\nsobota:        6.30 - 17.30\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
       "zip_code": "9201"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 0.975,
-        "dizel": 1.029,
-        "98": null,
-        "100": 1.122,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.824
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2302,
