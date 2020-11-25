@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 773,
+      "franchise": 2,
+      "name": "OMV CELJE EMO",
+      "address": "Mariborska c. 84",
+      "lat": 46.23923,
+      "lng": 15.27456,
+      "prices": {
+        "95": 0.974,
+        "dizel": 1.039,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.827
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
+      "zip_code": "3000"
+    },
+    {
       "pk": 774,
       "franchise": 2,
       "name": "OMV CELJE MEDLOG",
@@ -506,27 +527,6 @@
       "direction": "Koper",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Maj: Pon-Ned 07:00-21:00; Jun-Sep: Pon-Ned 07:00-22:00",
       "zip_code": "6280"
-    },
-    {
-      "pk": 813,
-      "franchise": 2,
-      "name": "OMV LESCE",
-      "address": "Hraška c. 17",
-      "lat": 46.365369,
-      "lng": 14.16032,
-      "prices": {
-        "95": 0.974,
-        "dizel": 1.039,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4248"
     }
   ],
   "position": null

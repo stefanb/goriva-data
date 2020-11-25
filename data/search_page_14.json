@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1580,
+      "franchise": 4,
+      "name": "BS MOL PTUJ",
+      "address": "PUHOVA ULICA 18A",
+      "lat": 46.421507,
+      "lng": 15.88666,
+      "prices": {
+        "95": 0.971,
+        "dizel": 1.034,
+        "98": null,
+        "100": 1.119,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2250"
+    },
+    {
       "pk": 1581,
       "franchise": 4,
       "name": "BS MOL ZASAVJE",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 773,
-      "franchise": 2,
-      "name": "OMV CELJE EMO",
-      "address": "Mariborska c. 84",
-      "lat": 46.23923,
-      "lng": 15.27456,
-      "prices": {
-        "95": 0.974,
-        "dizel": 1.039,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.827
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
       "zip_code": "3000"
     }
   ],

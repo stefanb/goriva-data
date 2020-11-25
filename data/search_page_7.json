@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 2185,
+      "franchise": 1,
+      "name": "PETROL PLANINA",
+      "address": "PLANINA PRI SEVNICI 65H",
+      "lat": 46.09842192,
+      "lng": 15.39765344,
+      "prices": {
+        "95": 0.967,
+        "dizel": 1.034,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.828
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
+      "zip_code": "3225"
+    },
+    {
       "pk": 1930,
       "franchise": 1,
       "name": "PETROL MARIBOR - PTUJSKA 111",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "3310"
-    },
-    {
-      "pk": 1942,
-      "franchise": 1,
-      "name": "PETROL SELNICA OB DRAVI",
-      "address": "MARIBORSKA CESTA 46",
-      "lat": 46.54934191,
-      "lng": 15.4860149,
-      "prices": {
-        "95": 0.967,
-        "dizel": 1.034,
-        "98": null,
-        "100": 1.113,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.828
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2352"
     }
   ],
   "position": null

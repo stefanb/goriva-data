@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 813,
+      "franchise": 2,
+      "name": "OMV LESCE",
+      "address": "Hraška c. 17",
+      "lat": 46.365369,
+      "lng": 14.16032,
+      "prices": {
+        "95": 0.974,
+        "dizel": 1.039,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4248"
+    },
+    {
       "pk": 814,
       "franchise": 2,
       "name": "OMV LIPOVCI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-14:00; Apr-Maj: Pon-Sob 06:00-20:00, Ned/Praz 08:00-15:00; Jun-Sep: Pon-Sob 6:00-21:00, Ned/Praz 7:00-21:00",
       "zip_code": "6244"
-    },
-    {
-      "pk": 841,
-      "franchise": 2,
-      "name": "OMV PORTOROŽ",
-      "address": "Fizine 17",
-      "lat": 45.515177,
-      "lng": 13.580759,
-      "prices": {
-        "95": 0.974,
-        "dizel": 1.039,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": 1.189,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6320"
     }
   ],
   "position": null
