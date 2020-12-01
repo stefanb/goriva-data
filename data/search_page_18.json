@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2036,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - CELOVŠKA 226",
-      "address": "CELOVŠKA CESTA 226",
-      "lat": 46.081849,
-      "lng": 14.479525,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Kranj",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2037,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RAKOVNIK",
-      "address": "DOLENJSKA CESTA 136A",
-      "lat": 46.03323598,
-      "lng": 14.52693479,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2038,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ŠMARTINSKA 45",
@@ -214,6 +172,27 @@
       "zip_code": "1000"
     },
     {
+      "pk": 766,
+      "franchise": 2,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.064,
+        "98": null,
+        "100": 1.149,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 2046,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
@@ -233,6 +212,27 @@
       "direction": "Ljubljana -> Koper",
       "open_hours": "vsak delavnik 05:00-23:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 767,
+      "franchise": 2,
+      "name": "OMV BENEDIKT",
+      "address": "Radgonska c. 15",
+      "lat": 46.61068,
+      "lng": 15.89416,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.064,
+        "98": null,
+        "100": 1.149,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.854
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
+      "zip_code": "2234"
     },
     {
       "pk": 2047,

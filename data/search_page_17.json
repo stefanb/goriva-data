@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2003,
-      "franchise": 1,
-      "name": "PETROL CERKNICA",
-      "address": "CESTA 4. MAJA 3A",
-      "lat": 45.78853568,
-      "lng": 14.36984285,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": 0.855
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1380"
-    },
-    {
-      "pk": 2004,
-      "franchise": 1,
-      "name": "PETROL KOPER - ŠMARSKA",
-      "address": "ŠMARSKA CESTA 5F",
-      "lat": 45.53250448,
-      "lng": 13.73568232,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 2005,
-      "franchise": 1,
-      "name": "PETROL IZOLA, INDUSTRIJSKA",
-      "address": "INDUSTRIJSKA CESTA 9B",
-      "lat": 45.535631,
-      "lng": 13.671735,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 2006,
       "franchise": 1,
       "name": "PETROL HRPELJE",
@@ -233,6 +170,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2271,
+      "franchise": 2,
+      "name": "OMV MARIBOR STUDENCI",
+      "address": "Ulica heroja Šercerja 60",
+      "lat": 46.548645,
+      "lng": 15.620617,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.064,
+        "98": null,
+        "100": 1.149,
+        "dizel-premium": 1.209,
+        "avtoplin-lpg": 0.597,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Pet 05:00-22:00; Sob, Ned, Praz. 06:00-22:00",
+      "zip_code": "2000"
     },
     {
       "pk": 2016,
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-16:00\r\nsobote 08:00-16:00\r\nnedelje in prazniki 08:00-16:00",
       "zip_code": "6310"
+    },
+    {
+      "pk": 2036,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - CELOVŠKA 226",
+      "address": "CELOVŠKA CESTA 226",
+      "lat": 46.081849,
+      "lng": 14.479525,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Kranj",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2037,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - RAKOVNIK",
+      "address": "DOLENJSKA CESTA 136A",
+      "lat": 46.03323598,
+      "lng": 14.52693479,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1000"
     }
   ],
   "position": null

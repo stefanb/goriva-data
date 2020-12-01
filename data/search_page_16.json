@@ -4,90 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 1974,
-      "franchise": 1,
-      "name": "PETROL CANKOVA",
-      "address": "CANKOVA 35",
-      "lat": 46.71906544,
-      "lng": 16.02095244,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.855
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-13:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "9261"
-    },
-    {
-      "pk": 1975,
-      "franchise": 1,
-      "name": "PETROL KUZMA",
-      "address": "KUZMA 26B",
-      "lat": 46.83371949,
-      "lng": 16.08249735,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.855
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:30-17:00\r\nsobote 07:30-13:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "9263"
-    },
-    {
-      "pk": 2233,
-      "franchise": 1,
-      "name": "PETROL MENGEŠ - KAMNIŠKA",
-      "address": "KAMNIŠKA CESTA 60",
-      "lat": 46.172911,
-      "lng": 14.577254,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 05:00-21:00\r\nnedelje in prazniki 06:00-21:00",
-      "zip_code": "1234"
-    },
-    {
-      "pk": 1979,
-      "franchise": 1,
-      "name": "PETROL VUČJA VAS",
-      "address": "BUČEČOVCI 4B",
-      "lat": 46.591207,
-      "lng": 16.10787,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.855
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "9242"
-    },
-    {
       "pk": 1980,
       "franchise": 1,
       "name": "PETROL DORNBERK",
@@ -107,6 +23,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "5294"
+    },
+    {
+      "pk": 2236,
+      "franchise": 2,
+      "name": "OMV PTUJ",
+      "address": "Ormoška cesta 32",
+      "lat": 46.41600383,
+      "lng": 15.88503332,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.064,
+        "98": null,
+        "100": 1.149,
+        "dizel-premium": 1.209,
+        "avtoplin-lpg": 0.597,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2250"
     },
     {
       "pk": 1981,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 09:00-18:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 2003,
+      "franchise": 1,
+      "name": "PETROL CERKNICA",
+      "address": "CESTA 4. MAJA 3A",
+      "lat": 45.78853568,
+      "lng": 14.36984285,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": 0.855
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1380"
+    },
+    {
+      "pk": 2004,
+      "franchise": 1,
+      "name": "PETROL KOPER - ŠMARSKA",
+      "address": "ŠMARSKA CESTA 5F",
+      "lat": 45.53250448,
+      "lng": 13.73568232,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 2005,
+      "franchise": 1,
+      "name": "PETROL IZOLA, INDUSTRIJSKA",
+      "address": "INDUSTRIJSKA CESTA 9B",
+      "lat": 45.535631,
+      "lng": 13.671735,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "6310"
     }
   ],
   "position": null
