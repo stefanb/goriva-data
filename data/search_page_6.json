@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2080,
-      "franchise": 1,
-      "name": "PETROL ŠKOFJA LOKA - TRATA",
-      "address": "KIDRIČEVA CESTA 57A",
-      "lat": 46.17302892,
-      "lng": 14.33101817,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": 0.855
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-14:00",
-      "zip_code": "4220"
-    },
-    {
       "pk": 801,
       "franchise": 2,
       "name": "OMV KOČEVJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "1270"
+    },
+    {
+      "pk": 816,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA LETALIŠKA",
+      "address": "Letališka c. 33b",
+      "lat": 46.062474,
+      "lng": 14.570349,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.064,
+        "98": null,
+        "100": 1.149,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 06:00-22:00, Sob 08:00-20:00, Ned/Praz. zaprto",
+      "zip_code": "1000"
     }
   ],
   "position": null

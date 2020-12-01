@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 2049,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ŠMARTINSKA 150",
-      "address": "ŠMARTINSKA CESTA 150",
-      "lat": 46.06921194,
-      "lng": 14.54248084,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.06,
-        "98": null,
-        "100": 1.132,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.855
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 770,
       "franchise": 2,
       "name": "OMV BREZOVICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
       "zip_code": "6221"
+    },
+    {
+      "pk": 2063,
+      "franchise": 1,
+      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
+      "address": "KOROŠKA CESTA 53B",
+      "lat": 46.247434,
+      "lng": 14.349614,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4000"
     }
   ],
   "position": null
