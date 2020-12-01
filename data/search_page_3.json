@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1575,
-      "franchise": 4,
-      "name": "BS MOL OTIŠKI VRH",
-      "address": "OTIŠKI VRH 52",
-      "lat": 46.5695,
-      "lng": 15.036667,
-      "prices": {
-        "95": 0.989,
-        "dizel": 1.057,
-        "98": null,
-        "100": 1.139,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - pet 05:00 - 23:00\r\nsobota 06:00 - 22:00\r\nnedelja in prazniki 07:00 - 22:00",
-      "zip_code": "2373"
-    },
-    {
-      "pk": 1576,
-      "franchise": 4,
-      "name": "BS MOL POBREŽJE MARIBOR",
-      "address": "ULICA VELJKA VLAHOVIČA 8",
-      "lat": 46.546333,
-      "lng": 15.674833,
-      "prices": {
-        "95": 0.989,
-        "dizel": 1.057,
-        "98": null,
-        "100": 1.139,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1577,
-      "franchise": 4,
-      "name": "BS MOL PRESTRANEK",
-      "address": "REŠKA CESTA 18/B",
-      "lat": 45.728,
-      "lng": 14.188,
-      "prices": {
-        "95": 0.989,
-        "dizel": 1.057,
-        "98": null,
-        "100": 1.139,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 06:00 - 22:00",
-      "zip_code": "6258"
-    },
-    {
       "pk": 1578,
       "franchise": 4,
       "name": "BS MOL LJUTOMER",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
       "zip_code": "2360"
+    },
+    {
+      "pk": 2287,
+      "franchise": 4,
+      "name": "BS MOL LAŠKO",
+      "address": "Celjska cesta 2",
+      "lat": 46.162431,
+      "lng": 15.23171,
+      "prices": {
+        "95": 0.989,
+        "dizel": 1.057,
+        "98": null,
+        "100": 1.139,
+        "dizel-premium": 1.202,
+        "avtoplin-lpg": null,
+        "KOEL": 0.854
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
+      "zip_code": "3270"
+    },
+    {
+      "pk": 2048,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TIVOLSKA",
+      "address": "TIVOLSKA CESTA 43",
+      "lat": 46.0580724,
+      "lng": 14.50344546,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 769,
+      "franchise": 2,
+      "name": "OMV BRESTOVICA",
+      "address": "Brestovica 116b",
+      "lat": 45.81302,
+      "lng": 13.62228,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.064,
+        "98": null,
+        "100": 1.099,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
+      "zip_code": "6223"
     }
   ],
   "position": null
