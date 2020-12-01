@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 767,
-      "franchise": 2,
-      "name": "OMV BENEDIKT",
-      "address": "Radgonska c. 15",
-      "lat": 46.61068,
-      "lng": 15.89416,
-      "prices": {
-        "95": 0.974,
-        "dizel": 1.039,
-        "98": null,
-        "100": 1.129,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.827
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
-      "zip_code": "2234"
-    },
-    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -107,6 +86,27 @@
       "direction": "",
       "open_hours": "24 ur - črpalka z osebjem",
       "zip_code": "2313"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 0.984,
+        "dizel": 1.051,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.826
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     },
     {
       "pk": 2304,
@@ -193,27 +193,6 @@
       "zip_code": "1317"
     },
     {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 0.985,
-        "dizel": 1.055,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
-    {
       "pk": 2302,
       "franchise": 19,
       "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
@@ -254,6 +233,27 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
       "zip_code": "4205"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 0.988,
+        "dizel": 1.055,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
       "pk": 1548,

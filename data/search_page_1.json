@@ -256,27 +256,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 0.966,
-        "dizel": 1.029,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.826
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2268,
       "franchise": 9,
       "name": "BS Pesniška vrata",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
       "zip_code": "6221"
+    },
+    {
+      "pk": 789,
+      "franchise": 2,
+      "name": "OMV FERNETIČI",
+      "address": "Partizanska c. 151",
+      "lat": 45.701768,
+      "lng": 13.841505,
+      "prices": {
+        "95": 0.974,
+        "dizel": 1.039,
+        "98": null,
+        "100": 1.129,
+        "dizel-premium": 1.189,
+        "avtoplin-lpg": 0.597,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Sežana",
+      "open_hours": "Pon-Ned 07:00-22:00",
+      "zip_code": "6210"
     }
   ],
   "position": null
