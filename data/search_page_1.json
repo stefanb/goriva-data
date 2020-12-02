@@ -340,27 +340,6 @@
       "zip_code": "3310"
     },
     {
-      "pk": 769,
-      "franchise": 2,
-      "name": "OMV BRESTOVICA",
-      "address": "Brestovica 116b",
-      "lat": 45.81302,
-      "lng": 13.62228,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.064,
-        "98": null,
-        "100": 1.099,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
-    },
-    {
       "pk": 2049,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ŠMARTINSKA 150",
@@ -401,27 +380,6 @@
       "direction": "",
       "open_hours": "6.00-22.00",
       "zip_code": "4220"
-    },
-    {
-      "pk": 770,
-      "franchise": 2,
-      "name": "OMV BREZOVICA",
-      "address": "Tržaška c. 565",
-      "lat": 46.022535,
-      "lng": 14.407636,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.064,
-        "98": null,
-        "100": 1.149,
-        "dizel-premium": 1.209,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1351"
     },
     {
       "pk": 2050,
@@ -466,27 +424,6 @@
       "zip_code": "2256"
     },
     {
-      "pk": 771,
-      "franchise": 2,
-      "name": "OMV BREŽICE",
-      "address": "C.Svobode 35",
-      "lat": 45.913737,
-      "lng": 15.595365,
-      "prices": {
-        "95": 0.994,
-        "dizel": 1.064,
-        "98": null,
-        "100": 1.149,
-        "dizel-premium": 1.209,
-        "avtoplin-lpg": null,
-        "KOEL": 0.854
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8250"
-    },
-    {
       "pk": 2051,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - POLJE",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2052,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRNOVO",
+      "address": "RIHARJEVA ULICA 31",
+      "lat": 46.03925962,
+      "lng": 14.50003317,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": 1.132,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 07:00-12:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2053,
+      "franchise": 1,
+      "name": "PETROL DOBROVA",
+      "address": "POLHOGRAJSKA CESTA 12",
+      "lat": 46.0520304,
+      "lng": 14.42151956,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.855
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-13:00",
+      "zip_code": "1356"
+    },
+    {
+      "pk": 2054,
+      "franchise": 1,
+      "name": "PETROL PODPEČ",
+      "address": "JEZERO 103",
+      "lat": 45.973133,
+      "lng": 14.422124,
+      "prices": {
+        "95": 0.994,
+        "dizel": 1.06,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.855
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1352"
     }
   ],
   "position": null
