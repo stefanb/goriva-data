@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 2182,
-      "franchise": 1,
-      "name": "PETROL BISTRICA OB SOTLI",
-      "address": "HRASTJE OB BISTRICI 1A",
-      "lat": 46.0620292,
-      "lng": 15.6554536,
-      "prices": {
-        "95": 1.005,
-        "dizel": 1.074,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.867
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-16:00\r\nsobote 12:30-16:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3256"
-    },
-    {
       "pk": 1927,
       "franchise": 1,
       "name": "PETROL MARIBOR - GOSPOSVETSKA SEVER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "3320"
+    },
+    {
+      "pk": 1939,
+      "franchise": 1,
+      "name": "PETROL SLIVNICA ZAHOD",
+      "address": "POT K ČRPALKI 5",
+      "lat": 46.482509,
+      "lng": 15.654919,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.074,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.867
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2312"
     }
   ],
   "position": null
