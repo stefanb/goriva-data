@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2195,
-      "franchise": 1,
-      "name": "PETROL ŠMARJE PRI JELŠAH",
-      "address": "ROGAŠKA CESTA 48",
-      "lat": 46.23164686,
-      "lng": 15.52842878,
-      "prices": {
-        "95": 1.005,
-        "dizel": 1.074,
-        "98": null,
-        "100": 1.142,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.867
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3240"
-    },
-    {
       "pk": 1940,
       "franchise": 1,
       "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00",
       "zip_code": "2380"
+    },
+    {
+      "pk": 1954,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - POBREŽJE",
+      "address": "ČUFARJEVA CESTA 10",
+      "lat": 46.5542838,
+      "lng": 15.66939413,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.074,
+        "98": null,
+        "100": 1.142,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.867
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2000"
     }
   ],
   "position": null

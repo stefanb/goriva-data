@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 773,
-      "franchise": 2,
-      "name": "OMV CELJE EMO",
-      "address": "Mariborska c. 84",
-      "lat": 46.23923,
-      "lng": 15.27456,
-      "prices": {
-        "95": 1.009,
-        "dizel": 1.079,
-        "98": null,
-        "100": 1.159,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.854
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 774,
       "franchise": 2,
       "name": "OMV CELJE MEDLOG",
@@ -67,6 +46,27 @@
       "zip_code": "8340"
     },
     {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.076,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": 0.854
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
+    },
+    {
       "pk": 776,
       "franchise": 2,
       "name": "OMV DIVAČA",
@@ -80,7 +80,7 @@
         "100": 1.159,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.854
+        "KOEL": 0.866
       },
       "distance": null,
       "direction": "",
@@ -101,7 +101,7 @@
         "100": 1.159,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.854
+        "KOEL": 0.866
       },
       "distance": null,
       "direction": "",
@@ -122,7 +122,7 @@
         "100": 1.159,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.854
+        "KOEL": 0.866
       },
       "distance": null,
       "direction": "",
@@ -206,7 +206,7 @@
         "100": 1.159,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.854
+        "KOEL": 0.866
       },
       "distance": null,
       "direction": "",
@@ -416,7 +416,7 @@
         "100": 1.159,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.854
+        "KOEL": 0.866
       },
       "distance": null,
       "direction": "",
@@ -521,7 +521,7 @@
         "100": 1.159,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.854
+        "KOEL": 0.866
       },
       "distance": null,
       "direction": "",

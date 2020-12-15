@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 2075,
-      "franchise": 1,
-      "name": "PETROL ZGORNJE JEZERSKO",
-      "address": "ZGORNJE JEZERSKO 65A",
-      "lat": 46.39459922,
-      "lng": 14.50096885,
-      "prices": {
-        "95": 1.005,
-        "dizel": 1.074,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.867
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 13:00-18:00\r\nsobote 13:00-18:00\r\nnedelje in prazniki 13:00-18:00",
-      "zip_code": "4206"
-    },
-    {
       "pk": 2076,
       "franchise": 1,
       "name": "PETROL ŽELEZNIKI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-19:00\r\nsobote 07:00-14:00",
       "zip_code": "1411"
+    },
+    {
+      "pk": 2107,
+      "franchise": 1,
+      "name": "PETROL ČEŠNJICE V TUHINJU",
+      "address": "GOLICE 1B",
+      "lat": 46.219526,
+      "lng": 14.790614,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.074,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.867
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:00-12:00",
+      "zip_code": "1219"
     }
   ],
   "position": null
