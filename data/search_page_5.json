@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 2136,
-      "franchise": 1,
-      "name": "PETROL GORENJA VAS",
-      "address": "POLJANSKA CESTA 118",
-      "lat": 46.105122,
-      "lng": 14.144388,
-      "prices": {
-        "95": 1.005,
-        "dizel": 1.074,
-        "98": null,
-        "100": 1.142,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "4224"
-    },
-    {
-      "pk": 2137,
-      "franchise": 1,
-      "name": "PETROL ŽIRI",
-      "address": "JOBSTOVA CESTA 35",
-      "lat": 46.043743,
-      "lng": 14.10785,
-      "prices": {
-        "95": 1.005,
-        "dizel": 1.074,
-        "98": null,
-        "100": 1.142,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.867
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
-      "zip_code": "4226"
-    },
-    {
       "pk": 2138,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "8330"
+    },
+    {
+      "pk": 2163,
+      "franchise": 1,
+      "name": "PETROL BREŽICE - TOVARNIŠKA",
+      "address": "TOVARNIŠKA CESTA 2",
+      "lat": 45.91870681,
+      "lng": 15.59341049,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.074,
+        "98": null,
+        "100": 1.142,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.867
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "8250"
+    },
+    {
+      "pk": 2164,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKE  KONJICE",
+      "address": "LIPTOVSKA ULICA 4",
+      "lat": 46.34170285,
+      "lng": 15.43100146,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.074,
+        "98": null,
+        "100": 1.142,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": 0.867
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
+      "zip_code": "3210"
     }
   ],
   "position": null
