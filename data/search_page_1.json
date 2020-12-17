@@ -256,27 +256,6 @@
       "zip_code": "2383"
     },
     {
-      "pk": 2266,
-      "franchise": 5,
-      "name": "SHELL MARIBOR RETAIL",
-      "address": "TURNEJEVA ULICA 35",
-      "lat": 46.449892,
-      "lng": 15.651698,
-      "prices": {
-        "95": 0.999,
-        "dizel": 1.065,
-        "98": null,
-        "100": 1.16,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka z osebjem",
-      "zip_code": "2313"
-    },
-    {
       "pk": 2267,
       "franchise": 6,
       "name": "EKO-NAFTA d.o.o.",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "1352"
+    },
+    {
+      "pk": 2055,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
+      "address": "DUNAJSKA CESTA 460",
+      "lat": 46.10458934,
+      "lng": 14.54127278,
+      "prices": {
+        "95": 1.005,
+        "dizel": 1.074,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:30-19:30\r\nsobote 07:00-13:00",
+      "zip_code": "1231"
     }
   ],
   "position": null
