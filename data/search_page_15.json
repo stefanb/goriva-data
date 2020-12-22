@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2011,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 25",
-      "address": "ORMOŠKA CESTA 25",
-      "lat": 46.41703099,
-      "lng": 15.8826979,
-      "prices": {
-        "95": 1.013,
-        "dizel": 1.081,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.878
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-15:00\r\nsobote 07:00-15:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2012,
       "franchise": 1,
       "name": "PETROL HAJDOŠE",
@@ -44,6 +23,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.013,
+        "dizel": 1.081,
+        "98": null,
+        "100": 1.15,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.878
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,

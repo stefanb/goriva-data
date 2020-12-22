@@ -319,27 +319,6 @@
       "zip_code": "9201"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.005,
-        "dizel": 1.074,
-        "98": null,
-        "100": 1.142,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.867
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
       "zip_code": "6253"
+    },
+    {
+      "pk": 776,
+      "franchise": 2,
+      "name": "OMV DIVAČA",
+      "address": "Kolodvorska 1",
+      "lat": 45.681494,
+      "lng": 13.968687,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.079,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.866
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
+      "zip_code": "6215"
     }
   ],
   "position": null

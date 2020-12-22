@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 815,
-      "franchise": 2,
-      "name": "OMV LITIJA",
-      "address": "Zasavska c. 1",
-      "lat": 46.058713,
-      "lng": 14.832858,
-      "prices": {
-        "95": 1.009,
-        "dizel": 1.079,
-        "98": null,
-        "100": 1.159,
-        "dizel-premium": 1.229,
-        "avtoplin-lpg": null,
-        "KOEL": 0.866
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1270"
-    },
-    {
       "pk": 816,
       "franchise": 2,
       "name": "OMV LJUBLJANA LETALIŠKA",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 843,
+      "franchise": 2,
+      "name": "OMV POSTOJNA TRŽAŠKA",
+      "address": "Tržaška c. 60b",
+      "lat": 45.772642,
+      "lng": 14.200028,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.079,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.866
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
       "zip_code": "6230"
     }
   ],

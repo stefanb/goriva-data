@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 1982,
-      "franchise": 1,
-      "name": "PETROL AJDOVŠČINA - GORIŠKA",
-      "address": "GORIŠKA CESTA 29",
-      "lat": 45.88663093,
-      "lng": 13.89897002,
-      "prices": {
-        "95": 1.013,
-        "dizel": 1.081,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.878
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5270"
-    },
-    {
       "pk": 1983,
       "franchise": 1,
       "name": "PETROL GOLO BRDO V BRDIH",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "2270"
+    },
+    {
+      "pk": 2011,
+      "franchise": 1,
+      "name": "PETROL PTUJ - ORMOŠKA 25",
+      "address": "ORMOŠKA CESTA 25",
+      "lat": 46.41703099,
+      "lng": 15.8826979,
+      "prices": {
+        "95": 1.013,
+        "dizel": 1.081,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.878
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-15:00\r\nsobote 07:00-15:00",
+      "zip_code": "2250"
     }
   ],
   "position": null

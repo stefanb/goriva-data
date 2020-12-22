@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2179,
-      "franchise": 1,
-      "name": "PETROL KOZJE",
-      "address": "KOZJE 23",
-      "lat": 46.07309408,
-      "lng": 15.55856381,
-      "prices": {
-        "95": 1.013,
-        "dizel": 1.081,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.878
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 12:00-16:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3260"
-    },
-    {
       "pk": 1924,
       "franchise": 1,
       "name": "PETROL MARIBOR - PTUJSKA 136",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "3325"
+    },
+    {
+      "pk": 1936,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ - MARIBORSKA",
+      "address": "MARIBORSKA CESTA 49",
+      "lat": 46.67188025,
+      "lng": 15.66080301,
+      "prices": {
+        "95": 1.013,
+        "dizel": 1.081,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.878
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2212"
     }
   ],
   "position": null
