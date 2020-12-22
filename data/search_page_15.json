@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2012,
-      "franchise": 1,
-      "name": "PETROL HAJDOŠE",
-      "address": "HAJDOŠE 43D",
-      "lat": 46.42559375,
-      "lng": 15.82734335,
-      "prices": {
-        "95": 1.013,
-        "dizel": 1.081,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.878
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00",
-      "zip_code": "2288"
-    },
-    {
       "pk": 2268,
       "franchise": 9,
       "name": "BS Pesniška vrata",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:30-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2042,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ZALOŠKA",
+      "address": "ZALOŠKA CESTA 60A",
+      "lat": 46.05587096,
+      "lng": 14.53893203,
+      "prices": {
+        "95": 1.013,
+        "dizel": 1.081,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.878
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
       "zip_code": "1000"
     }
   ],

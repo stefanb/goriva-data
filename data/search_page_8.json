@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2128,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ČRNUČE, ŠTAJERSKA",
-      "address": "ŠTAJERSKA CESTA 10",
-      "lat": 46.10584664,
-      "lng": 14.5451953,
-      "prices": {
-        "95": 1.013,
-        "dizel": 1.081,
-        "98": null,
-        "100": 1.15,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:30",
-      "zip_code": "1231"
-    },
-    {
       "pk": 2129,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - LETALIŠKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-11:30",
       "zip_code": "8361"
+    },
+    {
+      "pk": 2154,
+      "franchise": 1,
+      "name": "PETROL VINICA",
+      "address": "VINICA 61",
+      "lat": 45.45963416,
+      "lng": 15.2553875,
+      "prices": {
+        "95": 1.013,
+        "dizel": 1.081,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.878
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:30-19:00",
+      "zip_code": "8344"
     }
   ],
   "position": null

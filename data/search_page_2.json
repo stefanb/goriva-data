@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "Zibis d.o.o.",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.009,
-        "dizel": 1.076,
-        "98": 1.124,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.863
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
-      "zip_code": "2283"
-    },
-    {
-      "pk": 779,
-      "franchise": 2,
-      "name": "OMV DOL PRI LJUBLJANI",
-      "address": "Podgora pri Dolskem 40",
-      "lat": 46.090168,
-      "lng": 14.650805,
-      "prices": {
-        "95": 1.009,
-        "dizel": 1.079,
-        "98": null,
-        "100": 1.159,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.866
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "1262"
-    },
-    {
-      "pk": 780,
-      "franchise": 2,
-      "name": "OMV DRAVOGRAD",
-      "address": "Koroška c. 49",
-      "lat": 46.59033,
-      "lng": 15.01542,
-      "prices": {
-        "95": 1.009,
-        "dizel": 1.079,
-        "98": null,
-        "100": 1.159,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.866
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
-      "zip_code": "2370"
-    },
-    {
       "pk": 783,
       "franchise": 2,
       "name": "OMV DUTOVLJE",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "1270"
+    },
+    {
+      "pk": 816,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA LETALIŠKA",
+      "address": "Letališka c. 33b",
+      "lat": 46.062474,
+      "lng": 14.570349,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.079,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 06:00-22:00, Sob 08:00-20:00, Ned/Praz. zaprto",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 817,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA LITIJSKA",
+      "address": "Litijska c. 40",
+      "lat": 46.047401,
+      "lng": 14.546097,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.079,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": 1.229,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 818,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA ŠENTVID",
+      "address": "Celovška c. 455",
+      "lat": 46.09891,
+      "lng": 14.460958,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.079,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1210"
     }
   ],
   "position": null

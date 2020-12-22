@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2042,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ZALOŠKA",
-      "address": "ZALOŠKA CESTA 60A",
-      "lat": 46.05587096,
-      "lng": 14.53893203,
-      "prices": {
-        "95": 1.013,
-        "dizel": 1.081,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.878
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2043,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - RUDNIK VZHOD",
@@ -224,7 +203,7 @@
         "95": 1.014,
         "dizel": 1.081,
         "98": null,
-        "100": 1.15,
+        "100": 1.159,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 0.874
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "2392"
+    },
+    {
+      "pk": 2250,
+      "franchise": 3,
+      "name": "BS MAXEN KOČEVJE",
+      "address": "Mrtvice bš",
+      "lat": 45.6768128,
+      "lng": 14.827288,
+      "prices": {
+        "95": 1.017,
+        "dizel": 1.086,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1332"
     }
   ],
   "position": null
