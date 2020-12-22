@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 842,
-      "franchise": 2,
-      "name": "OMV POSTOJNA TITOVA",
-      "address": "Titova c.12",
-      "lat": 45.77113,
-      "lng": 14.201277,
-      "prices": {
-        "95": 1.009,
-        "dizel": 1.079,
-        "98": null,
-        "100": 1.159,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.866
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6230"
-    },
-    {
       "pk": 843,
       "franchise": 2,
       "name": "OMV POSTOJNA TRŽAŠKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1230"
+    },
+    {
+      "pk": 874,
+      "franchise": 2,
+      "name": "OMV VRTOJBA",
+      "address": "Polje 6",
+      "lat": 45.920878,
+      "lng": 13.631287,
+      "prices": {
+        "95": 1.009,
+        "dizel": 1.079,
+        "98": null,
+        "100": 1.159,
+        "dizel-premium": 1.229,
+        "avtoplin-lpg": null,
+        "KOEL": 0.866
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "5290"
     }
   ],
   "position": null
