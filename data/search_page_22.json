@@ -1,5 +1,5 @@
 {
-  "count": 547,
+  "count": 548,
   "next": null,
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
@@ -128,6 +128,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2322,
+      "franchise": 27,
+      "name": "BENCINSKI SERVIS KOVAČIČ",
+      "address": "Grm 12",
+      "lat": 45.89790647835315,
+      "lng": 15.052119626875369,
+      "prices": {
+        "95": null,
+        "dizel": 1.041,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8210"
     },
     {
       "pk": 787,
