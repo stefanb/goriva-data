@@ -32,13 +32,13 @@
       "lat": 46.525107,
       "lng": 15.667885,
       "prices": {
-        "95": 0.983,
-        "dizel": 1.081,
+        "95": 0.984,
+        "dizel": 1.085,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": 0.519,
-        "KOEL": 0.828
+        "KOEL": 0.825
       },
       "distance": null,
       "direction": "Maribor Center",
@@ -53,13 +53,13 @@
       "lat": 46.385204,
       "lng": 15.576529,
       "prices": {
-        "95": 0.983,
-        "dizel": 1.081,
+        "95": 0.984,
+        "dizel": 1.085,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": 0.519,
-        "KOEL": 0.878
+        "KOEL": 0.875
       },
       "distance": null,
       "direction": "Izvoz Slovenska Bistrica jug",
@@ -254,27 +254,6 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
-    },
-    {
-      "pk": 2266,
-      "franchise": 5,
-      "name": "SHELL MARIBOR RETAIL",
-      "address": "TURNEJEVA ULICA 35",
-      "lat": 46.449892,
-      "lng": 15.651698,
-      "prices": {
-        "95": 1.007,
-        "dizel": 1.079,
-        "98": null,
-        "100": 1.16,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka z osebjem",
-      "zip_code": "2313"
     },
     {
       "pk": 2267,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-13:00",
       "zip_code": "1356"
+    },
+    {
+      "pk": 2054,
+      "franchise": 1,
+      "name": "PETROL PODPEČ",
+      "address": "JEZERO 103",
+      "lat": 45.973133,
+      "lng": 14.422124,
+      "prices": {
+        "95": 1.014,
+        "dizel": 1.085,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.875
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1352"
     }
   ],
   "position": null
