@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2165,
-      "franchise": 1,
-      "name": "PETROL VELENJE - ŠALEŠKA",
-      "address": "ŠALEŠKA CESTA 9",
-      "lat": 46.3602501,
-      "lng": 15.12373353,
-      "prices": {
-        "95": 1.014,
-        "dizel": 1.085,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.875
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-16:00\r\nsobote 08:00-16:00\r\nnedelje in prazniki 08:00-16:00",
-      "zip_code": "3320"
-    },
-    {
       "pk": 2166,
       "franchise": 1,
       "name": "PETROL VRANSKO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
       "zip_code": "3335"
+    },
+    {
+      "pk": 1929,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PARTIZANSKA",
+      "address": "PARTIZANSKA CESTA 58",
+      "lat": 46.56486151,
+      "lng": 15.65925818,
+      "prices": {
+        "95": 1.014,
+        "dizel": 1.085,
+        "98": null,
+        "100": 1.146,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.875
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2000"
     }
   ],
   "position": null

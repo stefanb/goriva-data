@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2197,
-      "franchise": 1,
-      "name": "PETROL ŽALEC",
-      "address": "GOTOVELJSKA CESTA 10",
-      "lat": 46.256248,
-      "lng": 15.156901,
-      "prices": {
-        "95": 1.014,
-        "dizel": 1.085,
-        "98": null,
-        "100": 1.146,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3310"
-    },
-    {
       "pk": 1942,
       "franchise": 1,
       "name": "PETROL SELNICA OB DRAVI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "2382"
+    },
+    {
+      "pk": 1956,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PTUJSKA 188",
+      "address": "PTUJSKA CESTA 188",
+      "lat": 46.52829802,
+      "lng": 15.67244913,
+      "prices": {
+        "95": 1.014,
+        "dizel": 1.085,
+        "98": null,
+        "100": 1.146,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "2000"
     }
   ],
   "position": null
