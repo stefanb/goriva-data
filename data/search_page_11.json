@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1989,
-      "franchise": 1,
-      "name": "PETROL TOLMIN",
-      "address": "TRG MARŠALA TITA 18",
-      "lat": 46.18282816,
-      "lng": 13.73383929,
-      "prices": {
-        "95": 1.018,
-        "dizel": 1.086,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.875
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5220"
-    },
-    {
       "pk": 1990,
       "franchise": 1,
       "name": "PETROL KOPER, SERMIN",
@@ -422,6 +401,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.018,
+        "dizel": 1.086,
+        "98": null,
+        "100": 1.152,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.875
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,
