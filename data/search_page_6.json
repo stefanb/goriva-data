@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2161,
-      "franchise": 1,
-      "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
-      "address": "CESTA XV. BRIGADE 34",
-      "lat": 45.65043013,
-      "lng": 15.30556866,
-      "prices": {
-        "95": 1.018,
-        "dizel": 1.086,
-        "98": null,
-        "100": 1.152,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.875
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "8330"
-    },
-    {
-      "pk": 2163,
-      "franchise": 1,
-      "name": "PETROL BREŽICE - TOVARNIŠKA",
-      "address": "TOVARNIŠKA CESTA 2",
-      "lat": 45.91870681,
-      "lng": 15.59341049,
-      "prices": {
-        "95": 1.018,
-        "dizel": 1.086,
-        "98": null,
-        "100": 1.152,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.875
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "8250"
-    },
-    {
       "pk": 2164,
       "franchise": 1,
       "name": "PETROL SLOVENSKE  KONJICE",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 09:00-18:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2183,
+      "franchise": 1,
+      "name": "PETROL PONIKVA",
+      "address": "PONIKVA 36A",
+      "lat": 46.25437076,
+      "lng": 15.44383892,
+      "prices": {
+        "95": 1.018,
+        "dizel": 1.086,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3232"
+    },
+    {
+      "pk": 1928,
+      "franchise": 1,
+      "name": "PETROL SOLKAN",
+      "address": "CESTA IX. KORPUSA 67",
+      "lat": 45.96778633,
+      "lng": 13.64164681,
+      "prices": {
+        "95": 1.018,
+        "dizel": 1.086,
+        "98": null,
+        "100": 1.152,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.875
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5250"
     }
   ],
   "position": null
