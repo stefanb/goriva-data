@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2224,
-      "franchise": 1,
-      "name": "PETROL LOŠKI POTOK",
-      "address": "MALI LOG 2B",
-      "lat": 45.717099,
-      "lng": 14.58622,
-      "prices": {
-        "95": 1.018,
-        "dizel": 1.086,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.875
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 08:00-12:00",
-      "zip_code": "1318"
-    },
-    {
       "pk": 1969,
       "franchise": 1,
       "name": "PETROL ODRANCI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 09:00-17:00\r\nsobote 09:00-15:00",
       "zip_code": "5243"
+    },
+    {
+      "pk": 1992,
+      "franchise": 1,
+      "name": "PETROL LIPICA",
+      "address": "LIPICA 26",
+      "lat": 45.6554886,
+      "lng": 13.88112209,
+      "prices": {
+        "95": 1.018,
+        "dizel": 1.086,
+        "98": null,
+        "100": 1.152,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.875
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-20:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6210"
     }
   ],
   "position": null
