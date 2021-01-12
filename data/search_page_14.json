@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2252,
+      "franchise": 3,
+      "name": "BS MAXEN VELENJE",
+      "address": "Črnova bš",
+      "lat": 46.347808,
+      "lng": 15.1495248,
+      "prices": {
+        "95": 1.041,
+        "dizel": 1.1,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "3320"
+    },
+    {
       "pk": 2253,
       "franchise": 3,
       "name": "BS MAXEN LOGATEC",
@@ -506,27 +527,6 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2231"
-    },
-    {
-      "pk": 2021,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
-      "address": "LJUBLJANSKA CESTA 45",
-      "lat": 46.387184,
-      "lng": 15.569006,
-      "prices": {
-        "95": 1.041,
-        "dizel": 1.1,
-        "98": null,
-        "100": 1.174,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.598,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2310"
     }
   ],
   "position": null

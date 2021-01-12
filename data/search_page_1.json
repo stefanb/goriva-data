@@ -277,6 +277,27 @@
       "zip_code": "2211"
     },
     {
+      "pk": 2313,
+      "franchise": 14,
+      "name": "Zibis d.o.o.",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.02,
+        "dizel": 1.087,
+        "98": 1.124,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.863
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2311,
       "franchise": 18,
       "name": "BS Merkantil KNEŽAK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "3250"
-    },
-    {
-      "pk": 1550,
-      "franchise": 4,
-      "name": "BS MOL CELJE, KIDRIČEVA",
-      "address": "KIDRIČEVA ULICA 40",
-      "lat": 46.234044,
-      "lng": 15.2961655,
-      "prices": {
-        "95": 1.036,
-        "dizel": 1.097,
-        "98": null,
-        "100": 1.191,
-        "dizel-premium": 1.259,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00 - 22:00\r\nSOBOTA 05:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "3000"
     }
   ],
   "position": null

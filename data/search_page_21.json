@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2229,
+      "franchise": 1,
+      "name": "PETROL STARINE AC - JUG",
+      "address": "ZAGRAD PRI OTOČCU 111",
+      "lat": 45.841312,
+      "lng": 15.217206,
+      "prices": {
+        "95": 1.071,
+        "dizel": 1.123,
+        "98": null,
+        "100": 1.224,
+        "dizel-premium": 1.343,
+        "avtoplin-lpg": 0.598,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8222"
+    },
+    {
       "pk": 2230,
       "franchise": 1,
       "name": "PETROL STARINE AC - SEVER",
@@ -401,27 +422,6 @@
       "direction": "smer Maribor",
       "open_hours": "pon - ned 00:00 - 24:00",
       "zip_code": "2230"
-    },
-    {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "Zibis d.o.o.",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1020,
-        "dizel": 1.087,
-        "98": 1.124,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.863
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
-      "zip_code": "2283"
     },
     {
       "pk": 2308,
