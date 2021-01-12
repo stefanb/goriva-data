@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 772,
-      "franchise": 2,
-      "name": "OMV CELJE AERO",
-      "address": "Dečkova c. 39",
-      "lat": 46.24062,
-      "lng": 15.25644,
-      "prices": {
-        "95": 1.044,
-        "dizel": 1.104,
-        "98": null,
-        "100": 1.194,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 773,
       "franchise": 2,
       "name": "OMV CELJE EMO",
@@ -107,6 +86,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
       "zip_code": "6215"
+    },
+    {
+      "pk": 2313,
+      "franchise": 14,
+      "name": "Zibis d.o.o.",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.044,
+        "dizel": 1.104,
+        "98": 1.124,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.863
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
+      "zip_code": "2283"
     },
     {
       "pk": 779,

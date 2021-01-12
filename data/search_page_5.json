@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 2073,
-      "franchise": 1,
-      "name": "PETROL RATEČE",
-      "address": "RATEČE 88A",
-      "lat": 46.497066,
-      "lng": 13.708622,
-      "prices": {
-        "95": 1.041,
-        "dizel": 1.1,
-        "98": null,
-        "100": 1.174,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.883
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-18:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 09:00-16:00",
-      "zip_code": "4283"
-    },
-    {
       "pk": 2074,
       "franchise": 1,
       "name": "PETROL KRANJ - LABORE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "4280"
+    },
+    {
+      "pk": 2105,
+      "franchise": 1,
+      "name": "PETROL JESENICE - KOROŠKA BELA",
+      "address": "CESTA BORISA KIDRIČA 50",
+      "lat": 46.42262407,
+      "lng": 14.10274656,
+      "prices": {
+        "95": 1.041,
+        "dizel": 1.1,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.883
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 08:00-18:00",
+      "zip_code": "4270"
     }
   ],
   "position": null
