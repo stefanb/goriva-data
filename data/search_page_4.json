@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 849,
-      "franchise": 2,
-      "name": "OMV ROŽNA DOLINA",
-      "address": "Angela Besednjaka 8",
-      "lat": 45.940972,
-      "lng": 13.640395,
-      "prices": {
-        "95": 1.025,
-        "dizel": 1.089,
-        "98": null,
-        "100": 1.176,
-        "dizel-premium": 1.249,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5000"
-    },
-    {
       "pk": 850,
       "franchise": 2,
       "name": "OMV RUŠE BEZENA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2314"
+    },
+    {
+      "pk": 2236,
+      "franchise": 2,
+      "name": "OMV PTUJ",
+      "address": "Ormoška cesta 32",
+      "lat": 46.41600383,
+      "lng": 15.88503332,
+      "prices": {
+        "95": 1.025,
+        "dizel": 1.089,
+        "98": null,
+        "100": 1.176,
+        "dizel-premium": 1.249,
+        "avtoplin-lpg": 0.597,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2250"
     }
   ],
   "position": null

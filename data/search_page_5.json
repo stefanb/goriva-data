@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 2236,
-      "franchise": 2,
-      "name": "OMV PTUJ",
-      "address": "Ormoška cesta 32",
-      "lat": 46.41600383,
-      "lng": 15.88503332,
-      "prices": {
-        "95": 1.025,
-        "dizel": 1.089,
-        "98": null,
-        "100": 1.176,
-        "dizel-premium": 1.249,
-        "avtoplin-lpg": 0.597,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2271,
       "franchise": 2,
       "name": "OMV MARIBOR STUDENCI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 1562,
+      "franchise": 4,
+      "name": "BS MOL KOZINA",
+      "address": "BAZOVIŠKA CESTA 18",
+      "lat": 45.6090699,
+      "lng": 13.9336733,
+      "prices": {
+        "95": 1.036,
+        "dizel": 1.097,
+        "98": null,
+        "100": 1.191,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "6240"
     }
   ],
   "position": null
