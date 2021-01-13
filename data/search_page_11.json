@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1985,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS",
-      "address": "ŠEMPAS 161A",
-      "lat": 45.93039187,
-      "lng": 13.73978149,
-      "prices": {
-        "95": 1.041,
-        "dizel": 1.1,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.883
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 09:00-17:00",
-      "zip_code": "5261"
-    },
-    {
       "pk": 2241,
       "franchise": 3,
       "name": "BS MAXEN BENEDIKT",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "1370"
+    },
+    {
+      "pk": 1998,
+      "franchise": 1,
+      "name": "PETROL JAGODJE - SEVER",
+      "address": "JAGODJE 9",
+      "lat": 45.52595915,
+      "lng": 13.64867549,
+      "prices": {
+        "95": 1.041,
+        "dizel": 1.1,
+        "98": null,
+        "100": 1.174,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6310"
     }
   ],
   "position": null
