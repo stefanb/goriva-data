@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1940,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
-      "address": "GOSPOSVETSKA CESTA 81",
-      "lat": 46.56349021,
-      "lng": 15.62652364,
-      "prices": {
-        "95": 1.041,
-        "dizel": 1.1,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.883
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2196,
       "franchise": 1,
       "name": "PETROL ROGATEC",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2210,
+      "franchise": 1,
+      "name": "PETROL PREVALJE",
+      "address": "PERZONALI 49",
+      "lat": 46.54278188,
+      "lng": 14.90387241,
+      "prices": {
+        "95": 1.041,
+        "dizel": 1.1,
+        "98": null,
+        "100": 1.174,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.883
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2391"
     }
   ],
   "position": null
