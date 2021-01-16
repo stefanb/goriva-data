@@ -298,6 +298,48 @@
       "zip_code": "6281"
     },
     {
+      "pk": 777,
+      "franchise": 2,
+      "name": "OMV DOBRENJE VZHOD",
+      "address": "Sp.Dobrenje 41a",
+      "lat": 46.605931,
+      "lng": 15.663342,
+      "prices": {
+        "95": 1.089,
+        "dizel": 1.144,
+        "98": null,
+        "100": 1.249,
+        "dizel-premium": 1.364,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gradec",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
+    },
+    {
+      "pk": 778,
+      "franchise": 2,
+      "name": "OMV DOBRENJE ZAHOD",
+      "address": "Sp.Dobrenje 41d",
+      "lat": 46.609699,
+      "lng": 15.662384,
+      "prices": {
+        "95": 1.089,
+        "dizel": 1.144,
+        "98": null,
+        "100": 1.249,
+        "dizel-premium": 1.364,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2059,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE SEVER",
@@ -340,6 +382,90 @@
       "zip_code": "1000"
     },
     {
+      "pk": 781,
+      "franchise": 2,
+      "name": "OMV DRAVSKO POLJE JUG",
+      "address": "Gerečja vas 1h",
+      "lat": 46.428962,
+      "lng": 15.794118,
+      "prices": {
+        "95": 1.089,
+        "dizel": 1.144,
+        "98": null,
+        "100": 1.249,
+        "dizel-premium": 1.364,
+        "avtoplin-lpg": 0.649,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Zagreb",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2288"
+    },
+    {
+      "pk": 782,
+      "franchise": 2,
+      "name": "OMV DRAVSKO POLJE SEVER",
+      "address": "Gerečja vas 1g",
+      "lat": 46.428104,
+      "lng": 15.796613,
+      "prices": {
+        "95": 1.089,
+        "dizel": 1.144,
+        "98": null,
+        "100": 1.249,
+        "dizel-premium": 1.364,
+        "avtoplin-lpg": 0.649,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2288"
+    },
+    {
+      "pk": 790,
+      "franchise": 2,
+      "name": "OMV FERNETIČI JUG",
+      "address": "Partizanska c. 98",
+      "lat": 45.704437,
+      "lng": 13.846496,
+      "prices": {
+        "95": 1.089,
+        "dizel": 1.144,
+        "98": null,
+        "100": 1.249,
+        "dizel-premium": 1.364,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 791,
+      "franchise": 2,
+      "name": "OMV FERNETIČI SEVER",
+      "address": "Partizanska c. 130",
+      "lat": 45.70492,
+      "lng": 13.84554,
+      "prices": {
+        "95": 1.089,
+        "dizel": 1.144,
+        "98": null,
+        "100": 1.249,
+        "dizel-premium": 1.364,
+        "avtoplin-lpg": 0.649,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Benetke",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -361,172 +487,46 @@
       "zip_code": "9220"
     },
     {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
+      "pk": 793,
+      "franchise": 2,
+      "name": "OMV GRABONOŠ",
+      "address": "Grabonoš 4c",
+      "lat": 46.584129,
+      "lng": 16.008947,
       "prices": {
         "95": 1.089,
-        "dizel": 1.143,
+        "dizel": 1.144,
         "98": null,
-        "100": 1.246,
+        "100": 1.249,
         "dizel-premium": 1.364,
-        "avtoplin-lpg": 0.639,
+        "avtoplin-lpg": 0.649,
         "KOEL": null
       },
       "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
+      "direction": "Lenti",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9244"
     },
     {
-      "pk": 2088,
-      "franchise": 1,
-      "name": "PETROL LOM AC - ZAHOD",
-      "address": "NOTRANJSKA CESTA 75",
-      "lat": 45.898796,
-      "lng": 14.254887,
+      "pk": 796,
+      "franchise": 2,
+      "name": "OMV GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
       "prices": {
         "95": 1.089,
-        "dizel": 1.141,
+        "dizel": 1.144,
         "98": null,
-        "100": 1.243,
-        "dizel-premium": 1.361,
-        "avtoplin-lpg": 0.645,
+        "100": 1.249,
+        "dizel-premium": 1.364,
+        "avtoplin-lpg": 0.649,
         "KOEL": null
       },
       "distance": null,
-      "direction": "Ljubljana -> Koper",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2089,
-      "franchise": 1,
-      "name": "PETROL LOM AC - VZHOD",
-      "address": "NOTRANJSKA CESTA 77",
-      "lat": 45.89814,
-      "lng": 14.256533,
-      "prices": {
-        "95": 1.089,
-        "dizel": 1.141,
-        "98": null,
-        "100": 1.243,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.645,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2095,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - JUG",
-      "address": "SPODNJI PLAVŽ 24A",
-      "lat": 46.440467,
-      "lng": 14.026493,
-      "prices": {
-        "95": 1.089,
-        "dizel": 1.141,
-        "98": null,
-        "100": 1.243,
-        "dizel-premium": 1.361,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2096,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - SEVER",
-      "address": "SPODNJI PLAVŽ 24B",
-      "lat": 46.440937,
-      "lng": 14.028828,
-      "prices": {
-        "95": 1.089,
-        "dizel": 1.141,
-        "98": null,
-        "100": 1.243,
-        "dizel-premium": 1.361,
-        "avtoplin-lpg": 0.645,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Karavan",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2100,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - ZAHOD",
-      "address": "GASILSKA CESTA 55",
-      "lat": 46.22788,
-      "lng": 14.419719,
-      "prices": {
-        "95": 1.089,
-        "dizel": 1.141,
-        "98": null,
-        "100": 1.243,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.645,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 2101,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - VZHOD",
-      "address": "GASILSKA CESTA 51",
-      "lat": 46.22679,
-      "lng": 14.424885,
-      "prices": {
-        "95": 1.089,
-        "dizel": 1.141,
-        "98": null,
-        "100": 1.243,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.645,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 2120,
-      "franchise": 1,
-      "name": "PETROL PODSMREKA AC - SEVER",
-      "address": "PODSMREKA PRI VIŠNJI GORI 15",
-      "lat": 45.947759,
-      "lng": 14.771093,
-      "prices": {
-        "95": 1.089,
-        "dizel": 1.141,
-        "98": null,
-        "100": 1.243,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.645,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1294"
+      "direction": "Grosuplje",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1290"
     }
   ],
   "position": null
