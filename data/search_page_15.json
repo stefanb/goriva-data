@@ -445,6 +445,27 @@
       "zip_code": "3270"
     },
     {
+      "pk": 2313,
+      "franchise": 14,
+      "name": "Zibis d.o.o.",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.044,
+        "dizel": 1.104,
+        "98": 1.124,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.863
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
+      "zip_code": "2283"
+    },
+    {
       "pk": 769,
       "franchise": 2,
       "name": "OMV BRESTOVICA",
@@ -452,8 +473,8 @@
       "lat": 45.81302,
       "lng": 13.62228,
       "prices": {
-        "95": 1.044,
-        "dizel": 1.104,
+        "95": 1.057,
+        "dizel": 1.114,
         "98": null,
         "100": 1.099,
         "dizel-premium": null,
@@ -473,11 +494,11 @@
       "lat": 46.022535,
       "lng": 14.407636,
       "prices": {
-        "95": 1.044,
-        "dizel": 1.104,
+        "95": 1.057,
+        "dizel": 1.114,
         "98": null,
-        "100": 1.194,
-        "dizel-premium": 1.259,
+        "100": 1.207,
+        "dizel-premium": 1.269,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -494,39 +515,18 @@
       "lat": 45.913737,
       "lng": 15.595365,
       "prices": {
-        "95": 1.044,
-        "dizel": 1.104,
+        "95": 1.057,
+        "dizel": 1.114,
         "98": null,
-        "100": 1.194,
-        "dizel-premium": 1.259,
+        "100": 1.207,
+        "dizel-premium": 1.269,
         "avtoplin-lpg": null,
-        "KOEL": 0.882
+        "KOEL": 0.904
       },
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8250"
-    },
-    {
-      "pk": 772,
-      "franchise": 2,
-      "name": "OMV CELJE AERO",
-      "address": "Dečkova c. 39",
-      "lat": 46.24062,
-      "lng": 15.25644,
-      "prices": {
-        "95": 1.044,
-        "dizel": 1.104,
-        "98": null,
-        "100": 1.194,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "3000"
     }
   ],
   "position": null
