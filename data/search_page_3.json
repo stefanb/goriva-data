@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1574,
-      "franchise": 4,
-      "name": "BS MOL KOČEVJE",
-      "address": "REŠKA CESTA 25/A",
-      "lat": 45.632833,
-      "lng": 14.864267,
-      "prices": {
-        "95": 1.07,
-        "dizel": 1.122,
-        "98": null,
-        "100": 1.217,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "1330"
-    },
-    {
       "pk": 1575,
       "franchise": 4,
       "name": "BS MOL OTIŠKI VRH",
@@ -464,6 +443,27 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.07,
+        "dizel": 1.122,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.897
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
     },
     {
       "pk": 2283,

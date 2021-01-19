@@ -67,48 +67,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.036,
-        "dizel": 1.094,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.88
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.039,
-        "dizel": 1.098,
-        "98": null,
-        "100": 1.174,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.881
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -403,6 +361,27 @@
       "zip_code": "2283"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.065,
+        "dizel": 1.117,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.88
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 2304,
       "franchise": 19,
       "name": "Bencinski servis Velika Pirešica",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
       "zip_code": "4205"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.07,
+        "dizel": 1.122,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     }
   ],
   "position": null
