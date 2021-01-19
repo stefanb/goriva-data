@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 835,
-      "franchise": 2,
-      "name": "OMV NOVO MESTO",
-      "address": "Levičnikova c. 4",
-      "lat": 45.804054,
-      "lng": 15.181842,
-      "prices": {
-        "95": 1.071,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.22,
-        "dizel-premium": 1.279,
-        "avtoplin-lpg": null,
-        "KOEL": 0.904
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-23:00 (S,N,praz 6-22)",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 836,
-      "franchise": 2,
-      "name": "OMV NOVO MESTO BRŠLJIN",
-      "address": "Ljubljanska cesta 11",
-      "lat": 45.8139,
-      "lng": 15.153116666666667,
-      "prices": {
-        "95": 1.071,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.22,
-        "dizel-premium": 1.279,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 6:00-22:00",
-      "zip_code": "8000"
-    },
-    {
       "pk": 838,
       "franchise": 2,
       "name": "OMV ORMOŽ",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep Pon-Ned 07:00-20:00",
       "zip_code": "6222"
+    },
+    {
+      "pk": 868,
+      "franchise": 2,
+      "name": "OMV TEPANJE",
+      "address": "Tepanje 4b",
+      "lat": 46.340828,
+      "lng": 15.469587,
+      "prices": {
+        "95": 1.071,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Slovenske Konjice",
+      "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
+      "zip_code": "3210"
+    },
+    {
+      "pk": 869,
+      "franchise": 2,
+      "name": "OMV TREBNJE",
+      "address": "Obrtniška 28",
+      "lat": 45.910462,
+      "lng": 15.025649,
+      "prices": {
+        "95": 1.071,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.904
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8210"
     }
   ],
   "position": null
