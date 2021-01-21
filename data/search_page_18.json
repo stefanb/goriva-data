@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2013,
-      "franchise": 1,
-      "name": "PETROL MAJŠPERK",
-      "address": "MAJŠPERK 55A",
-      "lat": 46.3487854,
-      "lng": 15.73672014,
-      "prices": {
-        "95": 1.072,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.899
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "2322"
-    },
-    {
-      "pk": 2014,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 26/B",
-      "address": "ORMOŠKA CESTA 26B",
-      "lat": 46.41676013,
-      "lng": 15.88049476,
-      "prices": {
-        "95": 1.072,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.205,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.645,
-        "KOEL": 0.899
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2015,
       "franchise": 1,
       "name": "PETROL PTUJ - OSOJNIKOVA",
@@ -526,6 +484,48 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:30-18:30\r\nsobote 08:00-12:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2039,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 130",
+      "address": "DUNAJSKA CESTA 130",
+      "lat": 46.078052,
+      "lng": 14.512668,
+      "prices": {
+        "95": 1.072,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2040,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRŽAŠKA 44",
+      "address": "TRŽAŠKA CESTA 44",
+      "lat": 46.04443147,
+      "lng": 14.48517761,
+      "prices": {
+        "95": 1.072,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.899
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-13:00",
       "zip_code": "1000"
     }
   ],

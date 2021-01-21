@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2039,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 130",
-      "address": "DUNAJSKA CESTA 130",
-      "lat": 46.078052,
-      "lng": 14.512668,
-      "prices": {
-        "95": 1.072,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.205,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2040,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 44",
-      "address": "TRŽAŠKA CESTA 44",
-      "lat": 46.04443147,
-      "lng": 14.48517761,
-      "prices": {
-        "95": 1.072,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.205,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.899
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-13:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2041,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
@@ -172,6 +130,27 @@
       "zip_code": "1000"
     },
     {
+      "pk": 2302,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
+      "address": "Tržaška cesta 358",
+      "lat": 46.026026,
+      "lng": 14.4284534,
+      "prices": {
+        "95": 1.072,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.215,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.897
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.30",
+      "zip_code": "1351"
+    },
+    {
       "pk": 2047,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - CELOVŠKA 251",
@@ -191,6 +170,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2303,
+      "franchise": 19,
+      "name": "Bencinski servis Tupaliče",
+      "address": "Tupaliče 35a",
+      "lat": 46.2955877,
+      "lng": 14.4297645,
+      "prices": {
+        "95": 1.072,
+        "dizel": 1.124,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.897
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
+      "zip_code": "4205"
     },
     {
       "pk": 768,
