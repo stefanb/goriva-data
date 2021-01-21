@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 1980,
-      "franchise": 1,
-      "name": "PETROL DORNBERK",
-      "address": "DRAGA 18A",
-      "lat": 45.88507011,
-      "lng": 13.73292985,
-      "prices": {
-        "95": 1.072,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.205,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.899
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "5294"
-    },
-    {
       "pk": 1981,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - GRČNA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8342"
+    },
+    {
+      "pk": 1993,
+      "franchise": 1,
+      "name": "PETROL SEŽANA",
+      "address": "PARTIZANSKA CESTA 147",
+      "lat": 45.702385,
+      "lng": 13.84361,
+      "prices": {
+        "95": 1.072,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.645,
+        "KOEL": 0.899
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "6210"
     }
   ],
   "position": null
