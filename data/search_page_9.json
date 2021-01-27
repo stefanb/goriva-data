@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 850,
-      "franchise": 2,
-      "name": "OMV RUŠE BEZENA",
-      "address": "Bezena 99",
-      "lat": 46.54981,
-      "lng": 15.53794,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.22,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "2342"
-    },
-    {
       "pk": 2130,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ZALOG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "8250"
+    },
+    {
+      "pk": 2144,
+      "franchise": 1,
+      "name": "PETROL BOŠTANJ PRI SEVNICI",
+      "address": "BOŠTANJ 60A",
+      "lat": 46.01439267,
+      "lng": 15.28799203,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.122,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.645,
+        "KOEL": 0.898
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "8294"
     }
   ],
   "position": null

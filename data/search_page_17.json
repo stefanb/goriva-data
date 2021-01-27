@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2250,
-      "franchise": 3,
-      "name": "BS MAXEN KOČEVJE",
-      "address": "Mrtvice bš",
-      "lat": 45.6768128,
-      "lng": 14.827288,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1332"
-    },
-    {
       "pk": 1995,
       "franchise": 1,
       "name": "PETROL ILIRSKA BISTRICA",
@@ -464,6 +443,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.122,
+        "98": 1.174,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.898
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,

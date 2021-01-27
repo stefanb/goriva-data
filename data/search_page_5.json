@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 803,
-      "franchise": 2,
-      "name": "OMV KOMENDA",
-      "address": "Potok pri Komendi 8",
-      "lat": 46.205702,
-      "lng": 14.52399,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.22,
-        "dizel-premium": 1.279,
-        "avtoplin-lpg": null,
-        "KOEL": 0.898
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1218"
-    },
-    {
       "pk": 1571,
       "franchise": 4,
       "name": "BS MOL DRAMLJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2092,
+      "franchise": 1,
+      "name": "PETROL TRZIN",
+      "address": "LJUBLJANSKA CESTA 50",
+      "lat": 46.123204,
+      "lng": 14.553637,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.122,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.645,
+        "KOEL": 0.898
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 20:00-24:00\r\nsobote 18:00-24:00\r\nnedelje in prazniki 18:00-24:00",
+      "zip_code": "1236"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1550,
-      "franchise": 4,
-      "name": "BS MOL CELJE, KIDRIČEVA",
-      "address": "KIDRIČEVA ULICA 40",
-      "lat": 46.234044,
-      "lng": 15.2961655,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.123,
-        "98": null,
-        "100": 1.217,
-        "dizel-premium": 1.279,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00 - 22:00\r\nSOBOTA 05:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 2062,
       "franchise": 1,
       "name": "PETROL DOMŽALE - LJUBLJANSKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2073,
+      "franchise": 1,
+      "name": "PETROL RATEČE",
+      "address": "RATEČE 88A",
+      "lat": 46.497066,
+      "lng": 13.708622,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.122,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.898
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-18:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 09:00-16:00",
+      "zip_code": "4283"
     }
   ],
   "position": null
