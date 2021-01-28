@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 1926,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA ZAHOD",
-      "address": "LJUBLJANSKA CESTA 74",
-      "lat": 46.38470725,
-      "lng": 15.5654534,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.122,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.898
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2182,
       "franchise": 1,
       "name": "PETROL BISTRICA OB SOTLI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "2319"
+    },
+    {
+      "pk": 2194,
+      "franchise": 1,
+      "name": "PETROL VELENJE - PARTIZANSKA",
+      "address": "PARTIZANSKA CESTA 6",
+      "lat": 46.35917056,
+      "lng": 15.10632852,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.122,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "3320"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2238,
-      "franchise": 3,
-      "name": "BS MAXEN KOPER",
-      "address": "Ulica 15. maja bš",
-      "lat": 45.5371584,
-      "lng": 13.7323296,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "6000"
-    },
-    {
       "pk": 1983,
       "franchise": 1,
       "name": "PETROL GOLO BRDO V BRDIH",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "1332"
+    },
+    {
+      "pk": 1995,
+      "franchise": 1,
+      "name": "PETROL ILIRSKA BISTRICA",
+      "address": "VILHARJEVA CESTA 33C",
+      "lat": 45.575503,
+      "lng": 14.23202,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.122,
+        "98": null,
+        "100": 1.205,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.645,
+        "KOEL": 0.898
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "6250"
     }
   ],
   "position": null

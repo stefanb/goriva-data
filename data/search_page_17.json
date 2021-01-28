@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 1995,
-      "franchise": 1,
-      "name": "PETROL ILIRSKA BISTRICA",
-      "address": "VILHARJEVA CESTA 33C",
-      "lat": 45.575503,
-      "lng": 14.23202,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.122,
-        "98": null,
-        "100": 1.205,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.645,
-        "KOEL": 0.898
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "6250"
-    },
-    {
       "pk": 2251,
       "franchise": 3,
       "name": "BS MAXEN ŽUŽEMBERK",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2271,
+      "franchise": 2,
+      "name": "OMV MARIBOR STUDENCI",
+      "address": "Ulica heroja Šercerja 60",
+      "lat": 46.548645,
+      "lng": 15.620617,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": 0.644,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Pet 05:00-22:00; Sob, Ned, Praz. 06:00-22:00",
+      "zip_code": "2000"
     }
   ],
   "position": null
