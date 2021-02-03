@@ -466,27 +466,6 @@
       "zip_code": "5000"
     },
     {
-      "pk": 2237,
-      "franchise": 3,
-      "name": "BS MAXEN TRŽIČ",
-      "address": "Cesta Ste Marie aux Mines bš",
-      "lat": 46.3583296,
-      "lng": 14.2978288,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4290"
-    },
-    {
       "pk": 1982,
       "franchise": 1,
       "name": "PETROL AJDOVŠČINA - GORIŠKA",
@@ -508,12 +487,12 @@
       "zip_code": "5270"
     },
     {
-      "pk": 2238,
-      "franchise": 3,
-      "name": "BS MAXEN KOPER",
-      "address": "Ulica 15. maja bš",
-      "lat": 45.5371584,
-      "lng": 13.7323296,
+      "pk": 1983,
+      "franchise": 1,
+      "name": "PETROL GOLO BRDO V BRDIH",
+      "address": "GOLO BRDO 10B",
+      "lat": 46.054382,
+      "lng": 13.497999,
       "prices": {
         "95": 1.074,
         "dizel": 1.124,
@@ -525,8 +504,29 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "6000"
+      "open_hours": "vsak delavnik 08:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5212"
+    },
+    {
+      "pk": 1984,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
+      "address": "VOJKOVA CESTA 52",
+      "lat": 45.96223076,
+      "lng": 13.64898236,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.204,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
+      "zip_code": "5000"
     }
   ],
   "position": null
