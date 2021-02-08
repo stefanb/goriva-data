@@ -4,132 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 771,
-      "franchise": 2,
-      "name": "OMV BREŽICE",
-      "address": "C.Svobode 35",
-      "lat": 45.913737,
-      "lng": 15.595365,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.22,
-        "dizel-premium": 1.279,
-        "avtoplin-lpg": null,
-        "KOEL": 0.889
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8250"
-    },
-    {
-      "pk": 2051,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - POLJE",
-      "address": "ZALOŠKA CESTA 166",
-      "lat": 46.05480571,
-      "lng": 14.57560918,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.891
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00",
-      "zip_code": "1260"
-    },
-    {
-      "pk": 772,
-      "franchise": 2,
-      "name": "OMV CELJE AERO",
-      "address": "Dečkova c. 39",
-      "lat": 46.24062,
-      "lng": 15.25644,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.22,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2052,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRNOVO",
-      "address": "RIHARJEVA ULICA 31",
-      "lat": 46.03925962,
-      "lng": 14.50003317,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.204,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-17:00\r\nsobote 07:00-12:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 773,
-      "franchise": 2,
-      "name": "OMV CELJE EMO",
-      "address": "Mariborska c. 84",
-      "lat": 46.23923,
-      "lng": 15.27456,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.22,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.889
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2053,
-      "franchise": 1,
-      "name": "PETROL DOBROVA",
-      "address": "POLHOGRAJSKA CESTA 12",
-      "lat": 46.0520304,
-      "lng": 14.42151956,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.891
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-13:00",
-      "zip_code": "1356"
-    },
-    {
       "pk": 774,
       "franchise": 2,
       "name": "OMV CELJE MEDLOG",
@@ -151,27 +25,6 @@
       "zip_code": "3000"
     },
     {
-      "pk": 2054,
-      "franchise": 1,
-      "name": "PETROL PODPEČ",
-      "address": "JEZERO 103",
-      "lat": 45.973133,
-      "lng": 14.422124,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.891
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "1352"
-    },
-    {
       "pk": 775,
       "franchise": 2,
       "name": "OMV ČRNOMELJ",
@@ -191,27 +44,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8340"
-    },
-    {
-      "pk": 2055,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
-      "address": "DUNAJSKA CESTA 460",
-      "lat": 46.10458934,
-      "lng": 14.54127278,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-19:30\r\nsobote 07:00-13:00",
-      "zip_code": "1231"
     },
     {
       "pk": 2311,
@@ -256,48 +88,6 @@
       "zip_code": "6215"
     },
     {
-      "pk": 2056,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
-      "address": "DUNAJSKA CESTA 70",
-      "lat": 46.06882986,
-      "lng": 14.51074492,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.204,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2057,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
-      "address": "DOLENJSKA CESTA 242F",
-      "lat": 46.01990756,
-      "lng": 14.54219888,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2313,
       "franchise": 14,
       "name": "Zibis d.o.o.",
@@ -317,27 +107,6 @@
       "direction": "",
       "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
       "zip_code": "2283"
-    },
-    {
-      "pk": 2058,
-      "franchise": 1,
-      "name": "PETROL ZADVOR",
-      "address": "CESTA II. GRUPE ODREDOV 48",
-      "lat": 46.03588324,
-      "lng": 14.59614121,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
-      "zip_code": "1261"
     },
     {
       "pk": 779,
@@ -466,27 +235,6 @@
       "zip_code": "3250"
     },
     {
-      "pk": 2061,
-      "franchise": 1,
-      "name": "PETROL BLED - LJUBLJANSKA JUG",
-      "address": "LJUBLJANSKA CESTA 30",
-      "lat": 46.36846888,
-      "lng": 14.11723896,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.204,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.891
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "4260"
-    },
-    {
       "pk": 2317,
       "franchise": 23,
       "name": "BS Lemerje",
@@ -527,6 +275,258 @@
       "direction": "",
       "open_hours": "PON - PET 05:00 - 22:00\r\nSOBOTA 05:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 783,
+      "franchise": 2,
+      "name": "OMV DUTOVLJE",
+      "address": "Dutovlje 3b",
+      "lat": 45.755992,
+      "lng": 13.835896,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.889
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
+      "zip_code": "6221"
+    },
+    {
+      "pk": 1551,
+      "franchise": 4,
+      "name": "BS MOL LITIJA",
+      "address": "LJUBLJANSKA CESTA 10B",
+      "lat": 46.057104,
+      "lng": 14.822957,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1270"
+    },
+    {
+      "pk": 1552,
+      "franchise": 4,
+      "name": "BS MOL KOČEVJE",
+      "address": "LJUBLJANSKA CESTA 40",
+      "lat": 45.6488405,
+      "lng": 14.8544269,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1330"
+    },
+    {
+      "pk": 1553,
+      "franchise": 4,
+      "name": "BS MOL SLOVENSKA BISTRICA",
+      "address": "LJUBLJANSKA CESTA 91",
+      "lat": 46.38245,
+      "lng": 15.563571,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1554,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "MALA NOVA ULICA 1",
+      "lat": 46.6560676,
+      "lng": 16.1751469,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 05:00 - 22:00\r\nnedelja in prazniki 07:00 - 20:00",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 1555,
+      "franchise": 4,
+      "name": "BS MOL RIBNICA",
+      "address": "MERHARJEVA ULICA 13",
+      "lat": 45.738688,
+      "lng": 14.733154,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1310"
+    },
+    {
+      "pk": 1556,
+      "franchise": 4,
+      "name": "BS MOL LOGATEC",
+      "address": "TRŽAŠKA 74A",
+      "lat": 45.9166669,
+      "lng": 14.218824,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 789,
+      "franchise": 2,
+      "name": "OMV FERNETIČI",
+      "address": "Partizanska c. 151",
+      "lat": 45.701768,
+      "lng": 13.841505,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": 0.644,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Sežana",
+      "open_hours": "Pon-Ned 07:00-22:00",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 1557,
+      "franchise": 4,
+      "name": "BS MOL CELJE, MARIBORSKA",
+      "address": "MARIBORSKA CESTA 111",
+      "lat": 46.2451779,
+      "lng": 15.2776158,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - NED 00:00-24:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 1558,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "LENDAVSKA ULICA 75",
+      "lat": 46.6676096,
+      "lng": 16.1767565,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 792,
+      "franchise": 2,
+      "name": "OMV GEDEROVCI",
+      "address": "Gederovci 17a",
+      "lat": 46.67921,
+      "lng": 16.056079,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.889
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 5:00-22:00; Sob 6:00-22:00;Ned/Praz 7:00-21:00",
+      "zip_code": "9251"
+    },
+    {
+      "pk": 1560,
+      "franchise": 4,
+      "name": "BS MOL ROŽNA DOLINA",
+      "address": "ULICA ANGELA BESEDNJAKA 8A",
+      "lat": 45.9404582,
+      "lng": 13.6399226,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.217,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.645,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "5000"
     }
   ],
   "position": null

@@ -201,7 +201,7 @@
       "lng": 15.667885,
       "prices": {
         "95": 1.044,
-        "dizel": 1.124,
+        "dizel": 1.145,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -222,7 +222,7 @@
       "lng": 15.576529,
       "prices": {
         "95": 1.044,
-        "dizel": 1.124,
+        "dizel": 1.145,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -424,27 +424,6 @@
       "zip_code": "4205"
     },
     {
-      "pk": 2048,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TIVOLSKA",
-      "address": "TIVOLSKA CESTA 43",
-      "lat": 46.0580724,
-      "lng": 14.50344546,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.204,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.645,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 769,
       "franchise": 2,
       "name": "OMV BRESTOVICA",
@@ -464,27 +443,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
       "zip_code": "6223"
-    },
-    {
-      "pk": 2049,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ŠMARTINSKA 150",
-      "address": "ŠMARTINSKA CESTA 150",
-      "lat": 46.06921194,
-      "lng": 14.54248084,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.204,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.891
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "1000"
     },
     {
       "pk": 770,
@@ -508,25 +466,67 @@
       "zip_code": "1351"
     },
     {
-      "pk": 2050,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - CELOVŠKA 148",
-      "address": "CELOVŠKA CESTA 148",
-      "lat": 46.07303365,
-      "lng": 14.48691567,
+      "pk": 771,
+      "franchise": 2,
+      "name": "OMV BREŽICE",
+      "address": "C.Svobode 35",
+      "lat": 45.913737,
+      "lng": 15.595365,
       "prices": {
         "95": 1.074,
         "dizel": 1.124,
         "98": null,
-        "100": null,
+        "100": 1.22,
+        "dizel-premium": 1.279,
+        "avtoplin-lpg": null,
+        "KOEL": 0.889
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8250"
+    },
+    {
+      "pk": 772,
+      "franchise": 2,
+      "name": "OMV CELJE AERO",
+      "address": "Dečkova c. 39",
+      "lat": 46.24062,
+      "lng": 15.25644,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,
-      "direction": "Ljubljana -> Kranj",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-13:00",
-      "zip_code": "1000"
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 773,
+      "franchise": 2,
+      "name": "OMV CELJE EMO",
+      "address": "Mariborska c. 84",
+      "lat": 46.23923,
+      "lng": 15.27456,
+      "prices": {
+        "95": 1.074,
+        "dizel": 1.124,
+        "98": null,
+        "100": 1.22,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.889
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
+      "zip_code": "3000"
     }
   ],
   "position": null
