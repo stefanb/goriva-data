@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1578,
-      "franchise": 4,
-      "name": "BS MOL LJUTOMER",
-      "address": "KOLODVORSKA ULICA 2A",
-      "lat": 46.526083,
-      "lng": 16.193583,
-      "prices": {
-        "95": 1.074,
-        "dizel": 1.124,
-        "98": null,
-        "100": 1.217,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00 - 21:00\r\nSOBOTA 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "9240"
-    },
-    {
       "pk": 1579,
       "franchise": 4,
       "name": "BS MOL ŠENTILJ",
@@ -485,6 +464,27 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
       "zip_code": "3270"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.09,
+        "dizel": 1.142,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.91
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     },
     {
       "pk": 2315,
