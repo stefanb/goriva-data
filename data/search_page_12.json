@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 1999,
-      "franchise": 1,
-      "name": "PETROL CERKNO",
-      "address": "GORIŠKA CESTA 37",
-      "lat": 46.11808413,
-      "lng": 13.97148427,
-      "prices": {
-        "95": 1.095,
-        "dizel": 1.147,
-        "98": null,
-        "100": 1.223,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.912
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5282"
-    },
-    {
       "pk": 2255,
       "franchise": 3,
       "name": "BS MAXEN NOVO MESTO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 08:00-17:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2024,
+      "franchise": 1,
+      "name": "PETROL PTUJ - DORNAVSKA",
+      "address": "DORNAVSKA CESTA 6B",
+      "lat": 46.42336766,
+      "lng": 15.88908401,
+      "prices": {
+        "95": 1.095,
+        "dizel": 1.147,
+        "98": null,
+        "100": 1.223,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.912
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2250"
     }
   ],
   "position": null
