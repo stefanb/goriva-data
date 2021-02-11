@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2211,
-      "franchise": 1,
-      "name": "PETROL MISLINJA",
-      "address": "ŠENTLENART 18",
-      "lat": 46.44319582,
-      "lng": 15.19195307,
-      "prices": {
-        "95": 1.095,
-        "dizel": 1.147,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.912
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "2382"
-    },
-    {
       "pk": 1956,
       "franchise": 1,
       "name": "PETROL MARIBOR - PTUJSKA 188",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "9223"
+    },
+    {
+      "pk": 2224,
+      "franchise": 1,
+      "name": "PETROL LOŠKI POTOK",
+      "address": "MALI LOG 2B",
+      "lat": 45.717099,
+      "lng": 14.58622,
+      "prices": {
+        "95": 1.095,
+        "dizel": 1.147,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.912
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 08:00-12:00",
+      "zip_code": "1318"
     }
   ],
   "position": null

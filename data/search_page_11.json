@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1992,
-      "franchise": 1,
-      "name": "PETROL LIPICA",
-      "address": "LIPICA 26",
-      "lat": 45.6554886,
-      "lng": 13.88112209,
-      "prices": {
-        "95": 1.095,
-        "dizel": 1.147,
-        "98": null,
-        "100": 1.223,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.912
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-20:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 1993,
       "franchise": 1,
       "name": "PETROL SEŽANA",
@@ -527,6 +506,27 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2231"
+    },
+    {
+      "pk": 2021,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
+      "address": "LJUBLJANSKA CESTA 45",
+      "lat": 46.387184,
+      "lng": 15.569006,
+      "prices": {
+        "95": 1.095,
+        "dizel": 1.147,
+        "98": null,
+        "100": 1.223,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.645,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2310"
     }
   ],
   "position": null
