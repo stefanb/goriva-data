@@ -4,25 +4,25 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 864,
-      "franchise": 2,
-      "name": "OMV ŠKOFIJE BLOK ZAHOD",
-      "address": "Sp.Škofije 256a",
-      "lat": 45.579851,
-      "lng": 13.796288,
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
       "prices": {
-        "95": 1.129,
-        "dizel": 1.184,
+        "95": 1.136,
+        "dizel": 1.19,
         "98": null,
-        "100": 1.289,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
+        "100": 1.284,
+        "dizel-premium": 1.422,
+        "avtoplin-lpg": 0.655,
         "KOEL": null
       },
       "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6281"
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
     },
     {
       "pk": 777,
@@ -151,27 +151,6 @@
       "zip_code": "6210"
     },
     {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.139,
-        "dizel": 1.18,
-        "98": null,
-        "100": 1.289,
-        "dizel-premium": 1.419,
-        "avtoplin-lpg": 0.645,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
       "pk": 793,
       "franchise": 2,
       "name": "OMV GRABONOŠ",
@@ -212,27 +191,6 @@
       "direction": "Grosuplje",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "1290"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.139,
-        "dizel": 1.18,
-        "98": null,
-        "100": 1.289,
-        "dizel-premium": 1.419,
-        "avtoplin-lpg": 0.639,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
     },
     {
       "pk": 823,
@@ -403,6 +361,48 @@
       "zip_code": "5261"
     },
     {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.14,
+        "dizel": 1.19,
+        "98": null,
+        "100": 1.289,
+        "dizel-premium": 1.429,
+        "avtoplin-lpg": 0.655,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 1568,
+      "franchise": 4,
+      "name": "BS MOL LORMANJE",
+      "address": "LORMANJE 22D",
+      "lat": 46.566917,
+      "lng": 15.8255,
+      "prices": {
+        "95": 1.14,
+        "dizel": 1.19,
+        "98": null,
+        "100": 1.289,
+        "dizel-premium": 1.429,
+        "avtoplin-lpg": 0.649,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Maribor",
+      "open_hours": "pon - ned 00:00 - 24:00",
+      "zip_code": "2230"
+    },
+    {
       "pk": 2308,
       "franchise": 7,
       "name": "Tankomat Grosuplje",
@@ -411,7 +411,7 @@
       "lng": 14.659423828125,
       "prices": {
         "95": null,
-        "dizel": 1.147,
+        "dizel": 1.167,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -432,7 +432,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.147,
+        "dizel": 1.167,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -453,7 +453,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.147,
+        "dizel": 1.167,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -495,7 +495,7 @@
       "lng": 13.6284418,
       "prices": {
         "95": null,
-        "dizel": 1.145,
+        "dizel": 1.165,
         "98": null,
         "100": null,
         "dizel-premium": null,
