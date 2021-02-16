@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2212,
-      "franchise": 1,
-      "name": "PETROL MUTA",
-      "address": "KOROŠKA CESTA 18",
-      "lat": 46.60459809,
-      "lng": 15.1642458,
-      "prices": {
-        "95": 1.106,
-        "dizel": 1.167,
-        "98": null,
-        "100": 1.234,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.655,
-        "KOEL": 0.932
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "2366"
-    },
-    {
       "pk": 1957,
       "franchise": 1,
       "name": "PETROL KOBARID",
@@ -527,6 +506,27 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "9233"
+    },
+    {
+      "pk": 2225,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - TOPLIŠKA",
+      "address": "TOPLIŠKA CESTA 9",
+      "lat": 45.79863637,
+      "lng": 15.15095997,
+      "prices": {
+        "95": 1.106,
+        "dizel": 1.167,
+        "98": null,
+        "100": 1.234,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.932
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:30-21:00",
+      "zip_code": "8000"
     }
   ],
   "position": null

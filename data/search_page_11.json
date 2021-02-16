@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2243,
-      "franchise": 3,
-      "name": "BS MAXEN GRAD",
-      "address": "Grad bš",
-      "lat": 46.7978208,
-      "lng": 16.0886368,
-      "prices": {
-        "95": 1.106,
-        "dizel": 1.167,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9264"
-    },
-    {
       "pk": 1988,
       "franchise": 1,
       "name": "PETROL DESKLE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2001,
+      "franchise": 1,
+      "name": "PETROL VIPAVA",
+      "address": "GORIŠKA CESTA 41",
+      "lat": 45.8488706,
+      "lng": 13.95468545,
+      "prices": {
+        "95": 1.106,
+        "dizel": 1.167,
+        "98": null,
+        "100": 1.234,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.932
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5271"
     }
   ],
   "position": null
