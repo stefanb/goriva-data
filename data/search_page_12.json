@@ -4,90 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2254,
-      "franchise": 3,
-      "name": "BS MAXEN RIBNICA",
-      "address": "Gorenjska cesta bš",
-      "lat": 45.7490272,
-      "lng": 14.7190224,
-      "prices": {
-        "95": 1.106,
-        "dizel": 1.167,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1310"
-    },
-    {
-      "pk": 1999,
-      "franchise": 1,
-      "name": "PETROL CERKNO",
-      "address": "GORIŠKA CESTA 37",
-      "lat": 46.11808413,
-      "lng": 13.97148427,
-      "prices": {
-        "95": 1.106,
-        "dizel": 1.167,
-        "98": null,
-        "100": 1.234,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.932
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5282"
-    },
-    {
-      "pk": 2255,
-      "franchise": 3,
-      "name": "BS MAXEN NOVO MESTO",
-      "address": "Mirnopeška cesta bš",
-      "lat": 45.8202208,
-      "lng": 15.1490384,
-      "prices": {
-        "95": 1.106,
-        "dizel": 1.167,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 2256,
-      "franchise": 3,
-      "name": "BS MAXEN KRANJ",
-      "address": "Cesta Staneta Žagarja bš",
-      "lat": 46.24224,
-      "lng": 14.3774704,
-      "prices": {
-        "95": 1.106,
-        "dizel": 1.167,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4000"
-    },
-    {
       "pk": 2001,
       "franchise": 1,
       "name": "PETROL VIPAVA",
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 08:00-17:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2024,
+      "franchise": 1,
+      "name": "PETROL PTUJ - DORNAVSKA",
+      "address": "DORNAVSKA CESTA 6B",
+      "lat": 46.42336766,
+      "lng": 15.88908401,
+      "prices": {
+        "95": 1.106,
+        "dizel": 1.167,
+        "98": null,
+        "100": 1.234,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.932
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2250"
+    },
+    {
+      "pk": 2025,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - TRŽAŠKA 11",
+      "address": "TRŽAŠKA CESTA 11",
+      "lat": 46.53817035,
+      "lng": 15.64737991,
+      "prices": {
+        "95": 1.106,
+        "dizel": 1.167,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.655,
+        "KOEL": 0.932
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2028,
+      "franchise": 1,
+      "name": "PETROL SLIVNICA VZHOD",
+      "address": "LJUBLJANSKA CESTA 61",
+      "lat": 46.493923,
+      "lng": 15.652196,
+      "prices": {
+        "95": 1.106,
+        "dizel": 1.167,
+        "98": null,
+        "100": 1.234,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.655,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2311"
+    },
+    {
+      "pk": 2029,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA - PLESE",
+      "address": "PANONSKA ULICA 5",
+      "lat": 46.656739,
+      "lng": 16.178624,
+      "prices": {
+        "95": 1.106,
+        "dizel": 1.167,
+        "98": null,
+        "100": 1.234,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.655,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "9000"
     }
   ],
   "position": null
