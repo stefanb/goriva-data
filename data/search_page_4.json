@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 1575,
-      "franchise": 4,
-      "name": "BS MOL OTIŠKI VRH",
-      "address": "OTIŠKI VRH 52",
-      "lat": 46.5695,
-      "lng": 15.036667,
-      "prices": {
-        "95": 1.129,
-        "dizel": 1.185,
-        "98": null,
-        "100": 1.272,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - pet 05:00 - 23:00\r\nsobota 06:00 - 22:00\r\nnedelja in prazniki 07:00 - 22:00",
-      "zip_code": "2373"
-    },
-    {
       "pk": 808,
       "franchise": 2,
       "name": "OMV KOZINA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "3327"
+    },
+    {
+      "pk": 820,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA ZALOŠKA SEVER",
+      "address": "Zaloška 157",
+      "lat": 46.056444,
+      "lng": 14.55814,
+      "prices": {
+        "95": 1.129,
+        "dizel": 1.189,
+        "98": null,
+        "100": 1.269,
+        "dizel-premium": 1.337,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1000"
     }
   ],
   "position": null
