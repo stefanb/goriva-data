@@ -256,27 +256,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "Zibis d.o.o.",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.109,
-        "dizel": 1.168,
-        "98": 1.234,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.931
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
-      "zip_code": "2283"
-    },
-    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 773,
+      "franchise": 2,
+      "name": "OMV CELJE EMO",
+      "address": "Mariborska c. 84",
+      "lat": 46.23923,
+      "lng": 15.27456,
+      "prices": {
+        "95": 1.129,
+        "dizel": 1.189,
+        "98": null,
+        "100": 1.269,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.948
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
       "zip_code": "3000"
     }
   ],
