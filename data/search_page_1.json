@@ -14,7 +14,7 @@
         "95": 1.069,
         "dizel": 1.149,
         "98": null,
-        "100": 1.129,
+        "100": 1.219,
         "dizel-premium": null,
         "avtoplin-lpg": 0.53,
         "KOEL": null
@@ -65,27 +65,6 @@
       "direction": "Izvoz Slovenska Bistrica jug",
       "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
       "zip_code": "2310"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.104,
-        "dizel": 1.165,
-        "98": null,
-        "100": 1.234,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.93
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2288,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON - PET 05:00 - 22:00\r\nSOBOTA 05:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 1551,
+      "franchise": 4,
+      "name": "BS MOL LITIJA",
+      "address": "LJUBLJANSKA CESTA 10B",
+      "lat": 46.057104,
+      "lng": 14.822957,
+      "prices": {
+        "95": 1.129,
+        "dizel": 1.185,
+        "98": null,
+        "100": 1.272,
+        "dizel-premium": 1.337,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1270"
     }
   ],
   "position": null
