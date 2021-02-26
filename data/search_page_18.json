@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 869,
-      "franchise": 2,
-      "name": "OMV TREBNJE",
-      "address": "Obrtniška 28",
-      "lat": 45.910462,
-      "lng": 15.025649,
-      "prices": {
-        "95": 1.134,
-        "dizel": 1.189,
-        "98": null,
-        "100": 1.274,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.948
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8210"
-    },
-    {
       "pk": 870,
       "franchise": 2,
       "name": "OMV VELENJE GORENJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "3320"
+    },
+    {
+      "pk": 2253,
+      "franchise": 3,
+      "name": "BS MAXEN LOGATEC",
+      "address": "Tržaška cesta bš",
+      "lat": 45.9388,
+      "lng": 14.2365616,
+      "prices": {
+        "95": 1.134,
+        "dizel": 1.189,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1370"
     }
   ],
   "position": null
