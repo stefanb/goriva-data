@@ -109,6 +109,27 @@
       "zip_code": "6280"
     },
     {
+      "pk": 813,
+      "franchise": 2,
+      "name": "OMV LESCE",
+      "address": "Hraška c. 17",
+      "lat": 46.365369,
+      "lng": 14.16032,
+      "prices": {
+        "95": 1.134,
+        "dizel": 1.189,
+        "98": null,
+        "100": 1.274,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4248"
+    },
+    {
       "pk": 814,
       "franchise": 2,
       "name": "OMV LIPOVCI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz. zaprto; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz. zaprto",
       "zip_code": "1385"
-    },
-    {
-      "pk": 835,
-      "franchise": 2,
-      "name": "OMV NOVO MESTO",
-      "address": "Levičnikova c. 4",
-      "lat": 45.804054,
-      "lng": 15.181842,
-      "prices": {
-        "95": 1.134,
-        "dizel": 1.189,
-        "98": null,
-        "100": 1.274,
-        "dizel-premium": 1.337,
-        "avtoplin-lpg": null,
-        "KOEL": 0.948
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-23:00 (S,N,praz 6-22)",
-      "zip_code": "8000"
     }
   ],
   "position": null
