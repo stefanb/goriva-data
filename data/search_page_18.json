@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 868,
+      "franchise": 2,
+      "name": "OMV TEPANJE",
+      "address": "Tepanje 4b",
+      "lat": 46.340828,
+      "lng": 15.469587,
+      "prices": {
+        "95": 1.134,
+        "dizel": 1.189,
+        "98": null,
+        "100": 1.274,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Slovenske Konjice",
+      "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
+      "zip_code": "3210"
+    },
+    {
       "pk": 869,
       "franchise": 2,
       "name": "OMV TREBNJE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8360"
-    },
-    {
-      "pk": 2252,
-      "franchise": 3,
-      "name": "BS MAXEN VELENJE",
-      "address": "Črnova bš",
-      "lat": 46.347808,
-      "lng": 15.1495248,
-      "prices": {
-        "95": 1.134,
-        "dizel": 1.189,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "3320"
     }
   ],
   "position": null

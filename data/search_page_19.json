@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2252,
+      "franchise": 3,
+      "name": "BS MAXEN VELENJE",
+      "address": "Črnova bš",
+      "lat": 46.347808,
+      "lng": 15.1495248,
+      "prices": {
+        "95": 1.134,
+        "dizel": 1.189,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "3320"
+    },
+    {
       "pk": 2253,
       "franchise": 3,
       "name": "BS MAXEN LOGATEC",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8250"
-    },
-    {
-      "pk": 2162,
-      "franchise": 1,
-      "name": "PETROL OBREŽJE AC - VZHOD",
-      "address": "JESENICE 32A",
-      "lat": 45.85448,
-      "lng": 15.686297,
-      "prices": {
-        "95": 1.162,
-        "dizel": 1.208,
-        "98": null,
-        "100": 1.313,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8261"
     }
   ],
   "position": null

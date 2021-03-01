@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2016,
+      "franchise": 1,
+      "name": "PETROL AJDOVŠČINA - VIPAVSKA",
+      "address": "VIPAVSKA CESTA 4C",
+      "lat": 45.88288,
+      "lng": 13.90989,
+      "prices": {
+        "95": 1.132,
+        "dizel": 1.186,
+        "98": null,
+        "100": 1.263,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.655,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5270"
+    },
+    {
       "pk": 2272,
       "franchise": 1,
       "name": "PETROL BLED - SELIŠKA",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "Ljubljana -> Koper",
       "open_hours": "vsak delavnik 05:00-23:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2047,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - CELOVŠKA 251",
-      "address": "CELOVŠKA CESTA 251",
-      "lat": 46.08132492,
-      "lng": 14.47901865,
-      "prices": {
-        "95": 1.132,
-        "dizel": 1.186,
-        "98": null,
-        "100": 1.263,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "1000"
     }
   ],
