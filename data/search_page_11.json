@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1988,
-      "franchise": 1,
-      "name": "PETROL DESKLE",
-      "address": "SREBRNIČEVA ULICA 4",
-      "lat": 46.05406598,
-      "lng": 13.61904093,
-      "prices": {
-        "95": 1.132,
-        "dizel": 1.186,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.95
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5210"
-    },
-    {
       "pk": 1989,
       "franchise": 1,
       "name": "PETROL TOLMIN",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2016,
+      "franchise": 1,
+      "name": "PETROL AJDOVŠČINA - VIPAVSKA",
+      "address": "VIPAVSKA CESTA 4C",
+      "lat": 45.88288,
+      "lng": 13.90989,
+      "prices": {
+        "95": 1.132,
+        "dizel": 1.186,
+        "98": null,
+        "100": 1.263,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.655,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5270"
     }
   ],
   "position": null

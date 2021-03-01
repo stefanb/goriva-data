@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.162,
-        "dizel": 1.208,
-        "98": null,
-        "100": 1.313,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.655,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
       "pk": 2032,
       "franchise": 1,
       "name": "PETROL VIPAVA AC - SEVER",
@@ -485,6 +464,27 @@
       "direction": "",
       "open_hours": "neprenehoma 24/7",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2312,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Leskovec",
+      "address": "Leskovec 15",
+      "lat": 46.259264,
+      "lng": 15.310556,
+      "prices": {
+        "95": null,
+        "dizel": 1.127,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.57,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Celje",
+      "open_hours": "PON. - PET.      7.00 - 17.00        \r\nSOB.                 7.00 - 12.00",
+      "zip_code": "3000"
     },
     {
       "pk": 2318,
