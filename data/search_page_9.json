@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2210,
-      "franchise": 1,
-      "name": "PETROL PREVALJE",
-      "address": "PERZONALI 49",
-      "lat": 46.54278188,
-      "lng": 14.90387241,
-      "prices": {
-        "95": 1.15,
-        "dizel": 1.196,
-        "98": null,
-        "100": 1.278,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.96
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2391"
-    },
-    {
-      "pk": 1955,
-      "franchise": 1,
-      "name": "PETROL MOST NA SOČI",
-      "address": "MOST NA SOČI 51B",
-      "lat": 46.15283904,
-      "lng": 13.74145196,
-      "prices": {
-        "95": 1.15,
-        "dizel": 1.196,
-        "98": null,
-        "100": 1.278,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 17:30-19:00",
-      "zip_code": "5216"
-    },
-    {
       "pk": 2211,
       "franchise": 1,
       "name": "PETROL MISLINJA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-11:30",
       "zip_code": "9242"
+    },
+    {
+      "pk": 2223,
+      "franchise": 1,
+      "name": "PETROL PETRINA",
+      "address": "PETRINA 10",
+      "lat": 45.46509102,
+      "lng": 14.8550985,
+      "prices": {
+        "95": 1.15,
+        "dizel": 1.196,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.96
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 11:00-13:00",
+      "zip_code": "1336"
+    },
+    {
+      "pk": 1968,
+      "franchise": 1,
+      "name": "PETROL DOBROVNIK",
+      "address": "DOBROVNIK 4A",
+      "lat": 46.65099893,
+      "lng": 16.35338368,
+      "prices": {
+        "95": 1.15,
+        "dizel": 1.196,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.96
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "9223"
     }
   ],
   "position": null
