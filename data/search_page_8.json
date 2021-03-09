@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1937,
-      "franchise": 1,
-      "name": "PETROL STARŠE",
-      "address": "STARŠE 78A",
-      "lat": 46.46753906,
-      "lng": 15.76300861,
-      "prices": {
-        "95": 1.16,
-        "dizel": 1.198,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.961
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00",
-      "zip_code": "2205"
-    },
-    {
       "pk": 2193,
       "franchise": 1,
       "name": "PETROL VELENJE - CELJSKA VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2230"
+    },
+    {
+      "pk": 2207,
+      "franchise": 1,
+      "name": "PETROL RAVNE NA KOROŠKEM",
+      "address": "KOROŠKA CESTA 4A",
+      "lat": 46.54726828,
+      "lng": 14.96495101,
+      "prices": {
+        "95": 1.16,
+        "dizel": 1.198,
+        "98": null,
+        "100": 1.292,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.655,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2390"
     }
   ],
   "position": null

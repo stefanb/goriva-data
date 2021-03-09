@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 1995,
-      "franchise": 1,
-      "name": "PETROL ILIRSKA BISTRICA",
-      "address": "VILHARJEVA CESTA 33C",
-      "lat": 45.575503,
-      "lng": 14.23202,
-      "prices": {
-        "95": 1.16,
-        "dizel": 1.198,
-        "98": null,
-        "100": 1.292,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.655,
-        "KOEL": 0.961
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "6250"
-    },
-    {
       "pk": 2251,
       "franchise": 3,
       "name": "BS MAXEN ŽUŽEMBERK",
@@ -464,6 +443,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.16,
+        "dizel": 1.198,
+        "98": 1.263,
+        "100": 1.292,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.961
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,
