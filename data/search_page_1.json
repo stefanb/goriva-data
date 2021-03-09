@@ -25,48 +25,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 2297,
-      "franchise": 16,
-      "name": "Agas Maribor",
-      "address": "Perhavčeva ulica 15",
-      "lat": 46.525107,
-      "lng": 15.667885,
-      "prices": {
-        "95": 1.12,
-        "dizel": 1.196,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.564,
-        "KOEL": 0.91
-      },
-      "distance": null,
-      "direction": "Maribor Center",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.12,
-        "dizel": 1.196,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.519,
-        "KOEL": 0.91
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2313,
       "franchise": 17,
       "name": "HOJNIK Oil BS Zavrč",
@@ -86,6 +44,48 @@
       "direction": "",
       "open_hours": "pon. - sob. : 7:00 - 19:00\r\nned. zaprto",
       "zip_code": "2283"
+    },
+    {
+      "pk": 2297,
+      "franchise": 16,
+      "name": "Agas Maribor",
+      "address": "Perhavčeva ulica 15",
+      "lat": 46.525107,
+      "lng": 15.667885,
+      "prices": {
+        "95": 1.13,
+        "dizel": 1.198,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.564,
+        "KOEL": 0.91
+      },
+      "distance": null,
+      "direction": "Maribor Center",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2299,
+      "franchise": 16,
+      "name": "Agas Slovenska Bistrica",
+      "address": "Žolgarjeva ulica 25",
+      "lat": 46.385204,
+      "lng": 15.576529,
+      "prices": {
+        "95": 1.13,
+        "dizel": 1.198,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.519,
+        "KOEL": 0.91
+      },
+      "distance": null,
+      "direction": "Izvoz Slovenska Bistrica jug",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2310"
     },
     {
       "pk": 2288,
