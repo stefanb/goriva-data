@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # https://goriva.si/api/v1/search/
 # https://ec.haxx.se/cmdline/cmdline-globbing
