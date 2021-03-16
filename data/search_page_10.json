@@ -340,27 +340,6 @@
       "zip_code": "5000"
     },
     {
-      "pk": 2237,
-      "franchise": 3,
-      "name": "BS MAXEN TRŽIČ",
-      "address": "Cesta Ste Marie aux Mines bš",
-      "lat": 46.3583296,
-      "lng": 14.2978288,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.216,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4290"
-    },
-    {
       "pk": 1982,
       "franchise": 1,
       "name": "PETROL AJDOVŠČINA - GORIŠKA",
@@ -380,27 +359,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "5270"
-    },
-    {
-      "pk": 2238,
-      "franchise": 3,
-      "name": "BS MAXEN KOPER",
-      "address": "Ulica 15. maja bš",
-      "lat": 45.5371584,
-      "lng": 13.7323296,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.216,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "6000"
     },
     {
       "pk": 1983,
@@ -424,27 +382,6 @@
       "zip_code": "5212"
     },
     {
-      "pk": 2239,
-      "franchise": 3,
-      "name": "BS MAXEN NIZKA",
-      "address": "Nizka bš",
-      "lat": 46.3157792,
-      "lng": 14.9116624,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.216,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "3332"
-    },
-    {
       "pk": 1984,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
@@ -464,27 +401,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
       "zip_code": "5000"
-    },
-    {
-      "pk": 2240,
-      "franchise": 3,
-      "name": "BS MAXEN GORNJA RADGONA",
-      "address": "Ljutomerska cesta bš",
-      "lat": 46.6636544,
-      "lng": 16.0091968,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.216,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9250"
     },
     {
       "pk": 1985,
@@ -508,12 +424,33 @@
       "zip_code": "5261"
     },
     {
-      "pk": 2241,
-      "franchise": 3,
-      "name": "BS MAXEN BENEDIKT",
-      "address": "Radgonska cesta bš",
-      "lat": 46.6088,
-      "lng": 15.893144,
+      "pk": 1986,
+      "franchise": 1,
+      "name": "PETROL BOVEC",
+      "address": "DVOR 44",
+      "lat": 46.33279417,
+      "lng": 13.54135681,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.216,
+        "98": null,
+        "100": 1.311,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.98
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
+      "zip_code": "5230"
+    },
+    {
+      "pk": 1987,
+      "franchise": 1,
+      "name": "PETROL ČRNI VRH",
+      "address": "ČRNI VRH 121",
+      "lat": 45.92556913,
+      "lng": 14.05336933,
       "prices": {
         "95": 1.185,
         "dizel": 1.216,
@@ -521,12 +458,75 @@
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
+        "KOEL": 0.98
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 08:00-16:00",
+      "zip_code": "5274"
+    },
+    {
+      "pk": 1988,
+      "franchise": 1,
+      "name": "PETROL DESKLE",
+      "address": "SREBRNIČEVA ULICA 4",
+      "lat": 46.05406598,
+      "lng": 13.61904093,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.216,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.98
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5210"
+    },
+    {
+      "pk": 1989,
+      "franchise": 1,
+      "name": "PETROL TOLMIN",
+      "address": "TRG MARŠALA TITA 18",
+      "lat": 46.18282816,
+      "lng": 13.73383929,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.216,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.98
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5220"
+    },
+    {
+      "pk": 1990,
+      "franchise": 1,
+      "name": "PETROL KOPER, SERMIN",
+      "address": "SERMIN 7D",
+      "lat": 45.55178982,
+      "lng": 13.76037054,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.216,
+        "98": null,
+        "100": 1.311,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.679,
         "KOEL": null
       },
       "distance": null,
       "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2234"
+      "open_hours": "vsak delavnik 05:00-20:30\r\nsobote 06:00-20:30\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6000"
     }
   ],
   "position": null
