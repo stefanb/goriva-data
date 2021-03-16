@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2024,
-      "franchise": 1,
-      "name": "PETROL PTUJ - DORNAVSKA",
-      "address": "DORNAVSKA CESTA 6B",
-      "lat": 46.42336766,
-      "lng": 15.88908401,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.216,
-        "98": null,
-        "100": 1.311,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.98
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2025,
       "franchise": 1,
       "name": "PETROL MARIBOR - TRŽAŠKA 11",
@@ -443,6 +422,27 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
       "zip_code": "4205"
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.187,
+        "dizel": 1.217,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.679,
+        "KOEL": 0.98
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
     },
     {
       "pk": 1548,

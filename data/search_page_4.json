@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 2108,
-      "franchise": 1,
-      "name": "PETROL TRŽIČ - ZAHOD",
-      "address": "CESTA STE MARIE AUX MINES 13",
-      "lat": 46.35378031,
-      "lng": 14.29244434,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.216,
-        "98": null,
-        "100": 1.311,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.98
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "4290"
-    },
-    {
       "pk": 2109,
       "franchise": 1,
       "name": "PETROL VRHNIKA - LJUBLJANSKA VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1218"
+    },
+    {
+      "pk": 2135,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - KAJUHOVA",
+      "address": "KAJUHOVA ULICA 32S",
+      "lat": 46.061482,
+      "lng": 14.538136,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.216,
+        "98": null,
+        "100": 1.311,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.679,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "1000"
     }
   ],
   "position": null

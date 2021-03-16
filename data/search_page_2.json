@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2051,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - POLJE",
-      "address": "ZALOŠKA CESTA 166",
-      "lat": 46.05480571,
-      "lng": 14.57560918,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.216,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.98
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00",
-      "zip_code": "1260"
-    },
-    {
       "pk": 2307,
       "franchise": 19,
       "name": "Bencinski servis Sodražica",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 13:00-17:00\r\nsobote 13:00-17:00\r\nnedelje in prazniki 13:00-17:00",
       "zip_code": "4206"
+    },
+    {
+      "pk": 2076,
+      "franchise": 1,
+      "name": "PETROL ŽELEZNIKI",
+      "address": "ČEŠNJICA 55",
+      "lat": 46.22626724,
+      "lng": 14.17252414,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.216,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.98
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-17:00",
+      "zip_code": "4228"
     }
   ],
   "position": null
