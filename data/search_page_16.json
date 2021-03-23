@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 826,
+      "franchise": 2,
+      "name": "OMV LUCIJA ZAHOD",
+      "address": "Seča 188",
+      "lat": 45.50043,
+      "lng": 13.61022,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.199,
+        "98": null,
+        "100": 1.319,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.964
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6320"
+    },
+    {
       "pk": 827,
       "franchise": 2,
       "name": "OMV LUKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "5280"
-    },
-    {
-      "pk": 858,
-      "franchise": 2,
-      "name": "OMV SPODNJI DUPLEK",
-      "address": "C. 4.julija 69",
-      "lat": 46.501143,
-      "lng": 15.751535,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.199,
-        "98": null,
-        "100": 1.319,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.964
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
-      "zip_code": "2241"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 799,
+      "franchise": 2,
+      "name": "OMV IZOLA SEVER",
+      "address": "Prešernova 2a",
+      "lat": 45.537905,
+      "lng": 13.668631,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.199,
+        "98": null,
+        "100": 1.319,
+        "dizel-premium": 1.354,
+        "avtoplin-lpg": null,
+        "KOEL": 0.964
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6310"
+    },
+    {
       "pk": 1567,
       "franchise": 4,
       "name": "BS MOL SELNICA OB DRAVI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "2250"
-    },
-    {
-      "pk": 813,
-      "franchise": 2,
-      "name": "OMV LESCE",
-      "address": "Hraška c. 17",
-      "lat": 46.365369,
-      "lng": 14.16032,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.199,
-        "98": null,
-        "100": 1.319,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4248"
     }
   ],
   "position": null

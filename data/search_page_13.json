@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 1548,
+      "franchise": 4,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.201,
+        "98": null,
+        "100": 1.312,
+        "dizel-premium": 1.353,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
+    },
+    {
       "pk": 1549,
       "franchise": 4,
       "name": "BS MOL ROGAŠKA SLATINA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
-    },
-    {
-      "pk": 799,
-      "franchise": 2,
-      "name": "OMV IZOLA SEVER",
-      "address": "Prešernova 2a",
-      "lat": 45.537905,
-      "lng": 13.668631,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.199,
-        "98": null,
-        "100": 1.319,
-        "dizel-premium": 1.354,
-        "avtoplin-lpg": null,
-        "KOEL": 0.964
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6310"
     }
   ],
   "position": null
