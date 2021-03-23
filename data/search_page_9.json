@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 1959,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
+      "address": "CESTA PREKOMORSKIH BRIGAD 64A",
+      "lat": 45.93235392,
+      "lng": 13.63826623,
+      "prices": {
+        "95": 1.177,
+        "dizel": 1.2,
+        "98": null,
+        "100": 1.305,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "5290"
+    },
+    {
       "pk": 2215,
       "franchise": 1,
       "name": "PETROL SLOVENJ GRADEC - RONKOVA JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2228,
-      "franchise": 1,
-      "name": "PETROL NOVO MESTO - ŽABJA VAS",
-      "address": "BELOKRANJSKA CESTA 3",
-      "lat": 45.797682,
-      "lng": 15.181242,
-      "prices": {
-        "95": 1.177,
-        "dizel": 1.2,
-        "98": null,
-        "100": 1.305,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.679,
-        "KOEL": 0.966
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8000"
     }
   ],
   "position": null

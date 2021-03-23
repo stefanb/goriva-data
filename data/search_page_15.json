@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 1581,
+      "franchise": 4,
+      "name": "BS MOL ZASAVJE",
+      "address": "ZAVRŠJE 30",
+      "lat": 46.1110129,
+      "lng": 15.0066052,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.201,
+        "98": null,
+        "100": 1.312,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.672,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 814,
       "franchise": 2,
       "name": "OMV LIPOVCI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6320"
-    },
-    {
-      "pk": 827,
-      "franchise": 2,
-      "name": "OMV LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.554681,
-      "lng": 13.744175,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.199,
-        "98": null,
-        "100": 1.319,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
     }
   ],
   "position": null
