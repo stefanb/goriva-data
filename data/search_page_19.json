@@ -277,48 +277,6 @@
       "zip_code": "6281"
     },
     {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.209,
-        "dizel": 1.223,
-        "98": null,
-        "100": 1.369,
-        "dizel-premium": 1.464,
-        "avtoplin-lpg": 0.679,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.209,
-        "dizel": 1.223,
-        "98": null,
-        "100": 1.369,
-        "dizel-premium": 1.464,
-        "avtoplin-lpg": 0.672,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
       "pk": 2059,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE SEVER",
@@ -527,6 +485,48 @@
       "direction": "Ljubljana -> Maribor",
       "open_hours": "NON-STOP",
       "zip_code": "1225"
+    },
+    {
+      "pk": 2141,
+      "franchise": 1,
+      "name": "PETROL ČATEŽ AC - JUG",
+      "address": "RIMSKA CESTA 11",
+      "lat": 45.891904,
+      "lng": 15.597607,
+      "prices": {
+        "95": 1.217,
+        "dizel": 1.232,
+        "98": null,
+        "100": 1.365,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8250"
+    },
+    {
+      "pk": 2162,
+      "franchise": 1,
+      "name": "PETROL OBREŽJE AC - VZHOD",
+      "address": "JESENICE 32A",
+      "lat": 45.85448,
+      "lng": 15.686297,
+      "prices": {
+        "95": 1.217,
+        "dizel": 1.232,
+        "98": null,
+        "100": 1.365,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8261"
     }
   ],
   "position": null
