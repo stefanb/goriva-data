@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 1589,
+      "franchise": 4,
+      "name": "BS MOL BTC",
+      "address": "LETALIŠKA CESTA 24",
+      "lat": 46.061644,
+      "lng": 14.564443,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.2,
+        "98": null,
+        "100": 1.312,
+        "dizel-premium": 1.354,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 06:00-22:00\r\nSOBOTA    07:00-22:00\r\nNEDELJA    08:00-20:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 822,
       "franchise": 2,
       "name": "OMV LOKEV",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1381"
-    },
-    {
-      "pk": 849,
-      "franchise": 2,
-      "name": "OMV ROŽNA DOLINA",
-      "address": "Angela Besednjaka 8",
-      "lat": 45.940972,
-      "lng": 13.640395,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.199,
-        "98": null,
-        "100": 1.319,
-        "dizel-premium": 1.354,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5000"
     }
   ],
   "position": null
