@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 1973,
+      "franchise": 1,
+      "name": "PETROL GODOVIČ",
+      "address": "GODOVIČ 2B",
+      "lat": 45.95665729,
+      "lng": 14.09433635,
+      "prices": {
+        "95": 1.162,
+        "dizel": 1.184,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.948
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
+      "zip_code": "5275"
+    },
+    {
+      "pk": 1974,
+      "franchise": 1,
+      "name": "PETROL CANKOVA",
+      "address": "CANKOVA 35",
+      "lat": 46.71906544,
+      "lng": 16.02095244,
+      "prices": {
+        "95": 1.162,
+        "dizel": 1.184,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.948
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-13:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9261"
+    },
+    {
       "pk": 1975,
       "franchise": 1,
       "name": "PETROL KUZMA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5271"
-    },
-    {
-      "pk": 2002,
-      "franchise": 1,
-      "name": "PETROL AJŠEVICA",
-      "address": "AJŠEVICA 19",
-      "lat": 45.9530272,
-      "lng": 13.69107053,
-      "prices": {
-        "95": 1.162,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.29,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.679,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 09:00-18:00",
-      "zip_code": "5000"
-    },
-    {
-      "pk": 2003,
-      "franchise": 1,
-      "name": "PETROL CERKNICA",
-      "address": "CESTA 4. MAJA 3A",
-      "lat": 45.78853568,
-      "lng": 14.36984285,
-      "prices": {
-        "95": 1.162,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.29,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.679,
-        "KOEL": 0.948
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1380"
     }
   ],
   "position": null
