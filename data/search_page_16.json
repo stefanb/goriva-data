@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2304,
+      "franchise": 19,
+      "name": "Bencinski servis Velika Pirešica",
+      "address": "Velika Pirešica 60",
+      "lat": 46.28633117675781,
+      "lng": 15.176063537597656,
+      "prices": {
+        "95": 1.167,
+        "dizel": 1.186,
+        "98": null,
+        "100": 1.29,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.946
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.00",
+      "zip_code": "3310"
+    },
+    {
       "pk": 2305,
       "franchise": 19,
       "name": "Bencinski servis Škofja Loka",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "1310"
-    },
-    {
-      "pk": 2255,
-      "franchise": 3,
-      "name": "BS MAXEN NOVO MESTO",
-      "address": "Mirnopeška cesta bš",
-      "lat": 45.8202208,
-      "lng": 15.1490384,
-      "prices": {
-        "95": 1.169,
-        "dizel": 1.189,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8000"
     }
   ],
   "position": null

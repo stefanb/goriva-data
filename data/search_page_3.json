@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 2086,
+      "franchise": 1,
+      "name": "PETROL NAKLO",
+      "address": "KRANJSKA CESTA 4",
+      "lat": 46.27058563,
+      "lng": 14.31367281,
+      "prices": {
+        "95": 1.162,
+        "dizel": 1.184,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.948
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-13:00",
+      "zip_code": "4202"
+    },
+    {
       "pk": 2087,
       "franchise": 1,
       "name": "PETROL MORAVČE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-20:00\r\nsobote 07:00-13:00",
       "zip_code": "1215"
-    },
-    {
-      "pk": 2117,
-      "franchise": 1,
-      "name": "PETROL JESENICE - CESTA ŽELEZARJEV",
-      "address": "CESTA ŽELEZARJEV 7B",
-      "lat": 46.43218809,
-      "lng": 14.06315786,
-      "prices": {
-        "95": 1.162,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.29,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "4270"
     }
   ],
   "position": null

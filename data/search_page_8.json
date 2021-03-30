@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 2200,
+      "franchise": 1,
+      "name": "PETROL CELJE - KIDRIČEVA SEVER",
+      "address": "KIDRIČEVA ULICA 21",
+      "lat": 46.23557589,
+      "lng": 15.27676905,
+      "prices": {
+        "95": 1.162,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.29,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.679,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "3000"
+    },
+    {
       "pk": 1946,
       "franchise": 1,
       "name": "PETROL SREDIŠČE OB DRAVI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
       "zip_code": "2380"
-    },
-    {
-      "pk": 1959,
-      "franchise": 1,
-      "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
-      "address": "CESTA PREKOMORSKIH BRIGAD 64A",
-      "lat": 45.93235392,
-      "lng": 13.63826623,
-      "prices": {
-        "95": 1.162,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.29,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "5290"
     }
   ],
   "position": null
