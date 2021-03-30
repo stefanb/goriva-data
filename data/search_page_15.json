@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 852,
+      "franchise": 2,
+      "name": "OMV SENOŽEČE",
+      "address": "Senožeče 10a",
+      "lat": 45.72321,
+      "lng": 14.04572,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.319,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
+      "zip_code": "6224"
+    },
+    {
       "pk": 853,
       "franchise": 2,
       "name": "OMV SEŽANA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
       "zip_code": "5000"
-    },
-    {
-      "pk": 767,
-      "franchise": 2,
-      "name": "OMV BENEDIKT",
-      "address": "Radgonska c. 15",
-      "lat": 46.61068,
-      "lng": 15.89416,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.947
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
-      "zip_code": "2234"
     }
   ],
   "position": null
