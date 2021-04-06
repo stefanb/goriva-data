@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2169,
-      "franchise": 1,
-      "name": "PETROL LJUBNO OB SAVINJI",
-      "address": "LOKE 10",
-      "lat": 46.33779188,
-      "lng": 14.83876308,
-      "prices": {
-        "95": 1.176,
-        "dizel": 1.187,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.952
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 12:00-17:00",
-      "zip_code": "3333"
-    },
-    {
       "pk": 2170,
       "franchise": 1,
       "name": "PETROL MOZIRJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "3250"
+    },
+    {
+      "pk": 1931,
+      "franchise": 1,
+      "name": "PETROL RUŠE",
+      "address": "INDUSTRIJSKA ULICA 4",
+      "lat": 46.54026886,
+      "lng": 15.51724169,
+      "prices": {
+        "95": 1.176,
+        "dizel": 1.187,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.952
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "2342"
     }
   ],
   "position": null
