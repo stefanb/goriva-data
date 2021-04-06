@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1592,
-      "franchise": 4,
-      "name": "BS MOL AJDOVŠČINA",
-      "address": "Mirce 10",
-      "lat": 45.880481,
-      "lng": 13.905018,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.948
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA 08:00-20:00",
-      "zip_code": "5270"
-    },
-    {
       "pk": 825,
       "franchise": 2,
       "name": "OMV LUCIJA VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2310"
+    },
+    {
+      "pk": 855,
+      "franchise": 2,
+      "name": "OMV SLOVENSKE KONJICE",
+      "address": "Liptovska 36a",
+      "lat": 46.34068,
+      "lng": 15.41675,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": 1.339,
+        "avtoplin-lpg": null,
+        "KOEL": 0.931
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3210"
     }
   ],
   "position": null

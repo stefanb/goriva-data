@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1565,
-      "franchise": 4,
-      "name": "BS MOL NOVO MESTO",
-      "address": "MIRNOPEŠKA CESTA 4",
-      "lat": 45.8211663,
-      "lng": 15.1506657,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "8000"
-    },
-    {
       "pk": 798,
       "franchise": 2,
       "name": "OMV IZOLA JUG",
@@ -527,6 +506,27 @@
       "direction": "Trst",
       "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
       "zip_code": "6240"
+    },
+    {
+      "pk": 1579,
+      "franchise": 4,
+      "name": "BS MOL ŠENTILJ",
+      "address": "MARIBORSKA CESTA 6",
+      "lat": 46.677917,
+      "lng": 15.652583,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
     }
   ],
   "position": null
