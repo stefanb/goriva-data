@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2164,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKE  KONJICE",
-      "address": "LIPTOVSKA ULICA 4",
-      "lat": 46.34170285,
-      "lng": 15.43100146,
-      "prices": {
-        "95": 1.176,
-        "dizel": 1.187,
-        "98": null,
-        "100": 1.319,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.679,
-        "KOEL": 0.952
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "3210"
-    },
-    {
       "pk": 2165,
       "franchise": 1,
       "name": "PETROL VELENJE - ŠALEŠKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "5250"
+    },
+    {
+      "pk": 2184,
+      "franchise": 1,
+      "name": "PETROL SOLČAVA",
+      "address": "SOLČAVA 12A",
+      "lat": 46.419206,
+      "lng": 14.69457786,
+      "prices": {
+        "95": 1.176,
+        "dizel": 1.187,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.952
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
+      "zip_code": "3335"
     }
   ],
   "position": null
