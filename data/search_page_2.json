@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 1548,
-      "franchise": 4,
-      "name": "BS MOL KIDRIČEVO",
-      "address": "TOVARNIŠKA CESTA 8A",
-      "lat": 46.404094,
-      "lng": 15.799085,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": 1.339,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "2325"
-    },
-    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "8000"
+    },
+    {
+      "pk": 798,
+      "franchise": 2,
+      "name": "OMV IZOLA JUG",
+      "address": "Prešernova 7c",
+      "lat": 45.53687,
+      "lng": 13.66795,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": 1.339,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6310"
     }
   ],
   "position": null

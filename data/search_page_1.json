@@ -256,27 +256,6 @@
       "zip_code": "6250"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.157,
-        "dizel": 1.179,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.946
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2267,
       "franchise": 6,
       "name": "EKO-NAFTA d.o.o.",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
       "zip_code": "2370"
+    },
+    {
+      "pk": 1548,
+      "franchise": 4,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": 1.339,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
     }
   ],
   "position": null

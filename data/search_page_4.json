@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 812,
-      "franchise": 2,
-      "name": "OMV LAZARET",
-      "address": "Jadranska c. 1",
-      "lat": 45.59283,
-      "lng": 13.72411,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": 1.339,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Maj: Pon-Ned 07:00-21:00; Jun-Sep: Pon-Ned 07:00-22:00",
-      "zip_code": "6280"
-    },
-    {
       "pk": 1580,
       "franchise": 4,
       "name": "BS MOL PTUJ",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA 08:00-20:00",
       "zip_code": "5270"
+    },
+    {
+      "pk": 825,
+      "franchise": 2,
+      "name": "OMV LUCIJA VZHOD",
+      "address": "Vinjole 29b",
+      "lat": 45.50069,
+      "lng": 13.61044,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6320"
     }
   ],
   "position": null
