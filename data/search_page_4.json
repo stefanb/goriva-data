@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 813,
-      "franchise": 2,
-      "name": "OMV LESCE",
-      "address": "Hraška c. 17",
-      "lat": 46.365369,
-      "lng": 14.16032,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4248"
-    },
-    {
-      "pk": 1581,
-      "franchise": 4,
-      "name": "BS MOL ZASAVJE",
-      "address": "ZAVRŠJE 30",
-      "lat": 46.1110129,
-      "lng": 15.0066052,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.672,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 814,
       "franchise": 2,
       "name": "OMV LIPOVCI",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "PON-PET 06:00 - 22:00\r\nSOBOTA  06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 16:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 826,
+      "franchise": 2,
+      "name": "OMV LUCIJA ZAHOD",
+      "address": "Seča 188",
+      "lat": 45.50043,
+      "lng": 13.61022,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.947
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6320"
+    },
+    {
+      "pk": 827,
+      "franchise": 2,
+      "name": "OMV LUKA",
+      "address": "Vojkovo nabrežje 38",
+      "lat": 45.554681,
+      "lng": 13.744175,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.319,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "6000"
     }
   ],
   "position": null

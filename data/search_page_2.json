@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 1549,
-      "franchise": 4,
-      "name": "BS MOL ROGAŠKA SLATINA",
-      "address": "TRŽIŠČE 12B",
-      "lat": 46.2306674,
-      "lng": 15.6556409,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": 1.299,
-        "dizel-premium": 1.339,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "3250"
-    },
-    {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.30 - 17.30\r\ntorek:          6.30 - 17.30\r\nsreda:          6.30 - 17.30\r\nčetrtek:        6.30 - 17.30\r\npetek:          6.30 - 17.30\r\nsobota:        6.30 - 17.30\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
-      "zip_code": "9201"
-    },
-    {
       "pk": 1550,
       "franchise": 4,
       "name": "BS MOL CELJE, KIDRIČEVA",
@@ -521,6 +479,48 @@
         "100": 1.299,
         "dizel-premium": null,
         "avtoplin-lpg": 0.679,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 799,
+      "franchise": 2,
+      "name": "OMV IZOLA SEVER",
+      "address": "Prešernova 2a",
+      "lat": 45.537905,
+      "lng": 13.668631,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": 1.339,
+        "avtoplin-lpg": null,
+        "KOEL": 0.947
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 1567,
+      "franchise": 4,
+      "name": "BS MOL SELNICA OB DRAVI",
+      "address": "MARIBORSKA CESTA 10 C",
+      "lat": 46.5523428,
+      "lng": 15.4977882,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,
