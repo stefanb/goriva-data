@@ -256,27 +256,6 @@
       "zip_code": "6250"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.16,
-        "dizel": 1.182,
-        "98": null,
-        "100": 1.29,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.946
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
       "pk": 1548,
       "franchise": 4,
       "name": "BS MOL KIDRIČEVO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - ned. 00:00 - 24:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 1561,
+      "franchise": 4,
+      "name": "BS MOL RADVANJE MARIBOR",
+      "address": "STRELIŠKA CESTA 16/A",
+      "lat": 46.5360559,
+      "lng": 15.6202679,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": 1.299,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.672,
+        "KOEL": 0.948
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
     }
   ],
   "position": null
