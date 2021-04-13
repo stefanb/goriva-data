@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1944,
-      "franchise": 1,
-      "name": "PETROL LOVRENC NA POHORJU",
-      "address": "MARIBORSKA CESTA 43",
-      "lat": 46.54696377,
-      "lng": 15.40182431,
-      "prices": {
-        "95": 1.164,
-        "dizel": 1.184,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.946
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
-      "zip_code": "2344"
-    },
-    {
       "pk": 2200,
       "franchise": 1,
       "name": "PETROL CELJE - KIDRIČEVA SEVER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 17:30-20:00",
       "zip_code": "5213"
+    },
+    {
+      "pk": 2214,
+      "franchise": 1,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA SEVER",
+      "address": "RONKOVA ULICA 2",
+      "lat": 46.50629441,
+      "lng": 15.08829225,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.184,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.679,
+        "KOEL": 0.946
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2380"
     }
   ],
   "position": null
