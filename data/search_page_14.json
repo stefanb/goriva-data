@@ -4,6 +4,69 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1585,
+      "franchise": 4,
+      "name": "BS MOL ARCLIN",
+      "address": "ARCLIN 101",
+      "lat": 46.278837,
+      "lng": 15.300182,
+      "prices": {
+        "95": 1.167,
+        "dizel": 1.185,
+        "98": null,
+        "100": 1.313,
+        "dizel-premium": 1.341,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA  08:00-20:00\r\nPRAZNIKI 08:00-20:00",
+      "zip_code": "3211"
+    },
+    {
+      "pk": 1586,
+      "franchise": 4,
+      "name": "BS MOL TRBOVLJE",
+      "address": "VODENSKA CESTA 28A",
+      "lat": 46.142862,
+      "lng": 15.036079,
+      "prices": {
+        "95": 1.167,
+        "dizel": 1.185,
+        "98": null,
+        "100": 1.313,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.946
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1587,
+      "franchise": 4,
+      "name": "BS MOL LETUŠ",
+      "address": "LETUŠ 11 D",
+      "lat": 46.311732,
+      "lng": 15.026208,
+      "prices": {
+        "95": 1.167,
+        "dizel": 1.185,
+        "98": null,
+        "100": 1.313,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.946
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3327"
+    },
+    {
       "pk": 1588,
       "franchise": 4,
       "name": "BS MOL SENOŽETI",
@@ -464,69 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
       "zip_code": "6215"
-    },
-    {
-      "pk": 779,
-      "franchise": 2,
-      "name": "OMV DOL PRI LJUBLJANI",
-      "address": "Podgora pri Dolskem 40",
-      "lat": 46.090168,
-      "lng": 14.650805,
-      "prices": {
-        "95": 1.169,
-        "dizel": 1.187,
-        "98": null,
-        "100": 1.314,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.951
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "1262"
-    },
-    {
-      "pk": 780,
-      "franchise": 2,
-      "name": "OMV DRAVOGRAD",
-      "address": "Koroška c. 49",
-      "lat": 46.59033,
-      "lng": 15.01542,
-      "prices": {
-        "95": 1.169,
-        "dizel": 1.187,
-        "98": null,
-        "100": 1.314,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.951
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
-      "zip_code": "2370"
-    },
-    {
-      "pk": 783,
-      "franchise": 2,
-      "name": "OMV DUTOVLJE",
-      "address": "Dutovlje 3b",
-      "lat": 45.755992,
-      "lng": 13.835896,
-      "prices": {
-        "95": 1.169,
-        "dizel": 1.187,
-        "98": null,
-        "100": 1.314,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.951
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6221"
     }
   ],
   "position": null
