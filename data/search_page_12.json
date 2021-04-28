@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2035,
+      "franchise": 1,
+      "name": "PETROL IZOLA MANDRAČ",
+      "address": "VELIKI TRG 0N",
+      "lat": 45.538539,
+      "lng": 13.65634,
+      "prices": {
+        "95": 1.171,
+        "dizel": 1.195,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-15:00\r\nsobote 08:00-15:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "6310"
+    },
+    {
       "pk": 2036,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - CELOVŠKA 226",
@@ -338,27 +359,6 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.30 - 19.30\r\ntorek:          6.30 - 19.30\r\nsreda:          6.30 - 19.30\r\nčetrtek:        6.30 - 19.30\r\npetek:          6.30 - 19.30\r\nsobota:        6.30 - 19.30\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
       "zip_code": "9201"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.176,
-        "dizel": 1.187,
-        "98": 1.263,
-        "100": 1.319,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.952
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2266,
