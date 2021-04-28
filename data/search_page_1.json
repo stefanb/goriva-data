@@ -277,27 +277,6 @@
       "zip_code": "2383"
     },
     {
-      "pk": 2311,
-      "franchise": 18,
-      "name": "BS Merkantil KNEŽAK",
-      "address": "KNEŽAK 3",
-      "lat": 45.625625,
-      "lng": 14.239867,
-      "prices": {
-        "95": 1.168,
-        "dizel": 1.186,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.679,
-        "KOEL": 0.946
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
-      "zip_code": "6253"
-    },
-    {
       "pk": 2048,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TIVOLSKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:00-14:00",
       "zip_code": "1261"
+    },
+    {
+      "pk": 2061,
+      "franchise": 1,
+      "name": "PETROL BLED - LJUBLJANSKA JUG",
+      "address": "LJUBLJANSKA CESTA 30",
+      "lat": 46.36846888,
+      "lng": 14.11723896,
+      "prices": {
+        "95": 1.171,
+        "dizel": 1.195,
+        "98": null,
+        "100": 1.321,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.956
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "4260"
     }
   ],
   "position": null

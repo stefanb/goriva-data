@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2035,
-      "franchise": 1,
-      "name": "PETROL IZOLA MANDRAČ",
-      "address": "VELIKI TRG 0N",
-      "lat": 45.538539,
-      "lng": 13.65634,
-      "prices": {
-        "95": 1.171,
-        "dizel": 1.195,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-15:00\r\nsobote 08:00-15:00\r\nnedelje in prazniki 08:00-15:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 2036,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - CELOVŠKA 226",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8250"
+    },
+    {
+      "pk": 2307,
+      "franchise": 19,
+      "name": "Bencinski servis Sodražica",
+      "address": "cesta Notranjskega odreda 56",
+      "lat": 45.76375961303711,
+      "lng": 14.63137435913086,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.195,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "5.30-22.00",
+      "zip_code": "1317"
     }
   ],
   "position": null
