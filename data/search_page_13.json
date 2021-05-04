@@ -4,6 +4,90 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 773,
+      "franchise": 2,
+      "name": "OMV CELJE EMO",
+      "address": "Mariborska c. 84",
+      "lat": 46.23923,
+      "lng": 15.27456,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.209,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.956
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 774,
+      "franchise": 2,
+      "name": "OMV CELJE MEDLOG",
+      "address": "Ljubljanska cesta 110",
+      "lat": 46.238118,
+      "lng": 15.235194,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.209,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 05:00-22:00, Sob/Ned/Praz 06:00-21:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 775,
+      "franchise": 2,
+      "name": "OMV ČRNOMELJ",
+      "address": "Belokranjska c. 18a",
+      "lat": 45.57995,
+      "lng": 15.19583,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.209,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": 1.369,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8340"
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.179,
+        "dizel": 1.197,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.679,
+        "KOEL": 0.957
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
+    },
+    {
       "pk": 776,
       "franchise": 2,
       "name": "OMV DIVAČA",
@@ -443,90 +527,6 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "6240"
-    },
-    {
-      "pk": 795,
-      "franchise": 2,
-      "name": "OMV GROSUPLJE",
-      "address": "Ljubljanska c. 62",
-      "lat": 45.967972,
-      "lng": 14.660767,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.209,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.956
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:30",
-      "zip_code": "1290"
-    },
-    {
-      "pk": 1563,
-      "franchise": 4,
-      "name": "BS MOL GORNJA RADGONA",
-      "address": "LJUTOMERSKA CESTA 12",
-      "lat": 46.6699694,
-      "lng": 15.9961534,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.208,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": ""
-    },
-    {
-      "pk": 1564,
-      "franchise": 4,
-      "name": "BS MOL HOČE",
-      "address": "MIKLAVŠKA CESTA 80",
-      "lat": 46.5005164,
-      "lng": 15.6550055,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.208,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": 1.369,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA  07:00 - 22:00\r\nPRAZNIKI 08:00 - 20:00",
-      "zip_code": "2311"
-    },
-    {
-      "pk": 797,
-      "franchise": 2,
-      "name": "OMV ILIRSKA BISTRICA BAZOVIŠKA",
-      "address": "Bazoviška 45",
-      "lat": 45.559604,
-      "lng": 14.244346,
-      "prices": {
-        "95": 1.179,
-        "dizel": 1.209,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": 1.369,
-        "avtoplin-lpg": null,
-        "KOEL": 0.956
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
-      "zip_code": "6250"
     }
   ],
   "position": null
