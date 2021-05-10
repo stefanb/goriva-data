@@ -1,5 +1,5 @@
 {
-  "count": 547,
+  "count": 548,
   "next": null,
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
@@ -128,6 +128,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8210"
+    },
+    {
+      "pk": 2323,
+      "franchise": 2,
+      "name": "OMV KOPER LUKA",
+      "address": "Vojkovo nabrežje 38",
+      "lat": 45.55468,
+      "lng": 13.74418,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "6000"
     },
     {
       "pk": 788,
