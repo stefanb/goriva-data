@@ -46,48 +46,6 @@
       "zip_code": "5271"
     },
     {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.263,
-        "98": null,
-        "100": 1.414,
-        "dizel-premium": 1.503,
-        "avtoplin-lpg": 0.679,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.263,
-        "98": null,
-        "100": 1.414,
-        "dizel-premium": 1.503,
-        "avtoplin-lpg": 0.679,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
       "pk": 777,
       "franchise": 2,
       "name": "OMV DOBRENJE VZHOD",
@@ -214,6 +172,27 @@
       "zip_code": "6210"
     },
     {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.244,
+        "dizel": 1.264,
+        "98": null,
+        "100": 1.419,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.665,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
+    },
+    {
       "pk": 793,
       "franchise": 2,
       "name": "OMV GRABONOŠ",
@@ -254,6 +233,27 @@
       "direction": "Grosuplje",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "1290"
+    },
+    {
+      "pk": 1568,
+      "franchise": 4,
+      "name": "BS MOL LORMANJE",
+      "address": "LORMANJE 22D",
+      "lat": 46.566917,
+      "lng": 15.8255,
+      "prices": {
+        "95": 1.244,
+        "dizel": 1.264,
+        "98": null,
+        "100": 1.419,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.665,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Maribor",
+      "open_hours": "pon - ned 00:00 - 24:00",
+      "zip_code": "2230"
     },
     {
       "pk": 823,
@@ -432,7 +432,7 @@
       "lng": 14.659423828125,
       "prices": {
         "95": null,
-        "dizel": 1.225,
+        "dizel": 1.23,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -453,7 +453,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.225,
+        "dizel": 1.23,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -474,7 +474,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.225,
+        "dizel": 1.23,
         "98": null,
         "100": null,
         "dizel-premium": null,
