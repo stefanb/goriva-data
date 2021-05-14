@@ -4,111 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 860,
-      "franchise": 2,
-      "name": "OMV STOJNCI",
-      "address": "Stojnci 24",
-      "lat": 46.380448,
-      "lng": 15.972496,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "2281"
-    },
-    {
-      "pk": 862,
-      "franchise": 2,
-      "name": "OMV ŠENTJUR",
-      "address": "Ljubljanska c. 20a",
-      "lat": 46.214942,
-      "lng": 15.38352,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": 1.394,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3230"
-    },
-    {
-      "pk": 865,
-      "franchise": 2,
-      "name": "OMV ŠKOFJA LOKA",
-      "address": "Kidričeva 23a",
-      "lat": 46.168842,
-      "lng": 14.31952,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": 1.394,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 06:00-22:00; Apr-Sep: Pon-Ned 06:00-22:30",
-      "zip_code": "4220"
-    },
-    {
-      "pk": 866,
-      "franchise": 2,
-      "name": "OMV ŠMARJE",
-      "address": "Srgaši 42a",
-      "lat": 45.510467,
-      "lng": 13.707064,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 06:00-20:00, Ned/Praz 07:00-20:00; Apr-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "6274"
-    },
-    {
-      "pk": 867,
-      "franchise": 2,
-      "name": "OMV ŠTANJEL",
-      "address": "Štanjel 80",
-      "lat": 45.81842,
-      "lng": 13.84414,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep Pon-Ned 07:00-20:00",
-      "zip_code": "6222"
-    },
-    {
       "pk": 868,
       "franchise": 2,
       "name": "OMV TEPANJE",
@@ -380,6 +275,111 @@
       "direction": "",
       "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
       "zip_code": "2234"
+    },
+    {
+      "pk": 768,
+      "franchise": 2,
+      "name": "OMV BERTOKI",
+      "address": "C.med vinogradi 52",
+      "lat": 45.555358,
+      "lng": 13.78105,
+      "prices": {
+        "95": 1.209,
+        "dizel": 1.239,
+        "98": null,
+        "100": 1.389,
+        "dizel-premium": 1.424,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 804,
+      "franchise": 2,
+      "name": "OMV KOPER BONIFIKA",
+      "address": "Istrska cesta 14",
+      "lat": 45.5404,
+      "lng": 13.7263,
+      "prices": {
+        "95": 1.209,
+        "dizel": 1.239,
+        "98": null,
+        "100": 1.389,
+        "dizel-premium": 1.424,
+        "avtoplin-lpg": 0.664,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Portorož",
+      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 805,
+      "franchise": 2,
+      "name": "OMV KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.538903,
+      "lng": 13.728619,
+      "prices": {
+        "95": 1.209,
+        "dizel": 1.239,
+        "98": null,
+        "100": 1.389,
+        "dizel-premium": 1.424,
+        "avtoplin-lpg": null,
+        "KOEL": 0.958
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 863,
+      "franchise": 2,
+      "name": "OMV ŠKOFIJE BLOK VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 1.209,
+        "dizel": 1.239,
+        "98": null,
+        "100": 1.389,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.664,
+        "KOEL": 0.958
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
+    },
+    {
+      "pk": 864,
+      "franchise": 2,
+      "name": "OMV ŠKOFIJE BLOK ZAHOD",
+      "address": "Sp.Škofije 256a",
+      "lat": 45.579851,
+      "lng": 13.796288,
+      "prices": {
+        "95": 1.209,
+        "dizel": 1.239,
+        "98": null,
+        "100": 1.389,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6281"
     },
     {
       "pk": 2237,

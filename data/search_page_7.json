@@ -4,111 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1924,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PTUJSKA 136",
-      "address": "PTUJSKA CESTA 136",
-      "lat": 46.53249876,
-      "lng": 15.66655604,
-      "prices": {
-        "95": 1.202,
-        "dizel": 1.233,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 08:30-12:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2180,
-      "franchise": 1,
-      "name": "PETROL CELJE - POLULE",
-      "address": "CESTA V LAŠKO 4A",
-      "lat": 46.21772911,
-      "lng": 15.26310535,
-      "prices": {
-        "95": 1.202,
-        "dizel": 1.233,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-14:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 1925,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - VALVASORJEVA",
-      "address": "VALVASORJEVA ULICA 51",
-      "lat": 46.555036,
-      "lng": 15.633782,
-      "prices": {
-        "95": 1.202,
-        "dizel": 1.233,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2181,
-      "franchise": 1,
-      "name": "PETROL ZREČE",
-      "address": "KOVAŠKA CESTA 29A",
-      "lat": 46.37183166,
-      "lng": 15.39050014,
-      "prices": {
-        "95": 1.202,
-        "dizel": 1.233,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:30-18:00",
-      "zip_code": "3214"
-    },
-    {
-      "pk": 1926,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA ZAHOD",
-      "address": "LJUBLJANSKA CESTA 74",
-      "lat": 46.38470725,
-      "lng": 15.5654534,
-      "prices": {
-        "95": 1.202,
-        "dizel": 1.233,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2182,
       "franchise": 1,
       "name": "PETROL BISTRICA OB SOTLI",
@@ -527,6 +422,111 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "2212"
+    },
+    {
+      "pk": 2192,
+      "franchise": 1,
+      "name": "PETROL RADEČE",
+      "address": "ULICA MILANA MAJCNA 40",
+      "lat": 46.06279673,
+      "lng": 15.18155904,
+      "prices": {
+        "95": 1.202,
+        "dizel": 1.233,
+        "98": null,
+        "100": 1.347,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
+      "zip_code": "1433"
+    },
+    {
+      "pk": 1937,
+      "franchise": 1,
+      "name": "PETROL STARŠE",
+      "address": "STARŠE 78A",
+      "lat": 46.46753906,
+      "lng": 15.76300861,
+      "prices": {
+        "95": 1.202,
+        "dizel": 1.233,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
+      "zip_code": "2205"
+    },
+    {
+      "pk": 2193,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA VZHOD",
+      "address": "CELJSKA CESTA 53",
+      "lat": 46.350795,
+      "lng": 15.13198,
+      "prices": {
+        "95": 1.202,
+        "dizel": 1.233,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "3320"
+    },
+    {
+      "pk": 1938,
+      "franchise": 1,
+      "name": "PETROL POLJČANE",
+      "address": "BISTRIŠKA CESTA 93",
+      "lat": 46.309005,
+      "lng": 15.577384,
+      "prices": {
+        "95": 1.202,
+        "dizel": 1.233,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2319"
+    },
+    {
+      "pk": 2194,
+      "franchise": 1,
+      "name": "PETROL VELENJE - PARTIZANSKA",
+      "address": "PARTIZANSKA CESTA 6",
+      "lat": 46.35917056,
+      "lng": 15.10632852,
+      "prices": {
+        "95": 1.202,
+        "dizel": 1.233,
+        "98": null,
+        "100": 1.347,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "3320"
     }
   ],
   "position": null

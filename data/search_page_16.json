@@ -4,111 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 800,
-      "franchise": 2,
-      "name": "OMV KAMNIK",
-      "address": "Perovo 32",
-      "lat": 46.208865,
-      "lng": 14.606844,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": 1.394,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "1240"
-    },
-    {
-      "pk": 801,
-      "franchise": 2,
-      "name": "OMV KOČEVJE",
-      "address": "Gornje Ložine 1a",
-      "lat": 45.689289,
-      "lng": 14.7997,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1332"
-    },
-    {
-      "pk": 802,
-      "franchise": 2,
-      "name": "OMV KOMEN",
-      "address": "Komen 119a",
-      "lat": 45.816868,
-      "lng": 13.745429,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
-    },
-    {
-      "pk": 803,
-      "franchise": 2,
-      "name": "OMV KOMENDA",
-      "address": "Potok pri Komendi 8",
-      "lat": 46.205702,
-      "lng": 14.52399,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": 1.394,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1218"
-    },
-    {
-      "pk": 806,
-      "franchise": 2,
-      "name": "OMV KOPER TERMINAL",
-      "address": "Ankaranska c. 5d",
-      "lat": 45.545957,
-      "lng": 13.742681,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
-      "zip_code": "6000"
-    },
-    {
       "pk": 807,
       "franchise": 2,
       "name": "OMV KOPER TOMOS",
@@ -527,6 +422,111 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 06:00-21:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 829,
+      "franchise": 2,
+      "name": "OMV MARIBOR BOHOVA",
+      "address": "Tržaška c. 83",
+      "lat": 46.51809,
+      "lng": 15.65131,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.359,
+        "dizel-premium": 1.394,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 830,
+      "franchise": 2,
+      "name": "OMV MARIBOR PTUJSKA VZHOD",
+      "address": "Ptujska cesta 225",
+      "lat": 46.522349,
+      "lng": 15.679883,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.359,
+        "dizel-premium": 1.394,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 831,
+      "franchise": 2,
+      "name": "OMV MARIBOR PTUJSKA ZAHOD",
+      "address": "Ptujska cesta 104",
+      "lat": 46.53485,
+      "lng": 15.66165,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.359,
+        "dizel-premium": 1.394,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00 (S,N,praz 6-22)",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 832,
+      "franchise": 2,
+      "name": "OMV MARINA KOPER",
+      "address": "Kopališko nabrežje 5",
+      "lat": 45.55049,
+      "lng": 13.72786,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.319,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Okt-Maj: Pon-Sob 08:00-16:00, Ned/Praz 09:00-12:00 in 15:00-20:00; Apr-Sep: Pon-Sob 08:00-20:00, Ned/Praz 09:00-12:00 in 15:00-20:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 833,
+      "franchise": 2,
+      "name": "OMV MURSKA SOBOTA",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.359,
+        "dizel-premium": 1.394,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00",
+      "zip_code": "9000"
     }
   ],
   "position": null
