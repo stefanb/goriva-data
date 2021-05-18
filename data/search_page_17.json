@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 849,
-      "franchise": 2,
-      "name": "OMV ROŽNA DOLINA",
-      "address": "Angela Besednjaka 8",
-      "lat": 45.940972,
-      "lng": 13.640395,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5000"
-    },
-    {
       "pk": 851,
       "franchise": 2,
       "name": "OMV SENOVO",
@@ -508,25 +487,46 @@
       "zip_code": "2314"
     },
     {
-      "pk": 2236,
-      "franchise": 2,
-      "name": "OMV PTUJ",
-      "address": "Ormoška cesta 32",
-      "lat": 46.41600383,
-      "lng": 15.88503332,
+      "pk": 2234,
+      "franchise": 4,
+      "name": "BS MOL TEZNO",
+      "address": "Ptujska cesta 56",
+      "lat": 46.537696,
+      "lng": 15.655975,
       "prices": {
         "95": 1.195,
         "dizel": 1.236,
         "98": null,
         "100": 1.349,
         "dizel-premium": 1.396,
-        "avtoplin-lpg": 0.664,
+        "avtoplin-lpg": 0.658,
         "KOEL": null
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2250"
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek:            05:00 - 22:00\r\nSobota:                                06:00 - 22:00\r\nNedelja:                               06:00 - 22:00\r\nPrazniki:                               06:00 - 22:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2235,
+      "franchise": 4,
+      "name": "BS MOL KRANJ",
+      "address": "Ulica Boštjana Hladnika 4",
+      "lat": 46.230565,
+      "lng": 14.369373,
+      "prices": {
+        "95": 1.195,
+        "dizel": 1.236,
+        "98": null,
+        "100": 1.349,
+        "dizel-premium": 1.396,
+        "avtoplin-lpg": 0.658,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "4000"
     }
   ],
   "position": null
