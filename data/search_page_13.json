@@ -109,6 +109,27 @@
       "zip_code": "2288"
     },
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.194,
+        "dizel": 1.235,
+        "98": 1.263,
+        "100": 1.339,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2013,
       "franchise": 1,
       "name": "PETROL MAJŠPERK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
       "zip_code": "3270"
-    },
-    {
-      "pk": 2033,
-      "franchise": 1,
-      "name": "PETROL PIVKA",
-      "address": "POSTOJNSKA CESTA 20A",
-      "lat": 45.68611881,
-      "lng": 14.19717139,
-      "prices": {
-        "95": 1.194,
-        "dizel": 1.235,
-        "98": null,
-        "100": 1.339,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.665,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "6257"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 780,
+      "franchise": 2,
+      "name": "OMV DRAVOGRAD",
+      "address": "Koroška c. 49",
+      "lat": 46.59033,
+      "lng": 15.01542,
+      "prices": {
+        "95": 1.195,
+        "dizel": 1.236,
+        "98": null,
+        "100": 1.349,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2370"
+    },
+    {
       "pk": 783,
       "franchise": 2,
       "name": "OMV DUTOVLJE",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Pet 06:00-22:00, Sob 08:00-20:00, Ned/Praz. zaprto",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 817,
-      "franchise": 2,
-      "name": "OMV LJUBLJANA LITIJSKA",
-      "address": "Litijska c. 40",
-      "lat": 46.047401,
-      "lng": 14.546097,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1000"
     }
   ],

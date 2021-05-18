@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 849,
+      "franchise": 2,
+      "name": "OMV ROŽNA DOLINA",
+      "address": "Angela Besednjaka 8",
+      "lat": 45.940972,
+      "lng": 13.640395,
+      "prices": {
+        "95": 1.195,
+        "dizel": 1.236,
+        "98": null,
+        "100": 1.349,
+        "dizel-premium": 1.396,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 851,
       "franchise": 2,
       "name": "OMV SENOVO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2250"
-    },
-    {
-      "pk": 2266,
-      "franchise": 5,
-      "name": "SHELL MARIBOR RETAIL",
-      "address": "TURNEJEVA ULICA 35",
-      "lat": 46.449892,
-      "lng": 15.651698,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.23,
-        "98": null,
-        "100": 1.32,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka z osebjem",
-      "zip_code": "2313"
     }
   ],
   "position": null

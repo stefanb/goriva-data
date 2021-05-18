@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2266,
+      "franchise": 5,
+      "name": "SHELL MARIBOR RETAIL",
+      "address": "TURNEJEVA ULICA 35",
+      "lat": 46.449892,
+      "lng": 15.651698,
+      "prices": {
+        "95": 1.195,
+        "dizel": 1.23,
+        "98": null,
+        "100": 1.32,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka z osebjem",
+      "zip_code": "2313"
+    },
+    {
       "pk": 2271,
       "franchise": 2,
       "name": "OMV MARIBOR STUDENCI",
@@ -65,27 +86,6 @@
       "direction": "",
       "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
       "zip_code": "2234"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.2,
-        "dizel": 1.231,
-        "98": null,
-        "100": 1.347,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.977
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2304,

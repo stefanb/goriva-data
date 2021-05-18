@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 817,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA LITIJSKA",
+      "address": "Litijska c. 40",
+      "lat": 46.047401,
+      "lng": 14.546097,
+      "prices": {
+        "95": 1.195,
+        "dizel": 1.236,
+        "98": null,
+        "100": 1.349,
+        "dizel-premium": 1.396,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 818,
       "franchise": 2,
       "name": "OMV LJUBLJANA ŠENTVID",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1381"
-    },
-    {
-      "pk": 849,
-      "franchise": 2,
-      "name": "OMV ROŽNA DOLINA",
-      "address": "Angela Besednjaka 8",
-      "lat": 45.940972,
-      "lng": 13.640395,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5000"
     }
   ],
   "position": null

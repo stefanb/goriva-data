@@ -25,6 +25,27 @@
       "zip_code": "2000"
     },
     {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.164,
+        "dizel": 1.175,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.949
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2288,
       "franchise": 13,
       "name": "FE Trading - DISKONT Tržič",
@@ -193,48 +214,6 @@
       "zip_code": "6250"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.171,
-        "dizel": 1.195,
-        "98": 1.263,
-        "100": 1.321,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.956
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.172,
-        "dizel": 1.173,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
-      "zip_code": "2283"
-    },
-    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -296,6 +275,27 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
+    },
+    {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.192,
+        "dizel": 1.233,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
     },
     {
       "pk": 2048,
