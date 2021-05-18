@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 783,
+      "franchise": 2,
+      "name": "OMV DUTOVLJE",
+      "address": "Dutovlje 3b",
+      "lat": 45.755992,
+      "lng": 13.835896,
+      "prices": {
+        "95": 1.195,
+        "dizel": 1.236,
+        "98": null,
+        "100": 1.349,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
+      "zip_code": "6221"
+    },
+    {
       "pk": 2323,
       "franchise": 2,
       "name": "OMV KOPER LUKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 818,
-      "franchise": 2,
-      "name": "OMV LJUBLJANA ŠENTVID",
-      "address": "Celovška c. 455",
-      "lat": 46.09891,
-      "lng": 14.460958,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1210"
     }
   ],
   "position": null
