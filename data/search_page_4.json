@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 2113,
-      "franchise": 1,
-      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
-      "address": "CESTA STANETA ŽAGARJA 53B",
-      "lat": 46.24371235,
-      "lng": 14.36955351,
-      "prices": {
-        "95": 1.194,
-        "dizel": 1.235,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-14:00",
-      "zip_code": "4000"
-    },
-    {
       "pk": 2114,
       "franchise": 1,
       "name": "PETROL LESCE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-21:30\r\nsobote 06:00-20:30\r\nnedelje in prazniki 07:00-20:30",
       "zip_code": "8270"
+    },
+    {
+      "pk": 2140,
+      "franchise": 1,
+      "name": "PETROL SEVNICA",
+      "address": "PREŠERNOVA ULICA 9",
+      "lat": 46.0077338,
+      "lng": 15.3050164,
+      "prices": {
+        "95": 1.194,
+        "dizel": 1.235,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.979
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 07:00-13:00",
+      "zip_code": "8290"
     }
   ],
   "position": null
