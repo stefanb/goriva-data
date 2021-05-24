@@ -4,90 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 795,
-      "franchise": 2,
-      "name": "OMV GROSUPLJE",
-      "address": "Ljubljanska c. 62",
-      "lat": 45.967972,
-      "lng": 14.660767,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:30",
-      "zip_code": "1290"
-    },
-    {
-      "pk": 1563,
-      "franchise": 4,
-      "name": "BS MOL GORNJA RADGONA",
-      "address": "LJUTOMERSKA CESTA 12",
-      "lat": 46.6699694,
-      "lng": 15.9961534,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": ""
-    },
-    {
-      "pk": 1564,
-      "franchise": 4,
-      "name": "BS MOL HOČE",
-      "address": "MIKLAVŠKA CESTA 80",
-      "lat": 46.5005164,
-      "lng": 15.6550055,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA  07:00 - 22:00\r\nPRAZNIKI 08:00 - 20:00",
-      "zip_code": "2311"
-    },
-    {
-      "pk": 797,
-      "franchise": 2,
-      "name": "OMV ILIRSKA BISTRICA BAZOVIŠKA",
-      "address": "Bazoviška 45",
-      "lat": 45.559604,
-      "lng": 14.244346,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
-        "avtoplin-lpg": null,
-        "KOEL": 0.979
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
-      "zip_code": "6250"
-    },
-    {
       "pk": 1565,
       "franchise": 4,
       "name": "BS MOL NOVO MESTO",
@@ -95,13 +11,13 @@
       "lat": 45.8211663,
       "lng": 15.1506657,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -116,11 +32,11 @@
       "lat": 45.53687,
       "lng": 13.66795,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
+        "100": 1.339,
+        "dizel-premium": 1.392,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -137,13 +53,13 @@
       "lat": 45.7050725,
       "lng": 13.8608974,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": 0.665,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -158,13 +74,13 @@
       "lat": 45.537905,
       "lng": 13.668631,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
+        "100": 1.339,
+        "dizel-premium": 1.392,
         "avtoplin-lpg": null,
-        "KOEL": 0.979
+        "KOEL": 0.969
       },
       "distance": null,
       "direction": "",
@@ -179,13 +95,13 @@
       "lat": 46.5523428,
       "lng": 15.4977882,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -200,11 +116,11 @@
       "lat": 46.208865,
       "lng": 14.606844,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
+        "100": 1.339,
+        "dizel-premium": 1.392,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -221,10 +137,10 @@
       "lat": 45.689289,
       "lng": 14.7997,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -242,13 +158,13 @@
       "lat": 46.244417,
       "lng": 15.278217,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -263,10 +179,10 @@
       "lat": 45.816868,
       "lng": 13.745429,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -284,13 +200,13 @@
       "lat": 46.340083,
       "lng": 15.418667,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -305,13 +221,13 @@
       "lat": 46.205702,
       "lng": 14.52399,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
+        "100": 1.339,
+        "dizel-premium": 1.392,
         "avtoplin-lpg": null,
-        "KOEL": 0.979
+        "KOEL": 0.969
       },
       "distance": null,
       "direction": "",
@@ -326,13 +242,13 @@
       "lat": 46.260293,
       "lng": 15.3918165,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": 0.665,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -347,13 +263,13 @@
       "lat": 46.2343558,
       "lng": 15.5634657,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -368,13 +284,13 @@
       "lat": 46.645667,
       "lng": 16.168083,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -389,10 +305,10 @@
       "lat": 45.545957,
       "lng": 13.742681,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -410,13 +326,13 @@
       "lat": 45.632833,
       "lng": 14.864267,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -431,13 +347,13 @@
       "lat": 45.530207,
       "lng": 13.734777,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.979
+        "KOEL": 0.969
       },
       "distance": null,
       "direction": "",
@@ -452,13 +368,13 @@
       "lat": 46.5695,
       "lng": 15.036667,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -473,10 +389,10 @@
       "lat": 45.60807,
       "lng": 13.93501,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -494,13 +410,13 @@
       "lat": 46.546333,
       "lng": 15.674833,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
-        "dizel-premium": 1.396,
+        "100": 1.339,
+        "dizel-premium": 1.392,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 0.97
       },
       "distance": null,
       "direction": "",
@@ -515,10 +431,10 @@
       "lat": 46.24277,
       "lng": 14.371453,
       "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
+        "95": 1.184,
+        "dizel": 1.232,
         "98": null,
-        "100": 1.349,
+        "100": 1.339,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 1577,
+      "franchise": 4,
+      "name": "BS MOL PRESTRANEK",
+      "address": "REŠKA CESTA 18/B",
+      "lat": 45.728,
+      "lng": 14.188,
+      "prices": {
+        "95": 1.184,
+        "dizel": 1.232,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.97
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 06:00 - 22:00",
+      "zip_code": "6258"
+    },
+    {
+      "pk": 810,
+      "franchise": 2,
+      "name": "OMV KRŠKO",
+      "address": "C.Krških žrtev 131a",
+      "lat": 45.94429,
+      "lng": 15.48733,
+      "prices": {
+        "95": 1.184,
+        "dizel": 1.232,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": 1.392,
+        "avtoplin-lpg": null,
+        "KOEL": 0.969
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "8270"
+    },
+    {
+      "pk": 1578,
+      "franchise": 4,
+      "name": "BS MOL LJUTOMER",
+      "address": "KOLODVORSKA ULICA 2A",
+      "lat": 46.526083,
+      "lng": 16.193583,
+      "prices": {
+        "95": 1.184,
+        "dizel": 1.232,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.97
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 05:00 - 21:00\r\nSOBOTA 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "9240"
+    },
+    {
+      "pk": 811,
+      "franchise": 2,
+      "name": "OMV KRVAVI POTOK",
+      "address": "Krvavi potok 1",
+      "lat": 45.61885,
+      "lng": 13.910126,
+      "prices": {
+        "95": 1.184,
+        "dizel": 1.232,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6240"
     }
   ],
   "position": null
