@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1563,
+      "franchise": 4,
+      "name": "BS MOL GORNJA RADGONA",
+      "address": "LJUTOMERSKA CESTA 12",
+      "lat": 46.6699694,
+      "lng": 15.9961534,
+      "prices": {
+        "95": 1.184,
+        "dizel": 1.232,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": 1.392,
+        "avtoplin-lpg": null,
+        "KOEL": 0.97
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": ""
+    },
+    {
       "pk": 1564,
       "franchise": 4,
       "name": "BS MOL HOČE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 06:00 - 22:00",
       "zip_code": "6258"
-    },
-    {
-      "pk": 810,
-      "franchise": 2,
-      "name": "OMV KRŠKO",
-      "address": "C.Krških žrtev 131a",
-      "lat": 45.94429,
-      "lng": 15.48733,
-      "prices": {
-        "95": 1.184,
-        "dizel": 1.232,
-        "98": null,
-        "100": 1.339,
-        "dizel-premium": 1.392,
-        "avtoplin-lpg": null,
-        "KOEL": 0.969
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "8270"
     }
   ],
   "position": null
