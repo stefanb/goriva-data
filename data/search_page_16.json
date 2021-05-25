@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 1591,
+      "franchise": 4,
+      "name": "BS MOL VODICE",
+      "address": "ŠKOFJELOŠKA CESTA 14",
+      "lat": 46.185997,
+      "lng": 14.487635,
+      "prices": {
+        "95": 1.184,
+        "dizel": 1.232,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.97
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 824,
+      "franchise": 2,
+      "name": "OMV LUCIJA POMOL",
+      "address": "Seča 188",
+      "lat": 45.50526,
+      "lng": 13.59658,
+      "prices": {
+        "95": 1.184,
+        "dizel": 1.232,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: na klic ; Jun-Sep: Pon-Ned 09:00-19:00 (zaprto od 13:00-14:00)",
+      "zip_code": "6320"
+    },
+    {
       "pk": 1592,
       "franchise": 4,
       "name": "BS MOL AJDOVŠČINA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6210"
-    },
-    {
-      "pk": 854,
-      "franchise": 2,
-      "name": "OMV SLOVENSKA BISTRICA",
-      "address": "Žolgarjeva ulica 16",
-      "lat": 46.385322,
-      "lng": 15.571972,
-      "prices": {
-        "95": 1.184,
-        "dizel": 1.232,
-        "98": null,
-        "100": 1.339,
-        "dizel-premium": 1.392,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2310"
-    },
-    {
-      "pk": 855,
-      "franchise": 2,
-      "name": "OMV SLOVENSKE KONJICE",
-      "address": "Liptovska 36a",
-      "lat": 46.34068,
-      "lng": 15.41675,
-      "prices": {
-        "95": 1.184,
-        "dizel": 1.232,
-        "98": null,
-        "100": 1.339,
-        "dizel-premium": 1.392,
-        "avtoplin-lpg": null,
-        "KOEL": 0.931
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3210"
     }
   ],
   "position": null

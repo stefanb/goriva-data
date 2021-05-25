@@ -256,6 +256,27 @@
       "zip_code": "2310"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.178,
+        "dizel": 1.224,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 2048,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TIVOLSKA",
@@ -487,46 +508,25 @@
       "zip_code": "1261"
     },
     {
-      "pk": 2061,
-      "franchise": 1,
-      "name": "PETROL BLED - LJUBLJANSKA JUG",
-      "address": "LJUBLJANSKA CESTA 30",
-      "lat": 46.36846888,
-      "lng": 14.11723896,
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
       "prices": {
         "95": 1.182,
         "dizel": 1.23,
         "98": null,
-        "100": 1.329,
+        "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.97
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "4260"
-    },
-    {
-      "pk": 2062,
-      "franchise": 1,
-      "name": "PETROL DOMŽALE - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 2",
-      "lat": 46.13555764,
-      "lng": 14.58035495,
-      "prices": {
-        "95": 1.182,
-        "dizel": 1.23,
-        "98": null,
-        "100": 1.329,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.97
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "1230"
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     }
   ],
   "position": null

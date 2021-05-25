@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 2172,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA ZAHOD",
+      "address": "CELJSKA CESTA 2",
+      "lat": 46.35625568,
+      "lng": 15.11475697,
+      "prices": {
+        "95": 1.182,
+        "dizel": 1.23,
+        "98": null,
+        "100": 1.329,
+        "dizel-premium": 1.42,
+        "avtoplin-lpg": 0.665,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3320"
+    },
+    {
+      "pk": 2173,
+      "franchise": 1,
+      "name": "PETROL ŠENTRUPERT",
+      "address": "ŠENTRUPERT 6B",
+      "lat": 46.250078,
+      "lng": 15.075261,
+      "prices": {
+        "95": 1.182,
+        "dizel": 1.23,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.97
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "3303"
+    },
+    {
       "pk": 2174,
       "franchise": 1,
       "name": "PETROL PODČETRTEK",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "2331"
-    },
-    {
-      "pk": 2188,
-      "franchise": 1,
-      "name": "PETROL LAŠKO",
-      "address": "CELJSKA CESTA 40",
-      "lat": 46.16731495,
-      "lng": 15.2329947,
-      "prices": {
-        "95": 1.182,
-        "dizel": 1.23,
-        "98": null,
-        "100": 1.329,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.97
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "3270"
-    },
-    {
-      "pk": 1933,
-      "franchise": 1,
-      "name": "PETROL RAČE",
-      "address": "LJUBLJANSKA CESTA 22",
-      "lat": 46.45289915,
-      "lng": 15.67336264,
-      "prices": {
-        "95": 1.182,
-        "dizel": 1.23,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.97
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-13:00",
-      "zip_code": "2327"
     }
   ],
   "position": null
