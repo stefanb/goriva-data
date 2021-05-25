@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 770,
+      "franchise": 2,
+      "name": "OMV BREZOVICA",
+      "address": "Tržaška c. 565",
+      "lat": 46.022535,
+      "lng": 14.407636,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.235,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": 1.392,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1351"
+    },
+    {
       "pk": 771,
       "franchise": 2,
       "name": "OMV BREŽICE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6240"
-    },
-    {
-      "pk": 809,
-      "franchise": 2,
-      "name": "OMV KRANJ",
-      "address": "Cesta Staneta Žagarja 53c",
-      "lat": 46.24277,
-      "lng": 14.371453,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.235,
-        "98": null,
-        "100": 1.339,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4000"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 809,
+      "franchise": 2,
+      "name": "OMV KRANJ",
+      "address": "Cesta Staneta Žagarja 53c",
+      "lat": 46.24277,
+      "lng": 14.371453,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.235,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4000"
+    },
+    {
       "pk": 810,
       "franchise": 2,
       "name": "OMV KRŠKO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 6:00-22:00",
       "zip_code": "8000"
-    },
-    {
-      "pk": 838,
-      "franchise": 2,
-      "name": "OMV ORMOŽ",
-      "address": "Hardek 44d",
-      "lat": 46.409754,
-      "lng": 16.160733,
-      "prices": {
-        "95": 1.185,
-        "dizel": 1.235,
-        "98": null,
-        "100": 1.339,
-        "dizel-premium": 1.392,
-        "avtoplin-lpg": null,
-        "KOEL": 0.969
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:00",
-      "zip_code": "2270"
     }
   ],
   "position": null

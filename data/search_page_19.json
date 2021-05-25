@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2247,
+      "franchise": 3,
+      "name": "BS MAXEN METLIKA",
+      "address": "Mestni log bš",
+      "lat": 45.6406592,
+      "lng": 15.3216016,
+      "prices": {
+        "95": 1.194,
+        "dizel": 1.255,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8330"
+    },
+    {
       "pk": 2248,
       "franchise": 3,
       "name": "BS MAXEN PREDGRAD",
@@ -233,27 +254,6 @@
       "direction": "",
       "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
       "zip_code": "2211"
-    },
-    {
-      "pk": 2266,
-      "franchise": 5,
-      "name": "SHELL MARIBOR RETAIL",
-      "address": "TURNEJEVA ULICA 35",
-      "lat": 46.449892,
-      "lng": 15.651698,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.23,
-        "98": null,
-        "100": 1.32,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka z osebjem",
-      "zip_code": "2313"
     },
     {
       "pk": 2311,
