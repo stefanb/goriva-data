@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2248,
+      "franchise": 3,
+      "name": "BS MAXEN PREDGRAD",
+      "address": "Paka pri Predgradu bš",
+      "lat": 45.5025792,
+      "lng": 15.0603264,
+      "prices": {
+        "95": 1.194,
+        "dizel": 1.255,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8342"
+    },
+    {
+      "pk": 2249,
+      "franchise": 3,
+      "name": "BS MAXEN MEŽICA",
+      "address": "Mariborska cesta bš",
+      "lat": 46.5236096,
+      "lng": 14.8536976,
+      "prices": {
+        "95": 1.194,
+        "dizel": 1.255,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2392"
+    },
+    {
       "pk": 2250,
       "franchise": 3,
       "name": "BS MAXEN KOČEVJE",
@@ -193,27 +235,6 @@
       "zip_code": "2211"
     },
     {
-      "pk": 827,
-      "franchise": 2,
-      "name": "OMV LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.554681,
-      "lng": 13.744175,
-      "prices": {
-        "95": 1.195,
-        "dizel": 1.236,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -254,48 +275,6 @@
       "direction": "",
       "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
       "zip_code": "6253"
-    },
-    {
-      "pk": 2316,
-      "franchise": 23,
-      "name": "BS Žihlava",
-      "address": "Žihlava 15",
-      "lat": 46.55,
-      "lng": 16.0396,
-      "prices": {
-        "95": 1.202,
-        "dizel": 1.235,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gornja Radgona - Ljutomer",
-      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.202,
-        "dizel": 1.235,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
-      "zip_code": "9201"
     },
     {
       "pk": 2059,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8250"
+    },
+    {
+      "pk": 2162,
+      "franchise": 1,
+      "name": "PETROL OBREŽJE AC - VZHOD",
+      "address": "JESENICE 32A",
+      "lat": 45.85448,
+      "lng": 15.686297,
+      "prices": {
+        "95": 1.212,
+        "dizel": 1.257,
+        "98": null,
+        "100": 1.379,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8261"
     }
   ],
   "position": null

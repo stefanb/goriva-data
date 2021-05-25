@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 2319,
-      "franchise": 26,
-      "name": "EKSTRA OLJE",
-      "address": "Limbuška cesta 2",
-      "lat": 46.559416,
-      "lng": 15.597476,
-      "prices": {
-        "95": null,
-        "dizel": 1.235,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.977
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2341"
-    },
-    {
       "pk": 784,
       "franchise": 2,
       "name": "ET CAR.C.SEŽANA",
@@ -170,6 +149,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 827,
+      "franchise": 2,
+      "name": "OMV LUKA",
+      "address": "Vojkovo nabrežje 38",
+      "lat": 45.554681,
+      "lng": 13.744175,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "6000"
     },
     {
       "pk": 850,

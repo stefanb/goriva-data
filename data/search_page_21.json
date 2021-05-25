@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.212,
-        "dizel": 1.257,
-        "98": null,
-        "100": 1.379,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.665,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
       "pk": 2032,
       "franchise": 1,
       "name": "PETROL VIPAVA AC - SEVER",
@@ -44,6 +23,69 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "5271"
+    },
+    {
+      "pk": 777,
+      "franchise": 2,
+      "name": "OMV DOBRENJE VZHOD",
+      "address": "Sp.Dobrenje 41a",
+      "lat": 46.605931,
+      "lng": 15.663342,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gradec",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
+    },
+    {
+      "pk": 778,
+      "franchise": 2,
+      "name": "OMV DOBRENJE ZAHOD",
+      "address": "Sp.Dobrenje 41d",
+      "lat": 46.609699,
+      "lng": 15.662384,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
+    },
+    {
+      "pk": 781,
+      "franchise": 2,
+      "name": "OMV DRAVSKO POLJE JUG",
+      "address": "Gerečja vas 1h",
+      "lat": 46.428962,
+      "lng": 15.794118,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Zagreb",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2288"
     },
     {
       "pk": 782,
@@ -130,6 +172,27 @@
       "zip_code": "9220"
     },
     {
+      "pk": 793,
+      "franchise": 2,
+      "name": "OMV GRABONOŠ",
+      "address": "Grabonoš 4c",
+      "lat": 46.584129,
+      "lng": 16.008947,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Lenti",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9244"
+    },
+    {
       "pk": 796,
       "franchise": 2,
       "name": "OMV GROSUPLJE CIKAVA",
@@ -172,6 +235,69 @@
       "zip_code": "2230"
     },
     {
+      "pk": 823,
+      "franchise": 2,
+      "name": "OMV LOPATA JUG",
+      "address": "Lopata 80",
+      "lat": 46.261718,
+      "lng": 15.22071,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 828,
+      "franchise": 2,
+      "name": "OMV LUKOVICA",
+      "address": "Koseskega cesta 4",
+      "lat": 46.16606,
+      "lng": 14.6896,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1225"
+    },
+    {
+      "pk": 837,
+      "franchise": 2,
+      "name": "OMV OBREŽJE JUG",
+      "address": "Jesenice 36a",
+      "lat": 45.854884,
+      "lng": 15.684443,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Zagreb",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "8261"
+    },
+    {
       "pk": 844,
       "franchise": 2,
       "name": "OMV RADOVLJICA JUG",
@@ -189,6 +315,27 @@
       },
       "distance": null,
       "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
+      "pk": 845,
+      "franchise": 2,
+      "name": "OMV RADOVLJICA SEVER",
+      "address": "Ljubljanska cesta 71",
+      "lat": 46.33934,
+      "lng": 14.19201,
+      "prices": {
+        "95": 1.229,
+        "dizel": 1.265,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Jesenice",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "4240"
     },
@@ -254,174 +401,6 @@
       "direction": "Nova Gorica",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5261"
-    },
-    {
-      "pk": 777,
-      "franchise": 2,
-      "name": "OMV DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 778,
-      "franchise": 2,
-      "name": "OMV DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 781,
-      "franchise": 2,
-      "name": "OMV DRAVSKO POLJE JUG",
-      "address": "Gerečja vas 1h",
-      "lat": 46.428962,
-      "lng": 15.794118,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2288"
-    },
-    {
-      "pk": 793,
-      "franchise": 2,
-      "name": "OMV GRABONOŠ",
-      "address": "Grabonoš 4c",
-      "lat": 46.584129,
-      "lng": 16.008947,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Lenti",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 823,
-      "franchise": 2,
-      "name": "OMV LOPATA JUG",
-      "address": "Lopata 80",
-      "lat": 46.261718,
-      "lng": 15.22071,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 828,
-      "franchise": 2,
-      "name": "OMV LUKOVICA",
-      "address": "Koseskega cesta 4",
-      "lat": 46.16606,
-      "lng": 14.6896,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1225"
-    },
-    {
-      "pk": 837,
-      "franchise": 2,
-      "name": "OMV OBREŽJE JUG",
-      "address": "Jesenice 36a",
-      "lat": 45.854884,
-      "lng": 15.684443,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "8261"
-    },
-    {
-      "pk": 845,
-      "franchise": 2,
-      "name": "OMV RADOVLJICA SEVER",
-      "address": "Ljubljanska cesta 71",
-      "lat": 46.33934,
-      "lng": 14.19201,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.269,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": 1.499,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Jesenice",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
     },
     {
       "pk": 2308,
@@ -527,6 +506,27 @@
       "direction": "H4, izhod Vrtojba",
       "open_hours": "24/7",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2319,
+      "franchise": 26,
+      "name": "EKSTRA OLJE",
+      "address": "Limbuška cesta 2",
+      "lat": 46.559416,
+      "lng": 15.597476,
+      "prices": {
+        "95": null,
+        "dizel": 1.235,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2341"
     }
   ],
   "position": null
