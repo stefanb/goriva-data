@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 870,
+      "franchise": 2,
+      "name": "OMV VELENJE GORENJE",
+      "address": "Partizanska c. 15a",
+      "lat": 46.359472,
+      "lng": 15.099174,
+      "prices": {
+        "95": 1.185,
+        "dizel": 1.235,
+        "98": null,
+        "100": 1.339,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:30",
+      "zip_code": "3320"
+    },
+    {
       "pk": 871,
       "franchise": 2,
       "name": "OMV VELENJE SELO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "2352"
-    },
-    {
-      "pk": 2246,
-      "franchise": 3,
-      "name": "BS MAXEN LJUBLJANA-BTC",
-      "address": "Argentinska ulica bš",
-      "lat": 46.0665824,
-      "lng": 14.5488544,
-      "prices": {
-        "95": 1.194,
-        "dizel": 1.255,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1000"
     }
   ],
   "position": null
