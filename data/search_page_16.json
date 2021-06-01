@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2042,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ZALOŠKA",
+      "address": "ZALOŠKA CESTA 60A",
+      "lat": 46.05587096,
+      "lng": 14.53893203,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.976
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2043,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - RUDNIK VZHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": ""
-    },
-    {
-      "pk": 1564,
-      "franchise": 4,
-      "name": "BS MOL HOČE",
-      "address": "MIKLAVŠKA CESTA 80",
-      "lat": 46.5005164,
-      "lng": 15.6550055,
-      "prices": {
-        "95": 1.19,
-        "dizel": 1.237,
-        "98": null,
-        "100": 1.344,
-        "dizel-premium": 1.409,
-        "avtoplin-lpg": null,
-        "KOEL": 0.977
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA  07:00 - 22:00\r\nPRAZNIKI 08:00 - 20:00",
-      "zip_code": "2311"
     }
   ],
   "position": null
