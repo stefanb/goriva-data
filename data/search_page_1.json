@@ -361,27 +361,6 @@
       "zip_code": "3310"
     },
     {
-      "pk": 769,
-      "franchise": 2,
-      "name": "OMV BRESTOVICA",
-      "address": "Brestovica 116b",
-      "lat": 45.81302,
-      "lng": 13.62228,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.239,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
-    },
-    {
       "pk": 2049,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ŠMARTINSKA 150",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00",
       "zip_code": "1260"
+    },
+    {
+      "pk": 2307,
+      "franchise": 19,
+      "name": "Bencinski servis Sodražica",
+      "address": "cesta Notranjskega odreda 56",
+      "lat": 45.76375961303711,
+      "lng": 14.63137435913086,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.235,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "5.30-22.00",
+      "zip_code": "1317"
     }
   ],
   "position": null

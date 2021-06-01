@@ -4,111 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2042,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ZALOŠKA",
-      "address": "ZALOŠKA CESTA 60A",
-      "lat": 46.05587096,
-      "lng": 14.53893203,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2043,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK VZHOD",
-      "address": "DOLENJSKA CESTA 157A",
-      "lat": 46.01990066,
-      "lng": 14.54272853,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2044,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 133",
-      "address": "DUNAJSKA CESTA 133",
-      "lat": 46.07883295,
-      "lng": 14.51209267,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2045,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ŠMARTINSKA 101",
-      "address": "ŠMARTINSKA CESTA 101",
-      "lat": 46.066152,
-      "lng": 14.531219,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 766,
-      "franchise": 2,
-      "name": "OMV AJŠEVICA",
-      "address": "Loke 40",
-      "lat": 45.95337,
-      "lng": 13.69157,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.239,
-        "98": null,
-        "100": 1.345,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
-      "zip_code": "5000"
-    },
-    {
       "pk": 2046,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
@@ -527,6 +422,111 @@
       "direction": "",
       "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": ""
+    },
+    {
+      "pk": 1564,
+      "franchise": 4,
+      "name": "BS MOL HOČE",
+      "address": "MIKLAVŠKA CESTA 80",
+      "lat": 46.5005164,
+      "lng": 15.6550055,
+      "prices": {
+        "95": 1.19,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.344,
+        "dizel-premium": 1.409,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA  07:00 - 22:00\r\nPRAZNIKI 08:00 - 20:00",
+      "zip_code": "2311"
+    },
+    {
+      "pk": 1565,
+      "franchise": 4,
+      "name": "BS MOL NOVO MESTO",
+      "address": "MIRNOPEŠKA CESTA 4",
+      "lat": 45.8211663,
+      "lng": 15.1506657,
+      "prices": {
+        "95": 1.19,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.344,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 1566,
+      "franchise": 4,
+      "name": "BS MOL SEŽANA",
+      "address": "PARTIZANSKA CESTA 69/B",
+      "lat": 45.7050725,
+      "lng": 13.8608974,
+      "prices": {
+        "95": 1.19,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.344,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.665,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1567,
+      "franchise": 4,
+      "name": "BS MOL SELNICA OB DRAVI",
+      "address": "MARIBORSKA CESTA 10 C",
+      "lat": 46.5523428,
+      "lng": 15.4977882,
+      "prices": {
+        "95": 1.19,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.344,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1569,
+      "franchise": 4,
+      "name": "BS MOL CELJE",
+      "address": "MARIBORSKA 128",
+      "lat": 46.244417,
+      "lng": 15.278217,
+      "prices": {
+        "95": 1.19,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.344,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 21:00",
+      "zip_code": "3000"
     }
   ],
   "position": null

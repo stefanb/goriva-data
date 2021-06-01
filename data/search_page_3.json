@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 2067,
-      "franchise": 1,
-      "name": "PETROL TRBOVLJE - TRG REVOLUCIJE",
-      "address": "TRG REVOLUCIJE 8A",
-      "lat": 46.14637991,
-      "lng": 15.04055907,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1420"
-    },
-    {
       "pk": 2323,
       "franchise": 2,
       "name": "OMV KOPER LUKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
       "zip_code": "6223"
+    },
+    {
+      "pk": 2082,
+      "franchise": 1,
+      "name": "PETROL KAMNIK - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 10A",
+      "lat": 46.21205029,
+      "lng": 14.59993502,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.976
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:30",
+      "zip_code": "1241"
     }
   ],
   "position": null

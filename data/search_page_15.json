@@ -4,111 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.235,
-        "98": 1.263,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 2013,
-      "franchise": 1,
-      "name": "PETROL MAJŠPERK",
-      "address": "MAJŠPERK 55A",
-      "lat": 46.3487854,
-      "lng": 15.73672014,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "2322"
-    },
-    {
-      "pk": 2014,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 26/B",
-      "address": "ORMOŠKA CESTA 26B",
-      "lat": 46.41676013,
-      "lng": 15.88049476,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": 1.426,
-        "avtoplin-lpg": 0.665,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2250"
-    },
-    {
-      "pk": 2015,
-      "franchise": 1,
-      "name": "PETROL PTUJ - OSOJNIKOVA",
-      "address": "OSOJNIKOVA CESTA 10",
-      "lat": 46.42711936,
-      "lng": 15.8836554,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "2250"
-    },
-    {
-      "pk": 2271,
-      "franchise": 2,
-      "name": "OMV MARIBOR STUDENCI",
-      "address": "Ulica heroja Šercerja 60",
-      "lat": 46.548645,
-      "lng": 15.620617,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.239,
-        "98": null,
-        "100": 1.345,
-        "dizel-premium": 1.398,
-        "avtoplin-lpg": 0.664,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Pet 05:00-22:00; Sob, Ned, Praz. 06:00-22:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2016,
       "franchise": 1,
       "name": "PETROL AJDOVŠČINA - VIPAVSKA",
@@ -527,6 +422,111 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2042,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ZALOŠKA",
+      "address": "ZALOŠKA CESTA 60A",
+      "lat": 46.05587096,
+      "lng": 14.53893203,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.976
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2043,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - RUDNIK VZHOD",
+      "address": "DOLENJSKA CESTA 157A",
+      "lat": 46.01990066,
+      "lng": 14.54272853,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2044,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 133",
+      "address": "DUNAJSKA CESTA 133",
+      "lat": 46.07883295,
+      "lng": 14.51209267,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2045,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 101",
+      "address": "ŠMARTINSKA CESTA 101",
+      "lat": 46.066152,
+      "lng": 14.531219,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 766,
+      "franchise": 2,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.239,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
     }
   ],
   "position": null
