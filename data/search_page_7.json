@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 2104,
-      "franchise": 1,
-      "name": "PETROL KRANJSKA GORA",
-      "address": "SAVSKO NASELJE 8",
-      "lat": 46.48650758,
-      "lng": 13.79815941,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "4280"
-    },
-    {
       "pk": 825,
       "franchise": 2,
       "name": "OMV LUCIJA VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "4270"
+    },
+    {
+      "pk": 838,
+      "franchise": 2,
+      "name": "OMV ORMOŽ",
+      "address": "Hardek 44d",
+      "lat": 46.409754,
+      "lng": 16.160733,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.239,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": 1.398,
+        "avtoplin-lpg": null,
+        "KOEL": 0.976
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:00",
+      "zip_code": "2270"
     }
   ],
   "position": null

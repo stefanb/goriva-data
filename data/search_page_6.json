@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1582,
-      "franchise": 4,
-      "name": "BS MOL MIKLAVŽ",
-      "address": "PTUJSKA CESTA 135",
-      "lat": 46.496423,
-      "lng": 15.713914,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.237,
-        "98": null,
-        "100": 1.345,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.658,
-        "KOEL": 0.977
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - pet. 06:00 - 22:00\r\nsobota 07:00 - 21:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2204"
-    },
-    {
       "pk": 2094,
       "franchise": 1,
       "name": "PETROL HRASTNIK",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA 08:00-20:00",
       "zip_code": "5270"
+    },
+    {
+      "pk": 2104,
+      "franchise": 1,
+      "name": "PETROL KRANJSKA GORA",
+      "address": "SAVSKO NASELJE 8",
+      "lat": 46.48650758,
+      "lng": 13.79815941,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.976
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-19:00",
+      "zip_code": "4280"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2213,
-      "franchise": 1,
-      "name": "PETROL OTIŠKI VRH",
-      "address": "OTIŠKI VRH 25C",
-      "lat": 46.572637,
-      "lng": 15.025052,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:30-11:00",
-      "zip_code": "2373"
-    },
-    {
       "pk": 1958,
       "franchise": 1,
       "name": "PETROL KANAL OB SOČI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "9250"
+    },
+    {
+      "pk": 1971,
+      "franchise": 1,
+      "name": "PETROL MARTJANCI",
+      "address": "MARTJANCI 83B",
+      "lat": 46.68760198,
+      "lng": 16.19649434,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
+      "zip_code": "9221"
     }
   ],
   "position": null

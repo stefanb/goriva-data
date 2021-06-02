@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 1993,
-      "franchise": 1,
-      "name": "PETROL SEŽANA",
-      "address": "PARTIZANSKA CESTA 147",
-      "lat": 45.702385,
-      "lng": 13.84361,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.665,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 1994,
       "franchise": 1,
       "name": "PETROL JAGODJE - JUG",
@@ -527,6 +506,27 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2231"
+    },
+    {
+      "pk": 2021,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
+      "address": "LJUBLJANSKA CESTA 45",
+      "lat": 46.387184,
+      "lng": 15.569006,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.234,
+        "98": null,
+        "100": 1.334,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.665,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "2310"
     }
   ],
   "position": null
