@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 1552,
+      "franchise": 4,
+      "name": "BS MOL KOČEVJE",
+      "address": "LJUBLJANSKA CESTA 40",
+      "lat": 45.6488405,
+      "lng": 14.8544269,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": 1.409,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1330"
+    },
+    {
       "pk": 2064,
       "franchise": 1,
       "name": "PETROL LITIJA - LJUBLJANSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "4000"
-    },
-    {
-      "pk": 795,
-      "franchise": 2,
-      "name": "OMV GROSUPLJE",
-      "address": "Ljubljanska c. 62",
-      "lat": 45.967972,
-      "lng": 14.660767,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.239,
-        "98": null,
-        "100": 1.345,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.976
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:30",
-      "zip_code": "1290"
     }
   ],
   "position": null
