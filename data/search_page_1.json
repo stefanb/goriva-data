@@ -32,13 +32,13 @@
       "lat": 46.3896077,
       "lng": 16.05135585,
       "prices": {
-        "95": 1.159,
-        "dizel": 1.174,
+        "95": 1.171,
+        "dizel": 1.193,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.946
+        "KOEL": 0.964
       },
       "distance": null,
       "direction": "",
@@ -256,48 +256,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.184,
-        "dizel": 1.227,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.974
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.187,
-        "dizel": 1.232,
-        "98": null,
-        "100": 1.334,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.974
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
       "pk": 769,
       "franchise": 2,
       "name": "OMV BRESTOVICA",
@@ -338,27 +296,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.189,
-        "dizel": 1.234,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 1548,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1554,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "MALA NOVA ULICA 1",
+      "lat": 46.6560676,
+      "lng": 16.1751469,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": 1.409,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 05:00 - 22:00\r\nnedelja in prazniki 07:00 - 20:00",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 1555,
+      "franchise": 4,
+      "name": "BS MOL RIBNICA",
+      "address": "MERHARJEVA ULICA 13",
+      "lat": 45.738688,
+      "lng": 14.733154,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": 1.409,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1310"
+    },
+    {
+      "pk": 1556,
+      "franchise": 4,
+      "name": "BS MOL LOGATEC",
+      "address": "TRŽAŠKA 74A",
+      "lat": 45.9166669,
+      "lng": 14.218824,
+      "prices": {
+        "95": 1.189,
+        "dizel": 1.237,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": 1.409,
+        "avtoplin-lpg": null,
+        "KOEL": 0.977
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1370"
     }
   ],
   "position": null
