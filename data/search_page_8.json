@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2196,
-      "franchise": 1,
-      "name": "PETROL ROGATEC",
-      "address": "CELJSKA CESTA 43",
-      "lat": 46.226069,
-      "lng": 15.693021,
-      "prices": {
-        "95": 1.201,
-        "dizel": 1.253,
-        "98": null,
-        "100": 1.346,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.994
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3252"
-    },
-    {
       "pk": 1941,
       "franchise": 1,
       "name": "PETROL OPLOTNICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "2391"
+    },
+    {
+      "pk": 1955,
+      "franchise": 1,
+      "name": "PETROL MOST NA SOČI",
+      "address": "MOST NA SOČI 51B",
+      "lat": 46.15283904,
+      "lng": 13.74145196,
+      "prices": {
+        "95": 1.201,
+        "dizel": 1.253,
+        "98": null,
+        "100": 1.346,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 17:30-20:00",
+      "zip_code": "5216"
     }
   ],
   "position": null
