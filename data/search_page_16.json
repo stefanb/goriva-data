@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 820,
-      "franchise": 2,
-      "name": "OMV LJUBLJANA ZALOŠKA SEVER",
-      "address": "Zaloška 157",
-      "lat": 46.056444,
-      "lng": 14.55814,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.257,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": 1.424,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 1588,
-      "franchise": 4,
-      "name": "BS MOL SENOŽETI",
-      "address": "SENOŽETI 93",
-      "lat": 46.088644,
-      "lng": 14.716823,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.256,
-        "98": null,
-        "100": 1.359,
-        "dizel-premium": 1.439,
-        "avtoplin-lpg": null,
-        "KOEL": 0.995
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 821,
       "franchise": 2,
       "name": "OMV LJUTOMER",
@@ -86,27 +44,6 @@
       "direction": "",
       "open_hours": "PON - PET 06:00-22:00\r\nSOBOTA    07:00-22:00\r\nNEDELJA    08:00-20:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 822,
-      "franchise": 2,
-      "name": "OMV LOKEV",
-      "address": "Lokev 1a",
-      "lat": 45.66133,
-      "lng": 13.91942,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.257,
-        "98": null,
-        "100": 1.345,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6219"
     },
     {
       "pk": 1590,
@@ -445,27 +382,6 @@
       "zip_code": "2270"
     },
     {
-      "pk": 839,
-      "franchise": 2,
-      "name": "OMV PESEK",
-      "address": "Krvavi potok 25",
-      "lat": 45.620425,
-      "lng": 13.906935,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.257,
-        "98": null,
-        "100": 1.345,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Kozina",
-      "open_hours": "Okt-Mar: Sob-Čet 07:00-22:00, Pet 07:00-22:00; Apr-Maj: Ned-Čet 07:00-22:00, Pet-Sob 07:00-22:00; Jun-Sep: Pon-Ned 06:00-22:00",
-      "zip_code": "6240"
-    },
-    {
       "pk": 840,
       "franchise": 2,
       "name": "OMV PODGRAD",
@@ -487,27 +403,6 @@
       "zip_code": "6244"
     },
     {
-      "pk": 841,
-      "franchise": 2,
-      "name": "OMV PORTOROŽ",
-      "address": "Fizine 17",
-      "lat": 45.515177,
-      "lng": 13.580759,
-      "prices": {
-        "95": 1.204,
-        "dizel": 1.257,
-        "98": null,
-        "100": 1.345,
-        "dizel-premium": 1.424,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6320"
-    },
-    {
       "pk": 842,
       "franchise": 2,
       "name": "OMV POSTOJNA TITOVA",
@@ -527,6 +422,111 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6230"
+    },
+    {
+      "pk": 843,
+      "franchise": 2,
+      "name": "OMV POSTOJNA TRŽAŠKA",
+      "address": "Tržaška c. 60b",
+      "lat": 45.772642,
+      "lng": 14.200028,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.257,
+        "98": null,
+        "100": 1.359,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.994
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 846,
+      "franchise": 2,
+      "name": "OMV RAKEK",
+      "address": "Partizanska 73a",
+      "lat": 45.808113,
+      "lng": 14.329101,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.257,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.976
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1381"
+    },
+    {
+      "pk": 849,
+      "franchise": 2,
+      "name": "OMV ROŽNA DOLINA",
+      "address": "Angela Besednjaka 8",
+      "lat": 45.940972,
+      "lng": 13.640395,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.257,
+        "98": null,
+        "100": 1.359,
+        "dizel-premium": 1.424,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5000"
+    },
+    {
+      "pk": 851,
+      "franchise": 2,
+      "name": "OMV SENOVO",
+      "address": "Titova ulica 101c",
+      "lat": 46.02489,
+      "lng": 15.47797,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.257,
+        "98": null,
+        "100": 1.345,
+        "dizel-premium": 1.424,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "8281"
+    },
+    {
+      "pk": 852,
+      "franchise": 2,
+      "name": "OMV SENOŽEČE",
+      "address": "Senožeče 10a",
+      "lat": 45.72321,
+      "lng": 14.04572,
+      "prices": {
+        "95": 1.204,
+        "dizel": 1.257,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
+      "zip_code": "6224"
     }
   ],
   "position": null
