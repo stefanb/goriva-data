@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2307,
-      "franchise": 19,
-      "name": "Bencinski servis Sodražica",
-      "address": "cesta Notranjskega odreda 56",
-      "lat": 45.76375961303711,
-      "lng": 14.63137435913086,
-      "prices": {
-        "95": 1.207,
-        "dizel": 1.26,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "5.30-22.00",
-      "zip_code": "1317"
-    },
-    {
       "pk": 2052,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRNOVO",
@@ -277,6 +256,27 @@
       "zip_code": "1230"
     },
     {
+      "pk": 2063,
+      "franchise": 1,
+      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
+      "address": "KOROŠKA CESTA 53B",
+      "lat": 46.247434,
+      "lng": 14.349614,
+      "prices": {
+        "95": 1.207,
+        "dizel": 1.26,
+        "98": null,
+        "100": 1.354,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2064,
       "franchise": 1,
       "name": "PETROL LITIJA - LJUBLJANSKA",
@@ -317,6 +317,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 22:00-24:00",
       "zip_code": "1370"
+    },
+    {
+      "pk": 2066,
+      "franchise": 1,
+      "name": "PETROL RADOVLJICA - KRANJSKA",
+      "address": "KRANJSKA CESTA 20",
+      "lat": 46.34605506,
+      "lng": 14.1817862,
+      "prices": {
+        "95": 1.207,
+        "dizel": 1.26,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.003
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "4240"
     },
     {
       "pk": 2067,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 13:00-17:00\r\nsobote 13:00-17:00\r\nnedelje in prazniki 13:00-17:00",
       "zip_code": "4206"
-    },
-    {
-      "pk": 2076,
-      "franchise": 1,
-      "name": "PETROL ŽELEZNIKI",
-      "address": "ČEŠNJICA 55",
-      "lat": 46.22626724,
-      "lng": 14.17252414,
-      "prices": {
-        "95": 1.207,
-        "dizel": 1.26,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.003
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 07:00-18:00",
-      "zip_code": "4228"
     }
   ],
   "position": null
