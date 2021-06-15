@@ -340,6 +340,27 @@
       "zip_code": "9220"
     },
     {
+      "pk": 2063,
+      "franchise": 1,
+      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
+      "address": "KOROŠKA CESTA 53B",
+      "lat": 46.247434,
+      "lng": 14.349614,
+      "prices": {
+        "95": 1.206,
+        "dizel": 1.26,
+        "98": null,
+        "100": 1.354,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00",
       "zip_code": "1260"
-    },
-    {
-      "pk": 2307,
-      "franchise": 19,
-      "name": "Bencinski servis Sodražica",
-      "address": "cesta Notranjskega odreda 56",
-      "lat": 45.76375961303711,
-      "lng": 14.63137435913086,
-      "prices": {
-        "95": 1.207,
-        "dizel": 1.26,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "5.30-22.00",
-      "zip_code": "1317"
     }
   ],
   "position": null
