@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2216,
+      "franchise": 1,
+      "name": "PETROL LOPATA AC - SEVER",
+      "address": "LOPATA 81",
+      "lat": 46.262458,
+      "lng": 15.222118,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.3,
+        "98": null,
+        "100": 1.422,
+        "dizel-premium": 1.534,
+        "avtoplin-lpg": 0.685,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2229,
       "franchise": 1,
       "name": "PETROL STARINE AC - JUG",
@@ -380,27 +401,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "5271"
-    },
-    {
-      "pk": 796,
-      "franchise": 2,
-      "name": "OMV GROSUPLJE CIKAVA",
-      "address": "Ljubljanska cesta 129",
-      "lat": 45.9730555555556,
-      "lng": 14.625555555555556,
-      "prices": {
-        "95": 1.254,
-        "dizel": 1.308,
-        "98": null,
-        "100": 1.429,
-        "dizel-premium": 1.539,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Grosuplje",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1290"
     },
     {
       "pk": 2308,

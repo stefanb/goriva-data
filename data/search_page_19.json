@@ -424,6 +424,27 @@
       "zip_code": "9244"
     },
     {
+      "pk": 796,
+      "franchise": 2,
+      "name": "OMV GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.244,
+        "dizel": 1.298,
+        "98": null,
+        "100": 1.419,
+        "dizel-premium": 1.529,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1290"
+    },
+    {
       "pk": 823,
       "franchise": 2,
       "name": "OMV LOPATA JUG",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
-    },
-    {
-      "pk": 845,
-      "franchise": 2,
-      "name": "OMV RADOVLJICA SEVER",
-      "address": "Ljubljanska cesta 71",
-      "lat": 46.33934,
-      "lng": 14.19201,
-      "prices": {
-        "95": 1.244,
-        "dizel": 1.298,
-        "98": null,
-        "100": 1.419,
-        "dizel-premium": 1.529,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Jesenice",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "4240"
     }
