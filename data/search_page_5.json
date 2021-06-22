@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 2129,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - LETALIŠKA",
-      "address": "LETALIŠKA CESTA 38",
-      "lat": 46.0615,
-      "lng": 14.57315,
-      "prices": {
-        "95": 1.22,
-        "dizel": 1.272,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 08:00-15:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2130,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ZALOG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 06:00-20:00",
       "zip_code": "8344"
+    },
+    {
+      "pk": 2155,
+      "franchise": 1,
+      "name": "PETROL METLIKA - CESTA XV BRIGADE JUG",
+      "address": "CESTA XV. BRIGADE 35",
+      "lat": 45.64976238,
+      "lng": 15.30623221,
+      "prices": {
+        "95": 1.22,
+        "dizel": 1.272,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00",
+      "zip_code": "8330"
     }
   ],
   "position": null
