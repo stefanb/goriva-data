@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2156,
-      "franchise": 1,
-      "name": "PETROL KRŠKO - CESTA 4. JULIJA",
-      "address": "CESTA 4. JULIJA 74",
-      "lat": 45.95503319,
-      "lng": 15.4985082,
-      "prices": {
-        "95": 1.22,
-        "dizel": 1.272,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.017
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "8270"
-    },
-    {
       "pk": 2157,
       "franchise": 1,
       "name": "PETROL TRŽIŠČE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-14:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 1925,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - VALVASORJEVA",
+      "address": "VALVASORJEVA ULICA 51",
+      "lat": 46.555036,
+      "lng": 15.633782,
+      "prices": {
+        "95": 1.22,
+        "dizel": 1.272,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2000"
     }
   ],
   "position": null

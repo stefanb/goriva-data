@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2044,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 133",
-      "address": "DUNAJSKA CESTA 133",
-      "lat": 46.07883295,
-      "lng": 14.51209267,
-      "prices": {
-        "95": 1.22,
-        "dizel": 1.272,
-        "98": null,
-        "100": 1.368,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2045,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ŠMARTINSKA 101",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1571,
+      "franchise": 4,
+      "name": "BS MOL DRAMLJE",
+      "address": "LAZE PRI DRAMLJAH 6B",
+      "lat": 46.260293,
+      "lng": 15.3918165,
+      "prices": {
+        "95": 1.222,
+        "dizel": 1.273,
+        "98": null,
+        "100": 1.384,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.666,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3222"
     }
   ],
   "position": null

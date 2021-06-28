@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1985,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS",
-      "address": "ŠEMPAS 161A",
-      "lat": 45.93039187,
-      "lng": 13.73978149,
-      "prices": {
-        "95": 1.22,
-        "dizel": 1.272,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.017
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 09:00-17:00",
-      "zip_code": "5261"
-    },
-    {
       "pk": 1986,
       "franchise": 1,
       "name": "PETROL BOVEC",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
       "zip_code": "2211"
+    },
+    {
+      "pk": 2013,
+      "franchise": 1,
+      "name": "PETROL MAJŠPERK",
+      "address": "MAJŠPERK 55A",
+      "lat": 46.3487854,
+      "lng": 15.73672014,
+      "prices": {
+        "95": 1.22,
+        "dizel": 1.272,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:00-11:30",
+      "zip_code": "2322"
     }
   ],
   "position": null
