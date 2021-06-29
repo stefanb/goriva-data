@@ -277,27 +277,6 @@
       "zip_code": "6250"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.218,
-        "dizel": 1.27,
-        "98": null,
-        "100": 1.368,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.015
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
       "pk": 769,
       "franchise": 2,
       "name": "OMV BRESTOVICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
       "zip_code": "6224"
+    },
+    {
+      "pk": 857,
+      "franchise": 2,
+      "name": "OMV SPODNJA IDRIJA",
+      "address": "Vojkova ulica 24",
+      "lat": 46.01699,
+      "lng": 14.0288,
+      "prices": {
+        "95": 1.224,
+        "dizel": 1.274,
+        "98": null,
+        "100": 1.384,
+        "dizel-premium": 1.449,
+        "avtoplin-lpg": null,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "5280"
     }
   ],
   "position": null
