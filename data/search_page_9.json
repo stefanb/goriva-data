@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 1942,
-      "franchise": 1,
-      "name": "PETROL SELNICA OB DRAVI",
-      "address": "MARIBORSKA CESTA 46",
-      "lat": 46.54934191,
-      "lng": 15.4860149,
-      "prices": {
-        "95": 1.24,
-        "dizel": 1.284,
-        "98": null,
-        "100": 1.388,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.028
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2352"
-    },
-    {
       "pk": 2198,
       "franchise": 1,
       "name": "PETROL PODPLAT",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2212,
+      "franchise": 1,
+      "name": "PETROL MUTA",
+      "address": "KOROŠKA CESTA 18",
+      "lat": 46.60459809,
+      "lng": 15.1642458,
+      "prices": {
+        "95": 1.24,
+        "dizel": 1.284,
+        "98": null,
+        "100": 1.388,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.665,
+        "KOEL": 1.028
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "2366"
     }
   ],
   "position": null

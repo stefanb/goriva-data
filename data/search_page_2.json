@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 816,
-      "franchise": 2,
-      "name": "OMV LJUBLJANA LETALIŠKA",
-      "address": "Letališka c. 33b",
-      "lat": 46.062474,
-      "lng": 14.570349,
-      "prices": {
-        "95": 1.224,
-        "dizel": 1.274,
-        "98": null,
-        "100": 1.384,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Pet 06:00-22:00, Sob 08:00-20:00, Ned/Praz. zaprto",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 846,
-      "franchise": 2,
-      "name": "OMV RAKEK",
-      "address": "Partizanska 73a",
-      "lat": 45.808113,
-      "lng": 14.329101,
-      "prices": {
-        "95": 1.224,
-        "dizel": 1.274,
-        "98": null,
-        "100": 1.384,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.017
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1381"
-    },
-    {
-      "pk": 852,
-      "franchise": 2,
-      "name": "OMV SENOŽEČE",
-      "address": "Senožeče 10a",
-      "lat": 45.72321,
-      "lng": 14.04572,
-      "prices": {
-        "95": 1.224,
-        "dizel": 1.274,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
-      "zip_code": "6224"
-    },
-    {
       "pk": 857,
       "franchise": 2,
       "name": "OMV SPODNJA IDRIJA",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
       "zip_code": "1356"
+    },
+    {
+      "pk": 2054,
+      "franchise": 1,
+      "name": "PETROL PODPEČ",
+      "address": "JEZERO 103",
+      "lat": 45.973133,
+      "lng": 14.422124,
+      "prices": {
+        "95": 1.24,
+        "dizel": 1.284,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.028
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1352"
+    },
+    {
+      "pk": 2055,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
+      "address": "DUNAJSKA CESTA 460",
+      "lat": 46.10458934,
+      "lng": 14.54127278,
+      "prices": {
+        "95": 1.24,
+        "dizel": 1.284,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-13:00",
+      "zip_code": "1231"
+    },
+    {
+      "pk": 2056,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
+      "address": "DUNAJSKA CESTA 70",
+      "lat": 46.06882986,
+      "lng": 14.51074492,
+      "prices": {
+        "95": 1.24,
+        "dizel": 1.284,
+        "98": null,
+        "100": 1.388,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1000"
     }
   ],
   "position": null
