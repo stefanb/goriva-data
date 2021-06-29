@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 813,
-      "franchise": 2,
-      "name": "OMV LESCE",
-      "address": "Hraška c. 17",
-      "lat": 46.365369,
-      "lng": 14.16032,
-      "prices": {
-        "95": 1.224,
-        "dizel": 1.274,
-        "98": null,
-        "100": 1.384,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4248"
-    },
-    {
       "pk": 815,
       "franchise": 2,
       "name": "OMV LITIJA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2053,
+      "franchise": 1,
+      "name": "PETROL DOBROVA",
+      "address": "POLHOGRAJSKA CESTA 12",
+      "lat": 46.0520304,
+      "lng": 14.42151956,
+      "prices": {
+        "95": 1.24,
+        "dizel": 1.284,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.028
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
+      "zip_code": "1356"
     }
   ],
   "position": null
