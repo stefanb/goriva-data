@@ -277,27 +277,6 @@
       "zip_code": "6250"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.215,
-        "dizel": 1.267,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.001
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2267,
       "franchise": 6,
       "name": "EKO-NAFTA d.o.o.",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "4248"
+    },
+    {
+      "pk": 815,
+      "franchise": 2,
+      "name": "OMV LITIJA",
+      "address": "Zasavska c. 1",
+      "lat": 46.058713,
+      "lng": 14.832858,
+      "prices": {
+        "95": 1.224,
+        "dizel": 1.274,
+        "98": null,
+        "100": 1.384,
+        "dizel-premium": 1.449,
+        "avtoplin-lpg": null,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1270"
     }
   ],
   "position": null
