@@ -319,48 +319,6 @@
       "zip_code": "6230"
     },
     {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.284,
-        "dizel": 1.327,
-        "98": null,
-        "100": 1.459,
-        "dizel-premium": 1.562,
-        "avtoplin-lpg": 0.666,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.284,
-        "dizel": 1.327,
-        "98": null,
-        "100": 1.459,
-        "dizel-premium": 1.562,
-        "avtoplin-lpg": 0.666,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
       "pk": 2059,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE SEVER",
@@ -373,7 +331,7 @@
         "98": null,
         "100": 1.456,
         "dizel-premium": 1.563,
-        "avtoplin-lpg": 0.675,
+        "avtoplin-lpg": 0.685,
         "KOEL": null
       },
       "distance": null,
@@ -394,7 +352,7 @@
         "98": null,
         "100": 1.456,
         "dizel-premium": 1.563,
-        "avtoplin-lpg": 0.675,
+        "avtoplin-lpg": 0.685,
         "KOEL": null
       },
       "distance": null,
@@ -415,7 +373,7 @@
         "98": null,
         "100": 1.456,
         "dizel-premium": 1.563,
-        "avtoplin-lpg": 0.675,
+        "avtoplin-lpg": 0.685,
         "KOEL": null
       },
       "distance": null,
@@ -436,7 +394,7 @@
         "98": null,
         "100": 1.456,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.675,
+        "avtoplin-lpg": 0.685,
         "KOEL": null
       },
       "distance": null,
@@ -478,7 +436,7 @@
         "98": null,
         "100": 1.456,
         "dizel-premium": 1.563,
-        "avtoplin-lpg": 0.675,
+        "avtoplin-lpg": 0.685,
         "KOEL": null
       },
       "distance": null,
@@ -499,7 +457,7 @@
         "98": null,
         "100": 1.456,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.675,
+        "avtoplin-lpg": 0.685,
         "KOEL": null
       },
       "distance": null,
@@ -520,13 +478,55 @@
         "98": null,
         "100": 1.456,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.675,
+        "avtoplin-lpg": 0.685,
         "KOEL": null
       },
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "4208"
+    },
+    {
+      "pk": 2120,
+      "franchise": 1,
+      "name": "PETROL PODSMREKA AC - SEVER",
+      "address": "PODSMREKA PRI VIŠNJI GORI 15",
+      "lat": 45.947759,
+      "lng": 14.771093,
+      "prices": {
+        "95": 1.285,
+        "dizel": 1.323,
+        "98": null,
+        "100": 1.456,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.685,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1294"
+    },
+    {
+      "pk": 2123,
+      "franchise": 1,
+      "name": "PETROL LUKOVICA AC - JUG",
+      "address": "KOSESKEGA CESTA 1",
+      "lat": 46.166803,
+      "lng": 14.693314,
+      "prices": {
+        "95": 1.285,
+        "dizel": 1.323,
+        "98": null,
+        "100": 1.456,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.685,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "1225"
     }
   ],
   "position": null
