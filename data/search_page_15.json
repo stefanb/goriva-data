@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 769,
+      "franchise": 2,
+      "name": "OMV BRESTOVICA",
+      "address": "Brestovica 116b",
+      "lat": 45.81302,
+      "lng": 13.62228,
+      "prices": {
+        "95": 1.244,
+        "dizel": 1.287,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
+      "zip_code": "6223"
+    },
+    {
       "pk": 770,
       "franchise": 2,
       "name": "OMV BREZOVICA",
@@ -298,6 +319,27 @@
       "zip_code": "9251"
     },
     {
+      "pk": 794,
+      "franchise": 2,
+      "name": "OMV GRAČIŠČE",
+      "address": "Gračišče 4a",
+      "lat": 45.501301,
+      "lng": 13.873635,
+      "prices": {
+        "95": 1.244,
+        "dizel": 1.287,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
+      "zip_code": "6272"
+    },
+    {
       "pk": 795,
       "franchise": 2,
       "name": "OMV GROSUPLJE",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
       "zip_code": "6000"
-    },
-    {
-      "pk": 808,
-      "franchise": 2,
-      "name": "OMV KOZINA",
-      "address": "Mestni trg 7",
-      "lat": 45.60807,
-      "lng": 13.93501,
-      "prices": {
-        "95": 1.244,
-        "dizel": 1.287,
-        "98": null,
-        "100": 1.399,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6240"
-    },
-    {
-      "pk": 809,
-      "franchise": 2,
-      "name": "OMV KRANJ",
-      "address": "Cesta Staneta Žagarja 53c",
-      "lat": 46.24277,
-      "lng": 14.371453,
-      "prices": {
-        "95": 1.244,
-        "dizel": 1.287,
-        "98": null,
-        "100": 1.399,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4000"
     }
   ],
   "position": null
