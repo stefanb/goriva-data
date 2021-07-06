@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2203,
-      "franchise": 1,
-      "name": "PETROL LOČE",
-      "address": "SLOMŠKOVA ULICA 6",
-      "lat": 46.30051455,
-      "lng": 15.50179414,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-19:00\r\nsobote 12:00-19:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3215"
-    },
-    {
       "pk": 1948,
       "franchise": 1,
       "name": "PETROL MOŠKANJCI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
       "zip_code": "5291"
+    },
+    {
+      "pk": 1961,
+      "franchise": 1,
+      "name": "PETROL LJUTOMER",
+      "address": "PREŠERNOVA ULICA 19",
+      "lat": 46.52201409,
+      "lng": 16.19426906,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.032
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "9240"
     }
   ],
   "position": null

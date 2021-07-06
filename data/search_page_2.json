@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 839,
-      "franchise": 2,
-      "name": "OMV PESEK",
-      "address": "Krvavi potok 25",
-      "lat": 45.620425,
-      "lng": 13.906935,
-      "prices": {
-        "95": 1.244,
-        "dizel": 1.287,
-        "98": null,
-        "100": 1.399,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Kozina",
-      "open_hours": "Okt-Mar: Sob-Čet 07:00-22:00, Pet 07:00-22:00; Apr-Maj: Ned-Čet 07:00-22:00, Pet-Sob 07:00-22:00; Jun-Sep: Pon-Ned 06:00-22:00",
-      "zip_code": "6240"
-    },
-    {
       "pk": 873,
       "franchise": 2,
       "name": "OMV VIR DOMŽALE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "1230"
+    },
+    {
+      "pk": 2063,
+      "franchise": 1,
+      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
+      "address": "KOROŠKA CESTA 53B",
+      "lat": 46.247434,
+      "lng": 14.349614,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4000"
     }
   ],
   "position": null
