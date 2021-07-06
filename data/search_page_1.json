@@ -319,27 +319,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.24,
-        "dizel": 1.283,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
-    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "8270"
+    },
+    {
+      "pk": 813,
+      "franchise": 2,
+      "name": "OMV LESCE",
+      "address": "Hraška c. 17",
+      "lat": 46.365369,
+      "lng": 14.16032,
+      "prices": {
+        "95": 1.244,
+        "dizel": 1.287,
+        "98": null,
+        "100": 1.399,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4248"
     }
   ],
   "position": null
