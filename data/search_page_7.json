@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 2173,
-      "franchise": 1,
-      "name": "PETROL ŠENTRUPERT",
-      "address": "ŠENTRUPERT 6B",
-      "lat": 46.250078,
-      "lng": 15.075261,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3303"
-    },
-    {
       "pk": 2174,
       "franchise": 1,
       "name": "PETROL PODČETRTEK",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "3270"
+    },
+    {
+      "pk": 1933,
+      "franchise": 1,
+      "name": "PETROL RAČE",
+      "address": "LJUBLJANSKA CESTA 22",
+      "lat": 46.45289915,
+      "lng": 15.67336264,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.032
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2327"
     }
   ],
   "position": null

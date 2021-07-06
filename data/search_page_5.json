@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 2119,
-      "franchise": 1,
-      "name": "PETROL GROSUPLJE",
-      "address": "LJUBLJANSKA CESTA 16A",
-      "lat": 45.958264,
-      "lng": 14.657955,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.665,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 07:00-13:00",
-      "zip_code": "1290"
-    },
-    {
       "pk": 2121,
       "franchise": 1,
       "name": "PETROL KAMNIK - PEROVO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-11:30",
       "zip_code": "8340"
+    },
+    {
+      "pk": 2147,
+      "franchise": 1,
+      "name": "PETROL TREBNJE - POD GRADOM",
+      "address": "CESTA VILME BUKOVEC 2",
+      "lat": 45.90473997,
+      "lng": 15.00357364,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.665,
+        "KOEL": 1.032
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "8210"
     }
   ],
   "position": null
