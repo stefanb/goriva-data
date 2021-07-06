@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 828,
-      "franchise": 2,
-      "name": "OMV LUKOVICA",
-      "address": "Koseskega cesta 4",
-      "lat": 46.16606,
-      "lng": 14.6896,
-      "prices": {
-        "95": 1.294,
-        "dizel": 1.334,
-        "98": null,
-        "100": 1.469,
-        "dizel-premium": 1.569,
-        "avtoplin-lpg": 0.684,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1225"
-    },
-    {
       "pk": 837,
       "franchise": 2,
       "name": "OMV OBREŽJE JUG",
@@ -44,6 +23,27 @@
       "direction": "Zagreb",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "8261"
+    },
+    {
+      "pk": 844,
+      "franchise": 2,
+      "name": "OMV RADOVLJICA JUG",
+      "address": "Ljubljanska cesta 70",
+      "lat": 46.33865,
+      "lng": 14.19095,
+      "prices": {
+        "95": 1.294,
+        "dizel": 1.334,
+        "98": null,
+        "100": 1.469,
+        "dizel-premium": 1.569,
+        "avtoplin-lpg": 0.684,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
     },
     {
       "pk": 845,
