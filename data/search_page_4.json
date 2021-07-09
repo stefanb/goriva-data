@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 2092,
+      "franchise": 1,
+      "name": "PETROL TRZIN",
+      "address": "LJUBLJANSKA CESTA 50",
+      "lat": 46.123204,
+      "lng": 14.553637,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.714,
+        "KOEL": 1.032
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 22:00-24:00",
+      "zip_code": "1236"
+    },
+    {
       "pk": 2093,
       "franchise": 1,
       "name": "PETROL BRODE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "1241"
-    },
-    {
-      "pk": 2122,
-      "franchise": 1,
-      "name": "PETROL ŠKOFJA LOKA - KIDRIČEVA JUG",
-      "address": "KIDRIČEVA CESTA 8",
-      "lat": 46.16681875,
-      "lng": 14.31398429,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 22:30-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 22:00-24:00",
-      "zip_code": "4220"
     }
   ],
   "position": null

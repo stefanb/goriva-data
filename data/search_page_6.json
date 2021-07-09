@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 2149,
+      "franchise": 1,
+      "name": "PETROL BRESTANICA",
+      "address": "CESTA PRVIH BORCEV 17",
+      "lat": 45.995159,
+      "lng": 15.476035,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.032
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "8280"
+    },
+    {
       "pk": 2150,
       "franchise": 1,
       "name": "PETROL VAVTA VAS",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3254"
-    },
-    {
-      "pk": 1921,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 36",
-      "address": "TRŽAŠKA CESTA 36",
-      "lat": 46.53769944,
-      "lng": 15.64633113,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
     }
   ],
   "position": null
