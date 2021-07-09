@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 2063,
-      "franchise": 1,
-      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
-      "address": "KOROŠKA CESTA 53B",
-      "lat": 46.247434,
-      "lng": 14.349614,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4000"
-    },
-    {
-      "pk": 2064,
-      "franchise": 1,
-      "name": "PETROL LITIJA - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 8",
-      "lat": 46.05721177,
-      "lng": 14.82416328,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 14:30-18:00\r\nsobote 13:00-24:00\r\nnedelje in prazniki 00:00-24:00",
-      "zip_code": "1270"
-    },
-    {
       "pk": 2065,
       "franchise": 1,
       "name": "PETROL LOGATEC",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 13:30-21:00",
       "zip_code": "4264"
+    },
+    {
+      "pk": 2092,
+      "franchise": 1,
+      "name": "PETROL TRZIN",
+      "address": "LJUBLJANSKA CESTA 50",
+      "lat": 46.123204,
+      "lng": 14.553637,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.714,
+        "KOEL": 1.032
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 22:00-24:00",
+      "zip_code": "1236"
+    },
+    {
+      "pk": 2093,
+      "franchise": 1,
+      "name": "PETROL BRODE",
+      "address": "BRODE 20",
+      "lat": 46.1379264,
+      "lng": 14.25352741,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.032
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "4220"
     }
   ],
   "position": null

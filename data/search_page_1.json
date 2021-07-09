@@ -445,27 +445,6 @@
       "zip_code": "9231"
     },
     {
-      "pk": 822,
-      "franchise": 2,
-      "name": "OMV LOKEV",
-      "address": "Lokev 1a",
-      "lat": 45.66133,
-      "lng": 13.91942,
-      "prices": {
-        "95": 1.244,
-        "dizel": 1.287,
-        "98": null,
-        "100": 1.399,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6219"
-    },
-    {
       "pk": 830,
       "franchise": 2,
       "name": "OMV MARIBOR PTUJSKA VZHOD",
@@ -508,12 +487,12 @@
       "zip_code": "9000"
     },
     {
-      "pk": 839,
+      "pk": 873,
       "franchise": 2,
-      "name": "OMV PESEK",
-      "address": "Krvavi potok 25",
-      "lat": 45.620425,
-      "lng": 13.906935,
+      "name": "OMV VIR DOMŽALE",
+      "address": "Šaranovičeva c. 10a",
+      "lat": 46.147666,
+      "lng": 14.60635,
       "prices": {
         "95": 1.244,
         "dizel": 1.287,
@@ -524,9 +503,30 @@
         "KOEL": null
       },
       "distance": null,
-      "direction": "Kozina",
-      "open_hours": "Okt-Mar: Sob-Čet 07:00-22:00, Pet 07:00-22:00; Apr-Maj: Ned-Čet 07:00-22:00, Pet-Sob 07:00-22:00; Jun-Sep: Pon-Ned 06:00-22:00",
-      "zip_code": "6240"
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1230"
+    },
+    {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.248,
+        "dizel": 1.29,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.03
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
     }
   ],
   "position": null

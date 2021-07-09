@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2233,
-      "franchise": 1,
-      "name": "PETROL MENGEŠ - KAMNIŠKA",
-      "address": "KAMNIŠKA CESTA 60",
-      "lat": 46.172911,
-      "lng": 14.577254,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.714,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1234"
-    },
-    {
-      "pk": 1979,
-      "franchise": 1,
-      "name": "PETROL VUČJA VAS",
-      "address": "BUČEČOVCI 4B",
-      "lat": 46.591207,
-      "lng": 16.10787,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "9242"
-    },
-    {
       "pk": 1980,
       "franchise": 1,
       "name": "PETROL DORNBERK",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-24:00\r\nsobote 05:00-24:00\r\nnedelje in prazniki 05:00-24:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2005,
+      "franchise": 1,
+      "name": "PETROL IZOLA, INDUSTRIJSKA",
+      "address": "INDUSTRIJSKA CESTA 9B",
+      "lat": 45.535631,
+      "lng": 13.671735,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.714,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 2006,
+      "franchise": 1,
+      "name": "PETROL HRPELJE",
+      "address": "REŠKA CESTA 51",
+      "lat": 45.604489,
+      "lng": 13.949959,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": 1.478,
+        "avtoplin-lpg": 0.714,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "6240"
     }
   ],
   "position": null
