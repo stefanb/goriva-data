@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2217,
-      "franchise": 1,
-      "name": "PETROL ŠTORE",
-      "address": "OBRTNIŠKA CESTA 2",
-      "lat": 46.224064,
-      "lng": 15.312733,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.292,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3220"
-    },
-    {
       "pk": 1962,
       "franchise": 1,
       "name": "PETROL LENDAVA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:30-18:00\r\nsobote 07:30-13:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "9263"
+    },
+    {
+      "pk": 2233,
+      "franchise": 1,
+      "name": "PETROL MENGEŠ - KAMNIŠKA",
+      "address": "KAMNIŠKA CESTA 60",
+      "lat": 46.172911,
+      "lng": 14.577254,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.394,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.714,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1234"
     }
   ],
   "position": null
