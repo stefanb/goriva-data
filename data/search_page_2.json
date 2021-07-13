@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 825,
-      "franchise": 2,
-      "name": "OMV LUCIJA VZHOD",
-      "address": "Vinjole 29b",
-      "lat": 45.50069,
-      "lng": 13.61044,
-      "prices": {
-        "95": 1.254,
-        "dizel": 1.296,
-        "98": null,
-        "100": 1.409,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6320"
-    },
-    {
       "pk": 829,
       "franchise": 2,
       "name": "OMV MARIBOR BOHOVA",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2057,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
+      "address": "DOLENJSKA CESTA 242F",
+      "lat": 46.01990756,
+      "lng": 14.54219888,
+      "prices": {
+        "95": 1.257,
+        "dizel": 1.291,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
       "zip_code": "1000"
     }
   ],
