@@ -25,27 +25,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.22,
-        "dizel": 1.232,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.999
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
-      "zip_code": "2283"
-    },
-    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -86,6 +65,27 @@
       "direction": "Izvoz Slovenska Bistrica jug",
       "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
       "zip_code": "2310"
+    },
+    {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.227,
+        "dizel": 1.231,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.004
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
+      "zip_code": "2283"
     },
     {
       "pk": 2288,
@@ -403,27 +403,6 @@
       "zip_code": "1230"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.248,
-        "dizel": 1.29,
-        "98": null,
-        "100": 1.394,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.03
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
       "zip_code": "6000"
+    },
+    {
+      "pk": 808,
+      "franchise": 2,
+      "name": "OMV KOZINA",
+      "address": "Mestni trg 7",
+      "lat": 45.60807,
+      "lng": 13.93501,
+      "prices": {
+        "95": 1.254,
+        "dizel": 1.296,
+        "98": null,
+        "100": 1.409,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6240"
     }
   ],
   "position": null
