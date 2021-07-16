@@ -277,27 +277,6 @@
       "zip_code": "2383"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.24,
-        "dizel": 1.284,
-        "98": 1.263,
-        "100": 1.388,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.028
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 795,
       "franchise": 2,
       "name": "OMV GROSUPLJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6320"
+    },
+    {
+      "pk": 829,
+      "franchise": 2,
+      "name": "OMV MARIBOR BOHOVA",
+      "address": "Tržaška c. 83",
+      "lat": 46.51809,
+      "lng": 15.65131,
+      "prices": {
+        "95": 1.254,
+        "dizel": 1.296,
+        "98": null,
+        "100": 1.409,
+        "dizel-premium": 1.479,
+        "avtoplin-lpg": null,
+        "KOEL": 1.03
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2000"
     }
   ],
   "position": null

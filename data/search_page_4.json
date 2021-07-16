@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 2083,
-      "franchise": 1,
-      "name": "PETROL RADOVLJICA - GORENJSKA",
-      "address": "GORENJSKA CESTA 41A",
-      "lat": 46.34844567,
-      "lng": 14.16883456,
-      "prices": {
-        "95": 1.257,
-        "dizel": 1.291,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.714,
-        "KOEL": 1.034
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-21:00",
-      "zip_code": "4240"
-    },
-    {
       "pk": 2084,
       "franchise": 1,
       "name": "PETROL KRANJ - STANETA ŽAGARJA 58B",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-17:00\r\nsobote 06:00-12:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2114,
+      "franchise": 1,
+      "name": "PETROL LESCE",
+      "address": "HRAŠKA CESTA 13A",
+      "lat": 46.36782569,
+      "lng": 14.15376274,
+      "prices": {
+        "95": 1.257,
+        "dizel": 1.291,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.034
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "4248"
     }
   ],
   "position": null
