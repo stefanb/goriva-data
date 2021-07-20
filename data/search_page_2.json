@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2303,
-      "franchise": 19,
-      "name": "Bencinski servis Tupaliče",
-      "address": "Tupaliče 35a",
-      "lat": 46.2955877,
-      "lng": 14.4297645,
-      "prices": {
-        "95": 1.266,
-        "dizel": 1.294,
-        "98": null,
-        "100": 1.339,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
-      "zip_code": "4205"
-    },
-    {
       "pk": 2048,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TIVOLSKA",
@@ -254,6 +233,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
       "zip_code": "1261"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.267,
+        "dizel": 1.293,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
       "pk": 2061,
