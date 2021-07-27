@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2160,
+      "franchise": 1,
+      "name": "PETROL ŠKOCJAN",
+      "address": "DOLNJA STARA VAS 50",
+      "lat": 45.89728,
+      "lng": 15.300093,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.277,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.019
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 12:00-15:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "8275"
+    },
+    {
       "pk": 2161,
       "franchise": 1,
       "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-16:00\r\nsobote 12:30-14:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3256"
-    },
-    {
-      "pk": 1927,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - GOSPOSVETSKA SEVER",
-      "address": "GOSPOSVETSKA CESTA 92",
-      "lat": 46.56386643,
-      "lng": 15.62682805,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.277,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "2000"
     }
   ],
   "position": null

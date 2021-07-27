@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 2134,
+      "franchise": 1,
+      "name": "PETROL ŽEJE PRI KOMENDI",
+      "address": "POD LIPAMI 3",
+      "lat": 46.19219144,
+      "lng": 14.52190652,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.277,
+        "98": null,
+        "100": 1.391,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.714,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "1218"
+    },
+    {
       "pk": 2135,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - KAJUHOVA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 12:30-15:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "8257"
-    },
-    {
-      "pk": 2160,
-      "franchise": 1,
-      "name": "PETROL ŠKOCJAN",
-      "address": "DOLNJA STARA VAS 50",
-      "lat": 45.89728,
-      "lng": 15.300093,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.277,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.019
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 12:00-15:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "8275"
     }
   ],
   "position": null
