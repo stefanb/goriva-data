@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 1939,
+      "franchise": 1,
+      "name": "PETROL SLIVNICA ZAHOD",
+      "address": "POT K ČRPALKI 5",
+      "lat": 46.482509,
+      "lng": 15.654919,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.277,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.019
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "2312"
+    },
+    {
       "pk": 2195,
       "franchise": 1,
       "name": "PETROL ŠMARJE PRI JELŠAH",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:30-17:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "9253"
-    },
-    {
-      "pk": 2209,
-      "franchise": 1,
-      "name": "PETROL SLOVENJ GRADEC - FRANCETOVA",
-      "address": "FRANCETOVA CESTA 21",
-      "lat": 46.51479276,
-      "lng": 15.08272833,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.277,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.019
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00",
-      "zip_code": "2380"
     }
   ],
   "position": null

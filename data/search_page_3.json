@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 1586,
+      "franchise": 4,
+      "name": "BS MOL TRBOVLJE",
+      "address": "VODENSKA CESTA 28A",
+      "lat": 46.142862,
+      "lng": 15.036079,
+      "prices": {
+        "95": 1.247,
+        "dizel": 1.276,
+        "98": null,
+        "100": 1.398,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.019
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 1587,
       "franchise": 4,
       "name": "BS MOL LETUŠ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
       "zip_code": "2370"
-    },
-    {
-      "pk": 783,
-      "franchise": 2,
-      "name": "OMV DUTOVLJE",
-      "address": "Dutovlje 3b",
-      "lat": 45.755992,
-      "lng": 13.835896,
-      "prices": {
-        "95": 1.249,
-        "dizel": 1.277,
-        "98": null,
-        "100": 1.399,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.017
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6221"
     }
   ],
   "position": null
