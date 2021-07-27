@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 1987,
+      "franchise": 1,
+      "name": "PETROL ČRNI VRH",
+      "address": "ČRNI VRH 121",
+      "lat": 45.92556913,
+      "lng": 14.05336933,
+      "prices": {
+        "95": 1.25,
+        "dizel": 1.277,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.019
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-16:00",
+      "zip_code": "5274"
+    },
+    {
       "pk": 1988,
       "franchise": 1,
       "name": "PETROL DESKLE",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "2250"
-    },
-    {
-      "pk": 2015,
-      "franchise": 1,
-      "name": "PETROL PTUJ - OSOJNIKOVA",
-      "address": "OSOJNIKOVA CESTA 10",
-      "lat": 46.42711936,
-      "lng": 15.8836554,
-      "prices": {
-        "95": 1.25,
-        "dizel": 1.277,
-        "98": null,
-        "100": 1.391,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.019
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2250"
     }
   ],
