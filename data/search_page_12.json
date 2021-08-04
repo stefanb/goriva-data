@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2021,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
-      "address": "LJUBLJANSKA CESTA 45",
-      "lat": 46.387184,
-      "lng": 15.569006,
-      "prices": {
-        "95": 1.275,
-        "dizel": 1.298,
-        "98": null,
-        "100": 1.416,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.714,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2022,
       "franchise": 1,
       "name": "PETROL PTUJ - ZAGREBŠKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
       "zip_code": "3214"
+    },
+    {
+      "pk": 1548,
+      "franchise": 4,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
+      "prices": {
+        "95": 1.277,
+        "dizel": 1.299,
+        "98": null,
+        "100": 1.429,
+        "dizel-premium": 1.472,
+        "avtoplin-lpg": null,
+        "KOEL": 1.038
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
     }
   ],
   "position": null
