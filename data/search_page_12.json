@@ -382,6 +382,27 @@
       "zip_code": "4205"
     },
     {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.262,
+        "dizel": 1.283,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
+    },
+    {
       "pk": 1548,
       "franchise": 4,
       "name": "BS MOL KIDRIČEVO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
-    },
-    {
-      "pk": 1554,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA",
-      "address": "MALA NOVA ULICA 1",
-      "lat": 46.6560676,
-      "lng": 16.1751469,
-      "prices": {
-        "95": 1.262,
-        "dizel": 1.283,
-        "98": null,
-        "100": 1.424,
-        "dizel-premium": 1.474,
-        "avtoplin-lpg": null,
-        "KOEL": 1.022
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 05:00 - 22:00\r\nnedelja in prazniki 07:00 - 20:00",
-      "zip_code": "9000"
     }
   ],
   "position": null
