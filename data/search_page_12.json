@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2028,
+      "franchise": 1,
+      "name": "PETROL SLIVNICA VZHOD",
+      "address": "LJUBLJANSKA CESTA 61",
+      "lat": 46.493923,
+      "lng": 15.652196,
+      "prices": {
+        "95": 1.26,
+        "dizel": 1.282,
+        "98": null,
+        "100": 1.413,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.714,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "2311"
+    },
+    {
       "pk": 2029,
       "franchise": 1,
       "name": "PETROL MURSKA SOBOTA - PLESE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "1330"
-    },
-    {
-      "pk": 1553,
-      "franchise": 4,
-      "name": "BS MOL SLOVENSKA BISTRICA",
-      "address": "LJUBLJANSKA CESTA 91",
-      "lat": 46.38245,
-      "lng": 15.563571,
-      "prices": {
-        "95": 1.262,
-        "dizel": 1.283,
-        "98": null,
-        "100": 1.424,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.022
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
     }
   ],
   "position": null
