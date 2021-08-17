@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 1995,
+      "franchise": 1,
+      "name": "PETROL ILIRSKA BISTRICA",
+      "address": "VILHARJEVA CESTA 33C",
+      "lat": 45.575503,
+      "lng": 14.23202,
+      "prices": {
+        "95": 1.255,
+        "dizel": 1.281,
+        "98": null,
+        "100": 1.425,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.729,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "6250"
+    },
+    {
       "pk": 1996,
       "franchise": 1,
       "name": "PETROL POSTOJNA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2250"
-    },
-    {
-      "pk": 2025,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 11",
-      "address": "TRŽAŠKA CESTA 11",
-      "lat": 46.53817035,
-      "lng": 15.64737991,
-      "prices": {
-        "95": 1.255,
-        "dizel": 1.281,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.729,
-        "KOEL": 1.017
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "2000"
     }
   ],
   "position": null
