@@ -67,6 +67,27 @@
       "zip_code": "1261"
     },
     {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.255,
+        "dizel": 1.28,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
+    },
+    {
       "pk": 2061,
       "franchise": 1,
       "name": "PETROL BLED - LJUBLJANSKA JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:30",
       "zip_code": "1241"
-    },
-    {
-      "pk": 2083,
-      "franchise": 1,
-      "name": "PETROL RADOVLJICA - GORENJSKA",
-      "address": "GORENJSKA CESTA 41A",
-      "lat": 46.34844567,
-      "lng": 14.16883456,
-      "prices": {
-        "95": 1.255,
-        "dizel": 1.281,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.729,
-        "KOEL": 1.017
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-21:00",
-      "zip_code": "4240"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 795,
+      "franchise": 2,
+      "name": "OMV GROSUPLJE",
+      "address": "Ljubljanska c. 62",
+      "lat": 45.967972,
+      "lng": 14.660767,
+      "prices": {
+        "95": 1.259,
+        "dizel": 1.284,
+        "98": null,
+        "100": 1.434,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.016
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:30",
+      "zip_code": "1290"
+    },
+    {
       "pk": 1563,
       "franchise": 4,
       "name": "BS MOL GORNJA RADGONA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "4000"
-    },
-    {
-      "pk": 1577,
-      "franchise": 4,
-      "name": "BS MOL PRESTRANEK",
-      "address": "REŠKA CESTA 18/B",
-      "lat": 45.728,
-      "lng": 14.188,
-      "prices": {
-        "95": 1.259,
-        "dizel": 1.282,
-        "98": null,
-        "100": 1.434,
-        "dizel-premium": 1.474,
-        "avtoplin-lpg": null,
-        "KOEL": 1.017
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 06:00 - 22:00",
-      "zip_code": "6258"
     }
   ],
   "position": null
