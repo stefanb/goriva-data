@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2234,
+      "franchise": 4,
+      "name": "BS MOL TEZNO",
+      "address": "Ptujska cesta 56",
+      "lat": 46.537696,
+      "lng": 15.655975,
+      "prices": {
+        "95": 1.259,
+        "dizel": 1.283,
+        "98": null,
+        "100": 1.434,
+        "dizel-premium": 1.474,
+        "avtoplin-lpg": 0.721,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek:            05:00 - 22:00\r\nSobota:                                06:00 - 22:00\r\nNedelja:                               06:00 - 22:00\r\nPrazniki:                               06:00 - 22:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2235,
       "franchise": 4,
       "name": "BS MOL KRANJ",
@@ -338,27 +359,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
-    },
-    {
-      "pk": 2311,
-      "franchise": 18,
-      "name": "BS Merkantil KNEŽAK",
-      "address": "KNEŽAK 3",
-      "lat": 45.625625,
-      "lng": 14.239867,
-      "prices": {
-        "95": 1.278,
-        "dizel": 1.299,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.714,
-        "KOEL": 1.038
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
-      "zip_code": "6253"
     },
     {
       "pk": 2237,
