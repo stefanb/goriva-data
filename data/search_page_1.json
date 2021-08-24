@@ -256,6 +256,48 @@
       "zip_code": "2310"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.231,
+        "dizel": 1.271,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.002
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.234,
+        "dizel": 1.274,
+        "98": null,
+        "100": 1.406,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.002
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
+    },
+    {
       "pk": 2048,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TIVOLSKA",
@@ -290,7 +332,7 @@
         "100": 1.41,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.001
+        "KOEL": 1.002
       },
       "distance": null,
       "direction": "",
@@ -374,7 +416,7 @@
         "100": 1.41,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.001
+        "KOEL": 1.002
       },
       "distance": null,
       "direction": "",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "1352"
-    },
-    {
-      "pk": 2055,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
-      "address": "DUNAJSKA CESTA 460",
-      "lat": 46.10458934,
-      "lng": 14.54127278,
-      "prices": {
-        "95": 1.236,
-        "dizel": 1.276,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-13:00",
-      "zip_code": "1231"
-    },
-    {
-      "pk": 2056,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
-      "address": "DUNAJSKA CESTA 70",
-      "lat": 46.06882986,
-      "lng": 14.51074492,
-      "prices": {
-        "95": 1.236,
-        "dizel": 1.276,
-        "98": null,
-        "100": 1.406,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-16:00\r\nsobote 12:30-16:00",
-      "zip_code": "1000"
     }
   ],
   "position": null
