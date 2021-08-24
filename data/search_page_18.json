@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2285,
+      "franchise": 4,
+      "name": "BS MOL LENART",
+      "address": "Kraigherjeva ulica 19",
+      "lat": 46.579295,
+      "lng": 15.834392,
+      "prices": {
+        "95": 1.239,
+        "dizel": 1.277,
+        "98": null,
+        "100": 1.416,
+        "dizel-premium": 1.469,
+        "avtoplin-lpg": null,
+        "KOEL": 1.003
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-21:00\r\nsobota 07:00-21:00\r\nnedelja 08:00-20:00\r\nprazniki 08:00-20:00",
+      "zip_code": "2230"
+    },
+    {
       "pk": 2286,
       "franchise": 4,
       "name": "BS MOL RADLJE OB DRAVI",
@@ -254,27 +275,6 @@
       "direction": "",
       "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.255,
-        "dizel": 1.28,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 2316,

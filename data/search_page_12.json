@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2029,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA - PLESE",
+      "address": "PANONSKA ULICA 5",
+      "lat": 46.656739,
+      "lng": 16.178624,
+      "prices": {
+        "95": 1.236,
+        "dizel": 1.276,
+        "98": null,
+        "100": 1.406,
+        "dizel-premium": 1.458,
+        "avtoplin-lpg": 0.729,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-23:00",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2033,
       "franchise": 1,
       "name": "PETROL PIVKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8340"
-    },
-    {
-      "pk": 776,
-      "franchise": 2,
-      "name": "OMV DIVAČA",
-      "address": "Kolodvorska 1",
-      "lat": 45.681494,
-      "lng": 13.968687,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.279,
-        "98": null,
-        "100": 1.419,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.002
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
-      "zip_code": "6215"
     }
   ],
   "position": null

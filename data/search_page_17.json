@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 855,
+      "franchise": 2,
+      "name": "OMV SLOVENSKE KONJICE",
+      "address": "Liptovska 36a",
+      "lat": 46.34068,
+      "lng": 15.41675,
+      "prices": {
+        "95": 1.239,
+        "dizel": 1.279,
+        "98": null,
+        "100": 1.419,
+        "dizel-premium": 1.469,
+        "avtoplin-lpg": null,
+        "KOEL": 0.931
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3210"
+    },
+    {
       "pk": 856,
       "franchise": 2,
       "name": "OMV SMEDNIK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-18:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2285,
-      "franchise": 4,
-      "name": "BS MOL LENART",
-      "address": "Kraigherjeva ulica 19",
-      "lat": 46.579295,
-      "lng": 15.834392,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.277,
-        "98": null,
-        "100": 1.416,
-        "dizel-premium": 1.469,
-        "avtoplin-lpg": null,
-        "KOEL": 1.003
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-21:00\r\nsobota 07:00-21:00\r\nnedelja 08:00-20:00\r\nprazniki 08:00-20:00",
-      "zip_code": "2230"
     }
   ],
   "position": null
