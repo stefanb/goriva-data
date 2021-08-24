@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2245,
-      "franchise": 3,
-      "name": "BS MAXEN SELNICA OB DRAVI",
-      "address": "Spodnja Selnica bš",
-      "lat": 46.5546048,
-      "lng": 15.5078896,
-      "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2352"
-    },
-    {
-      "pk": 2246,
-      "franchise": 3,
-      "name": "BS MAXEN LJUBLJANA-BTC",
-      "address": "Argentinska ulica bš",
-      "lat": 46.0665824,
-      "lng": 14.5488544,
-      "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2247,
       "franchise": 3,
       "name": "BS MAXEN METLIKA",
@@ -53,8 +11,8 @@
       "lat": 45.6406592,
       "lng": 15.3216016,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -74,8 +32,8 @@
       "lat": 45.5025792,
       "lng": 15.0603264,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -95,8 +53,8 @@
       "lat": 46.5236096,
       "lng": 14.8536976,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -116,8 +74,8 @@
       "lat": 45.6768128,
       "lng": 14.827288,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -137,8 +95,8 @@
       "lat": 45.8333056,
       "lng": 14.9274912,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -158,8 +116,8 @@
       "lat": 46.347808,
       "lng": 15.1495248,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -179,8 +137,8 @@
       "lat": 45.9388,
       "lng": 14.2365616,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -200,8 +158,8 @@
       "lat": 45.7490272,
       "lng": 14.7190224,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -221,8 +179,8 @@
       "lat": 45.8202208,
       "lng": 15.1490384,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -242,8 +200,8 @@
       "lat": 46.24224,
       "lng": 14.3774704,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -263,8 +221,8 @@
       "lat": 45.8809344,
       "lng": 13.9107888,
       "prices": {
-        "95": 1.279,
-        "dizel": 1.313,
+        "95": 1.255,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -275,6 +233,48 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "5270"
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.259,
+        "dizel": 1.283,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.74,
+        "KOEL": 1.017
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.26,
+        "dizel": 1.282,
+        "98": 1.263,
+        "100": 1.413,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.022
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2059,
