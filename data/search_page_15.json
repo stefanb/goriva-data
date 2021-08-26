@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 1576,
+      "franchise": 4,
+      "name": "BS MOL POBREŽJE MARIBOR",
+      "address": "ULICA VELJKA VLAHOVIČA 8",
+      "lat": 46.546333,
+      "lng": 15.674833,
+      "prices": {
+        "95": 1.239,
+        "dizel": 1.278,
+        "98": null,
+        "100": 1.419,
+        "dizel-premium": 1.469,
+        "avtoplin-lpg": null,
+        "KOEL": 1.003
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 809,
       "franchise": 2,
       "name": "OMV KRANJ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
-    },
-    {
-      "pk": 821,
-      "franchise": 2,
-      "name": "OMV LJUTOMER",
-      "address": "Kolodvorska 7a",
-      "lat": 46.5289,
-      "lng": 16.19006,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.279,
-        "98": null,
-        "100": 1.419,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.002
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "9240"
     }
   ],
   "position": null
