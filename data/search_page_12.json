@@ -466,67 +466,67 @@
       "zip_code": "4205"
     },
     {
-      "pk": 769,
-      "franchise": 2,
-      "name": "OMV BRESTOVICA",
-      "address": "Brestovica 116b",
-      "lat": 45.81302,
-      "lng": 13.62228,
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
       "prices": {
         "95": 1.239,
-        "dizel": 1.279,
+        "dizel": 1.278,
         "98": null,
         "100": null,
         "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
+        "avtoplin-lpg": 0.74,
+        "KOEL": 1.004
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
     },
     {
-      "pk": 770,
-      "franchise": 2,
-      "name": "OMV BREZOVICA",
-      "address": "Tržaška c. 565",
-      "lat": 46.022535,
-      "lng": 14.407636,
+      "pk": 1548,
+      "franchise": 4,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
       "prices": {
         "95": 1.239,
-        "dizel": 1.279,
+        "dizel": 1.278,
+        "98": null,
+        "100": 1.419,
+        "dizel-premium": 1.472,
+        "avtoplin-lpg": null,
+        "KOEL": 1.003
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
+    },
+    {
+      "pk": 1549,
+      "franchise": 4,
+      "name": "BS MOL ROGAŠKA SLATINA",
+      "address": "TRŽIŠČE 12B",
+      "lat": 46.2306674,
+      "lng": 15.6556409,
+      "prices": {
+        "95": 1.239,
+        "dizel": 1.278,
         "98": null,
         "100": 1.419,
         "dizel-premium": 1.469,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 1.003
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1351"
-    },
-    {
-      "pk": 771,
-      "franchise": 2,
-      "name": "OMV BREŽICE",
-      "address": "C.Svobode 35",
-      "lat": 45.913737,
-      "lng": 15.595365,
-      "prices": {
-        "95": 1.239,
-        "dizel": 1.279,
-        "98": null,
-        "100": 1.419,
-        "dizel-premium": 1.469,
-        "avtoplin-lpg": null,
-        "KOEL": 1.002
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8250"
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "3250"
     }
   ],
   "position": null
