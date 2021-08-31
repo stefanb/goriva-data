@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 2137,
-      "franchise": 1,
-      "name": "PETROL ŽIRI",
-      "address": "JOBSTOVA CESTA 35",
-      "lat": 46.043743,
-      "lng": 14.10785,
-      "prices": {
-        "95": 1.248,
-        "dizel": 1.295,
-        "98": null,
-        "100": 1.429,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.025
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
-      "zip_code": "4226"
-    },
-    {
-      "pk": 2138,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
-      "address": "BARJANSKA CESTA 90",
-      "lat": 46.031446,
-      "lng": 14.499955,
-      "prices": {
-        "95": 1.248,
-        "dizel": 1.295,
-        "98": null,
-        "100": 1.429,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.729,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2139,
       "franchise": 1,
       "name": "PETROL KRŠKO - CESTA KRŠKIH ŽRTEV",
@@ -357,7 +315,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 06:00-20:00",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 06:00-21:00",
       "zip_code": "8344"
     },
     {
@@ -441,7 +399,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "8340"
     },
     {
@@ -504,7 +462,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 05:00-23:00\r\nnedelje in prazniki 05:00-23:00",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
       "zip_code": "8330"
     },
     {
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "8250"
+    },
+    {
+      "pk": 2164,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKE  KONJICE",
+      "address": "LIPTOVSKA ULICA 4",
+      "lat": 46.34170285,
+      "lng": 15.43100146,
+      "prices": {
+        "95": 1.248,
+        "dizel": 1.295,
+        "98": null,
+        "100": 1.429,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.729,
+        "KOEL": 1.025
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3210"
+    },
+    {
+      "pk": 2165,
+      "franchise": 1,
+      "name": "PETROL VELENJE - ŠALEŠKA",
+      "address": "ŠALEŠKA CESTA 9",
+      "lat": 46.3602501,
+      "lng": 15.12373353,
+      "prices": {
+        "95": 1.248,
+        "dizel": 1.295,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.025
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
+      "zip_code": "3320"
     }
   ],
   "position": null

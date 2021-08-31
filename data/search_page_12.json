@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2021,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
-      "address": "LJUBLJANSKA CESTA 45",
-      "lat": 46.387184,
-      "lng": 15.569006,
-      "prices": {
-        "95": 1.248,
-        "dizel": 1.295,
-        "98": null,
-        "100": 1.429,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.729,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "2310"
-    },
-    {
-      "pk": 2022,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ZAGREBŠKA",
-      "address": "ZAGREBŠKA CESTA 49B",
-      "lat": 46.40705215,
-      "lng": 15.866315,
-      "prices": {
-        "95": 1.248,
-        "dizel": 1.295,
-        "98": null,
-        "100": 1.429,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.025
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2023,
       "franchise": 1,
       "name": "PETROL MARIBOR - PUHOVA",
@@ -168,7 +126,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 05:00-24:00\r\nsobote 00:00-24:00\r\nnedelje in prazniki 05:00-24:00",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6257"
     },
     {
@@ -189,7 +147,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-24:00\r\nsobote 06:00-24:00\r\nnedelje in prazniki 07:00-24:00",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6000"
     },
     {
@@ -210,7 +168,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 08:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "open_hours": "vsak delavnik 08:00-16:00\r\nsobote 08:00-16:00\r\nnedelje in prazniki 08:00-16:00",
       "zip_code": "6310"
     },
     {
@@ -336,8 +294,29 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2297,
+      "franchise": 16,
+      "name": "Agas Maribor",
+      "address": "Perhavčeva ulica 15",
+      "lat": 46.525107,
+      "lng": 15.667885,
+      "prices": {
+        "95": 1.248,
+        "dizel": 1.295,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.629,
+        "KOEL": 0.975
+      },
+      "distance": null,
+      "direction": "Maribor Center",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2000"
     },
     {
       "pk": 2042,
@@ -380,6 +359,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2299,
+      "franchise": 16,
+      "name": "Agas Slovenska Bistrica",
+      "address": "Žolgarjeva ulica 25",
+      "lat": 46.385204,
+      "lng": 15.576529,
+      "prices": {
+        "95": 1.248,
+        "dizel": 1.295,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.629,
+        "KOEL": 0.975
+      },
+      "distance": null,
+      "direction": "Izvoz Slovenska Bistrica jug",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2310"
     },
     {
       "pk": 2044,

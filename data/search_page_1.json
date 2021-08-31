@@ -4,48 +4,6 @@
   "previous": null,
   "results": [
     {
-      "pk": 2297,
-      "franchise": 16,
-      "name": "Agas Maribor",
-      "address": "Perhavčeva ulica 15",
-      "lat": 46.525107,
-      "lng": 15.667885,
-      "prices": {
-        "95": 1.206,
-        "dizel": 1.276,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.629,
-        "KOEL": 0.954
-      },
-      "distance": null,
-      "direction": "Maribor Center",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.206,
-        "dizel": 1.276,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.629,
-        "KOEL": 0.954
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2313,
       "franchise": 17,
       "name": "HOJNIK Oil BS Zavrč",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2053,
+      "franchise": 1,
+      "name": "PETROL DOBROVA",
+      "address": "POLHOGRAJSKA CESTA 12",
+      "lat": 46.0520304,
+      "lng": 14.42151956,
+      "prices": {
+        "95": 1.248,
+        "dizel": 1.295,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.025
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
+      "zip_code": "1356"
+    },
+    {
+      "pk": 2054,
+      "franchise": 1,
+      "name": "PETROL PODPEČ",
+      "address": "JEZERO 103",
+      "lat": 45.973133,
+      "lng": 14.422124,
+      "prices": {
+        "95": 1.248,
+        "dizel": 1.295,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.025
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1352"
     }
   ],
   "position": null

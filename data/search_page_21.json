@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2030,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - JUG",
-      "address": "POVIR 95",
-      "lat": 45.703393,
-      "lng": 13.940151,
-      "prices": {
-        "95": 1.302,
-        "dizel": 1.344,
-        "98": null,
-        "100": 1.498,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.759,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Fernetiči -> Ljublja",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
       "pk": 2031,
       "franchise": 1,
       "name": "PETROL POVIR AC - SEVER",
@@ -121,7 +100,7 @@
         "98": null,
         "100": 1.509,
         "dizel-premium": 1.594,
-        "avtoplin-lpg": 0.748,
+        "avtoplin-lpg": 0.758,
         "KOEL": null
       },
       "distance": null,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2341"
+    },
+    {
+      "pk": 784,
+      "franchise": 2,
+      "name": "ET CAR.C.SEŽANA",
+      "address": "Partizanska 77",
+      "lat": 45.70387478,
+      "lng": 13.8514001,
+      "prices": {
+        "95": null,
+        "dizel": 1.299,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
     }
   ],
   "position": null
