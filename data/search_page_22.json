@@ -1,5 +1,5 @@
 {
-  "count": 546,
+  "count": 547,
   "next": null,
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
@@ -54,12 +54,12 @@
       "lng": 14.16884039205976,
       "prices": {
         "95": null,
-        "dizel": 1.276,
+        "dizel": 1.296,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.004
+        "KOEL": 1.025
       },
       "distance": null,
       "direction": "",
@@ -128,6 +128,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2324,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVIS d.o.o.",
+      "address": "Ljubljanska cesta 62",
+      "lat": 45.96802,
+      "lng": 14.66103,
+      "prices": {
+        "95": null,
+        "dizel": 1.292,
+        "98": null,
+        "100": 1.423,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.025
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "VSAK DAN 5,30 do 22,30",
+      "zip_code": "1290"
     },
     {
       "pk": 850,
