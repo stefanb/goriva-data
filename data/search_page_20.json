@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2175,
-      "franchise": 1,
-      "name": "PETROL TEPANJE AC - ZAHOD",
-      "address": "SPODNJE GRUŠOVJE 10C",
-      "lat": 46.348824,
-      "lng": 15.487582,
-      "prices": {
-        "95": 1.312,
-        "dizel": 1.354,
-        "98": null,
-        "100": 1.508,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.759,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3210"
-    },
-    {
       "pk": 2176,
       "franchise": 1,
       "name": "PETROL TEPANJE AC - VZHOD",
@@ -504,6 +483,27 @@
       },
       "distance": null,
       "direction": "Fernetiči -> Ljublja",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 2031,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - SEVER",
+      "address": "POVIR 96",
+      "lat": 45.703632,
+      "lng": 13.941688,
+      "prices": {
+        "95": 1.312,
+        "dizel": 1.354,
+        "98": null,
+        "100": 1.508,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.759,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "6210"
     },

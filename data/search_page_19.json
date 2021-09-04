@@ -256,27 +256,6 @@
       "zip_code": "6281"
     },
     {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.302,
-        "dizel": 1.344,
-        "98": null,
-        "100": 1.498,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.759,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
       "pk": 2059,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE SEVER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8261"
+    },
+    {
+      "pk": 2175,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - ZAHOD",
+      "address": "SPODNJE GRUŠOVJE 10C",
+      "lat": 46.348824,
+      "lng": 15.487582,
+      "prices": {
+        "95": 1.312,
+        "dizel": 1.354,
+        "98": null,
+        "100": 1.508,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.759,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
     }
   ],
   "position": null
