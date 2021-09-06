@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
+      "prices": {
+        "95": 1.321,
+        "dizel": 1.357,
+        "98": null,
+        "100": 1.523,
+        "dizel-premium": 1.589,
+        "avtoplin-lpg": 0.775,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
+    },
+    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -11,11 +32,11 @@
       "lat": 46.522006,
       "lng": 16.51979,
       "prices": {
-        "95": 1.314,
-        "dizel": 1.356,
+        "95": 1.324,
+        "dizel": 1.359,
         "98": null,
-        "100": 1.509,
-        "dizel-premium": 1.594,
+        "100": 1.524,
+        "dizel-premium": 1.599,
         "avtoplin-lpg": 0.729,
         "KOEL": null
       },
@@ -32,11 +53,11 @@
       "lat": 46.566917,
       "lng": 15.8255,
       "prices": {
-        "95": 1.314,
-        "dizel": 1.356,
+        "95": 1.324,
+        "dizel": 1.359,
         "98": null,
-        "100": 1.509,
-        "dizel-premium": 1.594,
+        "100": 1.524,
+        "dizel-premium": 1.599,
         "avtoplin-lpg": 0.729,
         "KOEL": null
       },
@@ -100,7 +121,7 @@
         "98": null,
         "100": 1.534,
         "dizel-premium": 1.604,
-        "avtoplin-lpg": 0.758,
+        "avtoplin-lpg": 0.774,
         "KOEL": null
       },
       "distance": null,
@@ -390,7 +411,7 @@
       "lng": 14.659423828125,
       "prices": {
         "95": null,
-        "dizel": 1.292,
+        "dizel": 1.304,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -411,7 +432,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.292,
+        "dizel": 1.304,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -432,7 +453,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.292,
+        "dizel": 1.304,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -474,7 +495,7 @@
       "lng": 13.6284418,
       "prices": {
         "95": null,
-        "dizel": 1.284,
+        "dizel": 1.3,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2341"
-    },
-    {
-      "pk": 784,
-      "franchise": 2,
-      "name": "ET CAR.C.SEŽANA",
-      "address": "Partizanska 77",
-      "lat": 45.70387478,
-      "lng": 13.8514001,
-      "prices": {
-        "95": null,
-        "dizel": 1.309,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
     }
   ],
   "position": null
