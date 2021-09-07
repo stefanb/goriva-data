@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 2135,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - KAJUHOVA",
-      "address": "KAJUHOVA ULICA 32S",
-      "lat": 46.061482,
-      "lng": 14.538136,
-      "prices": {
-        "95": 1.267,
-        "dizel": 1.307,
-        "98": null,
-        "100": 1.454,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.745,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-15:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2136,
       "franchise": 1,
       "name": "PETROL GORENJA VAS",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 12:00-15:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "8275"
+    },
+    {
+      "pk": 2161,
+      "franchise": 1,
+      "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
+      "address": "CESTA XV. BRIGADE 34",
+      "lat": 45.65043013,
+      "lng": 15.30556866,
+      "prices": {
+        "95": 1.267,
+        "dizel": 1.307,
+        "98": null,
+        "100": 1.454,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.035
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "8330"
     }
   ],
   "position": null
