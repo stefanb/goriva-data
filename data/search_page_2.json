@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2306,
-      "franchise": 19,
-      "name": "Bencinski servis Juršinci",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.267,
-        "dizel": 1.304,
-        "98": null,
-        "100": 1.447,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.035
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
       "pk": 2051,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - POLJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2075,
+      "franchise": 1,
+      "name": "PETROL ZGORNJE JEZERSKO",
+      "address": "ZGORNJE JEZERSKO 65A",
+      "lat": 46.39459922,
+      "lng": 14.50096885,
+      "prices": {
+        "95": 1.267,
+        "dizel": 1.307,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.035
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 13:00-17:00\r\nsobote 13:00-17:00\r\nnedelje in prazniki 13:00-17:00",
+      "zip_code": "4206"
     }
   ],
   "position": null
