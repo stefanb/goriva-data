@@ -46,6 +46,48 @@
       "zip_code": "2000"
     },
     {
+      "pk": 2297,
+      "franchise": 16,
+      "name": "Agas Maribor",
+      "address": "Perhavčeva ulica 15",
+      "lat": 46.525107,
+      "lng": 15.667885,
+      "prices": {
+        "95": 1.237,
+        "dizel": 1.307,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.629,
+        "KOEL": 0.985
+      },
+      "distance": null,
+      "direction": "Maribor Center",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2299,
+      "franchise": 16,
+      "name": "Agas Slovenska Bistrica",
+      "address": "Žolgarjeva ulica 25",
+      "lat": 46.385204,
+      "lng": 15.576529,
+      "prices": {
+        "95": 1.237,
+        "dizel": 1.307,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.629,
+        "KOEL": 0.985
+      },
+      "distance": null,
+      "direction": "Izvoz Slovenska Bistrica jug",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2310"
+    },
+    {
       "pk": 2288,
       "franchise": 13,
       "name": "FE Trading - DISKONT Tržič",
@@ -214,48 +256,6 @@
       "zip_code": "6250"
     },
     {
-      "pk": 2297,
-      "franchise": 16,
-      "name": "Agas Maribor",
-      "address": "Perhavčeva ulica 15",
-      "lat": 46.525107,
-      "lng": 15.667885,
-      "prices": {
-        "95": 1.248,
-        "dizel": 1.295,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.629,
-        "KOEL": 0.975
-      },
-      "distance": null,
-      "direction": "Maribor Center",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.248,
-        "dizel": 1.295,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.629,
-        "KOEL": 0.975
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -369,12 +369,12 @@
       "lng": 15.176063537597656,
       "prices": {
         "95": 1.267,
-        "dizel": 1.304,
+        "dizel": 1.307,
         "98": null,
         "100": 1.447,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.035
+        "KOEL": 1.033
       },
       "distance": null,
       "direction": "",
@@ -411,9 +411,9 @@
       "lng": 14.3212867,
       "prices": {
         "95": 1.267,
-        "dizel": 1.304,
+        "dizel": 1.307,
         "98": null,
-        "100": 1.447,
+        "100": 1.454,
         "dizel-premium": null,
         "avtoplin-lpg": 0.704,
         "KOEL": null
@@ -453,12 +453,12 @@
       "lng": 15.965107,
       "prices": {
         "95": 1.267,
-        "dizel": 1.304,
+        "dizel": 1.307,
         "98": null,
-        "100": 1.447,
+        "100": 1.454,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.035
+        "KOEL": 1.033
       },
       "distance": null,
       "direction": "",
@@ -495,7 +495,7 @@
       "lng": 14.63137435913086,
       "prices": {
         "95": 1.267,
-        "dizel": 1.304,
+        "dizel": 1.307,
         "98": null,
         "100": null,
         "dizel-premium": null,
