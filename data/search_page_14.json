@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 1574,
-      "franchise": 4,
-      "name": "BS MOL KOČEVJE",
-      "address": "REŠKA CESTA 25/A",
-      "lat": 45.632833,
-      "lng": 14.864267,
-      "prices": {
-        "95": 1.291,
-        "dizel": 1.308,
-        "98": null,
-        "100": 1.484,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.033
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "1330"
-    },
-    {
       "pk": 1575,
       "franchise": 4,
       "name": "BS MOL OTIŠKI VRH",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-21:00\r\nsobota 07:00-21:00\r\nnedelja 08:00-20:00\r\nprazniki 08:00-20:00",
       "zip_code": "2230"
+    },
+    {
+      "pk": 2286,
+      "franchise": 4,
+      "name": "BS MOL RADLJE OB DRAVI",
+      "address": "Mariborska cesta 60",
+      "lat": 46.612815,
+      "lng": 15.232126,
+      "prices": {
+        "95": 1.291,
+        "dizel": 1.308,
+        "98": null,
+        "100": 1.484,
+        "dizel-premium": 1.499,
+        "avtoplin-lpg": 0.745,
+        "KOEL": 1.033
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
+      "zip_code": "2360"
     }
   ],
   "position": null
