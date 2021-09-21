@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1578,
+      "franchise": 4,
+      "name": "BS MOL LJUTOMER",
+      "address": "KOLODVORSKA ULICA 2A",
+      "lat": 46.526083,
+      "lng": 16.193583,
+      "prices": {
+        "95": 1.287,
+        "dizel": 1.333,
+        "98": null,
+        "100": 1.476,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.052
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 05:00 - 21:00\r\nSOBOTA 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "9240"
+    },
+    {
       "pk": 1579,
       "franchise": 4,
       "name": "BS MOL ŠENTILJ",
@@ -464,27 +485,6 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
       "zip_code": "3270"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.288,
-        "dizel": 1.305,
-        "98": null,
-        "100": 1.305,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.032
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 769,
