@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 771,
+      "franchise": 2,
+      "name": "OMV BREŽICE",
+      "address": "C.Svobode 35",
+      "lat": 45.913737,
+      "lng": 15.595365,
+      "prices": {
+        "95": 1.289,
+        "dizel": 1.334,
+        "98": null,
+        "100": 1.479,
+        "dizel-premium": 1.524,
+        "avtoplin-lpg": null,
+        "KOEL": 1.051
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8250"
+    },
+    {
       "pk": 772,
       "franchise": 2,
       "name": "OMV CELJE AERO",
@@ -128,27 +149,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "1262"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.289,
-        "dizel": 1.307,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 780,

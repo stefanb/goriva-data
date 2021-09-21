@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 1994,
+      "franchise": 1,
+      "name": "PETROL JAGODJE - JUG",
+      "address": "JAGODJE 10",
+      "lat": 45.52451738,
+      "lng": 13.6508096,
+      "prices": {
+        "95": 1.286,
+        "dizel": 1.332,
+        "98": null,
+        "100": 1.472,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.745,
+        "KOEL": 1.052
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "6310"
+    },
+    {
       "pk": 1995,
       "franchise": 1,
       "name": "PETROL ILIRSKA BISTRICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 08:00-17:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2024,
-      "franchise": 1,
-      "name": "PETROL PTUJ - DORNAVSKA",
-      "address": "DORNAVSKA CESTA 6B",
-      "lat": 46.42336766,
-      "lng": 15.88908401,
-      "prices": {
-        "95": 1.286,
-        "dizel": 1.332,
-        "98": null,
-        "100": 1.472,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.052
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2250"
     }
   ],
   "position": null
