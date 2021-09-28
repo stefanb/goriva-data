@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 2166,
+      "franchise": 1,
+      "name": "PETROL VRANSKO",
+      "address": "VRANSKO 74A",
+      "lat": 46.24594145,
+      "lng": 14.95996662,
+      "prices": {
+        "95": 1.272,
+        "dizel": 1.354,
+        "98": null,
+        "100": 1.458,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.066
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3305"
+    },
+    {
+      "pk": 2167,
+      "franchise": 1,
+      "name": "PETROL CELJE - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 38",
+      "lat": 46.235056,
+      "lng": 15.24900341,
+      "prices": {
+        "95": 1.272,
+        "dizel": 1.354,
+        "98": null,
+        "100": 1.458,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 13:30-17:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2168,
       "franchise": 1,
       "name": "PETROL CELJE - HUDINJA",
@@ -484,48 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2185,
-      "franchise": 1,
-      "name": "PETROL PLANINA",
-      "address": "PLANINA PRI SEVNICI 65H",
-      "lat": 46.09842192,
-      "lng": 15.39765344,
-      "prices": {
-        "95": 1.272,
-        "dizel": 1.354,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.066
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
-      "zip_code": "3225"
-    },
-    {
-      "pk": 1930,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PTUJSKA 111",
-      "address": "PTUJSKA CESTA 111",
-      "lat": 46.53248364,
-      "lng": 15.66759889,
-      "prices": {
-        "95": 1.272,
-        "dizel": 1.354,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.066
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 08:00-15:00",
       "zip_code": "2000"
     }
   ],

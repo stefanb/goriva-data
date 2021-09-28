@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 1590,
+      "franchise": 4,
+      "name": "BS MOL RUDNIK",
+      "address": "PREMRLOVA ULICA 10",
+      "lat": 46.01729,
+      "lng": 14.530471,
+      "prices": {
+        "95": 1.274,
+        "dizel": 1.355,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.066
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 16:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 1591,
+      "franchise": 4,
+      "name": "BS MOL VODICE",
+      "address": "ŠKOFJELOŠKA CESTA 14",
+      "lat": 46.185997,
+      "lng": 14.487635,
+      "prices": {
+        "95": 1.274,
+        "dizel": 1.355,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.066
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 824,
       "franchise": 2,
       "name": "OMV LUCIJA POMOL",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
       "zip_code": "6224"
-    },
-    {
-      "pk": 853,
-      "franchise": 2,
-      "name": "OMV SEŽANA",
-      "address": "Partizanska 63a",
-      "lat": 45.705649,
-      "lng": 13.863156,
-      "prices": {
-        "95": 1.274,
-        "dizel": 1.354,
-        "98": null,
-        "100": 1.464,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 854,
-      "franchise": 2,
-      "name": "OMV SLOVENSKA BISTRICA",
-      "address": "Žolgarjeva ulica 16",
-      "lat": 46.385322,
-      "lng": 15.571972,
-      "prices": {
-        "95": 1.274,
-        "dizel": 1.354,
-        "98": null,
-        "100": 1.464,
-        "dizel-premium": 1.544,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2310"
     }
   ],
   "position": null
