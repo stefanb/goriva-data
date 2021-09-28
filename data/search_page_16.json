@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 822,
+      "franchise": 2,
+      "name": "OMV LOKEV",
+      "address": "Lokev 1a",
+      "lat": 45.66133,
+      "lng": 13.91942,
+      "prices": {
+        "95": 1.274,
+        "dizel": 1.354,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
+      "zip_code": "6219"
+    },
+    {
       "pk": 1590,
       "franchise": 4,
       "name": "BS MOL RUDNIK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "8281"
-    },
-    {
-      "pk": 852,
-      "franchise": 2,
-      "name": "OMV SENOŽEČE",
-      "address": "Senožeče 10a",
-      "lat": 45.72321,
-      "lng": 14.04572,
-      "prices": {
-        "95": 1.274,
-        "dizel": 1.354,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
-      "zip_code": "6224"
     }
   ],
   "position": null

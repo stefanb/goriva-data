@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1562,
+      "franchise": 4,
+      "name": "BS MOL KOZINA",
+      "address": "BAZOVIŠKA CESTA 18",
+      "lat": 45.6090699,
+      "lng": 13.9336733,
+      "prices": {
+        "95": 1.274,
+        "dizel": 1.355,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": 1.546,
+        "avtoplin-lpg": null,
+        "KOEL": 1.066
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "6240"
+    },
+    {
       "pk": 1563,
       "franchise": 4,
       "name": "BS MOL GORNJA RADGONA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "4000"
-    },
-    {
-      "pk": 1577,
-      "franchise": 4,
-      "name": "BS MOL PRESTRANEK",
-      "address": "REŠKA CESTA 18/B",
-      "lat": 45.728,
-      "lng": 14.188,
-      "prices": {
-        "95": 1.274,
-        "dizel": 1.355,
-        "98": null,
-        "100": 1.464,
-        "dizel-premium": 1.546,
-        "avtoplin-lpg": null,
-        "KOEL": 1.066
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 06:00 - 22:00",
-      "zip_code": "6258"
     }
   ],
   "position": null
