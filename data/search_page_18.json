@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2234,
+      "franchise": 4,
+      "name": "BS MOL TEZNO",
+      "address": "Ptujska cesta 56",
+      "lat": 46.537696,
+      "lng": 15.655975,
+      "prices": {
+        "95": 1.274,
+        "dizel": 1.354,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": 1.544,
+        "avtoplin-lpg": 0.737,
+        "KOEL": 1.066
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek:            05:00 - 22:00\r\nSobota:                                06:00 - 22:00\r\nNedelja:                               06:00 - 22:00\r\nPrazniki:                               06:00 - 22:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2235,
       "franchise": 4,
       "name": "BS MOL KRANJ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2245,
-      "franchise": 3,
-      "name": "BS MAXEN SELNICA OB DRAVI",
-      "address": "Spodnja Selnica bš",
-      "lat": 46.5546048,
-      "lng": 15.5078896,
-      "prices": {
-        "95": 1.291,
-        "dizel": 1.385,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2352"
     }
   ],
   "position": null

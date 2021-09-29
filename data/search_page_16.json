@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 1588,
+      "franchise": 4,
+      "name": "BS MOL SENOŽETI",
+      "address": "SENOŽETI 93",
+      "lat": 46.088644,
+      "lng": 14.716823,
+      "prices": {
+        "95": 1.274,
+        "dizel": 1.354,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": 1.544,
+        "avtoplin-lpg": null,
+        "KOEL": 1.066
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 821,
       "franchise": 2,
       "name": "OMV LJUTOMER",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
       "zip_code": "6230"
-    },
-    {
-      "pk": 846,
-      "franchise": 2,
-      "name": "OMV RAKEK",
-      "address": "Partizanska 73a",
-      "lat": 45.808113,
-      "lng": 14.329101,
-      "prices": {
-        "95": 1.274,
-        "dizel": 1.354,
-        "98": null,
-        "100": 1.464,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.065
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1381"
     }
   ],
   "position": null
