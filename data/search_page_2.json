@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2053,
-      "franchise": 1,
-      "name": "PETROL DOBROVA",
-      "address": "POLHOGRAJSKA CESTA 12",
-      "lat": 46.0520304,
-      "lng": 14.42151956,
-      "prices": {
-        "95": 1.302,
-        "dizel": 1.392,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.099
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
-      "zip_code": "1356"
-    },
-    {
       "pk": 2054,
       "franchise": 1,
       "name": "PETROL PODPEČ",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 13:00-17:00\r\nsobote 13:00-17:00\r\nnedelje in prazniki 13:00-17:00",
       "zip_code": "4206"
+    },
+    {
+      "pk": 2076,
+      "franchise": 1,
+      "name": "PETROL ŽELEZNIKI",
+      "address": "ČEŠNJICA 55",
+      "lat": 46.22626724,
+      "lng": 14.17252414,
+      "prices": {
+        "95": 1.302,
+        "dizel": 1.392,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.099
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "4228"
     }
   ],
   "position": null
