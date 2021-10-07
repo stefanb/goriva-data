@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2031,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - SEVER",
+      "address": "POVIR 96",
+      "lat": 45.703632,
+      "lng": 13.941688,
+      "prices": {
+        "95": 1.356,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.553,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.775,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
+    },
+    {
       "pk": 2032,
       "franchise": 1,
       "name": "PETROL VIPAVA AC - SEVER",
@@ -506,27 +527,6 @@
       "direction": "H4, izhod Vrtojba",
       "open_hours": "24/7",
       "zip_code": "5290"
-    },
-    {
-      "pk": 2319,
-      "franchise": 26,
-      "name": "EKSTRA OLJE",
-      "address": "Limbuška cesta 2",
-      "lat": 46.559416,
-      "lng": 15.597476,
-      "prices": {
-        "95": null,
-        "dizel": 1.392,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.097
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2341"
     }
   ],
   "position": null
