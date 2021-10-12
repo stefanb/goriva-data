@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2209,
-      "franchise": 1,
-      "name": "PETROL SLOVENJ GRADEC - FRANCETOVA",
-      "address": "FRANCETOVA CESTA 21",
-      "lat": 46.51479276,
-      "lng": 15.08272833,
-      "prices": {
-        "95": 1.333,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.137
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00",
-      "zip_code": "2380"
-    },
-    {
       "pk": 1954,
       "franchise": 1,
       "name": "PETROL MARIBOR - POBREŽJE",
@@ -86,6 +65,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 17:30-20:00",
       "zip_code": "5216"
+    },
+    {
+      "pk": 2211,
+      "franchise": 1,
+      "name": "PETROL MISLINJA",
+      "address": "ŠENTLENART 18",
+      "lat": 46.44319582,
+      "lng": 15.19195307,
+      "prices": {
+        "95": 1.333,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "2382"
     },
     {
       "pk": 1956,
