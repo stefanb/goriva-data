@@ -67,48 +67,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.272,
-        "dizel": 1.331,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.067
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
-      "zip_code": "2283"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.282,
-        "dizel": 1.372,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.097
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2267,
       "franchise": 6,
       "name": "EKO-NAFTA d.o.o.",
@@ -214,25 +172,25 @@
       "zip_code": "2211"
     },
     {
-      "pk": 2311,
-      "franchise": 18,
-      "name": "BS Merkantil KNEŽAK",
-      "address": "KNEŽAK 3",
-      "lat": 45.625625,
-      "lng": 14.239867,
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
       "prices": {
-        "95": 1.304,
-        "dizel": 1.392,
+        "95": 1.303,
+        "dizel": 1.381,
         "98": null,
         "100": null,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.745,
-        "KOEL": 1.098
+        "avtoplin-lpg": null,
+        "KOEL": 1.106
       },
       "distance": null,
       "direction": "",
-      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
-      "zip_code": "6253"
+      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
+      "zip_code": "2283"
     },
     {
       "pk": 866,
@@ -424,6 +382,27 @@
       "zip_code": "6250"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.328,
+        "dizel": 1.436,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.135
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "6.00-22.00",
       "zip_code": "4220"
+    },
+    {
+      "pk": 2050,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - CELOVŠKA 148",
+      "address": "CELOVŠKA CESTA 148",
+      "lat": 46.07303365,
+      "lng": 14.48691567,
+      "prices": {
+        "95": 1.333,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Kranj",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-13:00",
+      "zip_code": "1000"
     }
   ],
   "position": null

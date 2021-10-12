@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2050,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - CELOVŠKA 148",
-      "address": "CELOVŠKA CESTA 148",
-      "lat": 46.07303365,
-      "lng": 14.48691567,
-      "prices": {
-        "95": 1.333,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Kranj",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-13:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2306,
       "franchise": 19,
       "name": "Bencinski servis Juršinci",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "1234"
+    },
+    {
+      "pk": 2073,
+      "franchise": 1,
+      "name": "PETROL RATEČE",
+      "address": "RATEČE 88A",
+      "lat": 46.497066,
+      "lng": 13.708622,
+      "prices": {
+        "95": 1.333,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.506,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-20:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 13:30-19:00",
+      "zip_code": "4283"
     }
   ],
   "position": null
