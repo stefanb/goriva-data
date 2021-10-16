@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 792,
-      "franchise": 2,
-      "name": "OMV GEDEROVCI",
-      "address": "Gederovci 17a",
-      "lat": 46.67921,
-      "lng": 16.056079,
-      "prices": {
-        "95": 1.334,
-        "dizel": 1.442,
-        "98": null,
-        "100": 1.509,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.136
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Pet 5:00-22:00; Sob 6:00-22:00;Ned/Praz 7:00-21:00",
-      "zip_code": "9251"
-    },
-    {
       "pk": 1560,
       "franchise": 4,
       "name": "BS MOL ROŽNA DOLINA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 1575,
+      "franchise": 4,
+      "name": "BS MOL OTIŠKI VRH",
+      "address": "OTIŠKI VRH 52",
+      "lat": 46.5695,
+      "lng": 15.036667,
+      "prices": {
+        "95": 1.334,
+        "dizel": 1.442,
+        "98": null,
+        "100": 1.509,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - pet 05:00 - 23:00\r\nsobota 06:00 - 22:00\r\nnedelja in prazniki 07:00 - 22:00",
+      "zip_code": "2373"
     }
   ],
   "position": null
