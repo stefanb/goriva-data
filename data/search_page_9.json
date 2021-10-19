@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 843,
-      "franchise": 2,
-      "name": "OMV POSTOJNA TRŽAŠKA",
-      "address": "Tržaška c. 60b",
-      "lat": 45.772642,
-      "lng": 14.200028,
-      "prices": {
-        "95": 1.349,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.534,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.154
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
-      "zip_code": "6230"
-    },
-    {
       "pk": 2124,
       "franchise": 1,
       "name": "PETROL BOROVNICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
       "zip_code": "4226"
+    },
+    {
+      "pk": 858,
+      "franchise": 2,
+      "name": "OMV SPODNJI DUPLEK",
+      "address": "C. 4.julija 69",
+      "lat": 46.501143,
+      "lng": 15.751535,
+      "prices": {
+        "95": 1.349,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.534,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.154
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2241"
     }
   ],
   "position": null

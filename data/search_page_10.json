@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 858,
-      "franchise": 2,
-      "name": "OMV SPODNJI DUPLEK",
-      "address": "C. 4.julija 69",
-      "lat": 46.501143,
-      "lng": 15.751535,
-      "prices": {
-        "95": 1.349,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.534,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.154
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
-      "zip_code": "2241"
-    },
-    {
       "pk": 2138,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "3320"
+    },
+    {
+      "pk": 2151,
+      "franchise": 1,
+      "name": "PETROL SEMIČ",
+      "address": "METLIŠKA CESTA 10",
+      "lat": 45.65031764,
+      "lng": 15.18401353,
+      "prices": {
+        "95": 1.349,
+        "dizel": 1.466,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:30-19:00\r\nsobote 12:00-13:00",
+      "zip_code": "8333"
     }
   ],
   "position": null

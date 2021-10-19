@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2109,
-      "franchise": 1,
-      "name": "PETROL VRHNIKA - LJUBLJANSKA VZHOD",
-      "address": "LJUBLJANSKA CESTA 4",
-      "lat": 45.96798994,
-      "lng": 14.299624,
-      "prices": {
-        "95": 1.349,
-        "dizel": 1.466,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.156
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-20:30\r\nsobote 06:00-20:00\r\nnedelje in prazniki 09:00-19:00",
-      "zip_code": "1360"
-    },
-    {
       "pk": 830,
       "franchise": 2,
       "name": "OMV MARIBOR PTUJSKA VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 21:00-24:00\r\nnedelje in prazniki 20:00-24:00",
       "zip_code": "4220"
+    },
+    {
+      "pk": 843,
+      "franchise": 2,
+      "name": "OMV POSTOJNA TRŽAŠKA",
+      "address": "Tržaška c. 60b",
+      "lat": 45.772642,
+      "lng": 14.200028,
+      "prices": {
+        "95": 1.349,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.534,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.154
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
     }
   ],
   "position": null

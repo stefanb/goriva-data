@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 1946,
-      "franchise": 1,
-      "name": "PETROL SREDIŠČE OB DRAVI",
-      "address": "SLOVENSKA CESTA 91A",
-      "lat": 46.394433,
-      "lng": 16.277736,
-      "prices": {
-        "95": 1.349,
-        "dizel": 1.466,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.156
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 07:00-12:00",
-      "zip_code": "2277"
-    },
-    {
       "pk": 1947,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - VOJKOVA VZHOD",
@@ -359,6 +338,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 17:30-20:00",
       "zip_code": "5216"
+    },
+    {
+      "pk": 2211,
+      "franchise": 1,
+      "name": "PETROL MISLINJA",
+      "address": "ŠENTLENART 18",
+      "lat": 46.44319582,
+      "lng": 15.19195307,
+      "prices": {
+        "95": 1.349,
+        "dizel": 1.466,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "2382"
     },
     {
       "pk": 1956,
