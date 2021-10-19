@@ -11,7 +11,7 @@
       "lat": 46.525107,
       "lng": 15.667885,
       "prices": {
-        "95": 1.283,
+        "95": 1.299,
         "dizel": 1.465,
         "98": null,
         "100": null,
@@ -32,7 +32,7 @@
       "lat": 46.385204,
       "lng": 15.576529,
       "prices": {
-        "95": 1.283,
+        "95": 1.299,
         "dizel": 1.465,
         "98": null,
         "100": null,
@@ -53,10 +53,10 @@
       "lat": 46.529195,
       "lng": 15.646512,
       "prices": {
-        "95": 1.293,
-        "dizel": 1.399,
+        "95": 1.309,
+        "dizel": 1.424,
         "98": null,
-        "100": 1.419,
+        "100": 1.489,
         "dizel-premium": null,
         "avtoplin-lpg": 0.799,
         "KOEL": null
@@ -74,39 +74,18 @@
       "lat": 46.3896077,
       "lng": 16.05135585,
       "prices": {
-        "95": 1.303,
-        "dizel": 1.381,
+        "95": 1.319,
+        "dizel": 1.405,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.106
+        "KOEL": 1.124
       },
       "distance": null,
       "direction": "",
       "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
       "zip_code": "2283"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.421,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.135
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
     },
     {
       "pk": 2288,
@@ -275,48 +254,6 @@
       "direction": "",
       "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
       "zip_code": "6250"
-    },
-    {
-      "pk": 2316,
-      "franchise": 23,
-      "name": "BS Žihlava",
-      "address": "Žihlava 15",
-      "lat": 46.55,
-      "lng": 16.0396,
-      "prices": {
-        "95": 1.333,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gornja Radgona - Ljutomer",
-      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.333,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
-      "zip_code": "9201"
     },
     {
       "pk": 2268,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "1370"
+    },
+    {
+      "pk": 1557,
+      "franchise": 4,
+      "name": "BS MOL CELJE, MARIBORSKA",
+      "address": "MARIBORSKA CESTA 111",
+      "lat": 46.2451779,
+      "lng": 15.2776158,
+      "prices": {
+        "95": 1.334,
+        "dizel": 1.442,
+        "98": null,
+        "100": 1.509,
+        "dizel-premium": 1.629,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - NED 00:00-24:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 1558,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "LENDAVSKA ULICA 75",
+      "lat": 46.6676096,
+      "lng": 16.1767565,
+      "prices": {
+        "95": 1.334,
+        "dizel": 1.442,
+        "98": null,
+        "100": 1.509,
+        "dizel-premium": 1.629,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 1560,
+      "franchise": 4,
+      "name": "BS MOL ROŽNA DOLINA",
+      "address": "ULICA ANGELA BESEDNJAKA 8A",
+      "lat": 45.9404582,
+      "lng": 13.6399226,
+      "prices": {
+        "95": 1.334,
+        "dizel": 1.442,
+        "98": null,
+        "100": 1.509,
+        "dizel-premium": 1.629,
+        "avtoplin-lpg": 0.839,
+        "KOEL": 1.137
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "5000"
     }
   ],
   "position": null
