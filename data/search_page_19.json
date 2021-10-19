@@ -298,48 +298,6 @@
       "zip_code": "5270"
     },
     {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.389,
-        "dizel": 1.491,
-        "98": null,
-        "100": 1.579,
-        "dizel-premium": 1.724,
-        "avtoplin-lpg": 0.839,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.389,
-        "dizel": 1.491,
-        "98": null,
-        "100": 1.579,
-        "dizel-premium": 1.724,
-        "avtoplin-lpg": 0.839,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
       "pk": 777,
       "franchise": 2,
       "name": "OMV DOBRENJE VZHOD",
@@ -508,6 +466,27 @@
       "zip_code": "6210"
     },
     {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.404,
+        "dizel": 1.514,
+        "98": null,
+        "100": 1.599,
+        "dizel-premium": 1.749,
+        "avtoplin-lpg": 0.839,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
+    },
+    {
       "pk": 793,
       "franchise": 2,
       "name": "OMV GRABONOŠ",
@@ -527,6 +506,27 @@
       "direction": "Lenti",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "9244"
+    },
+    {
+      "pk": 796,
+      "franchise": 2,
+      "name": "OMV GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.404,
+        "dizel": 1.515,
+        "98": null,
+        "100": 1.599,
+        "dizel-premium": 1.739,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1290"
     }
   ],
   "position": null
