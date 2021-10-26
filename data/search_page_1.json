@@ -361,48 +361,6 @@
       "zip_code": "6253"
     },
     {
-      "pk": 2316,
-      "franchise": 23,
-      "name": "BS Žihlava",
-      "address": "Žihlava 15",
-      "lat": 46.55,
-      "lng": 16.0396,
-      "prices": {
-        "95": 1.349,
-        "dizel": 1.466,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gornja Radgona - Ljutomer",
-      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.349,
-        "dizel": 1.466,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
-      "zip_code": "9201"
-    },
-    {
       "pk": 2211,
       "franchise": 1,
       "name": "PETROL MISLINJA",
@@ -526,6 +484,48 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 770,
+      "franchise": 2,
+      "name": "OMV BREZOVICA",
+      "address": "Tržaška c. 565",
+      "lat": 46.022535,
+      "lng": 14.407636,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.549,
+        "dizel-premium": 1.653,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1351"
+    },
+    {
+      "pk": 2050,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - CELOVŠKA 148",
+      "address": "CELOVŠKA CESTA 148",
+      "lat": 46.07303365,
+      "lng": 14.48691567,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.469,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Kranj",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-13:00",
       "zip_code": "1000"
     }
   ],
