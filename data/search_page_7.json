@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 821,
-      "franchise": 2,
-      "name": "OMV LJUTOMER",
-      "address": "Kolodvorska 7a",
-      "lat": 46.5289,
-      "lng": 16.19006,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.471,
-        "98": null,
-        "100": 1.554,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.155
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "9240"
-    },
-    {
       "pk": 1589,
       "franchise": 4,
       "name": "BS MOL BTC",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 12:30-18:00",
       "zip_code": "1215"
+    },
+    {
+      "pk": 833,
+      "franchise": 2,
+      "name": "OMV MURSKA SOBOTA",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.554,
+        "dizel-premium": 1.653,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00",
+      "zip_code": "9000"
     }
   ],
   "position": null
