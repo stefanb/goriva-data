@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2244,
-      "franchise": 3,
-      "name": "BS MAXEN DOLNJI LAKOŠ",
-      "address": "Glavna ulica bš",
-      "lat": 46.5525523,
-      "lng": 16.430912,
-      "prices": {
-        "95": 1.39,
-        "dizel": 1.504,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2245,
-      "franchise": 3,
-      "name": "BS MAXEN SELNICA OB DRAVI",
-      "address": "Spodnja Selnica bš",
-      "lat": 46.5546048,
-      "lng": 15.5078896,
-      "prices": {
-        "95": 1.39,
-        "dizel": 1.504,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2352"
-    },
-    {
       "pk": 2246,
       "franchise": 3,
       "name": "BS MAXEN LJUBLJANA-BTC",
@@ -296,6 +254,48 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "5270"
+    },
+    {
+      "pk": 863,
+      "franchise": 2,
+      "name": "OMV ŠKOFIJE BLOK VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.473,
+        "98": null,
+        "100": 1.589,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.838,
+        "KOEL": 1.149
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
+    },
+    {
+      "pk": 864,
+      "franchise": 2,
+      "name": "OMV ŠKOFIJE BLOK ZAHOD",
+      "address": "Sp.Škofije 256a",
+      "lat": 45.579851,
+      "lng": 13.796288,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.473,
+        "98": null,
+        "100": 1.589,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6281"
     },
     {
       "pk": 2059,

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1994,
-      "franchise": 1,
-      "name": "PETROL JAGODJE - JUG",
-      "address": "JAGODJE 10",
-      "lat": 45.52451738,
-      "lng": 13.6508096,
-      "prices": {
-        "95": 1.371,
-        "dizel": 1.473,
-        "98": null,
-        "100": 1.56,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.839,
-        "KOEL": 1.108
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 1995,
       "franchise": 1,
       "name": "PETROL ILIRSKA BISTRICA",
@@ -317,6 +296,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.371,
+        "dizel": 1.473,
+        "98": 1.454,
+        "100": 1.56,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.108
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,
