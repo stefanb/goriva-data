@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 852,
+      "franchise": 2,
+      "name": "OMV SENOŽEČE",
+      "address": "Senožeče 10a",
+      "lat": 45.72321,
+      "lng": 14.04572,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
+      "zip_code": "6224"
+    },
+    {
       "pk": 2132,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - LITIJSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 06:00-20:00, Ned/Praz 07:00-20:00; Apr-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "6274"
-    },
-    {
-      "pk": 2146,
-      "franchise": 1,
-      "name": "PETROL ČRNOMELJ - BELOKRANJSKA",
-      "address": "BELOKRANJSKA CESTA 1",
-      "lat": 45.57849993,
-      "lng": 15.19151321,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.47,
-        "98": null,
-        "100": 1.548,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "8340"
     }
   ],
   "position": null

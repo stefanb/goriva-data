@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1591,
+      "franchise": 4,
+      "name": "BS MOL VODICE",
+      "address": "ŠKOFJELOŠKA CESTA 14",
+      "lat": 46.185997,
+      "lng": 14.487635,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.545,
+        "dizel-premium": 1.662,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 2103,
       "franchise": 1,
       "name": "PETROL RAŠICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1215"
-    },
-    {
-      "pk": 836,
-      "franchise": 2,
-      "name": "OMV NOVO MESTO BRŠLJIN",
-      "address": "Ljubljanska cesta 11",
-      "lat": 45.8139,
-      "lng": 15.153116666666667,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.471,
-        "98": null,
-        "100": 1.544,
-        "dizel-premium": 1.662,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 6:00-22:00",
-      "zip_code": "8000"
     }
   ],
   "position": null
