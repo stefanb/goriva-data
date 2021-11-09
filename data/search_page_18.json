@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2037,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - RAKOVNIK",
+      "address": "DOLENJSKA CESTA 136A",
+      "lat": 46.03323598,
+      "lng": 14.52693479,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": null,
+        "100": 1.548,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2038,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 45",
+      "address": "ŠMARTINSKA CESTA 45",
+      "lat": 46.0630141,
+      "lng": 14.52518352,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-13:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2039,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - DUNAJSKA 130",
@@ -296,48 +338,6 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 17.00\r\nprazniki:      7.00 - 17.00",
       "zip_code": "9201"
-    },
-    {
-      "pk": 2113,
-      "franchise": 1,
-      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
-      "address": "CESTA STANETA ŽAGARJA 53B",
-      "lat": 46.24371235,
-      "lng": 14.36955351,
-      "prices": {
-        "95": 1.371,
-        "dizel": 1.473,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-14:00",
-      "zip_code": "4000"
-    },
-    {
-      "pk": 2211,
-      "franchise": 1,
-      "name": "PETROL MISLINJA",
-      "address": "ŠENTLENART 18",
-      "lat": 46.44319582,
-      "lng": 15.19195307,
-      "prices": {
-        "95": 1.371,
-        "dizel": 1.473,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.108
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "2382"
     },
     {
       "pk": 863,

@@ -487,6 +487,27 @@
       "zip_code": "9000"
     },
     {
+      "pk": 2113,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
+      "address": "CESTA STANETA ŽAGARJA 53B",
+      "lat": 46.24371235,
+      "lng": 14.36955351,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-14:00",
+      "zip_code": "4000"
+    },
+    {
       "pk": 834,
       "franchise": 2,
       "name": "OMV NOVA VAS",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz. zaprto; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz. zaprto",
       "zip_code": "1385"
-    },
-    {
-      "pk": 2114,
-      "franchise": 1,
-      "name": "PETROL LESCE",
-      "address": "HRAŠKA CESTA 13A",
-      "lat": 46.36782569,
-      "lng": 14.15376274,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.47,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-16:00",
-      "zip_code": "4248"
     }
   ],
   "position": null

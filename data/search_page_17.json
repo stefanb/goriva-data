@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": 1.548,
+        "100": 1.56,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
+      "pk": 2013,
+      "franchise": 1,
+      "name": "PETROL MAJŠPERK",
+      "address": "MAJŠPERK 55A",
+      "lat": 46.3487854,
+      "lng": 15.73672014,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:00-11:30",
+      "zip_code": "2322"
+    },
+    {
       "pk": 2014,
       "franchise": 1,
       "name": "PETROL PTUJ - ORMOŠKA 26/B",
@@ -484,48 +526,6 @@
       "distance": null,
       "direction": "Ljubljana -> Kranj",
       "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2037,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RAKOVNIK",
-      "address": "DOLENJSKA CESTA 136A",
-      "lat": 46.03323598,
-      "lng": 14.52693479,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.47,
-        "98": null,
-        "100": 1.548,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2038,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ŠMARTINSKA 45",
-      "address": "ŠMARTINSKA CESTA 45",
-      "lat": 46.0630141,
-      "lng": 14.52518352,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.47,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-13:00",
       "zip_code": "1000"
     }
   ],
