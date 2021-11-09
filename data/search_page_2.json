@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 2049,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 150",
+      "address": "ŠMARTINSKA CESTA 150",
+      "lat": 46.06921194,
+      "lng": 14.54248084,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": null,
+        "100": 1.548,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 770,
       "franchise": 2,
       "name": "OMV BREZOVICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "1230"
-    },
-    {
-      "pk": 783,
-      "franchise": 2,
-      "name": "OMV DUTOVLJE",
-      "address": "Dutovlje 3b",
-      "lat": 45.755992,
-      "lng": 13.835896,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.471,
-        "98": null,
-        "100": 1.544,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6221"
     }
   ],
   "position": null

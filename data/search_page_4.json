@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 794,
+      "franchise": 2,
+      "name": "OMV GRAČIŠČE",
+      "address": "Gračišče 4a",
+      "lat": 45.501301,
+      "lng": 13.873635,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
+      "zip_code": "6272"
+    },
+    {
       "pk": 1562,
       "franchise": 4,
       "name": "BS MOL KOZINA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "3222"
-    },
-    {
-      "pk": 2083,
-      "franchise": 1,
-      "name": "PETROL RADOVLJICA - GORENJSKA",
-      "address": "GORENJSKA CESTA 41A",
-      "lat": 46.34844567,
-      "lng": 14.16883456,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.47,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.889,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
-      "zip_code": "4240"
     }
   ],
   "position": null

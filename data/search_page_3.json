@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 783,
+      "franchise": 2,
+      "name": "OMV DUTOVLJE",
+      "address": "Dutovlje 3b",
+      "lat": 45.755992,
+      "lng": 13.835896,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.544,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
+      "zip_code": "6221"
+    },
+    {
       "pk": 1551,
       "franchise": 4,
       "name": "BS MOL LITIJA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-20:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 13:30-19:00",
       "zip_code": "4283"
-    },
-    {
-      "pk": 794,
-      "franchise": 2,
-      "name": "OMV GRAČIŠČE",
-      "address": "Gračišče 4a",
-      "lat": 45.501301,
-      "lng": 13.873635,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.471,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6272"
     }
   ],
   "position": null

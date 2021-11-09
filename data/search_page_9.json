@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 851,
+      "franchise": 2,
+      "name": "OMV SENOVO",
+      "address": "Titova ulica 101c",
+      "lat": 46.02489,
+      "lng": 15.47797,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.544,
+        "dizel-premium": 1.662,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "8281"
+    },
+    {
       "pk": 2131,
       "franchise": 1,
       "name": "PETROL ŠKOFLJICA - PIJAVA GORICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 06:00-22:00; Apr-Sep: Pon-Ned 06:00-22:30",
       "zip_code": "4220"
-    },
-    {
-      "pk": 2145,
-      "franchise": 1,
-      "name": "PETROL OTOČEC - JUG",
-      "address": "GRAJSKA CESTA 6",
-      "lat": 45.83957835,
-      "lng": 15.23583099,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.47,
-        "98": null,
-        "100": 1.548,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
-      "zip_code": "8222"
     }
   ],
   "position": null
