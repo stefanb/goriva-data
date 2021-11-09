@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 1551,
+      "franchise": 4,
+      "name": "BS MOL LITIJA",
+      "address": "LJUBLJANSKA CESTA 10B",
+      "lat": 46.057104,
+      "lng": 14.822957,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.545,
+        "dizel-premium": 1.662,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1270"
+    },
+    {
       "pk": 2063,
       "franchise": 1,
       "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
       "zip_code": "6272"
-    },
-    {
-      "pk": 1562,
-      "franchise": 4,
-      "name": "BS MOL KOZINA",
-      "address": "BAZOVIŠKA CESTA 18",
-      "lat": 45.6090699,
-      "lng": 13.9336733,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.471,
-        "98": null,
-        "100": 1.545,
-        "dizel-premium": 1.662,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "6240"
     }
   ],
   "position": null

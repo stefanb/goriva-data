@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 1562,
+      "franchise": 4,
+      "name": "BS MOL KOZINA",
+      "address": "BAZOVIŠKA CESTA 18",
+      "lat": 45.6090699,
+      "lng": 13.9336733,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.545,
+        "dizel-premium": 1.662,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "6240"
+    },
+    {
       "pk": 2074,
       "franchise": 1,
       "name": "PETROL KRANJ - LABORE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
       "zip_code": "4240"
-    },
-    {
-      "pk": 804,
-      "franchise": 2,
-      "name": "OMV KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.471,
-        "98": null,
-        "100": 1.544,
-        "dizel-premium": 1.662,
-        "avtoplin-lpg": 0.838,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
     }
   ],
   "position": null

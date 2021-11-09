@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 2115,
+      "franchise": 1,
+      "name": "PETROL MEDVODE - GORENJSKA 14",
+      "address": "GORENJSKA CESTA 14",
+      "lat": 46.13700649,
+      "lng": 14.4167802,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": null,
+        "100": 1.548,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1215"
+    },
+    {
       "pk": 836,
       "franchise": 2,
       "name": "OMV NOVO MESTO BRŠLJIN",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "8281"
-    },
-    {
-      "pk": 2131,
-      "franchise": 1,
-      "name": "PETROL ŠKOFLJICA - PIJAVA GORICA",
-      "address": "KOČEVSKA CESTA 100",
-      "lat": 45.960092,
-      "lng": 14.572453,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.47,
-        "98": null,
-        "100": 1.548,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.889,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:30-20:00",
-      "zip_code": "1291"
     }
   ],
   "position": null
