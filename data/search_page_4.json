@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 1561,
+      "franchise": 4,
+      "name": "BS MOL RADVANJE MARIBOR",
+      "address": "STRELIŠKA CESTA 16/A",
+      "lat": 46.5360559,
+      "lng": 15.6202679,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.471,
+        "98": null,
+        "100": 1.545,
+        "dizel-premium": 1.662,
+        "avtoplin-lpg": 0.839,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2073,
+      "franchise": 1,
+      "name": "PETROL RATEČE",
+      "address": "RATEČE 88A",
+      "lat": 46.497066,
+      "lng": 13.708622,
+      "prices": {
+        "95": 1.365,
+        "dizel": 1.47,
+        "98": null,
+        "100": 1.548,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-20:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 13:30-19:00",
+      "zip_code": "4283"
+    },
+    {
       "pk": 794,
       "franchise": 2,
       "name": "OMV GRAČIŠČE",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:30",
       "zip_code": "1241"
-    },
-    {
-      "pk": 803,
-      "franchise": 2,
-      "name": "OMV KOMENDA",
-      "address": "Potok pri Komendi 8",
-      "lat": 46.205702,
-      "lng": 14.52399,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.471,
-        "98": null,
-        "100": 1.549,
-        "dizel-premium": 1.659,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1218"
-    },
-    {
-      "pk": 1571,
-      "franchise": 4,
-      "name": "BS MOL DRAMLJE",
-      "address": "LAZE PRI DRAMLJAH 6B",
-      "lat": 46.260293,
-      "lng": 15.3918165,
-      "prices": {
-        "95": 1.365,
-        "dizel": 1.471,
-        "98": null,
-        "100": 1.545,
-        "dizel-premium": 1.662,
-        "avtoplin-lpg": 0.839,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "3222"
     }
   ],
   "position": null
