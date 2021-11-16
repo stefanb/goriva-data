@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 1994,
+      "franchise": 1,
+      "name": "PETROL JAGODJE - JUG",
+      "address": "JAGODJE 10",
+      "lat": 45.52451738,
+      "lng": 13.6508096,
+      "prices": {
+        "95": 1.358,
+        "dizel": 1.475,
+        "98": null,
+        "100": 1.532,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.889,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 1995,
+      "franchise": 1,
+      "name": "PETROL ILIRSKA BISTRICA",
+      "address": "VILHARJEVA CESTA 33C",
+      "lat": 45.575503,
+      "lng": 14.23202,
+      "prices": {
+        "95": 1.358,
+        "dizel": 1.475,
+        "98": null,
+        "100": 1.532,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.889,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "6250"
+    },
+    {
       "pk": 1996,
       "franchise": 1,
       "name": "PETROL POSTOJNA",
@@ -277,6 +319,27 @@
       "zip_code": "2288"
     },
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.358,
+        "dizel": 1.475,
+        "98": 1.548,
+        "100": 1.532,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2013,
       "franchise": 1,
       "name": "PETROL MAJŠPERK",
@@ -464,69 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-19:00",
       "zip_code": "2250"
-    },
-    {
-      "pk": 2023,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PUHOVA",
-      "address": "PUHOVA ULICA 3",
-      "lat": 46.54782826,
-      "lng": 15.67767389,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": 1.532,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 08:00-15:00\r\nnedelje in prazniki 08:00-13:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2024,
-      "franchise": 1,
-      "name": "PETROL PTUJ - DORNAVSKA",
-      "address": "DORNAVSKA CESTA 6B",
-      "lat": 46.42336766,
-      "lng": 15.88908401,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": 1.532,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2250"
-    },
-    {
-      "pk": 2025,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 11",
-      "address": "TRŽAŠKA CESTA 11",
-      "lat": 46.53817035,
-      "lng": 15.64737991,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.889,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "2000"
     }
   ],
   "position": null

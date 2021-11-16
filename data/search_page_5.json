@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 2138,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
+      "address": "BARJANSKA CESTA 90",
+      "lat": 46.031446,
+      "lng": 14.499955,
+      "prices": {
+        "95": 1.358,
+        "dizel": 1.475,
+        "98": null,
+        "100": 1.532,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2139,
+      "franchise": 1,
+      "name": "PETROL KRŠKO - CESTA KRŠKIH ŽRTEV",
+      "address": "CESTA KRŠKIH ŽRTEV 136A",
+      "lat": 45.941161,
+      "lng": 15.484993,
+      "prices": {
+        "95": 1.358,
+        "dizel": 1.475,
+        "98": null,
+        "100": 1.532,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.889,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-21:30\r\nsobote 06:00-20:30\r\nnedelje in prazniki 07:00-20:30",
+      "zip_code": "8270"
+    },
+    {
       "pk": 2140,
       "franchise": 1,
       "name": "PETROL SEVNICA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3210"
-    },
-    {
-      "pk": 2165,
-      "franchise": 1,
-      "name": "PETROL VELENJE - ŠALEŠKA",
-      "address": "ŠALEŠKA CESTA 9",
-      "lat": 46.3602501,
-      "lng": 15.12373353,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
-      "zip_code": "3320"
-    },
-    {
-      "pk": 2166,
-      "franchise": 1,
-      "name": "PETROL VRANSKO",
-      "address": "VRANSKO 74A",
-      "lat": 46.24594145,
-      "lng": 14.95996662,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": 1.532,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3305"
     }
   ],
   "position": null
