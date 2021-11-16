@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 2143,
+      "franchise": 1,
+      "name": "PETROL BREŽICE - CESTA SVOBODE",
+      "address": "CESTA SVOBODE 1",
+      "lat": 45.90080568,
+      "lng": 15.60410967,
+      "prices": {
+        "95": 1.358,
+        "dizel": 1.475,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.992
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "8250"
+    },
+    {
       "pk": 2144,
       "franchise": 1,
       "name": "PETROL BOŠTANJ PRI SEVNICI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2169,
-      "franchise": 1,
-      "name": "PETROL LJUBNO OB SAVINJI",
-      "address": "LOKE 10",
-      "lat": 46.33779188,
-      "lng": 14.83876308,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 12:00-16:00",
-      "zip_code": "3333"
     }
   ],
   "position": null
