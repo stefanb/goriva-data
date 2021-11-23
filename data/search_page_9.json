@@ -193,6 +193,27 @@
       "zip_code": "9240"
     },
     {
+      "pk": 2217,
+      "franchise": 1,
+      "name": "PETROL ŠTORE",
+      "address": "OBRTNIŠKA CESTA 2",
+      "lat": 46.224064,
+      "lng": 15.312733,
+      "prices": {
+        "95": 1.35,
+        "dizel": 1.44,
+        "98": null,
+        "100": 1.535,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.983
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-16:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3220"
+    },
+    {
       "pk": 1962,
       "franchise": 1,
       "name": "PETROL LENDAVA",
@@ -506,27 +527,6 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "9233"
-    },
-    {
-      "pk": 2225,
-      "franchise": 1,
-      "name": "PETROL NOVO MESTO - TOPLIŠKA",
-      "address": "TOPLIŠKA CESTA 9",
-      "lat": 45.79863637,
-      "lng": 15.15095997,
-      "prices": {
-        "95": 1.35,
-        "dizel": 1.44,
-        "98": null,
-        "100": 1.535,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:30-21:00",
-      "zip_code": "8000"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2023,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PUHOVA",
+      "address": "PUHOVA ULICA 3",
+      "lat": 46.54782826,
+      "lng": 15.67767389,
+      "prices": {
+        "95": 1.35,
+        "dizel": 1.44,
+        "98": null,
+        "100": 1.535,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 08:00-15:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2024,
       "franchise": 1,
       "name": "PETROL PTUJ - DORNAVSKA",
@@ -128,6 +149,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2035,
+      "franchise": 1,
+      "name": "PETROL IZOLA MANDRAČ",
+      "address": "VELIKI TRG 0N",
+      "lat": 45.538539,
+      "lng": 13.65634,
+      "prices": {
+        "95": 1.35,
+        "dizel": 1.44,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-13:00\r\nsobote 08:00-13:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "6310"
     },
     {
       "pk": 2036,
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "1351"
-    },
-    {
-      "pk": 771,
-      "franchise": 2,
-      "name": "OMV BREŽICE",
-      "address": "C.Svobode 35",
-      "lat": 45.913737,
-      "lng": 15.595365,
-      "prices": {
-        "95": 1.351,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.539,
-        "dizel-premium": 1.629,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8250"
-    },
-    {
-      "pk": 772,
-      "franchise": 2,
-      "name": "OMV CELJE AERO",
-      "address": "Dečkova c. 39",
-      "lat": 46.24062,
-      "lng": 15.25644,
-      "prices": {
-        "95": 1.351,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.539,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "3000"
     }
   ],
   "position": null

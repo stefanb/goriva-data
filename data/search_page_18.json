@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 876,
+      "franchise": 2,
+      "name": "OMV ZGORNJA POLSKAVA",
+      "address": "Bukovec 1b",
+      "lat": 46.43075,
+      "lng": 15.62705,
+      "prices": {
+        "95": 1.351,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.539,
+        "dizel-premium": 1.629,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2314"
+    },
+    {
+      "pk": 2234,
+      "franchise": 4,
+      "name": "BS MOL TEZNO",
+      "address": "Ptujska cesta 56",
+      "lat": 46.537696,
+      "lng": 15.655975,
+      "prices": {
+        "95": 1.351,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.539,
+        "dizel-premium": 1.629,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek:            05:00 - 22:00\r\nSobota:                                06:00 - 22:00\r\nNedelja:                               06:00 - 22:00\r\nPrazniki:                               06:00 - 22:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2235,
       "franchise": 4,
       "name": "BS MOL KRANJ",
@@ -256,27 +298,6 @@
       "zip_code": "9201"
     },
     {
-      "pk": 2217,
-      "franchise": 1,
-      "name": "PETROL ŠTORE",
-      "address": "OBRTNIŠKA CESTA 2",
-      "lat": 46.224064,
-      "lng": 15.312733,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": 1.532,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.992
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-16:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3220"
-    },
-    {
       "pk": 2268,
       "franchise": 9,
       "name": "BS Pesniška vrata",
@@ -296,27 +317,6 @@
       "direction": "",
       "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
       "zip_code": "2211"
-    },
-    {
-      "pk": 2035,
-      "franchise": 1,
-      "name": "PETROL IZOLA MANDRAČ",
-      "address": "VELIKI TRG 0N",
-      "lat": 45.538539,
-      "lng": 13.65634,
-      "prices": {
-        "95": 1.358,
-        "dizel": 1.475,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-13:00\r\nsobote 08:00-13:00\r\nnedelje in prazniki 08:00-13:00",
-      "zip_code": "6310"
     },
     {
       "pk": 2311,
