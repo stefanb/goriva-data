@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 806,
+      "franchise": 2,
+      "name": "OMV KOPER TERMINAL",
+      "address": "Ankaranska c. 5d",
+      "lat": 45.545957,
+      "lng": 13.742681,
+      "prices": {
+        "95": 1.351,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.539,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
+      "zip_code": "6000"
+    },
+    {
       "pk": 1574,
       "franchise": 4,
       "name": "BS MOL KOČEVJE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "1210"
-    },
-    {
-      "pk": 1586,
-      "franchise": 4,
-      "name": "BS MOL TRBOVLJE",
-      "address": "VODENSKA CESTA 28A",
-      "lat": 46.142862,
-      "lng": 15.036079,
-      "prices": {
-        "95": 1.351,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.539,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
     }
   ],
   "position": null
