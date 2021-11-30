@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 1577,
+      "franchise": 4,
+      "name": "BS MOL PRESTRANEK",
+      "address": "REŠKA CESTA 18/B",
+      "lat": 45.728,
+      "lng": 14.188,
+      "prices": {
+        "95": 1.332,
+        "dizel": 1.442,
+        "98": null,
+        "100": 1.533,
+        "dizel-premium": 1.639,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 06:00 - 22:00",
+      "zip_code": "6258"
+    },
+    {
+      "pk": 810,
+      "franchise": 2,
+      "name": "OMV KRŠKO",
+      "address": "C.Krških žrtev 131a",
+      "lat": 45.94429,
+      "lng": 15.48733,
+      "prices": {
+        "95": 1.332,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.534,
+        "dizel-premium": 1.639,
+        "avtoplin-lpg": null,
+        "KOEL": 0.983
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "8270"
+    },
+    {
       "pk": 1578,
       "franchise": 4,
       "name": "BS MOL LJUTOMER",
@@ -484,48 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "PON - PET 06:00-22:00\r\nSOBOTA    07:00-22:00\r\nNEDELJA    08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 822,
-      "franchise": 2,
-      "name": "OMV LOKEV",
-      "address": "Lokev 1a",
-      "lat": 45.66133,
-      "lng": 13.91942,
-      "prices": {
-        "95": 1.332,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.534,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6219"
-    },
-    {
-      "pk": 1590,
-      "franchise": 4,
-      "name": "BS MOL RUDNIK",
-      "address": "PREMRLOVA ULICA 10",
-      "lat": 46.01729,
-      "lng": 14.530471,
-      "prices": {
-        "95": 1.332,
-        "dizel": 1.442,
-        "98": null,
-        "100": 1.533,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 16:00",
       "zip_code": "1000"
     }
   ],
