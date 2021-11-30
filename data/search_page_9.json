@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2211,
+      "franchise": 1,
+      "name": "PETROL MISLINJA",
+      "address": "ŠENTLENART 18",
+      "lat": 46.44319582,
+      "lng": 15.19195307,
+      "prices": {
+        "95": 1.331,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.983
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-16:00\r\nsobote 07:00-16:00",
+      "zip_code": "2382"
+    },
+    {
+      "pk": 1956,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PTUJSKA 188",
+      "address": "PTUJSKA CESTA 188",
+      "lat": 46.52829802,
+      "lng": 15.67244913,
+      "prices": {
+        "95": 1.331,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.526,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2212,
       "franchise": 1,
       "name": "PETROL MUTA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 07:00-16:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "9223"
-    },
-    {
-      "pk": 2224,
-      "franchise": 1,
-      "name": "PETROL LOŠKI POTOK",
-      "address": "MALI LOG 2B",
-      "lat": 45.717099,
-      "lng": 14.58622,
-      "prices": {
-        "95": 1.331,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 08:00-12:00",
-      "zip_code": "1318"
-    },
-    {
-      "pk": 1969,
-      "franchise": 1,
-      "name": "PETROL ODRANCI",
-      "address": "NASELJE GREDICE 1A",
-      "lat": 46.58197141,
-      "lng": 16.28224598,
-      "prices": {
-        "95": 1.331,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.526,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "9233"
     }
   ],
   "position": null
