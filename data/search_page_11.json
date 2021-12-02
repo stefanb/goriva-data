@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 1991,
+      "franchise": 1,
+      "name": "PETROL PODBRDO",
+      "address": "PODBRDO 60C",
+      "lat": 46.206127,
+      "lng": 13.959792,
+      "prices": {
+        "95": 1.331,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.983
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-18:00\r\nsobote 08:00-15:00",
+      "zip_code": "5243"
+    },
+    {
       "pk": 1992,
       "franchise": 1,
       "name": "PETROL LIPICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2020,
-      "franchise": 1,
-      "name": "PETROL VOSEK",
-      "address": "VOSEK 22A",
-      "lat": 46.59570289,
-      "lng": 15.70616915,
-      "prices": {
-        "95": 1.331,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.526,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2231"
     }
   ],
   "position": null

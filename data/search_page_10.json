@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 1968,
+      "franchise": 1,
+      "name": "PETROL DOBROVNIK",
+      "address": "DOBROVNIK 4A",
+      "lat": 46.65099893,
+      "lng": 16.35338368,
+      "prices": {
+        "95": 1.331,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.983
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 07:00-16:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "9223"
+    },
+    {
       "pk": 2224,
       "franchise": 1,
       "name": "PETROL LOŠKI POTOK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-20:30\r\nsobote 06:00-20:30\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "6000"
-    },
-    {
-      "pk": 1991,
-      "franchise": 1,
-      "name": "PETROL PODBRDO",
-      "address": "PODBRDO 60C",
-      "lat": 46.206127,
-      "lng": 13.959792,
-      "prices": {
-        "95": 1.331,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-18:00\r\nsobote 08:00-15:00",
-      "zip_code": "5243"
     }
   ],
   "position": null

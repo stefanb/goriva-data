@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 2054,
+      "franchise": 1,
+      "name": "PETROL PODPEČ",
+      "address": "JEZERO 103",
+      "lat": 45.973133,
+      "lng": 14.422124,
+      "prices": {
+        "95": 1.331,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.983
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1352"
+    },
+    {
       "pk": 2055,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 07:30-19:00",
       "zip_code": "4228"
-    },
-    {
-      "pk": 2077,
-      "franchise": 1,
-      "name": "PETROL KRANJ - ZLATO POLJE VZHOD",
-      "address": "KOROŠKA CESTA 18A",
-      "lat": 46.24951232,
-      "lng": 14.3478394,
-      "prices": {
-        "95": 1.331,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "4000"
     }
   ],
   "position": null
