@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 849,
+      "franchise": 2,
+      "name": "OMV ROŽNA DOLINA",
+      "address": "Angela Besednjaka 8",
+      "lat": 45.940972,
+      "lng": 13.640395,
+      "prices": {
+        "95": 1.264,
+        "dizel": 1.382,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": 1.579,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 850,
       "franchise": 2,
       "name": "OMV RUŠE BEZENA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek:            05:00 - 22:00\r\nSobota:                                06:00 - 22:00\r\nNedelja:                               06:00 - 22:00\r\nPrazniki:                               06:00 - 22:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2235,
-      "franchise": 4,
-      "name": "BS MOL KRANJ",
-      "address": "Ulica Boštjana Hladnika 4",
-      "lat": 46.230565,
-      "lng": 14.369373,
-      "prices": {
-        "95": 1.264,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.459,
-        "dizel-premium": 1.579,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "4000"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": null,
   "results": [
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.221,
+        "dizel": 1.341,
+        "98": null,
+        "100": 1.449,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-19:30\r\nsobote 07:00-13:00",
       "zip_code": "1231"
-    },
-    {
-      "pk": 2056,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
-      "address": "DUNAJSKA CESTA 70",
-      "lat": 46.06882986,
-      "lng": 14.51074492,
-      "prices": {
-        "95": 1.263,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.451,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1000"
     }
   ],
   "position": null
