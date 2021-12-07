@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2201,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - JUG",
+      "address": "ZALOKE 16",
+      "lat": 45.908304,
+      "lng": 15.400616,
+      "prices": {
+        "95": 1.317,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.52,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.919,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
       "pk": 2202,
       "franchise": 1,
       "name": "PETROL ZALOKE AC - SEVER",
@@ -506,27 +527,6 @@
       "direction": "smer Maribor",
       "open_hours": "pon - ned 00:00 - 24:00",
       "zip_code": "2230"
-    },
-    {
-      "pk": 777,
-      "franchise": 2,
-      "name": "OMV DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.322,
-        "dizel": 1.431,
-        "98": null,
-        "100": 1.534,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
     }
   ],
   "position": null
