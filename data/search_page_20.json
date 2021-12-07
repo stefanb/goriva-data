@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2202,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - SEVER",
+      "address": "ZALOKE 15",
+      "lat": 45.909601,
+      "lng": 15.400316,
+      "prices": {
+        "95": 1.317,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.52,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.919,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
+      "pk": 1949,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - VZHOD",
+      "address": "STANOŠINA 35",
+      "lat": 46.326604,
+      "lng": 15.880214,
+      "prices": {
+        "95": 1.317,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.52,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 0.919,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2286"
+    },
+    {
       "pk": 2216,
       "franchise": 1,
       "name": "PETROL LOPATA AC - SEVER",
@@ -485,48 +527,6 @@
       "direction": "Gradec",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2211"
-    },
-    {
-      "pk": 778,
-      "franchise": 2,
-      "name": "OMV DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.322,
-        "dizel": 1.431,
-        "98": null,
-        "100": 1.534,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 781,
-      "franchise": 2,
-      "name": "OMV DRAVSKO POLJE JUG",
-      "address": "Gerečja vas 1h",
-      "lat": 46.428962,
-      "lng": 15.794118,
-      "prices": {
-        "95": 1.322,
-        "dizel": 1.431,
-        "98": null,
-        "100": 1.534,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": 0.918,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2288"
     }
   ],
   "position": null

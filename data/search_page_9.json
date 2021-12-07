@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2214,
+      "franchise": 1,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA SEVER",
+      "address": "RONKOVA ULICA 2",
+      "lat": 46.50629441,
+      "lng": 15.08829225,
+      "prices": {
+        "95": 1.263,
+        "dizel": 1.381,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.889,
+        "KOEL": 0.938
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-16:00\r\nsobote 07:00-16:00\r\nnedelje in prazniki 08:00-16:00",
+      "zip_code": "2380"
+    },
+    {
       "pk": 1959,
       "franchise": 1,
       "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "8000"
-    },
-    {
-      "pk": 1972,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
-      "address": "TIŠINSKA ULICA 29D",
-      "lat": 46.651421,
-      "lng": 16.14565,
-      "prices": {
-        "95": 1.263,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.451,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.889,
-        "KOEL": 0.938
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "9000"
     }
   ],
   "position": null
