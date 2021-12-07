@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 2172,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA ZAHOD",
+      "address": "CELJSKA CESTA 2",
+      "lat": 46.35625568,
+      "lng": 15.11475697,
+      "prices": {
+        "95": 1.263,
+        "dizel": 1.381,
+        "98": null,
+        "100": 1.451,
+        "dizel-premium": 1.58,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3320"
+    },
+    {
       "pk": 2173,
       "franchise": 1,
       "name": "PETROL ŠENTRUPERT",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "2331"
-    },
-    {
-      "pk": 2188,
-      "franchise": 1,
-      "name": "PETROL LAŠKO",
-      "address": "CELJSKA CESTA 40",
-      "lat": 46.16731495,
-      "lng": 15.2329947,
-      "prices": {
-        "95": 1.263,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.451,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.938
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "3270"
     }
   ],
   "position": null

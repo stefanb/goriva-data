@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2229,
+      "franchise": 1,
+      "name": "PETROL STARINE AC - JUG",
+      "address": "ZAGRAD PRI OTOČCU 111",
+      "lat": 45.841312,
+      "lng": 15.217206,
+      "prices": {
+        "95": 1.317,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.52,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 0.919,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8222"
+    },
+    {
       "pk": 2230,
       "franchise": 1,
       "name": "PETROL STARINE AC - SEVER",
@@ -506,27 +527,6 @@
       "direction": "Maribor",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2288"
-    },
-    {
-      "pk": 790,
-      "franchise": 2,
-      "name": "OMV FERNETIČI JUG",
-      "address": "Partizanska c. 98",
-      "lat": 45.704437,
-      "lng": 13.846496,
-      "prices": {
-        "95": 1.322,
-        "dizel": 1.431,
-        "98": null,
-        "100": 1.534,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2215,
+      "franchise": 1,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA JUG",
+      "address": "RONKOVA ULICA 25",
+      "lat": 46.504186,
+      "lng": 15.090699,
+      "prices": {
+        "95": 1.263,
+        "dizel": 1.381,
+        "98": null,
+        "100": 1.451,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.938
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2380"
+    },
+    {
       "pk": 1960,
       "franchise": 1,
       "name": "PETROL MIREN",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-23:00\r\nsobote 05:00-23:00\r\nnedelje in prazniki 05:00-23:00",
       "zip_code": "8000"
-    },
-    {
-      "pk": 1973,
-      "franchise": 1,
-      "name": "PETROL GODOVIČ",
-      "address": "GODOVIČ 2B",
-      "lat": 45.95665729,
-      "lng": 14.09433635,
-      "prices": {
-        "95": 1.263,
-        "dizel": 1.381,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.938
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
-      "zip_code": "5275"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 856,
+      "franchise": 2,
+      "name": "OMV SMEDNIK",
+      "address": "Smednik 12a",
+      "lat": 45.90773,
+      "lng": 15.37137,
+      "prices": {
+        "95": 1.264,
+        "dizel": 1.382,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": 1.579,
+        "avtoplin-lpg": 0.888,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Novo Mesto",
+      "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
+      "zip_code": "8274"
+    },
+    {
       "pk": 857,
       "franchise": 2,
       "name": "OMV SPODNJA IDRIJA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
       "zip_code": "2360"
-    },
-    {
-      "pk": 2287,
-      "franchise": 4,
-      "name": "BS MOL LAŠKO",
-      "address": "Celjska cesta 2",
-      "lat": 46.162431,
-      "lng": 15.23171,
-      "prices": {
-        "95": 1.264,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.459,
-        "dizel-premium": 1.579,
-        "avtoplin-lpg": null,
-        "KOEL": 0.938
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
-      "zip_code": "3270"
     }
   ],
   "position": null
