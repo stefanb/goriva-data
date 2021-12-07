@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1932,
+      "franchise": 1,
+      "name": "PETROL PRAGERSKO",
+      "address": "PTUJSKA CESTA 20",
+      "lat": 46.39511839,
+      "lng": 15.65879604,
+      "prices": {
+        "95": 1.263,
+        "dizel": 1.381,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.938
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
+      "zip_code": "2331"
+    },
+    {
       "pk": 2188,
       "franchise": 1,
       "name": "PETROL LAŠKO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 07:00-17:00",
       "zip_code": "2344"
-    },
-    {
-      "pk": 2200,
-      "franchise": 1,
-      "name": "PETROL CELJE - KIDRIČEVA SEVER",
-      "address": "KIDRIČEVA ULICA 21",
-      "lat": 46.23557589,
-      "lng": 15.27676905,
-      "prices": {
-        "95": 1.263,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.451,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "3000"
     }
   ],
   "position": null

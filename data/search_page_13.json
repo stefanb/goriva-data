@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 780,
+      "franchise": 2,
+      "name": "OMV DRAVOGRAD",
+      "address": "Koroška c. 49",
+      "lat": 46.59033,
+      "lng": 15.01542,
+      "prices": {
+        "95": 1.264,
+        "dizel": 1.382,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.938
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2370"
+    },
+    {
       "pk": 1548,
       "franchise": 4,
       "name": "BS MOL KIDRIČEVO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6310"
-    },
-    {
-      "pk": 1566,
-      "franchise": 4,
-      "name": "BS MOL SEŽANA",
-      "address": "PARTIZANSKA CESTA 69/B",
-      "lat": 45.7050725,
-      "lng": 13.8608974,
-      "prices": {
-        "95": 1.264,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.459,
-        "dizel-premium": 1.579,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
     }
   ],
   "position": null

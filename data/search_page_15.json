@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 1579,
+      "franchise": 4,
+      "name": "BS MOL ŠENTILJ",
+      "address": "MARIBORSKA CESTA 6",
+      "lat": 46.677917,
+      "lng": 15.652583,
+      "prices": {
+        "95": 1.264,
+        "dizel": 1.381,
+        "98": null,
+        "100": 1.459,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 812,
       "franchise": 2,
       "name": "OMV LAZARET",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: na klic ; Jun-Sep: Pon-Ned 09:00-19:00 (zaprto od 13:00-14:00)",
       "zip_code": "6320"
-    },
-    {
-      "pk": 1592,
-      "franchise": 4,
-      "name": "BS MOL AJDOVŠČINA",
-      "address": "Mirce 10",
-      "lat": 45.880481,
-      "lng": 13.905018,
-      "prices": {
-        "95": 1.264,
-        "dizel": 1.381,
-        "98": null,
-        "100": 1.459,
-        "dizel-premium": 1.579,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA 08:00-20:00",
-      "zip_code": "5270"
     }
   ],
   "position": null
