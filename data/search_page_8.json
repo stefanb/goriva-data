@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 1941,
+      "franchise": 1,
+      "name": "PETROL OPLOTNICA",
+      "address": "PARTIZANSKA CESTA 31",
+      "lat": 46.38403,
+      "lng": 15.448916,
+      "prices": {
+        "95": 1.263,
+        "dizel": 1.381,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 07:00-16:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2317"
+    },
+    {
       "pk": 2197,
       "franchise": 1,
       "name": "PETROL ŽALEC",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 17:30-19:00",
       "zip_code": "5216"
-    },
-    {
-      "pk": 2211,
-      "franchise": 1,
-      "name": "PETROL MISLINJA",
-      "address": "ŠENTLENART 18",
-      "lat": 46.44319582,
-      "lng": 15.19195307,
-      "prices": {
-        "95": 1.263,
-        "dizel": 1.381,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.938
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-16:00\r\nsobote 07:00-16:00",
-      "zip_code": "2382"
     }
   ],
   "position": null
