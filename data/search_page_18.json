@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 874,
+      "franchise": 2,
+      "name": "OMV VRTOJBA",
+      "address": "Polje 6",
+      "lat": 45.920878,
+      "lng": 13.631287,
+      "prices": {
+        "95": 1.264,
+        "dizel": 1.382,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": 1.579,
+        "avtoplin-lpg": null,
+        "KOEL": 0.938
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "5290"
+    },
+    {
       "pk": 875,
       "franchise": 2,
       "name": "OMV ZAGRADEC",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2245,
-      "franchise": 3,
-      "name": "BS MAXEN SELNICA OB DRAVI",
-      "address": "Spodnja Selnica bš",
-      "lat": 46.5546048,
-      "lng": 15.5078896,
-      "prices": {
-        "95": 1.292,
-        "dizel": 1.416,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2352"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 841,
+      "franchise": 2,
+      "name": "OMV PORTOROŽ",
+      "address": "Fizine 17",
+      "lat": 45.515177,
+      "lng": 13.580759,
+      "prices": {
+        "95": 1.264,
+        "dizel": 1.382,
+        "98": null,
+        "100": 1.464,
+        "dizel-premium": 1.579,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6320"
+    },
+    {
       "pk": 842,
       "franchise": 2,
       "name": "OMV POSTOJNA TITOVA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1230"
-    },
-    {
-      "pk": 874,
-      "franchise": 2,
-      "name": "OMV VRTOJBA",
-      "address": "Polje 6",
-      "lat": 45.920878,
-      "lng": 13.631287,
-      "prices": {
-        "95": 1.264,
-        "dizel": 1.382,
-        "98": null,
-        "100": 1.464,
-        "dizel-premium": 1.579,
-        "avtoplin-lpg": null,
-        "KOEL": 0.938
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "5290"
     }
   ],
   "position": null

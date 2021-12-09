@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2245,
+      "franchise": 3,
+      "name": "BS MAXEN SELNICA OB DRAVI",
+      "address": "Spodnja Selnica bš",
+      "lat": 46.5546048,
+      "lng": 15.5078896,
+      "prices": {
+        "95": 1.292,
+        "dizel": 1.416,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2352"
+    },
+    {
       "pk": 2246,
       "franchise": 3,
       "name": "BS MAXEN LJUBLJANA-BTC",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8261"
-    },
-    {
-      "pk": 2175,
-      "franchise": 1,
-      "name": "PETROL TEPANJE AC - ZAHOD",
-      "address": "SPODNJE GRUŠOVJE 10C",
-      "lat": 46.348824,
-      "lng": 15.487582,
-      "prices": {
-        "95": 1.317,
-        "dizel": 1.43,
-        "98": null,
-        "100": 1.52,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.909,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3210"
     }
   ],
   "position": null

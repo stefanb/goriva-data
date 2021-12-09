@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
+      "prices": {
+        "95": 1.317,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.52,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 0.909,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
+    },
+    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -184,7 +205,7 @@
         "98": null,
         "100": 1.534,
         "dizel-premium": 1.669,
-        "avtoplin-lpg": 0.918,
+        "avtoplin-lpg": 0.908,
         "KOEL": null
       },
       "distance": null,
@@ -401,27 +422,6 @@
       "direction": "Slovenske Konjice",
       "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
       "zip_code": "3210"
-    },
-    {
-      "pk": 2311,
-      "franchise": 18,
-      "name": "BS Merkantil KNEŽAK",
-      "address": "KNEŽAK 3",
-      "lat": 45.625625,
-      "lng": 14.239867,
-      "prices": {
-        "95": 1.35,
-        "dizel": 1.44,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.889,
-        "KOEL": 0.983
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
-      "zip_code": "6253"
     },
     {
       "pk": 2308,
