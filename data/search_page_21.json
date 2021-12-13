@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.317,
-        "dizel": 1.43,
-        "98": null,
-        "100": 1.52,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": 0.909,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
-    },
-    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -67,15 +46,36 @@
       "zip_code": "2230"
     },
     {
-      "pk": 868,
+      "pk": 863,
       "franchise": 2,
-      "name": "OMV TEPANJE",
-      "address": "Tepanje 4b",
-      "lat": 46.340828,
-      "lng": 15.469587,
+      "name": "OMV ŠKOFIJE BLOK VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
       "prices": {
-        "95": 1.332,
-        "dizel": 1.441,
+        "95": 1.329,
+        "dizel": 1.409,
+        "98": null,
+        "100": 1.529,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.888,
+        "KOEL": 0.938
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
+    },
+    {
+      "pk": 864,
+      "franchise": 2,
+      "name": "OMV ŠKOFIJE BLOK ZAHOD",
+      "address": "Sp.Škofije 256a",
+      "lat": 45.579851,
+      "lng": 13.796288,
+      "prices": {
+        "95": 1.329,
+        "dizel": 1.409,
         "98": null,
         "100": 1.529,
         "dizel-premium": null,
@@ -83,9 +83,9 @@
         "KOEL": null
       },
       "distance": null,
-      "direction": "Slovenske Konjice",
-      "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
-      "zip_code": "3210"
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6281"
     },
     {
       "pk": 777,
