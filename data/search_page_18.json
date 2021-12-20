@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 872,
-      "franchise": 2,
-      "name": "OMV VIPOLŽE",
-      "address": "Vipolže 6b",
-      "lat": 45.966782,
-      "lng": 13.540767,
-      "prices": {
-        "95": 1.309,
-        "dizel": 1.409,
-        "98": null,
-        "100": 1.499,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "5212"
-    },
-    {
       "pk": 873,
       "franchise": 2,
       "name": "OMV VIR DOMŽALE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "9264"
+    },
+    {
+      "pk": 2244,
+      "franchise": 3,
+      "name": "BS MAXEN DOLNJI LAKOŠ",
+      "address": "Glavna ulica bš",
+      "lat": 46.5525523,
+      "lng": 16.430912,
+      "prices": {
+        "95": 1.337,
+        "dizel": 1.446,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "9220"
     }
   ],
   "position": null
