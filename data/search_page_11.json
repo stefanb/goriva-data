@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1987,
-      "franchise": 1,
-      "name": "PETROL ČRNI VRH",
-      "address": "ČRNI VRH 121",
-      "lat": 45.92556913,
-      "lng": 14.05336933,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.405,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-16:00",
-      "zip_code": "5274"
-    },
-    {
       "pk": 1988,
       "franchise": 1,
       "name": "PETROL DESKLE",
@@ -464,6 +443,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-16:00\r\nsobote 07:00-15:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.405,
+        "98": 1.526,
+        "100": 1.506,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.949
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,

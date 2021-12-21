@@ -319,27 +319,6 @@
       "zip_code": "2383"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.308,
-        "dizel": 1.408,
-        "98": 1.526,
-        "100": 1.494,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.938
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2311,
       "franchise": 18,
       "name": "BS Merkantil KNEŽAK",
@@ -527,6 +506,27 @@
       "direction": "Ljubljana -> Kranj",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-13:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2306,
+      "franchise": 19,
+      "name": "Bencinski servis Juršinci",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.405,
+        "98": 1.509,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.949
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
     }
   ],
   "position": null
