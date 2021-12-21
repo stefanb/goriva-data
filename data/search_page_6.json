@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2158,
-      "franchise": 1,
-      "name": "PETROL ČRNOMELJ - KOČEVJE",
-      "address": "KOČEVJE 22B",
-      "lat": 45.56606773,
-      "lng": 15.17772212,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.405,
-        "98": null,
-        "100": 1.506,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": 0.879,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "8340"
-    },
-    {
       "pk": 2159,
       "franchise": 1,
       "name": "PETROL DOBOVA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:30-18:00",
       "zip_code": "3214"
+    },
+    {
+      "pk": 1926,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA ZAHOD",
+      "address": "LJUBLJANSKA CESTA 74",
+      "lat": 46.38470725,
+      "lng": 15.5654534,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.405,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.949
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2310"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1987,
-      "franchise": 1,
-      "name": "PETROL ČRNI VRH",
-      "address": "ČRNI VRH 121",
-      "lat": 45.92556913,
-      "lng": 14.05336933,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.405,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-16:00",
-      "zip_code": "5274"
-    },
-    {
       "pk": 1988,
       "franchise": 1,
       "name": "PETROL DESKLE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2016,
+      "franchise": 1,
+      "name": "PETROL AJDOVŠČINA - VIPAVSKA",
+      "address": "VIPAVSKA CESTA 4C",
+      "lat": 45.88288,
+      "lng": 13.90989,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.405,
+        "98": null,
+        "100": 1.506,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5270"
     }
   ],
   "position": null
