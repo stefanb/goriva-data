@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 1966,
+      "franchise": 1,
+      "name": "PETROL BELTINCI",
+      "address": "PANONSKA ULICA 2B",
+      "lat": 46.6116377,
+      "lng": 16.22745614,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.405,
+        "98": null,
+        "100": 1.506,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.949
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "9231"
+    },
+    {
       "pk": 2222,
       "franchise": 1,
       "name": "PETROL KOČEVJE - LJUBLJANSKA VZHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
       "zip_code": "5230"
-    },
-    {
-      "pk": 1987,
-      "franchise": 1,
-      "name": "PETROL ČRNI VRH",
-      "address": "ČRNI VRH 121",
-      "lat": 45.92556913,
-      "lng": 14.05336933,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.405,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-16:00",
-      "zip_code": "5274"
     }
   ],
   "position": null

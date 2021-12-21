@@ -75,17 +75,38 @@
       "lng": 16.05135585,
       "prices": {
         "95": 1.278,
-        "dizel": 1.348,
+        "dizel": 1.345,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.908
+        "KOEL": 0.919
       },
       "distance": null,
       "direction": "",
       "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
       "zip_code": "2283"
+    },
+    {
+      "pk": 2312,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Leskovec",
+      "address": "Leskovec 15",
+      "lat": 46.259264,
+      "lng": 15.310556,
+      "prices": {
+        "95": 1.285,
+        "dizel": 1.345,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Celje",
+      "open_hours": "PON. - PET.      6.00 - 18.00        \r\nSOB.                 7.00 - 12.00",
+      "zip_code": "3000"
     },
     {
       "pk": 2288,
@@ -277,27 +298,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.303,
-        "dizel": 1.403,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.936
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2267,
       "franchise": 6,
       "name": "EKO-NAFTA d.o.o.",
@@ -317,6 +317,27 @@
       "direction": "",
       "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
       "zip_code": "9220"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.308,
+        "dizel": 1.4,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.947
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     },
     {
       "pk": 2316,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2305,
-      "franchise": 19,
-      "name": "Bencinski servis Škofja Loka",
-      "address": "Grenc 57",
-      "lat": 46.1730598,
-      "lng": 14.3212867,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.405,
-        "98": 1.509,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.838,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.00",
-      "zip_code": "4220"
     }
   ],
   "position": null
