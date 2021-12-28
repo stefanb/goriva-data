@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2244,
-      "franchise": 3,
-      "name": "BS MAXEN DOLNJI LAKOŠ",
-      "address": "Glavna ulica bš",
-      "lat": 46.5525523,
-      "lng": 16.430912,
-      "prices": {
-        "95": 1.342,
-        "dizel": 1.446,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2245,
       "franchise": 3,
       "name": "BS MAXEN SELNICA OB DRAVI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "1294"
+    },
+    {
+      "pk": 2123,
+      "franchise": 1,
+      "name": "PETROL LUKOVICA AC - JUG",
+      "address": "KOSESKEGA CESTA 1",
+      "lat": 46.166803,
+      "lng": 14.693314,
+      "prices": {
+        "95": 1.378,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.58,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.919,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "1225"
     }
   ],
   "position": null

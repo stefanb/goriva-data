@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 784,
-      "franchise": 2,
-      "name": "ET CAR.C.SEŽANA",
-      "address": "Partizanska 77",
-      "lat": 45.70387478,
-      "lng": 13.8514001,
-      "prices": {
-        "95": null,
-        "dizel": 1.389,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 2320,
       "franchise": 25,
       "name": "URMA D.O.O.",
@@ -149,6 +128,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2113,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
+      "address": "CESTA STANETA ŽAGARJA 53B",
+      "lat": 46.24371235,
+      "lng": 14.36955351,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-14:00",
+      "zip_code": "4000"
     },
     {
       "pk": 2258,

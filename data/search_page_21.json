@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2027,
-      "franchise": 1,
-      "name": "PETROL PINCE AC - JUG",
-      "address": "PINCE-MAROF 55",
-      "lat": 46.52174721,
-      "lng": 16.51820014,
-      "prices": {
-        "95": 1.378,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.58,
-        "dizel-premium": 1.705,
-        "avtoplin-lpg": 0.919,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "NON-STOP",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2030,
       "franchise": 1,
       "name": "PETROL POVIR AC - JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2341"
+    },
+    {
+      "pk": 784,
+      "franchise": 2,
+      "name": "ET CAR.C.SEŽANA",
+      "address": "Partizanska 77",
+      "lat": 45.70387478,
+      "lng": 13.8514001,
+      "prices": {
+        "95": null,
+        "dizel": 1.389,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
     }
   ],
   "position": null
