@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2223,
-      "franchise": 1,
-      "name": "PETROL PETRINA",
-      "address": "PETRINA 10",
-      "lat": 45.46509102,
-      "lng": 14.8550985,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.39,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 11:00-13:00",
-      "zip_code": "1336"
-    },
-    {
       "pk": 1968,
       "franchise": 1,
       "name": "PETROL DOBROVNIK",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5220"
+    },
+    {
+      "pk": 1990,
+      "franchise": 1,
+      "name": "PETROL KOPER, SERMIN",
+      "address": "SERMIN 7D",
+      "lat": 45.55178982,
+      "lng": 13.76037054,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.39,
+        "98": null,
+        "100": 1.502,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6000"
     }
   ],
   "position": null
