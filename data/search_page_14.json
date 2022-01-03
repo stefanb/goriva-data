@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 1557,
-      "franchise": 4,
-      "name": "BS MOL CELJE, MARIBORSKA",
-      "address": "MARIBORSKA CESTA 111",
-      "lat": 46.2451779,
-      "lng": 15.2776158,
-      "prices": {
-        "95": 1.315,
-        "dizel": 1.39,
-        "98": null,
-        "100": 1.507,
-        "dizel-premium": 1.599,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - NED 00:00-24:00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 1558,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA",
@@ -527,6 +506,27 @@
       "direction": "Ljubljana",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 1573,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "BAKOVSKA 31/A",
+      "lat": 46.645667,
+      "lng": 16.168083,
+      "prices": {
+        "95": 1.315,
+        "dizel": 1.39,
+        "98": null,
+        "100": 1.507,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 21:00\r\nnedelja in prazniki 08:00 - 16:00",
+      "zip_code": "9000"
     }
   ],
   "position": null

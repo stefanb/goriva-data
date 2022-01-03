@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 840,
-      "franchise": 2,
-      "name": "OMV PODGRAD",
-      "address": "Podgrad 12a",
-      "lat": 45.52107,
-      "lng": 14.14733,
-      "prices": {
-        "95": 1.315,
-        "dizel": 1.391,
-        "98": null,
-        "100": 1.509,
-        "dizel-premium": 1.599,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-14:00; Apr-Maj: Pon-Sob 06:00-20:00, Ned/Praz 08:00-15:00; Jun-Sep: Pon-Sob 6:00-21:00, Ned/Praz 7:00-21:00",
-      "zip_code": "6244"
-    },
-    {
       "pk": 841,
       "franchise": 2,
       "name": "OMV PORTOROŽ",
@@ -464,6 +443,27 @@
       "direction": "Slovenske Konjice",
       "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
       "zip_code": "3210"
+    },
+    {
+      "pk": 869,
+      "franchise": 2,
+      "name": "OMV TREBNJE",
+      "address": "Obrtniška 28",
+      "lat": 45.910462,
+      "lng": 15.025649,
+      "prices": {
+        "95": 1.315,
+        "dizel": 1.391,
+        "98": null,
+        "100": 1.509,
+        "dizel-premium": 1.599,
+        "avtoplin-lpg": null,
+        "KOEL": 0.949
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8210"
     },
     {
       "pk": 870,

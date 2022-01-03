@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 1573,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA",
-      "address": "BAKOVSKA 31/A",
-      "lat": 46.645667,
-      "lng": 16.168083,
-      "prices": {
-        "95": 1.315,
-        "dizel": 1.39,
-        "98": null,
-        "100": 1.507,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 21:00\r\nnedelja in prazniki 08:00 - 16:00",
-      "zip_code": "9000"
-    },
-    {
       "pk": 806,
       "franchise": 2,
       "name": "OMV KOPER TERMINAL",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "1210"
+    },
+    {
+      "pk": 1586,
+      "franchise": 4,
+      "name": "BS MOL TRBOVLJE",
+      "address": "VODENSKA CESTA 28A",
+      "lat": 46.142862,
+      "lng": 15.036079,
+      "prices": {
+        "95": 1.315,
+        "dizel": 1.39,
+        "98": null,
+        "100": 1.507,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.949
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
     }
   ],
   "position": null
