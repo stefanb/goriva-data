@@ -67,27 +67,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.283,
-        "dizel": 1.329,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.919
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
-      "zip_code": "2283"
-    },
-    {
       "pk": 2312,
       "franchise": 17,
       "name": "HOJNIK Oil BS Leskovec",
@@ -96,7 +75,7 @@
       "lng": 15.310556,
       "prices": {
         "95": 1.285,
-        "dizel": 1.329,
+        "dizel": 1.357,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -109,25 +88,25 @@
       "zip_code": "3000"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
       "prices": {
-        "95": 1.308,
-        "dizel": 1.385,
+        "95": 1.306,
+        "dizel": 1.357,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 0.947
+        "KOEL": 0.928
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
+      "open_hours": "pon. - sob. : 6:00 - 20:00\r\nned. zaprto",
+      "zip_code": "2283"
     },
     {
       "pk": 2311,
@@ -403,27 +382,6 @@
       "zip_code": "9201"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.313,
-        "dizel": 1.39,
-        "98": 1.526,
-        "100": 1.502,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.949
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -443,6 +401,27 @@
       "direction": "",
       "open_hours": "24 ur - črpalka z osebjem",
       "zip_code": "2313"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.331,
+        "dizel": 1.416,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.956
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     },
     {
       "pk": 2304,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
+    },
+    {
+      "pk": 2302,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
+      "address": "Tržaška cesta 358",
+      "lat": 46.026026,
+      "lng": 14.4284534,
+      "prices": {
+        "95": 1.333,
+        "dizel": 1.417,
+        "98": 1.534,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.30",
+      "zip_code": "1351"
     }
   ],
   "position": null
