@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2159,
-      "franchise": 1,
-      "name": "PETROL DOBOVA",
-      "address": "ULICA BRATOV GERJOVIČEV 24",
-      "lat": 45.89537811,
-      "lng": 15.65616953,
-      "prices": {
-        "95": 1.336,
-        "dizel": 1.417,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 12:30-15:00",
-      "zip_code": "8257"
-    },
-    {
-      "pk": 2160,
-      "franchise": 1,
-      "name": "PETROL ŠKOCJAN",
-      "address": "DOLNJA STARA VAS 50",
-      "lat": 45.89728,
-      "lng": 15.300093,
-      "prices": {
-        "95": 1.336,
-        "dizel": 1.417,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 12:00-13:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "8275"
-    },
-    {
       "pk": 2161,
       "franchise": 1,
       "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2310"
+    },
+    {
+      "pk": 2182,
+      "franchise": 1,
+      "name": "PETROL BISTRICA OB SOTLI",
+      "address": "HRASTJE OB BISTRICI 1A",
+      "lat": 46.0620292,
+      "lng": 15.6554536,
+      "prices": {
+        "95": 1.336,
+        "dizel": 1.417,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.958
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:30-16:00\r\nsobote 12:30-16:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3256"
+    },
+    {
+      "pk": 1927,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - GOSPOSVETSKA SEVER",
+      "address": "GOSPOSVETSKA CESTA 92",
+      "lat": 46.56386643,
+      "lng": 15.62682805,
+      "prices": {
+        "95": 1.336,
+        "dizel": 1.417,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "2000"
     }
   ],
   "position": null
