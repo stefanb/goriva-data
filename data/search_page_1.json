@@ -46,27 +46,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 2312,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Leskovec",
-      "address": "Leskovec 15",
-      "lat": 46.259264,
-      "lng": 15.310556,
-      "prices": {
-        "95": 1.285,
-        "dizel": 1.357,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Celje",
-      "open_hours": "PON. - PET.      6.00 - 18.00        \r\nSOB.                 7.00 - 12.00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2052,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRNOVO",
+      "address": "RIHARJEVA ULICA 31",
+      "lat": 46.03925962,
+      "lng": 14.50003317,
+      "prices": {
+        "95": 1.336,
+        "dizel": 1.417,
+        "98": null,
+        "100": 1.527,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
+      "zip_code": "1000"
     }
   ],
   "position": null

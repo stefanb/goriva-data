@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.403,
-        "dizel": 1.478,
-        "98": null,
-        "100": 1.607,
-        "dizel-premium": 1.734,
-        "avtoplin-lpg": 0.906,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
-    },
-    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -464,6 +443,27 @@
       "direction": "",
       "open_hours": "neprenehoma 24/7",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2312,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Leskovec",
+      "address": "Leskovec 15",
+      "lat": 46.259264,
+      "lng": 15.310556,
+      "prices": {
+        "95": null,
+        "dizel": 1.357,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.75,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Celje",
+      "open_hours": "PON. - PET.      6.00 - 18.00        \r\nSOB.                 7.00 - 12.00",
+      "zip_code": "3000"
     },
     {
       "pk": 2318,
