@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 1992,
-      "franchise": 1,
-      "name": "PETROL LIPICA",
-      "address": "LIPICA 26",
-      "lat": 45.6554886,
-      "lng": 13.88112209,
-      "prices": {
-        "95": 1.343,
-        "dizel": 1.445,
-        "98": null,
-        "100": 1.527,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-20:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 1993,
       "franchise": 1,
       "name": "PETROL SEŽANA",
@@ -359,6 +338,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-16:00\r\nsobote 07:00-15:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.343,
+        "dizel": 1.445,
+        "98": 1.527,
+        "100": 1.527,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.958
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,
