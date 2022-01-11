@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2198,
-      "franchise": 1,
-      "name": "PETROL PODPLAT",
-      "address": "PODPLAT 9",
-      "lat": 46.244853,
-      "lng": 15.575872,
-      "prices": {
-        "95": 1.343,
-        "dizel": 1.445,
-        "98": null,
-        "100": 1.527,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-18:00",
-      "zip_code": "3241"
-    },
-    {
-      "pk": 1943,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - NA POLJANAH",
-      "address": "NA POLJANAH 10",
-      "lat": 46.551953,
-      "lng": 15.630002,
-      "prices": {
-        "95": 1.343,
-        "dizel": 1.445,
-        "98": null,
-        "100": 1.527,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.864,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2199,
       "franchise": 1,
       "name": "PETROL CELJE - MARIBORSKA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "2366"
+    },
+    {
+      "pk": 1957,
+      "franchise": 1,
+      "name": "PETROL KOBARID",
+      "address": "GORIŠKA CESTA 8",
+      "lat": 46.2417162,
+      "lng": 13.58250354,
+      "prices": {
+        "95": 1.343,
+        "dizel": 1.445,
+        "98": null,
+        "100": 1.527,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.864,
+        "KOEL": 0.958
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5222"
+    },
+    {
+      "pk": 2213,
+      "franchise": 1,
+      "name": "PETROL OTIŠKI VRH",
+      "address": "OTIŠKI VRH 25C",
+      "lat": 46.572637,
+      "lng": 15.025052,
+      "prices": {
+        "95": 1.343,
+        "dizel": 1.445,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.958
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-16:00\r\nsobote 07:30-11:00",
+      "zip_code": "2373"
     }
   ],
   "position": null
