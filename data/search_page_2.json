@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2302,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
-      "address": "Tržaška cesta 358",
-      "lat": 46.026026,
-      "lng": 14.4284534,
-      "prices": {
-        "95": 1.338,
-        "dizel": 1.446,
-        "98": 1.529,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.30",
-      "zip_code": "1351"
-    },
-    {
       "pk": 2303,
       "franchise": 19,
       "name": "Bencinski servis Tupaliče",
@@ -275,6 +254,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
       "zip_code": "1261"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.343,
+        "dizel": 1.444,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
       "pk": 1548,
