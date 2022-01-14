@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2024,
-      "franchise": 1,
-      "name": "PETROL PTUJ - DORNAVSKA",
-      "address": "DORNAVSKA CESTA 6B",
-      "lat": 46.42336766,
-      "lng": 15.88908401,
-      "prices": {
-        "95": 1.343,
-        "dizel": 1.445,
-        "98": null,
-        "100": 1.527,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2025,
       "franchise": 1,
       "name": "PETROL MARIBOR - TRŽAŠKA 11",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
       "zip_code": "4205"
+    },
+    {
+      "pk": 768,
+      "franchise": 2,
+      "name": "OMV BERTOKI",
+      "address": "C.med vinogradi 52",
+      "lat": 45.555358,
+      "lng": 13.78105,
+      "prices": {
+        "95": 1.344,
+        "dizel": 1.447,
+        "98": null,
+        "100": 1.529,
+        "dizel-premium": 1.664,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6000"
     }
   ],
   "position": null

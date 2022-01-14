@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1958,
-      "franchise": 1,
-      "name": "PETROL KANAL OB SOČI",
-      "address": "KIDRIČEVA CESTA 10A",
-      "lat": 46.08786527,
-      "lng": 13.63259475,
-      "prices": {
-        "95": 1.343,
-        "dizel": 1.445,
-        "98": null,
-        "100": 1.527,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 17:30-19:00",
-      "zip_code": "5213"
-    },
-    {
       "pk": 2214,
       "franchise": 1,
       "name": "PETROL SLOVENJ GRADEC - RONKOVA SEVER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:30",
       "zip_code": "9221"
+    },
+    {
+      "pk": 2227,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - BRŠLJIN",
+      "address": "LJUBLJANSKA CESTA 28A",
+      "lat": 45.81628712,
+      "lng": 15.1547285,
+      "prices": {
+        "95": 1.343,
+        "dizel": 1.445,
+        "98": null,
+        "100": 1.527,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.864,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "8000"
     }
   ],
   "position": null

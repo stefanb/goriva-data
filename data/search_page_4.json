@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 1570,
-      "franchise": 4,
-      "name": "BS MOL SLOVENSKE KONJICE",
-      "address": "LIPTOVSKA CESTA 32B",
-      "lat": 46.340083,
-      "lng": 15.418667,
-      "prices": {
-        "95": 1.343,
-        "dizel": 1.446,
-        "98": null,
-        "100": 1.529,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 2082,
       "franchise": 1,
       "name": "PETROL KAMNIK - LJUBLJANSKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00 -20:30\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "8273"
+    },
+    {
+      "pk": 1584,
+      "franchise": 4,
+      "name": "BS MOL ŠMARJE",
+      "address": "CELJSKA CESTA 55",
+      "lat": 46.228855,
+      "lng": 15.504098,
+      "prices": {
+        "95": 1.343,
+        "dizel": 1.446,
+        "98": null,
+        "100": 1.529,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.958
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
     }
   ],
   "position": null

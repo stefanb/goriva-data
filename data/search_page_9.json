@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 1931,
-      "franchise": 1,
-      "name": "PETROL RUŠE",
-      "address": "INDUSTRIJSKA ULICA 4",
-      "lat": 46.54026886,
-      "lng": 15.51724169,
-      "prices": {
-        "95": 1.343,
-        "dizel": 1.445,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.958
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-16:00",
-      "zip_code": "2342"
-    },
-    {
       "pk": 2187,
       "franchise": 1,
       "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2199,
+      "franchise": 1,
+      "name": "PETROL CELJE - MARIBORSKA",
+      "address": "MARIBORSKA CESTA 21",
+      "lat": 46.235447,
+      "lng": 15.270271,
+      "prices": {
+        "95": 1.343,
+        "dizel": 1.445,
+        "98": null,
+        "100": 1.527,
+        "dizel-premium": 1.811,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3000"
     }
   ],
   "position": null
