@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2020,
-      "franchise": 1,
-      "name": "PETROL VOSEK",
-      "address": "VOSEK 22A",
-      "lat": 46.59570289,
-      "lng": 15.70616915,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.475,
-        "98": null,
-        "100": 1.573,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.015
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2231"
-    },
-    {
       "pk": 2021,
       "franchise": 1,
       "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "2325"
+    },
+    {
+      "pk": 1549,
+      "franchise": 4,
+      "name": "BS MOL ROGAŠKA SLATINA",
+      "address": "TRŽIŠČE 12B",
+      "lat": 46.2306674,
+      "lng": 15.6556409,
+      "prices": {
+        "95": 1.385,
+        "dizel": 1.475,
+        "98": null,
+        "100": 1.577,
+        "dizel-premium": 1.699,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "3250"
     }
   ],
   "position": null
