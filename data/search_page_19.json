@@ -256,27 +256,6 @@
       "zip_code": "5270"
     },
     {
-      "pk": 793,
-      "franchise": 2,
-      "name": "OMV GRABONOŠ",
-      "address": "Grabonoš 4c",
-      "lat": 46.584129,
-      "lng": 16.008947,
-      "prices": {
-        "95": 1.414,
-        "dizel": 1.506,
-        "98": null,
-        "100": 1.614,
-        "dizel-premium": 1.779,
-        "avtoplin-lpg": 0.893,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Lenti",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "9244"
-    },
-    {
       "pk": 2059,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE SEVER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8261"
+    },
+    {
+      "pk": 2175,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - ZAHOD",
+      "address": "SPODNJE GRUŠOVJE 10C",
+      "lat": 46.348824,
+      "lng": 15.487582,
+      "prices": {
+        "95": 1.439,
+        "dizel": 1.524,
+        "98": null,
+        "100": 1.642,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.894,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
     }
   ],
   "position": null
