@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2176,
-      "franchise": 1,
-      "name": "PETROL TEPANJE AC - VZHOD",
-      "address": "SPODNJE GRUŠOVJE 10B",
-      "lat": 46.347484,
-      "lng": 15.48757,
-      "prices": {
-        "95": 1.417,
-        "dizel": 1.454,
-        "98": null,
-        "100": 1.62,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "NON-STOP",
-      "zip_code": "3210"
-    },
-    {
       "pk": 1923,
       "franchise": 1,
       "name": "PETROL ŠENTILJ AC - ZAHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "5271"
+    },
+    {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.642,
+        "dizel-premium": 1.739,
+        "avtoplin-lpg": 0.864,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
     }
   ],
   "position": null
