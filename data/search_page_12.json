@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2033,
+      "franchise": 1,
+      "name": "PETROL PIVKA",
+      "address": "POSTOJNSKA CESTA 20A",
+      "lat": 45.68611881,
+      "lng": 14.19717139,
+      "prices": {
+        "95": 1.362,
+        "dizel": 1.405,
+        "98": null,
+        "100": 1.551,
+        "dizel-premium": 1.747,
+        "avtoplin-lpg": 0.864,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "6257"
+    },
+    {
       "pk": 2034,
       "franchise": 1,
       "name": "PETROL KOPER - KOLODVORSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon. - sob. 05:00 - 22:00\r\nnedelja in prazniki 07:00 - 20:00",
       "zip_code": "9000"
-    },
-    {
-      "pk": 1555,
-      "franchise": 4,
-      "name": "BS MOL RIBNICA",
-      "address": "MERHARJEVA ULICA 13",
-      "lat": 45.738688,
-      "lng": 14.733154,
-      "prices": {
-        "95": 1.38,
-        "dizel": 1.414,
-        "98": null,
-        "100": 1.572,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "1310"
     }
   ],
   "position": null

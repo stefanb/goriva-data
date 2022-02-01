@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 2170,
+      "franchise": 1,
+      "name": "PETROL MOZIRJE",
+      "address": "NA TRGU 55",
+      "lat": 46.34033444,
+      "lng": 14.96889829,
+      "prices": {
+        "95": 1.362,
+        "dizel": 1.405,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.919
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3330"
+    },
+    {
       "pk": 2171,
       "franchise": 1,
       "name": "PETROL VOJNIK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-16:00",
       "zip_code": "2342"
-    },
-    {
-      "pk": 2187,
-      "franchise": 1,
-      "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
-      "address": "RIMSKA CESTA 106",
-      "lat": 46.25830238,
-      "lng": 15.11406404,
-      "prices": {
-        "95": 1.362,
-        "dizel": 1.405,
-        "98": null,
-        "100": 1.551,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.919
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3311"
     }
   ],
   "position": null
