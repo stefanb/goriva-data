@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 838,
+      "franchise": 2,
+      "name": "OMV ORMOŽ",
+      "address": "Hardek 44d",
+      "lat": 46.409754,
+      "lng": 16.160733,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": 1.573,
+        "dizel-premium": 1.639,
+        "avtoplin-lpg": null,
+        "KOEL": 0.965
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:00",
+      "zip_code": "2270"
+    },
+    {
+      "pk": 839,
+      "franchise": 2,
+      "name": "OMV PESEK",
+      "address": "Krvavi potok 25",
+      "lat": 45.620425,
+      "lng": 13.906935,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": 1.573,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Kozina",
+      "open_hours": "Okt-Mar: Sob-Čet 07:00-22:00, Pet 07:00-22:00; Apr-Maj: Ned-Čet 07:00-22:00, Pet-Sob 07:00-22:00; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6240"
+    },
+    {
       "pk": 840,
       "franchise": 2,
       "name": "OMV PODGRAD",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8210"
-    },
-    {
-      "pk": 870,
-      "franchise": 2,
-      "name": "OMV VELENJE GORENJE",
-      "address": "Partizanska c. 15a",
-      "lat": 46.359472,
-      "lng": 15.099174,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
-        "98": null,
-        "100": 1.573,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:30",
-      "zip_code": "3320"
-    },
-    {
-      "pk": 871,
-      "franchise": 2,
-      "name": "OMV VELENJE SELO",
-      "address": "Selo 10a",
-      "lat": 46.36972,
-      "lng": 15.13265,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
-        "98": null,
-        "100": 1.573,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": 0.965
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3320"
     }
   ],
   "position": null
