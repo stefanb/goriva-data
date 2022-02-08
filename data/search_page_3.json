@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 2076,
-      "franchise": 1,
-      "name": "PETROL ŽELEZNIKI",
-      "address": "ČEŠNJICA 55",
-      "lat": 46.22626724,
-      "lng": 14.17252414,
-      "prices": {
-        "95": 1.39,
-        "dizel": 1.431,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.965
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 06:00-18:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "4228"
-    },
-    {
       "pk": 2077,
       "franchise": 1,
       "name": "PETROL KRANJ - ZLATO POLJE VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 07:00-12:00",
       "zip_code": "1219"
+    },
+    {
+      "pk": 2108,
+      "franchise": 1,
+      "name": "PETROL TRŽIČ - ZAHOD",
+      "address": "CESTA STE MARIE AUX MINES 13",
+      "lat": 46.35378031,
+      "lng": 14.29244434,
+      "prices": {
+        "95": 1.39,
+        "dizel": 1.431,
+        "98": null,
+        "100": 1.576,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.965
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "4290"
     }
   ],
   "position": null

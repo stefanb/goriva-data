@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2052,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRNOVO",
-      "address": "RIHARJEVA ULICA 31",
-      "lat": 46.03925962,
-      "lng": 14.50003317,
-      "prices": {
-        "95": 1.39,
-        "dizel": 1.431,
-        "98": null,
-        "100": 1.576,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2053,
       "franchise": 1,
       "name": "PETROL DOBROVA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 13:00-17:00\r\nsobote 13:00-17:00\r\nnedelje in prazniki 13:00-17:00",
       "zip_code": "4206"
+    },
+    {
+      "pk": 2076,
+      "franchise": 1,
+      "name": "PETROL ŽELEZNIKI",
+      "address": "ČEŠNJICA 55",
+      "lat": 46.22626724,
+      "lng": 14.17252414,
+      "prices": {
+        "95": 1.39,
+        "dizel": 1.431,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.965
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 06:00-18:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "4228"
     }
   ],
   "position": null
