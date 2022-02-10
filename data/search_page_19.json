@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2246,
+      "franchise": 3,
+      "name": "BS MAXEN LJUBLJANA-BTC",
+      "address": "Argentinska ulica bš",
+      "lat": 46.0665824,
+      "lng": 14.5488544,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.491,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2247,
       "franchise": 3,
       "name": "BS MAXEN METLIKA",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3210"
-    },
-    {
-      "pk": 2176,
-      "franchise": 1,
-      "name": "PETROL TEPANJE AC - VZHOD",
-      "address": "SPODNJE GRUŠOVJE 10B",
-      "lat": 46.347484,
-      "lng": 15.48757,
-      "prices": {
-        "95": 1.453,
-        "dizel": 1.485,
-        "98": null,
-        "100": 1.653,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
       "open_hours": "NON-STOP",
       "zip_code": "3210"
     }

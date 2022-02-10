@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2176,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - VZHOD",
+      "address": "SPODNJE GRUŠOVJE 10B",
+      "lat": 46.347484,
+      "lng": 15.48757,
+      "prices": {
+        "95": 1.453,
+        "dizel": 1.485,
+        "98": null,
+        "100": 1.653,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.894,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
+    },
+    {
       "pk": 1923,
       "franchise": 1,
       "name": "PETROL ŠENTILJ AC - ZAHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "5271"
-    },
-    {
-      "pk": 777,
-      "franchise": 2,
-      "name": "OMV DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.759,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 1955,
+      "franchise": 1,
+      "name": "PETROL MOST NA SOČI",
+      "address": "MOST NA SOČI 51B",
+      "lat": 46.15283904,
+      "lng": 13.74145196,
+      "prices": {
+        "95": 1.39,
+        "dizel": 1.431,
+        "98": null,
+        "100": 1.576,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 17:30-19:00",
+      "zip_code": "5216"
+    },
+    {
       "pk": 2211,
       "franchise": 1,
       "name": "PETROL MISLINJA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 11:00-13:00",
       "zip_code": "1336"
-    },
-    {
-      "pk": 1968,
-      "franchise": 1,
-      "name": "PETROL DOBROVNIK",
-      "address": "DOBROVNIK 4A",
-      "lat": 46.65099893,
-      "lng": 16.35338368,
-      "prices": {
-        "95": 1.39,
-        "dizel": 1.431,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.965
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "9223"
     }
   ],
   "position": null
