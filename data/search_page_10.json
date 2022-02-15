@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 1967,
-      "franchise": 1,
-      "name": "PETROL KRIŽEVCI",
-      "address": "KLJUČAROVCI PRI LJUTOMERU 83",
-      "lat": 46.55783512,
-      "lng": 16.14313338,
-      "prices": {
-        "95": 1.417,
-        "dizel": 1.442,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.994
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-17:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "9242"
-    },
-    {
       "pk": 2223,
       "franchise": 1,
       "name": "PETROL PETRINA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5210"
+    },
+    {
+      "pk": 1989,
+      "franchise": 1,
+      "name": "PETROL TOLMIN",
+      "address": "TRG MARŠALA TITA 18",
+      "lat": 46.18282816,
+      "lng": 13.73383929,
+      "prices": {
+        "95": 1.417,
+        "dizel": 1.442,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.994
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5220"
     }
   ],
   "position": null
