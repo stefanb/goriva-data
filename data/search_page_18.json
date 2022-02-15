@@ -361,27 +361,6 @@
       "zip_code": "6281"
     },
     {
-      "pk": 781,
-      "franchise": 2,
-      "name": "OMV DRAVSKO POLJE JUG",
-      "address": "Gerečja vas 1h",
-      "lat": 46.428962,
-      "lng": 15.794118,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.759,
-        "avtoplin-lpg": 0.893,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2288"
-    },
-    {
       "pk": 2059,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE SEVER",
@@ -514,6 +493,27 @@
       "address": "GASILSKA CESTA 55",
       "lat": 46.22788,
       "lng": 14.419719,
+      "prices": {
+        "95": 1.471,
+        "dizel": 1.491,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.894,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4208"
+    },
+    {
+      "pk": 2101,
+      "franchise": 1,
+      "name": "PETROL VOKLO AC - VZHOD",
+      "address": "GASILSKA CESTA 51",
+      "lat": 46.22679,
+      "lng": 14.424885,
       "prices": {
         "95": 1.471,
         "dizel": 1.491,
