@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1575,
+      "franchise": 4,
+      "name": "BS MOL OTIŠKI VRH",
+      "address": "OTIŠKI VRH 52",
+      "lat": 46.5695,
+      "lng": 15.036667,
+      "prices": {
+        "95": 1.418,
+        "dizel": 1.442,
+        "98": null,
+        "100": 1.607,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - pet 05:00 - 23:00\r\nsobota 06:00 - 22:00\r\nnedelja in prazniki 07:00 - 22:00",
+      "zip_code": "2373"
+    },
+    {
       "pk": 1576,
       "franchise": 4,
       "name": "BS MOL POBREŽJE MARIBOR",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
       "zip_code": "2360"
-    },
-    {
-      "pk": 2287,
-      "franchise": 4,
-      "name": "BS MOL LAŠKO",
-      "address": "Celjska cesta 2",
-      "lat": 46.162431,
-      "lng": 15.23171,
-      "prices": {
-        "95": 1.418,
-        "dizel": 1.442,
-        "98": null,
-        "100": 1.607,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": null,
-        "KOEL": 0.994
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
-      "zip_code": "3270"
     }
   ],
   "position": null

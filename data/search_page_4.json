@@ -130,6 +130,27 @@
       "zip_code": "1215"
     },
     {
+      "pk": 2113,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
+      "address": "CESTA STANETA ŽAGARJA 53B",
+      "lat": 46.24371235,
+      "lng": 14.36955351,
+      "prices": {
+        "95": 1.417,
+        "dizel": 1.442,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-14:00",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2114,
       "franchise": 1,
       "name": "PETROL LESCE",
@@ -506,27 +527,6 @@
       "direction": "Ljubljana -> Maribor",
       "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1230"
-    },
-    {
-      "pk": 2134,
-      "franchise": 1,
-      "name": "PETROL ŽEJE PRI KOMENDI",
-      "address": "POD LIPAMI 3",
-      "lat": 46.19219144,
-      "lng": 14.52190652,
-      "prices": {
-        "95": 1.417,
-        "dizel": 1.442,
-        "98": null,
-        "100": 1.603,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.864,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1218"
     }
   ],
   "position": null

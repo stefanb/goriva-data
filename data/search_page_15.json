@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2287,
+      "franchise": 4,
+      "name": "BS MOL LAŠKO",
+      "address": "Celjska cesta 2",
+      "lat": 46.162431,
+      "lng": 15.23171,
+      "prices": {
+        "95": 1.418,
+        "dizel": 1.442,
+        "98": null,
+        "100": 1.607,
+        "dizel-premium": 1.669,
+        "avtoplin-lpg": null,
+        "KOEL": 0.994
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
+      "zip_code": "3270"
+    },
+    {
       "pk": 768,
       "franchise": 2,
       "name": "OMV BERTOKI",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "Portorož",
       "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 805,
-      "franchise": 2,
-      "name": "OMV KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.538903,
-      "lng": 13.728619,
-      "prices": {
-        "95": 1.419,
-        "dizel": 1.443,
-        "98": null,
-        "100": 1.609,
-        "dizel-premium": 1.667,
-        "avtoplin-lpg": null,
-        "KOEL": 0.994
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6000"
     }
   ],

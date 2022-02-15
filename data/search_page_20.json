@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2019,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - JUG",
+      "address": "BAKOVSKA ULICA 51",
+      "lat": 46.634461,
+      "lng": 16.164346,
+      "prices": {
+        "95": 1.471,
+        "dizel": 1.491,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2026,
       "franchise": 1,
       "name": "PETROL LORMANJE AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8000"
-    },
-    {
-      "pk": 2256,
-      "franchise": 3,
-      "name": "BS MAXEN KRANJ",
-      "address": "Cesta Staneta Žagarja bš",
-      "lat": 46.24224,
-      "lng": 14.3774704,
-      "prices": {
-        "95": 1.472,
-        "dizel": 1.502,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4000"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 1989,
+      "franchise": 1,
+      "name": "PETROL TOLMIN",
+      "address": "TRG MARŠALA TITA 18",
+      "lat": 46.18282816,
+      "lng": 13.73383929,
+      "prices": {
+        "95": 1.417,
+        "dizel": 1.442,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.994
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5220"
+    },
+    {
       "pk": 1990,
       "franchise": 1,
       "name": "PETROL KOPER, SERMIN",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 06:00-21:00",
       "zip_code": "4260"
-    },
-    {
-      "pk": 2017,
-      "franchise": 1,
-      "name": "PETROL DOLGA VAS",
-      "address": "GLAVNA ULICA 200",
-      "lat": 46.59372345,
-      "lng": 16.46019878,
-      "prices": {
-        "95": 1.417,
-        "dizel": 1.442,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.994
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9220"
     }
   ],
   "position": null

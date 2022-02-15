@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 866,
+      "franchise": 2,
+      "name": "OMV ŠMARJE",
+      "address": "Srgaši 42a",
+      "lat": 45.510467,
+      "lng": 13.707064,
+      "prices": {
+        "95": 1.419,
+        "dizel": 1.443,
+        "98": null,
+        "100": 1.609,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 06:00-20:00, Ned/Praz 07:00-20:00; Apr-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "6274"
+    },
+    {
       "pk": 867,
       "franchise": 2,
       "name": "OMV ŠTANJEL",
@@ -493,27 +514,6 @@
       "address": "GASILSKA CESTA 55",
       "lat": 46.22788,
       "lng": 14.419719,
-      "prices": {
-        "95": 1.471,
-        "dizel": 1.491,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 2101,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - VZHOD",
-      "address": "GASILSKA CESTA 51",
-      "lat": 46.22679,
-      "lng": 14.424885,
       "prices": {
         "95": 1.471,
         "dizel": 1.491,
