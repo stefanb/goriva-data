@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 1569,
-      "franchise": 4,
-      "name": "BS MOL CELJE",
-      "address": "MARIBORSKA 128",
-      "lat": 46.244417,
-      "lng": 15.278217,
-      "prices": {
-        "95": 1.431,
-        "dizel": 1.457,
-        "98": null,
-        "100": 1.624,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 - 21:00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 1570,
       "franchise": 4,
       "name": "BS MOL SLOVENSKE KONJICE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "1430"
+    },
+    {
+      "pk": 1583,
+      "franchise": 4,
+      "name": "BS MOL DRNOVO",
+      "address": "VELIKA VAS PRI KRŠKEM 69",
+      "lat": 45.920289,
+      "lng": 15.473747,
+      "prices": {
+        "95": 1.431,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.624,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.994
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 -20:30\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "8273"
     }
   ],
   "position": null
