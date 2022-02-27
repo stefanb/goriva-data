@@ -25,6 +25,48 @@
       "zip_code": "5271"
     },
     {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.499,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.699,
+        "dizel-premium": 1.789,
+        "avtoplin-lpg": 0.864,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 1568,
+      "franchise": 4,
+      "name": "BS MOL LORMANJE",
+      "address": "LORMANJE 22D",
+      "lat": 46.566917,
+      "lng": 15.8255,
+      "prices": {
+        "95": 1.499,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.699,
+        "dizel-premium": 1.789,
+        "avtoplin-lpg": 0.864,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Maribor",
+      "open_hours": "pon - ned 00:00 - 24:00",
+      "zip_code": "2230"
+    },
+    {
       "pk": 777,
       "franchise": 2,
       "name": "OMV DOBRENJE VZHOD",
@@ -359,48 +401,6 @@
       "direction": "Nova Gorica",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5261"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.509,
-        "dizel": 1.529,
-        "98": null,
-        "100": 1.709,
-        "dizel-premium": 1.799,
-        "avtoplin-lpg": 0.864,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.509,
-        "dizel": 1.529,
-        "98": null,
-        "100": 1.709,
-        "dizel-premium": 1.799,
-        "avtoplin-lpg": 0.864,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
     },
     {
       "pk": 2308,
