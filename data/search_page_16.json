@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 807,
-      "franchise": 2,
-      "name": "OMV KOPER TOMOS",
-      "address": "Šmarska c. 4a",
-      "lat": 45.530207,
-      "lng": 13.734777,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 808,
       "franchise": 2,
       "name": "OMV KOZINA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 6:00-22:00",
       "zip_code": "8000"
+    },
+    {
+      "pk": 838,
+      "franchise": 2,
+      "name": "OMV ORMOŽ",
+      "address": "Hardek 44d",
+      "lat": 46.409754,
+      "lng": 16.160733,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.654,
+        "dizel-premium": 1.714,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:00",
+      "zip_code": "2270"
     }
   ],
   "position": null

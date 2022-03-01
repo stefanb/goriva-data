@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 871,
-      "franchise": 2,
-      "name": "OMV VELENJE SELO",
-      "address": "Selo 10a",
-      "lat": 46.36972,
-      "lng": 15.13265,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": 1.714,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3320"
-    },
-    {
       "pk": 873,
       "franchise": 2,
       "name": "OMV VIR DOMŽALE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "9220"
+    },
+    {
+      "pk": 2245,
+      "franchise": 3,
+      "name": "BS MAXEN SELNICA OB DRAVI",
+      "address": "Spodnja Selnica bš",
+      "lat": 46.5546048,
+      "lng": 15.5078896,
+      "prices": {
+        "95": 1.513,
+        "dizel": 1.548,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2352"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 838,
-      "franchise": 2,
-      "name": "OMV ORMOŽ",
-      "address": "Hardek 44d",
-      "lat": 46.409754,
-      "lng": 16.160733,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": 1.714,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:00",
-      "zip_code": "2270"
-    },
-    {
       "pk": 840,
       "franchise": 2,
       "name": "OMV PODGRAD",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 05:30-22:30",
+      "zip_code": "3320"
+    },
+    {
+      "pk": 871,
+      "franchise": 2,
+      "name": "OMV VELENJE SELO",
+      "address": "Selo 10a",
+      "lat": 46.36972,
+      "lng": 15.13265,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.654,
+        "dizel-premium": 1.714,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "3320"
     }
   ],

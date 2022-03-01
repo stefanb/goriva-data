@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1581,
-      "franchise": 4,
-      "name": "BS MOL ZASAVJE",
-      "address": "ZAVRŠJE 30",
-      "lat": 46.1110129,
-      "lng": 15.0066052,
-      "prices": {
-        "95": 1.457,
-        "dizel": 1.488,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.864,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 1582,
       "franchise": 4,
       "name": "BS MOL MIKLAVŽ",
@@ -527,6 +506,27 @@
       "direction": "Ljubljana -> Kranj",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-13:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2306,
+      "franchise": 19,
+      "name": "Bencinski servis Juršinci",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.458,
+        "dizel": 1.488,
+        "98": null,
+        "100": 1.65,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
     }
   ],
   "position": null
