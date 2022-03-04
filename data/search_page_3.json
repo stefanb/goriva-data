@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 1584,
-      "franchise": 4,
-      "name": "BS MOL ŠMARJE",
-      "address": "CELJSKA CESTA 55",
-      "lat": 46.228855,
-      "lng": 15.504098,
-      "prices": {
-        "95": 1.457,
-        "dizel": 1.488,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 1585,
       "franchise": 4,
       "name": "BS MOL ARCLIN",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2052,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRNOVO",
+      "address": "RIHARJEVA ULICA 31",
+      "lat": 46.03925962,
+      "lng": 14.50003317,
+      "prices": {
+        "95": 1.458,
+        "dizel": 1.488,
+        "98": null,
+        "100": 1.65,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
+      "zip_code": "1000"
     }
   ],
   "position": null

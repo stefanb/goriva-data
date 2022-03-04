@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2020,
-      "franchise": 1,
-      "name": "PETROL VOSEK",
-      "address": "VOSEK 22A",
-      "lat": 46.59570289,
-      "lng": 15.70616915,
-      "prices": {
-        "95": 1.458,
-        "dizel": 1.488,
-        "98": null,
-        "100": 1.65,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2231"
-    },
-    {
       "pk": 2021,
       "franchise": 1,
       "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
@@ -527,6 +506,27 @@
       "direction": "Trst",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 770,
+      "franchise": 2,
+      "name": "OMV BREZOVICA",
+      "address": "Tržaška c. 565",
+      "lat": 46.022535,
+      "lng": 14.407636,
+      "prices": {
+        "95": 1.464,
+        "dizel": 1.494,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1351"
     }
   ],
   "position": null
