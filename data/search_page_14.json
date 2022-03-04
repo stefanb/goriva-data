@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2024,
-      "franchise": 1,
-      "name": "PETROL PTUJ - DORNAVSKA",
-      "address": "DORNAVSKA CESTA 6B",
-      "lat": 46.42336766,
-      "lng": 15.88908401,
-      "prices": {
-        "95": 1.458,
-        "dizel": 1.488,
-        "98": null,
-        "100": 1.65,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2025,
       "franchise": 1,
       "name": "PETROL MARIBOR - TRŽAŠKA 11",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8340"
+    },
+    {
+      "pk": 776,
+      "franchise": 2,
+      "name": "OMV DIVAČA",
+      "address": "Kolodvorska 1",
+      "lat": 45.681494,
+      "lng": 13.968687,
+      "prices": {
+        "95": 1.464,
+        "dizel": 1.494,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
+      "zip_code": "6215"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 851,
-      "franchise": 2,
-      "name": "OMV SENOVO",
-      "address": "Titova ulica 101c",
-      "lat": 46.02489,
-      "lng": 15.47797,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.494,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": null,
-        "KOEL": 0.664
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "8281"
-    },
-    {
       "pk": 852,
       "franchise": 2,
       "name": "OMV SENOŽEČE",
@@ -485,6 +464,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.464,
+        "dizel": 1.494,
+        "98": 1.659,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2271,
