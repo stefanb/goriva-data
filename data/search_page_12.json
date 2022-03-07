@@ -88,27 +88,6 @@
       "zip_code": "1000"
     },
     {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.458,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.609,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2041,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
@@ -243,7 +222,7 @@
       "lng": 14.4284534,
       "prices": {
         "95": 1.458,
-        "dizel": 1.488,
+        "dizel": 1.6,
         "98": null,
         "100": 1.65,
         "dizel-premium": null,
@@ -285,7 +264,7 @@
       "lng": 14.4297645,
       "prices": {
         "95": 1.458,
-        "dizel": 1.488,
+        "dizel": 1.6,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "9000"
+    },
+    {
+      "pk": 1560,
+      "franchise": 4,
+      "name": "BS MOL ROŽNA DOLINA",
+      "address": "ULICA ANGELA BESEDNJAKA 8A",
+      "lat": 45.9404582,
+      "lng": 13.6399226,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.488,
+        "98": null,
+        "100": 1.654,
+        "dizel-premium": 1.794,
+        "avtoplin-lpg": 0.864,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "5000"
     }
   ],
   "position": null

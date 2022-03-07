@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2256,
-      "franchise": 3,
-      "name": "BS MAXEN KRANJ",
-      "address": "Cesta Staneta Žagarja bš",
-      "lat": 46.24224,
-      "lng": 14.3774704,
-      "prices": {
-        "95": 1.513,
-        "dizel": 1.548,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4000"
-    },
-    {
       "pk": 2257,
       "franchise": 3,
       "name": "BS MAXEN AJDOVŠČINA",
@@ -44,6 +23,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "5270"
+    },
+    {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.517,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.609,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
     },
     {
       "pk": 2059,
