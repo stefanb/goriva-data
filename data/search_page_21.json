@@ -4,33 +4,12 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 868,
+      "pk": 766,
       "franchise": 2,
-      "name": "OMV TEPANJE",
-      "address": "Tepanje 4b",
-      "lat": 46.340828,
-      "lng": 15.469587,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Slovenske Konjice",
-      "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
-      "zip_code": "3210"
-    },
-    {
-      "pk": 870,
-      "franchise": 2,
-      "name": "OMV VELENJE GORENJE",
-      "address": "Partizanska c. 15a",
-      "lat": 46.359472,
-      "lng": 15.099174,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
       "prices": {
         "95": 1.555,
         "dizel": 1.662,
@@ -42,8 +21,29 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:30",
-      "zip_code": "3320"
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
+    },
+    {
+      "pk": 767,
+      "franchise": 2,
+      "name": "OMV BENEDIKT",
+      "address": "Radgonska c. 15",
+      "lat": 46.61068,
+      "lng": 15.89416,
+      "prices": {
+        "95": 1.555,
+        "dizel": 1.662,
+        "98": null,
+        "100": 1.759,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
+      "zip_code": "2234"
     },
     {
       "pk": 777,
@@ -53,11 +53,11 @@
       "lat": 46.605931,
       "lng": 15.663342,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -74,11 +74,11 @@
       "lat": 46.609699,
       "lng": 15.662384,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -95,11 +95,11 @@
       "lat": 46.428962,
       "lng": 15.794118,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.893,
         "KOEL": null
       },
@@ -116,11 +116,11 @@
       "lat": 46.428104,
       "lng": 15.796613,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -137,11 +137,11 @@
       "lat": 45.704437,
       "lng": 13.846496,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -158,11 +158,11 @@
       "lat": 45.70492,
       "lng": 13.84554,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -179,11 +179,11 @@
       "lat": 46.584129,
       "lng": 16.008947,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.893,
         "KOEL": null
       },
@@ -200,11 +200,11 @@
       "lat": 45.9730555555556,
       "lng": 14.625555555555556,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -221,11 +221,11 @@
       "lat": 46.261718,
       "lng": 15.22071,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -242,11 +242,11 @@
       "lat": 46.16606,
       "lng": 14.6896,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -263,11 +263,11 @@
       "lat": 45.854884,
       "lng": 15.684443,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.669,
         "KOEL": null
       },
@@ -284,11 +284,11 @@
       "lat": 46.33865,
       "lng": 14.19095,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -305,11 +305,11 @@
       "lat": 46.33934,
       "lng": 14.19201,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -326,11 +326,11 @@
       "lat": 45.78312588,
       "lng": 14.22304178,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
         "100": null,
-        "dizel-premium": 1.899,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -347,11 +347,11 @@
       "lat": 45.78536414,
       "lng": 14.22271237,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
         "100": null,
-        "dizel-premium": 1.899,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -368,11 +368,11 @@
       "lat": 45.917693,
       "lng": 13.721916,
       "prices": {
-        "95": 1.592,
-        "dizel": 1.644,
+        "95": 1.624,
+        "dizel": 1.722,
         "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.899,
+        "100": 1.834,
+        "dizel-premium": 1.997,
         "avtoplin-lpg": 0.899,
         "KOEL": null
       },
@@ -516,7 +516,7 @@
       "lng": 13.8514001,
       "prices": {
         "95": null,
-        "dizel": 1.584,
+        "dizel": 1.662,
         "98": null,
         "100": null,
         "dizel-premium": null,
