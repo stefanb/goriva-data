@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 1960,
-      "franchise": 1,
-      "name": "PETROL MIREN",
-      "address": "MIREN 13D",
-      "lat": 45.898043,
-      "lng": 13.608726,
-      "prices": {
-        "95": 1.458,
-        "dizel": 1.488,
-        "98": null,
-        "100": 1.65,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5291"
-    },
-    {
-      "pk": 1961,
-      "franchise": 1,
-      "name": "PETROL LJUTOMER",
-      "address": "PREŠERNOVA ULICA 19",
-      "lat": 46.52201409,
-      "lng": 16.19426906,
-      "prices": {
-        "95": 1.458,
-        "dizel": 1.488,
-        "98": null,
-        "100": 1.65,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "9240"
-    },
-    {
       "pk": 2217,
       "franchise": 1,
       "name": "PETROL ŠTORE",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00",
       "zip_code": "5275"
+    },
+    {
+      "pk": 1974,
+      "franchise": 1,
+      "name": "PETROL CANKOVA",
+      "address": "CANKOVA 35",
+      "lat": 46.71906544,
+      "lng": 16.02095244,
+      "prices": {
+        "95": 1.458,
+        "dizel": 1.488,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-13:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9261"
+    },
+    {
+      "pk": 1975,
+      "franchise": 1,
+      "name": "PETROL KUZMA",
+      "address": "KUZMA 26B",
+      "lat": 46.83371949,
+      "lng": 16.08249735,
+      "prices": {
+        "95": 1.458,
+        "dizel": 1.488,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:30-18:00\r\nsobote 07:30-13:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9263"
     }
   ],
   "position": null
