@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 871,
-      "franchise": 2,
-      "name": "OMV VELENJE SELO",
-      "address": "Selo 10a",
-      "lat": 46.36972,
-      "lng": 15.13265,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": 1.897,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3320"
-    },
-    {
-      "pk": 872,
-      "franchise": 2,
-      "name": "OMV VIPOLŽE",
-      "address": "Vipolže 6b",
-      "lat": 45.966782,
-      "lng": 13.540767,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": 1.897,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "5212"
-    },
-    {
       "pk": 873,
       "franchise": 2,
       "name": "OMV VIR DOMŽALE",
@@ -212,6 +170,27 @@
       "direction": "",
       "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
       "zip_code": "2234"
+    },
+    {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.486,
+        "98": null,
+        "100": 1.65,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
     },
     {
       "pk": 2048,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-14:00",
       "zip_code": "1261"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.563,
+        "dizel": 1.669,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     }
   ],
   "position": null
