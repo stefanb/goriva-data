@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 851,
-      "franchise": 2,
-      "name": "OMV SENOVO",
-      "address": "Titova ulica 101c",
-      "lat": 46.02489,
-      "lng": 15.47797,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": 1.897,
-        "avtoplin-lpg": null,
-        "KOEL": 0.664
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "8281"
-    },
-    {
       "pk": 852,
       "franchise": 2,
       "name": "OMV SENOŽEČE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2314"
+    },
+    {
+      "pk": 2236,
+      "franchise": 2,
+      "name": "OMV PTUJ",
+      "address": "Ormoška cesta 32",
+      "lat": 46.41600383,
+      "lng": 15.88503332,
+      "prices": {
+        "95": 1.555,
+        "dizel": 1.662,
+        "98": null,
+        "100": 1.759,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": 0.863,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2250"
     }
   ],
   "position": null

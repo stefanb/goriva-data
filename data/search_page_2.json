@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2323,
-      "franchise": 2,
-      "name": "OMV KOPER LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.55757,
-      "lng": 13.75353,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 789,
       "franchise": 2,
       "name": "OMV FERNETIČI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 818,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA ŠENTVID",
+      "address": "Celovška c. 455",
+      "lat": 46.09891,
+      "lng": 14.460958,
+      "prices": {
+        "95": 1.555,
+        "dizel": 1.662,
+        "98": null,
+        "100": 1.759,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1210"
     }
   ],
   "position": null

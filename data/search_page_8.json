@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2117,
-      "franchise": 1,
-      "name": "PETROL JESENICE - CESTA ŽELEZARJEV",
-      "address": "CESTA ŽELEZARJEV 7B",
-      "lat": 46.43218809,
-      "lng": 14.06315786,
-      "prices": {
-        "95": 1.563,
-        "dizel": 1.67,
-        "98": null,
-        "100": 1.756,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "4270"
-    },
-    {
       "pk": 2118,
       "franchise": 1,
       "name": "PETROL GABROVKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
       "zip_code": "8222"
+    },
+    {
+      "pk": 2146,
+      "franchise": 1,
+      "name": "PETROL ČRNOMELJ - BELOKRANJSKA",
+      "address": "BELOKRANJSKA CESTA 1",
+      "lat": 45.57849993,
+      "lng": 15.19151321,
+      "prices": {
+        "95": 1.563,
+        "dizel": 1.67,
+        "98": null,
+        "100": 1.756,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-11:30",
+      "zip_code": "8340"
     }
   ],
   "position": null

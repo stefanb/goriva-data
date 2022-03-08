@@ -25,27 +25,6 @@
       "zip_code": "2383"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.494,
-        "98": 1.659,
-        "100": 1.659,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-20\r\nsobota: 7-20\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -95,8 +74,8 @@
       "lat": 46.529195,
       "lng": 15.646512,
       "prices": {
-        "95": 1.533,
-        "dizel": 1.66,
+        "95": 1.529,
+        "dizel": 1.639,
         "98": null,
         "100": 1.726,
         "dizel-premium": null,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
       "zip_code": "6221"
+    },
+    {
+      "pk": 2323,
+      "franchise": 2,
+      "name": "OMV KOPER LUKA",
+      "address": "Vojkovo nabrežje 38",
+      "lat": 45.55757,
+      "lng": 13.75353,
+      "prices": {
+        "95": 1.555,
+        "dizel": 1.662,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "6000"
     }
   ],
   "position": null
