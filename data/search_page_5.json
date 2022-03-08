@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 873,
-      "franchise": 2,
-      "name": "OMV VIR DOMŽALE",
-      "address": "Šaranovičeva c. 10a",
-      "lat": 46.147666,
-      "lng": 14.60635,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1230"
-    },
-    {
       "pk": 874,
       "franchise": 2,
       "name": "OMV VRTOJBA",
@@ -180,9 +159,9 @@
       "lng": 16.4429144,
       "prices": {
         "95": 1.561,
-        "dizel": 1.486,
+        "dizel": 1.668,
         "98": null,
-        "100": 1.65,
+        "100": 1.756,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 1.018
@@ -443,6 +422,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-19:30\r\nsobote 07:00-13:00",
       "zip_code": "1231"
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.563,
+        "dizel": 1.624,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.957,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
     },
     {
       "pk": 2056,
