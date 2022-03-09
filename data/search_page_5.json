@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 766,
-      "franchise": 2,
-      "name": "OMV AJŠEVICA",
-      "address": "Loke 40",
-      "lat": 45.95337,
-      "lng": 13.69157,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
-      "zip_code": "5000"
-    },
-    {
       "pk": 767,
       "franchise": 2,
       "name": "OMV BENEDIKT",
@@ -527,6 +506,27 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
       "zip_code": "9201"
+    },
+    {
+      "pk": 2062,
+      "franchise": 1,
+      "name": "PETROL DOMŽALE - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 2",
+      "lat": 46.13555764,
+      "lng": 14.58035495,
+      "prices": {
+        "95": 1.563,
+        "dizel": 1.67,
+        "98": null,
+        "100": 1.756,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "1230"
     }
   ],
   "position": null

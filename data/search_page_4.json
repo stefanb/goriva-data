@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 853,
-      "franchise": 2,
-      "name": "OMV SEŽANA",
-      "address": "Partizanska 63a",
-      "lat": 45.705649,
-      "lng": 13.863156,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 854,
       "franchise": 2,
       "name": "OMV SLOVENSKA BISTRICA",
@@ -79,7 +58,7 @@
         "98": null,
         "100": 1.759,
         "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.863,
+        "avtoplin-lpg": 0.956,
         "KOEL": null
       },
       "distance": null,
@@ -205,7 +184,7 @@
         "98": null,
         "100": 1.759,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.863,
+        "avtoplin-lpg": 0.956,
         "KOEL": 1.018
       },
       "distance": null,
@@ -499,7 +478,7 @@
         "98": null,
         "100": 1.759,
         "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.863,
+        "avtoplin-lpg": 0.956,
         "KOEL": null
       },
       "distance": null,
@@ -520,13 +499,34 @@
         "98": null,
         "100": 1.759,
         "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.863,
+        "avtoplin-lpg": 0.956,
         "KOEL": null
       },
       "distance": null,
       "direction": "Maribor",
       "open_hours": "Pon-Pet 05:00-22:00; Sob, Ned, Praz. 06:00-22:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 766,
+      "franchise": 2,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
+      "prices": {
+        "95": 1.555,
+        "dizel": 1.662,
+        "98": null,
+        "100": 1.759,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
     }
   ],
   "position": null

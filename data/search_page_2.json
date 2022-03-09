@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 792,
-      "franchise": 2,
-      "name": "OMV GEDEROVCI",
-      "address": "Gederovci 17a",
-      "lat": 46.67921,
-      "lng": 16.056079,
-      "prices": {
-        "95": 1.555,
-        "dizel": 1.662,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Pet 5:00-22:00; Sob 6:00-22:00;Ned/Praz 7:00-21:00",
-      "zip_code": "9251"
-    },
-    {
       "pk": 794,
       "franchise": 2,
       "name": "OMV GRAČIŠČE",
@@ -205,7 +184,7 @@
         "98": null,
         "100": 1.759,
         "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.863,
+        "avtoplin-lpg": 0.956,
         "KOEL": null
       },
       "distance": null,
@@ -514,6 +493,27 @@
       "address": "Zaloška 158",
       "lat": 46.05628,
       "lng": 14.562775,
+      "prices": {
+        "95": 1.555,
+        "dizel": 1.662,
+        "98": null,
+        "100": 1.759,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 820,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA ZALOŠKA SEVER",
+      "address": "Zaloška 157",
+      "lat": 46.056444,
+      "lng": 14.55814,
       "prices": {
         "95": 1.555,
         "dizel": 1.662,
