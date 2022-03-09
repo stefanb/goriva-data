@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 1572,
-      "franchise": 4,
-      "name": "BS MOL MESTINJE",
-      "address": "MESTINJE 2A",
-      "lat": 46.2343558,
-      "lng": 15.5634657,
-      "prices": {
-        "95": 1.564,
-        "dizel": 1.669,
-        "98": null,
-        "100": 1.757,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "3241"
-    },
-    {
       "pk": 1573,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-19:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
       "zip_code": "9204"
+    },
+    {
+      "pk": 2284,
+      "franchise": 4,
+      "name": "BS MOL HOTIZA",
+      "address": "Ložič 1",
+      "lat": 46.551502,
+      "lng": 16.344579,
+      "prices": {
+        "95": 1.564,
+        "dizel": 1.669,
+        "98": null,
+        "100": 1.757,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-18:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
+      "zip_code": "9220"
     }
   ],
   "position": null
