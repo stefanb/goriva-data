@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 2116,
-      "franchise": 1,
-      "name": "PETROL MEDVODE - GORENJSKA 1",
-      "address": "GORENJSKA CESTA 1",
-      "lat": 46.13675212,
-      "lng": 14.41630393,
-      "prices": {
-        "95": 1.563,
-        "dizel": 1.67,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-20:00\r\nsobote 07:00-13:00",
-      "zip_code": "1215"
-    },
-    {
       "pk": 2117,
       "franchise": 1,
       "name": "PETROL JESENICE - CESTA ŽELEZARJEV",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "8294"
+    },
+    {
+      "pk": 2145,
+      "franchise": 1,
+      "name": "PETROL OTOČEC - JUG",
+      "address": "GRAJSKA CESTA 6",
+      "lat": 45.83957835,
+      "lng": 15.23583099,
+      "prices": {
+        "95": 1.563,
+        "dizel": 1.67,
+        "98": null,
+        "100": 1.756,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
+      "zip_code": "8222"
     }
   ],
   "position": null
