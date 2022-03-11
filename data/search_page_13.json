@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 775,
-      "franchise": 2,
-      "name": "OMV ČRNOMELJ",
-      "address": "Belokranjska c. 18a",
-      "lat": 45.57995,
-      "lng": 15.19583,
-      "prices": {
-        "95": 1.598,
-        "dizel": 1.737,
-        "98": null,
-        "100": 1.798,
-        "dizel-premium": 1.962,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8340"
-    },
-    {
       "pk": 2311,
       "franchise": 18,
       "name": "BS Merkantil KNEŽAK",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "8270"
+    },
+    {
+      "pk": 811,
+      "franchise": 2,
+      "name": "OMV KRVAVI POTOK",
+      "address": "Krvavi potok 1",
+      "lat": 45.61885,
+      "lng": 13.910126,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.737,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6240"
     }
   ],
   "position": null

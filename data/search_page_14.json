@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 811,
-      "franchise": 2,
-      "name": "OMV KRVAVI POTOK",
-      "address": "Krvavi potok 1",
-      "lat": 45.61885,
-      "lng": 13.910126,
-      "prices": {
-        "95": 1.598,
-        "dizel": 1.737,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
-      "zip_code": "6240"
-    },
-    {
       "pk": 813,
       "franchise": 2,
       "name": "OMV LESCE",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 843,
+      "franchise": 2,
+      "name": "OMV POSTOJNA TRŽAŠKA",
+      "address": "Tržaška c. 60b",
+      "lat": 45.772642,
+      "lng": 14.200028,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.737,
+        "98": null,
+        "100": 1.798,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
       "zip_code": "6230"
     }
   ],
