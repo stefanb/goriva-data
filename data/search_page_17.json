@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 1566,
-      "franchise": 4,
-      "name": "BS MOL SEŽANA",
-      "address": "PARTIZANSKA CESTA 69/B",
-      "lat": 45.7050725,
-      "lng": 13.8608974,
-      "prices": {
-        "95": 1.599,
-        "dizel": 1.735,
-        "98": null,
-        "100": 1.794,
-        "dizel-premium": 1.962,
-        "avtoplin-lpg": 0.957,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 1567,
       "franchise": 4,
       "name": "BS MOL SELNICA OB DRAVI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1592,
+      "franchise": 4,
+      "name": "BS MOL AJDOVŠČINA",
+      "address": "Mirce 10",
+      "lat": 45.880481,
+      "lng": 13.905018,
+      "prices": {
+        "95": 1.599,
+        "dizel": 1.735,
+        "98": null,
+        "100": 1.794,
+        "dizel-premium": 1.962,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA 08:00-20:00",
+      "zip_code": "5270"
     }
   ],
   "position": null
