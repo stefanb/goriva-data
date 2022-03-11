@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2034,
-      "franchise": 1,
-      "name": "PETROL KOPER - KOLODVORSKA",
-      "address": "KOLODVORSKA CESTA 3A",
-      "lat": 45.542714,
-      "lng": 13.735513,
-      "prices": {
-        "95": 1.563,
-        "dizel": 1.67,
-        "98": null,
-        "100": 1.756,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.957,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 2036,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - CELOVŠKA 226",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "1351"
+    },
+    {
+      "pk": 771,
+      "franchise": 2,
+      "name": "OMV BREŽICE",
+      "address": "C.Svobode 35",
+      "lat": 45.913737,
+      "lng": 15.595365,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.737,
+        "98": null,
+        "100": 1.798,
+        "dizel-premium": 1.962,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8250"
     }
   ],
   "position": null
