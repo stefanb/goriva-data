@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 2189,
-      "franchise": 1,
-      "name": "PETROL GORNJI GRAD",
-      "address": "SPODNJI TRG 34",
-      "lat": 46.29907149,
-      "lng": 14.81925704,
-      "prices": {
-        "95": 1.563,
-        "dizel": 1.67,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3342"
-    },
-    {
-      "pk": 1934,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 10",
-      "address": "TRŽAŠKA CESTA 10",
-      "lat": 46.54123587,
-      "lng": 15.64785997,
-      "prices": {
-        "95": 1.563,
-        "dizel": 1.67,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2190,
       "franchise": 1,
       "name": "PETROL CELJE - LANOVŽ",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 2203,
+      "franchise": 1,
+      "name": "PETROL LOČE",
+      "address": "SLOMŠKOVA ULICA 6",
+      "lat": 46.30051455,
+      "lng": 15.50179414,
+      "prices": {
+        "95": 1.563,
+        "dizel": 1.67,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-19:00\r\nsobote 12:00-19:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3215"
+    },
+    {
+      "pk": 1948,
+      "franchise": 1,
+      "name": "PETROL MOŠKANJCI",
+      "address": "MOŠKANJCI 1G",
+      "lat": 46.41531527,
+      "lng": 15.98015915,
+      "prices": {
+        "95": 1.563,
+        "dizel": 1.67,
+        "98": null,
+        "100": 1.756,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.957,
+        "KOEL": 1.018
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "2272"
     }
   ],
   "position": null
