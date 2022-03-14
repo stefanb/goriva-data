@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2254,
-      "franchise": 3,
-      "name": "BS MAXEN RIBNICA",
-      "address": "Gorenjska cesta bš",
-      "lat": 45.7490272,
-      "lng": 14.7190224,
-      "prices": {
-        "95": 1.618,
-        "dizel": 1.73,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1310"
-    },
-    {
       "pk": 2255,
       "franchise": 3,
       "name": "BS MAXEN NOVO MESTO",
@@ -514,6 +493,27 @@
       "address": "ZAGRAD PRI OTOČCU 111",
       "lat": 45.841312,
       "lng": 15.217206,
+      "prices": {
+        "95": 1.628,
+        "dizel": 1.73,
+        "98": null,
+        "100": 1.834,
+        "dizel-premium": 2.067,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8222"
+    },
+    {
+      "pk": 2230,
+      "franchise": 1,
+      "name": "PETROL STARINE AC - SEVER",
+      "address": "ZAGRAD PRI OTOČCU 110",
+      "lat": 45.841967,
+      "lng": 15.216726,
       "prices": {
         "95": 1.628,
         "dizel": 1.73,
