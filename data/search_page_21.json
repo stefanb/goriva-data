@@ -4,6 +4,69 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2044,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 133",
+      "address": "DUNAJSKA CESTA 133",
+      "lat": 46.07883295,
+      "lng": 14.51209267,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.855,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2045,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 101",
+      "address": "ŠMARTINSKA CESTA 101",
+      "lat": 46.066152,
+      "lng": 14.531219,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.855,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 766,
+      "franchise": 2,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.864,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 2046,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
@@ -65,27 +128,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.563,
-        "dizel": 1.669,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
     },
     {
       "pk": 2304,
@@ -235,27 +277,6 @@
       "zip_code": "4205"
     },
     {
-      "pk": 2311,
-      "franchise": 18,
-      "name": "BS Merkantil KNEŽAK",
-      "address": "KNEŽAK 3",
-      "lat": 45.625625,
-      "lng": 14.239867,
-      "prices": {
-        "95": 1.598,
-        "dizel": 1.737,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.957,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
-      "zip_code": "6253"
-    },
-    {
       "pk": 857,
       "franchise": 2,
       "name": "OMV SPODNJA IDRIJA",
@@ -296,27 +317,6 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.599,
-        "dizel": 1.735,
-        "98": null,
-        "100": 1.794,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2296,
@@ -432,7 +432,7 @@
       "lng": 15.310556,
       "prices": {
         "95": null,
-        "dizel": 1.669,
+        "dizel": 1.541,
         "98": null,
         "100": null,
         "dizel-premium": null,
