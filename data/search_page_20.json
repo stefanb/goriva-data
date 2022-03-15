@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2026,
+      "franchise": 1,
+      "name": "PETROL LORMANJE AC - JUG",
+      "address": "LORMANJE 22C",
+      "lat": 46.564825,
+      "lng": 15.826899,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.932,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "2230"
+    },
+    {
       "pk": 2027,
       "franchise": 1,
       "name": "PETROL PINCE AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2295,
-      "franchise": 13,
-      "name": "FE Trading - DISKONT Ilirska Bistrica",
-      "address": "Vilharjeva cesta 58",
-      "lat": 45.576279,
-      "lng": 14.23011,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "6250"
     }
   ],
   "position": null

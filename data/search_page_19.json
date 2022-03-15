@@ -193,6 +193,27 @@
       "zip_code": "2288"
     },
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": 1.864,
+        "100": 1.864,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.264
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2013,
       "franchise": 1,
       "name": "PETROL MAJŠPERK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2026,
-      "franchise": 1,
-      "name": "PETROL LORMANJE AC - JUG",
-      "address": "LORMANJE 22C",
-      "lat": 46.564825,
-      "lng": 15.826899,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.932,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "NON-STOP",
-      "zip_code": "2230"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2295,
+      "franchise": 13,
+      "name": "FE Trading - DISKONT Ilirska Bistrica",
+      "address": "Vilharjeva cesta 58",
+      "lat": 45.576279,
+      "lng": 14.23011,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
+      "zip_code": "6250"
+    },
+    {
       "pk": 2040,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 44",
@@ -338,27 +359,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "5280"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.669,
-        "dizel": 1.83,
-        "98": 1.798,
-        "100": 1.798,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2308,
