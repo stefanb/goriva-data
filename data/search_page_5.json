@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 1574,
+      "franchise": 4,
+      "name": "BS MOL KOČEVJE",
+      "address": "REŠKA CESTA 25/A",
+      "lat": 45.632833,
+      "lng": 14.864267,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.856,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1330"
+    },
+    {
       "pk": 2086,
       "franchise": 1,
       "name": "PETROL NAKLO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon. - pet. 06:00 - 22:00\r\nsobota 07:00 - 21:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "2204"
-    },
-    {
-      "pk": 2094,
-      "franchise": 1,
-      "name": "PETROL HRASTNIK",
-      "address": "PODKRAJ 77B",
-      "lat": 46.11937061,
-      "lng": 15.08074191,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.855,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.957,
-        "KOEL": 1.264
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1430"
     }
   ],
   "position": null

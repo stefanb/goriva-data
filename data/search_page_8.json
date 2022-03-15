@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 2114,
+      "franchise": 1,
+      "name": "PETROL LESCE",
+      "address": "HRAŠKA CESTA 13A",
+      "lat": 46.36782569,
+      "lng": 14.15376274,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.264
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "4248"
+    },
+    {
       "pk": 835,
       "franchise": 2,
       "name": "OMV NOVO MESTO",
@@ -98,7 +119,7 @@
         "95": 1.503,
         "dizel": 1.541,
         "98": null,
-        "100": 1.864,
+        "100": 1.939,
         "dizel-premium": 1.541,
         "avtoplin-lpg": 0.669,
         "KOEL": null
@@ -371,7 +392,7 @@
         "95": 1.503,
         "dizel": 1.541,
         "98": null,
-        "100": 1.864,
+        "100": 1.939,
         "dizel-premium": 1.541,
         "avtoplin-lpg": 0.998,
         "KOEL": null
@@ -413,7 +434,7 @@
         "95": 1.503,
         "dizel": 1.541,
         "98": null,
-        "100": 1.864,
+        "100": 1.939,
         "dizel-premium": 1.541,
         "avtoplin-lpg": 0.998,
         "KOEL": null
@@ -506,27 +527,6 @@
       "direction": "Ljubljana",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
-    },
-    {
-      "pk": 2127,
-      "franchise": 1,
-      "name": "PETROL HORJUL",
-      "address": "VRHNIŠKA CESTA 11",
-      "lat": 46.02135318,
-      "lng": 14.30128011,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.264
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:00-12:00",
-      "zip_code": "1354"
     }
   ],
   "position": null

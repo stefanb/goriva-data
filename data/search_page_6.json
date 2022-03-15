@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 2094,
+      "franchise": 1,
+      "name": "PETROL HRASTNIK",
+      "address": "PODKRAJ 77B",
+      "lat": 46.11937061,
+      "lng": 15.08074191,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.855,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.957,
+        "KOEL": 1.264
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "1430"
+    },
+    {
       "pk": 815,
       "franchise": 2,
       "name": "OMV LITIJA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-16:30\r\nsobote 06:30-12:00",
       "zip_code": "1420"
-    },
-    {
-      "pk": 823,
-      "franchise": 2,
-      "name": "OMV LOPATA JUG",
-      "address": "Lopata 80",
-      "lat": 46.261718,
-      "lng": 15.22071,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.864,
-        "dizel-premium": 1.541,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "3000"
     }
   ],
   "position": null

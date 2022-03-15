@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 780,
+      "franchise": 2,
+      "name": "OMV DRAVOGRAD",
+      "address": "Koroška c. 49",
+      "lat": 46.59033,
+      "lng": 15.01542,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.864,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.264
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2370"
+    },
+    {
       "pk": 1548,
       "franchise": 4,
       "name": "BS MOL KIDRIČEVO",
@@ -77,7 +98,7 @@
         "95": 1.503,
         "dizel": 1.541,
         "98": null,
-        "100": 1.864,
+        "100": 1.939,
         "dizel-premium": 1.541,
         "avtoplin-lpg": 0.998,
         "KOEL": null
@@ -161,7 +182,7 @@
         "95": 1.503,
         "dizel": 1.541,
         "98": null,
-        "100": 1.864,
+        "100": 1.939,
         "dizel-premium": 1.541,
         "avtoplin-lpg": 0.998,
         "KOEL": null
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-19:30",
       "zip_code": "4290"
-    },
-    {
-      "pk": 789,
-      "franchise": 2,
-      "name": "OMV FERNETIČI",
-      "address": "Partizanska c. 151",
-      "lat": 45.701768,
-      "lng": 13.841505,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.864,
-        "dizel-premium": 1.541,
-        "avtoplin-lpg": 0.956,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Sežana",
-      "open_hours": "Pon-Ned 07:00-22:00",
-      "zip_code": "6210"
     }
   ],
   "position": null
