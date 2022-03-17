@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2183,
+      "franchise": 1,
+      "name": "PETROL PONIKVA",
+      "address": "PONIKVA 36A",
+      "lat": 46.25437076,
+      "lng": 15.44383892,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3232"
+    },
+    {
       "pk": 1928,
       "franchise": 1,
       "name": "PETROL SOLKAN",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3240"
-    },
-    {
-      "pk": 1940,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
-      "address": "GOSPOSVETSKA CESTA 81",
-      "lat": 46.56349021,
-      "lng": 15.62652364,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.264
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-14:00",
-      "zip_code": "2000"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2039,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 130",
+      "address": "DUNAJSKA CESTA 130",
+      "lat": 46.078052,
+      "lng": 14.512668,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.855,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2295,
       "franchise": 13,
       "name": "FE Trading - DISKONT Ilirska Bistrica",
@@ -338,27 +359,6 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
       "zip_code": "4205"
-    },
-    {
-      "pk": 857,
-      "franchise": 2,
-      "name": "OMV SPODNJA IDRIJA",
-      "address": "Vojkova ulica 24",
-      "lat": 46.01699,
-      "lng": 14.0288,
-      "prices": {
-        "95": 1.598,
-        "dizel": 1.737,
-        "98": null,
-        "100": 1.798,
-        "dizel-premium": 1.962,
-        "avtoplin-lpg": null,
-        "KOEL": 1.018
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "5280"
     },
     {
       "pk": 2308,

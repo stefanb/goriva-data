@@ -46,6 +46,27 @@
       "zip_code": "4224"
     },
     {
+      "pk": 857,
+      "franchise": 2,
+      "name": "OMV SPODNJA IDRIJA",
+      "address": "Vojkova ulica 24",
+      "lat": 46.01699,
+      "lng": 14.0288,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.864,
+        "dizel-premium": 1.541,
+        "avtoplin-lpg": null,
+        "KOEL": 1.264
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "5280"
+    },
+    {
       "pk": 2137,
       "franchise": 1,
       "name": "PETROL ŽIRI",
@@ -506,27 +527,6 @@
       "direction": "Slovenske Konjice",
       "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
       "zip_code": "3210"
-    },
-    {
-      "pk": 2148,
-      "franchise": 1,
-      "name": "PETROL NOVO MESTO - SEIDLOVA",
-      "address": "SEIDLOVA CESTA 50",
-      "lat": 45.81283786,
-      "lng": 15.17472988,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.855,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.264
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 08:00-15:00\r\nnedelje in prazniki 08:00-15:00",
-      "zip_code": "8000"
     }
   ],
   "position": null
