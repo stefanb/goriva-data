@@ -1,5 +1,5 @@
 {
-  "count": 546,
+  "count": 547,
   "next": null,
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
@@ -86,6 +86,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2325,
+      "franchise": 12,
+      "name": "Avtočrpalka Kozina",
+      "address": "Kolodvorska ulica 18",
+      "lat": 45.6046146,
+      "lng": 13.9341655,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6240"
     },
     {
       "pk": 2119,
