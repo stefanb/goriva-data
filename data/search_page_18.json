@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2246,
+      "franchise": 3,
+      "name": "BS MAXEN LJUBLJANA-BTC",
+      "address": "Argentinska ulica bš",
+      "lat": 46.0665824,
+      "lng": 14.5488544,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1000"
+    },
+    {
       "pk": 1991,
       "franchise": 1,
       "name": "PETROL PODBRDO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1380"
-    },
-    {
-      "pk": 2004,
-      "franchise": 1,
-      "name": "PETROL KOPER - ŠMARSKA",
-      "address": "ŠMARSKA CESTA 5F",
-      "lat": 45.53250448,
-      "lng": 13.73568232,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.735,
-        "dizel-premium": 1.541,
-        "avtoplin-lpg": 1.057,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-24:00\r\nsobote 05:00-24:00\r\nnedelje in prazniki 05:00-24:00",
-      "zip_code": "6000"
     }
   ],
   "position": null
