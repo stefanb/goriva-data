@@ -466,27 +466,6 @@
       "zip_code": "8330"
     },
     {
-      "pk": 2162,
-      "franchise": 1,
-      "name": "PETROL OBREŽJE AC - VZHOD",
-      "address": "JESENICE 32A",
-      "lat": 45.85448,
-      "lng": 15.686297,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.813,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8261"
-    },
-    {
       "pk": 2163,
       "franchise": 1,
       "name": "PETROL BREŽICE - TOVARNIŠKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3210"
+    },
+    {
+      "pk": 2165,
+      "franchise": 1,
+      "name": "PETROL VELENJE - ŠALEŠKA",
+      "address": "ŠALEŠKA CESTA 9",
+      "lat": 46.3602501,
+      "lng": 15.12373353,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.264
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
+      "zip_code": "3320"
     }
   ],
   "position": null
