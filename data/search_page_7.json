@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1588,
-      "franchise": 4,
-      "name": "BS MOL SENOŽETI",
-      "address": "SENOŽETI 93",
-      "lat": 46.088644,
-      "lng": 14.716823,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.777,
-        "dizel-premium": 1.541,
-        "avtoplin-lpg": null,
-        "KOEL": 1.269
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 2100,
       "franchise": 1,
       "name": "PETROL VOKLO AC - ZAHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2110,
+      "franchise": 1,
+      "name": "PETROL LITIJA - BRODARSKA",
+      "address": "BRODARSKA ULICA 1",
+      "lat": 46.058657,
+      "lng": 14.834124,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.775,
+        "dizel-premium": 1.541,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1270"
     }
   ],
   "position": null

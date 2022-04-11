@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 1991,
-      "franchise": 1,
-      "name": "PETROL PODBRDO",
-      "address": "PODBRDO 60C",
-      "lat": 46.206127,
-      "lng": 13.959792,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.269
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-18:00\r\nsobote 08:00-15:00",
-      "zip_code": "5243"
-    },
-    {
       "pk": 2247,
       "franchise": 3,
       "name": "BS MAXEN METLIKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2005,
+      "franchise": 1,
+      "name": "PETROL IZOLA, INDUSTRIJSKA",
+      "address": "INDUSTRIJSKA CESTA 9B",
+      "lat": 45.535631,
+      "lng": 13.671735,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.775,
+        "dizel-premium": 1.541,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "6310"
     }
   ],
   "position": null

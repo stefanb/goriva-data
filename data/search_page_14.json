@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2196,
-      "franchise": 1,
-      "name": "PETROL ROGATEC",
-      "address": "CELJSKA CESTA 43",
-      "lat": 46.226069,
-      "lng": 15.693021,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.775,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.269
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-17:00",
-      "zip_code": "3252"
-    },
-    {
       "pk": 1941,
       "franchise": 1,
       "name": "PETROL OPLOTNICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 12:30-15:00",
       "zip_code": "2393"
+    },
+    {
+      "pk": 1953,
+      "franchise": 1,
+      "name": "PETROL ČRNCI",
+      "address": "ČRNCI 47A",
+      "lat": 46.69630599,
+      "lng": 15.88782207,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.269
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9253"
     }
   ],
   "position": null
