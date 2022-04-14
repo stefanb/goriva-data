@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2148,
-      "franchise": 1,
-      "name": "PETROL NOVO MESTO - SEIDLOVA",
-      "address": "SEIDLOVA CESTA 50",
-      "lat": 45.81283786,
-      "lng": 15.17472988,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.771,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.258
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 08:00-15:00",
-      "zip_code": "8000"
-    },
-    {
       "pk": 869,
       "franchise": 2,
       "name": "OMV TREBNJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
       "zip_code": "3320"
+    },
+    {
+      "pk": 2166,
+      "franchise": 1,
+      "name": "PETROL VRANSKO",
+      "address": "VRANSKO 74A",
+      "lat": 46.24594145,
+      "lng": 14.95996662,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.771,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.258
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3305"
     }
   ],
   "position": null
