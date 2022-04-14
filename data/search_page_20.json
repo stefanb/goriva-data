@@ -4,111 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2252,
-      "franchise": 3,
-      "name": "BS MAXEN VELENJE",
-      "address": "Črnova bš",
-      "lat": 46.347808,
-      "lng": 15.1495248,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "3320"
-    },
-    {
-      "pk": 1997,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - SEVER",
-      "address": "MEDNARODNI PREHOD 1A",
-      "lat": 45.920547,
-      "lng": 13.628483,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.848,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5290"
-    },
-    {
-      "pk": 2253,
-      "franchise": 3,
-      "name": "BS MAXEN LOGATEC",
-      "address": "Tržaška cesta bš",
-      "lat": 45.9388,
-      "lng": 14.2365616,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2254,
-      "franchise": 3,
-      "name": "BS MAXEN RIBNICA",
-      "address": "Gorenjska cesta bš",
-      "lat": 45.7490272,
-      "lng": 14.7190224,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1310"
-    },
-    {
-      "pk": 2255,
-      "franchise": 3,
-      "name": "BS MAXEN NOVO MESTO",
-      "address": "Mirnopeška cesta bš",
-      "lat": 45.8202208,
-      "lng": 15.1490384,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8000"
-    },
-    {
       "pk": 2000,
       "franchise": 1,
       "name": "PETROL VRTOJBA AC - JUG",
@@ -170,6 +65,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "5270"
+    },
+    {
+      "pk": 2007,
+      "franchise": 1,
+      "name": "PETROL ŠTALONI",
+      "address": "KOZARNO 1B",
+      "lat": 46.00171653,
+      "lng": 13.51782499,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.771,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.258
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "5212"
     },
     {
       "pk": 2008,
@@ -296,6 +212,27 @@
       "direction": "Maribor",
       "open_hours": "Pon-Pet 05:00-22:00; Sob, Ned, Praz. 06:00-22:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2016,
+      "franchise": 1,
+      "name": "PETROL AJDOVŠČINA - VIPAVSKA",
+      "address": "VIPAVSKA CESTA 4C",
+      "lat": 45.88288,
+      "lng": 13.90989,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.771,
+        "dizel-premium": 1.541,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5270"
     },
     {
       "pk": 2018,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
       "zip_code": "3270"
+    },
+    {
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.848,
+        "dizel-premium": 1.541,
+        "avtoplin-lpg": 1.099,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
+    },
+    {
+      "pk": 2288,
+      "franchise": 13,
+      "name": "FE Trading - DISKONT Tržič",
+      "address": "Cesta Ste Marie aux mines 7",
+      "lat": 46.358642,
+      "lng": 14.298618,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
+      "zip_code": "4290"
+    },
+    {
+      "pk": 2033,
+      "franchise": 1,
+      "name": "PETROL PIVKA",
+      "address": "POSTOJNSKA CESTA 20A",
+      "lat": 45.68611881,
+      "lng": 14.19717139,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.771,
+        "dizel-premium": 1.541,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "6257"
     }
   ],
   "position": null

@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": 1.848,
-        "dizel-premium": 1.541,
-        "avtoplin-lpg": 1.099,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
-    },
-    {
-      "pk": 2288,
-      "franchise": 13,
-      "name": "FE Trading - DISKONT Tržič",
-      "address": "Cesta Ste Marie aux mines 7",
-      "lat": 46.358642,
-      "lng": 14.298618,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.541,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "4290"
-    },
-    {
       "pk": 2289,
       "franchise": 13,
       "name": "FE Trading - DISKONT Kranj",
@@ -65,6 +23,27 @@
       "direction": "",
       "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2034,
+      "franchise": 1,
+      "name": "PETROL KOPER - KOLODVORSKA",
+      "address": "KOLODVORSKA CESTA 3A",
+      "lat": 45.542714,
+      "lng": 13.735513,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.771,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "6000"
     },
     {
       "pk": 2290,
@@ -106,6 +85,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2036,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - CELOVŠKA 226",
+      "address": "CELOVŠKA CESTA 226",
+      "lat": 46.081849,
+      "lng": 14.479525,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.541,
+        "98": null,
+        "100": 1.771,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Kranj",
+      "open_hours": "NON-STOP",
       "zip_code": "1000"
     },
     {
