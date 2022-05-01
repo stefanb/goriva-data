@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 1961,
-      "franchise": 1,
-      "name": "PETROL LJUTOMER",
-      "address": "PREŠERNOVA ULICA 19",
-      "lat": 46.52201409,
-      "lng": 16.19426906,
-      "prices": {
-        "95": 1.617,
-        "dizel": 1.817,
-        "98": null,
-        "100": 1.82,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9240"
-    },
-    {
-      "pk": 2217,
-      "franchise": 1,
-      "name": "PETROL ŠTORE",
-      "address": "OBRTNIŠKA CESTA 2",
-      "lat": 46.224064,
-      "lng": 15.312733,
-      "prices": {
-        "95": 1.617,
-        "dizel": 1.817,
-        "98": null,
-        "100": 1.82,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3220"
-    },
-    {
       "pk": 1962,
       "franchise": 1,
       "name": "PETROL LENDAVA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-13:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "9261"
+    },
+    {
+      "pk": 1975,
+      "franchise": 1,
+      "name": "PETROL KUZMA",
+      "address": "KUZMA 26B",
+      "lat": 46.83371949,
+      "lng": 16.08249735,
+      "prices": {
+        "95": 1.617,
+        "dizel": 1.817,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:30-18:00\r\nsobote 07:30-13:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9263"
+    },
+    {
+      "pk": 2233,
+      "franchise": 1,
+      "name": "PETROL MENGEŠ - KAMNIŠKA",
+      "address": "KAMNIŠKA CESTA 60",
+      "lat": 46.172911,
+      "lng": 14.577254,
+      "prices": {
+        "95": 1.617,
+        "dizel": 1.817,
+        "98": null,
+        "100": 1.82,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1234"
     }
   ],
   "position": null
