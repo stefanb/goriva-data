@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2234,
-      "franchise": 4,
-      "name": "BS MOL TEZNO",
-      "address": "Ptujska cesta 56",
-      "lat": 46.537696,
-      "lng": 15.655975,
-      "prices": {
-        "95": 1.617,
-        "dizel": 1.816,
-        "98": null,
-        "100": 1.829,
-        "dizel-premium": 1.999,
-        "avtoplin-lpg": 1.057,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek:            05:00 - 22:00\r\nSobota:                                06:00 - 22:00\r\nNedelja:                               06:00 - 22:00\r\nPrazniki:                               06:00 - 22:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1979,
-      "franchise": 1,
-      "name": "PETROL VUČJA VAS",
-      "address": "BUČEČOVCI 4B",
-      "lat": 46.591207,
-      "lng": 16.10787,
-      "prices": {
-        "95": 1.617,
-        "dizel": 1.817,
-        "98": null,
-        "100": 1.82,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "9242"
-    },
-    {
-      "pk": 2235,
-      "franchise": 4,
-      "name": "BS MOL KRANJ",
-      "address": "Ulica Boštjana Hladnika 4",
-      "lat": 46.230565,
-      "lng": 14.369373,
-      "prices": {
-        "95": 1.617,
-        "dizel": 1.816,
-        "98": null,
-        "100": 1.829,
-        "dizel-premium": 1.999,
-        "avtoplin-lpg": 1.057,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "4000"
-    },
-    {
       "pk": 1980,
       "franchise": 1,
       "name": "PETROL DORNBERK",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1380"
+    },
+    {
+      "pk": 2004,
+      "franchise": 1,
+      "name": "PETROL KOPER - ŠMARSKA",
+      "address": "ŠMARSKA CESTA 5F",
+      "lat": 45.53250448,
+      "lng": 13.73568232,
+      "prices": {
+        "95": 1.617,
+        "dizel": 1.817,
+        "98": null,
+        "100": 1.82,
+        "dizel-premium": 2.148,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 2005,
+      "franchise": 1,
+      "name": "PETROL IZOLA, INDUSTRIJSKA",
+      "address": "INDUSTRIJSKA CESTA 9B",
+      "lat": 45.535631,
+      "lng": 13.671735,
+      "prices": {
+        "95": 1.617,
+        "dizel": 1.817,
+        "98": null,
+        "100": 1.82,
+        "dizel-premium": 2.148,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 2006,
+      "franchise": 1,
+      "name": "PETROL HRPELJE",
+      "address": "REŠKA CESTA 51",
+      "lat": 45.604489,
+      "lng": 13.949959,
+      "prices": {
+        "95": 1.617,
+        "dizel": 1.817,
+        "98": null,
+        "100": 1.82,
+        "dizel-premium": 2.148,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6240"
     }
   ],
   "position": null

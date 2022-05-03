@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 776,
-      "franchise": 2,
-      "name": "OMV DIVAČA",
-      "address": "Kolodvorska 1",
-      "lat": 45.681494,
-      "lng": 13.968687,
-      "prices": {
-        "95": 1.619,
-        "dizel": 1.824,
-        "98": null,
-        "100": 1.839,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
-      "zip_code": "6215"
-    },
-    {
       "pk": 779,
       "franchise": 2,
       "name": "OMV DOL PRI LJUBLJANI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "4248"
+    },
+    {
+      "pk": 814,
+      "franchise": 2,
+      "name": "OMV LIPOVCI",
+      "address": "Lipovci 243b",
+      "lat": 46.625125,
+      "lng": 16.214332,
+      "prices": {
+        "95": 1.619,
+        "dizel": 1.824,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "9231"
     }
   ],
   "position": null
