@@ -4,90 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.647,
-        "dizel": 1.847,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
-    {
-      "pk": 768,
-      "franchise": 2,
-      "name": "OMV BERTOKI",
-      "address": "C.med vinogradi 52",
-      "lat": 45.555358,
-      "lng": 13.78105,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.849,
-        "98": null,
-        "100": 1.878,
-        "dizel-premium": 2.096,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 769,
-      "franchise": 2,
-      "name": "OMV BRESTOVICA",
-      "address": "Brestovica 116b",
-      "lat": 45.81302,
-      "lng": 13.62228,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.849,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
-    },
-    {
-      "pk": 770,
-      "franchise": 2,
-      "name": "OMV BREZOVICA",
-      "address": "Tržaška c. 565",
-      "lat": 46.022535,
-      "lng": 14.407636,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.849,
-        "98": null,
-        "100": 1.878,
-        "dizel-premium": 2.096,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1351"
-    },
-    {
       "pk": 771,
       "franchise": 2,
       "name": "OMV BREŽICE",
@@ -527,6 +443,90 @@
       "direction": "Portorož",
       "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 805,
+      "franchise": 2,
+      "name": "OMV KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.538903,
+      "lng": 13.728619,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.849,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": 2.096,
+        "avtoplin-lpg": null,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 806,
+      "franchise": 2,
+      "name": "OMV KOPER TERMINAL",
+      "address": "Ankaranska c. 5d",
+      "lat": 45.545957,
+      "lng": 13.742681,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.849,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 807,
+      "franchise": 2,
+      "name": "OMV KOPER TOMOS",
+      "address": "Šmarska c. 4a",
+      "lat": 45.530207,
+      "lng": 13.734777,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.849,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 808,
+      "franchise": 2,
+      "name": "OMV KOZINA",
+      "address": "Mestni trg 7",
+      "lat": 45.60807,
+      "lng": 13.93501,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.849,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6240"
     }
   ],
   "position": null

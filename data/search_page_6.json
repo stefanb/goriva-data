@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 2055,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
-      "address": "DUNAJSKA CESTA 460",
-      "lat": 46.10458934,
-      "lng": 14.54127278,
-      "prices": {
-        "95": 1.652,
-        "dizel": 1.853,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-13:00",
-      "zip_code": "1231"
-    },
-    {
-      "pk": 2056,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
-      "address": "DUNAJSKA CESTA 70",
-      "lat": 46.06882986,
-      "lng": 14.51074492,
-      "prices": {
-        "95": 1.652,
-        "dizel": 1.853,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2057,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
-      "address": "DOLENJSKA CESTA 242F",
-      "lat": 46.01990756,
-      "lng": 14.54219888,
-      "prices": {
-        "95": 1.652,
-        "dizel": 1.853,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2058,
       "franchise": 1,
       "name": "PETROL ZADVOR",
@@ -88,6 +25,27 @@
       "zip_code": "1261"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.652,
+        "dizel": 1.853,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 1548,
       "franchise": 4,
       "name": "BS MOL KIDRIČEVO",
@@ -107,6 +65,27 @@
       "direction": "",
       "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "2325"
+    },
+    {
+      "pk": 2316,
+      "franchise": 23,
+      "name": "BS Žihlava",
+      "address": "Žihlava 15",
+      "lat": 46.55,
+      "lng": 16.0396,
+      "prices": {
+        "95": 1.652,
+        "dizel": 1.853,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gornja Radgona - Ljutomer",
+      "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9244"
     },
     {
       "pk": 1549,
@@ -149,6 +128,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "4260"
+    },
+    {
+      "pk": 2317,
+      "franchise": 23,
+      "name": "BS Lemerje",
+      "address": "Lemerje 2",
+      "lat": 46.7094,
+      "lng": 16.1102,
+      "prices": {
+        "95": 1.652,
+        "dizel": 1.853,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Murska Sobota - Grad (Kuzma)",
+      "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9201"
     },
     {
       "pk": 1550,
