@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 778,
-      "franchise": 2,
-      "name": "OMV DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.719,
-        "dizel": 1.914,
-        "98": null,
-        "100": 1.954,
-        "dizel-premium": 2.198,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
       "pk": 781,
       "franchise": 2,
       "name": "OMV DRAVSKO POLJE JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6271"
+    },
+    {
+      "pk": 785,
+      "franchise": 2,
+      "name": "ET LENDAVA",
+      "address": "Trimlini 65b",
+      "lat": 46.54818511,
+      "lng": 16.44478697,
+      "prices": {
+        "95": null,
+        "dizel": 1.849,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9220"
     }
   ],
   "position": null
