@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 838,
-      "franchise": 2,
-      "name": "OMV ORMOŽ",
-      "address": "Hardek 44d",
-      "lat": 46.409754,
-      "lng": 16.160733,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.849,
-        "98": null,
-        "100": 1.878,
-        "dizel-premium": 2.096,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:00",
-      "zip_code": "2270"
-    },
-    {
       "pk": 839,
       "franchise": 2,
       "name": "OMV PESEK",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep Pon-Ned 07:00-20:00",
       "zip_code": "6222"
+    },
+    {
+      "pk": 868,
+      "franchise": 2,
+      "name": "OMV TEPANJE",
+      "address": "Tepanje 4b",
+      "lat": 46.340828,
+      "lng": 15.469587,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.849,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Slovenske Konjice",
+      "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
+      "zip_code": "3210"
     }
   ],
   "position": null
