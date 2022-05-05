@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 785,
+      "franchise": 2,
+      "name": "ET LENDAVA",
+      "address": "Trimlini 65b",
+      "lat": 46.54818511,
+      "lng": 16.44478697,
+      "prices": {
+        "95": null,
+        "dizel": 1.849,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9220"
+    },
+    {
       "pk": 2321,
       "franchise": 29,
       "name": "Mi oskrba d.o.o.",
@@ -128,27 +149,6 @@
       "direction": "",
       "open_hours": "pon-pet. 6.00-16.00h\r\nsob 6.00-12.00h\r\nned in prazniki zaprto",
       "zip_code": "1217"
-    },
-    {
-      "pk": 2089,
-      "franchise": 1,
-      "name": "PETROL LOM AC - VZHOD",
-      "address": "NOTRANJSKA CESTA 77",
-      "lat": 45.89814,
-      "lng": 14.256533,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
     },
     {
       "pk": 2119,

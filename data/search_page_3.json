@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 812,
+      "franchise": 2,
+      "name": "OMV LAZARET",
+      "address": "Jadranska c. 1",
+      "lat": 45.59283,
+      "lng": 13.72411,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.849,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": 2.096,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Maj: Pon-Ned 07:00-21:00; Jun-Sep: Pon-Ned 07:00-22:00",
+      "zip_code": "6280"
+    },
+    {
       "pk": 813,
       "franchise": 2,
       "name": "OMV LESCE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-14:00; Apr-Maj: Pon-Sob 06:00-20:00, Ned/Praz 08:00-15:00; Jun-Sep: Pon-Sob 6:00-21:00, Ned/Praz 7:00-21:00",
       "zip_code": "6244"
-    },
-    {
-      "pk": 841,
-      "franchise": 2,
-      "name": "OMV PORTOROŽ",
-      "address": "Fizine 17",
-      "lat": 45.515177,
-      "lng": 13.580759,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.849,
-        "98": null,
-        "100": 1.878,
-        "dizel-premium": 2.096,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6320"
     }
   ],
   "position": null

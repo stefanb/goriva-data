@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 775,
+      "franchise": 2,
+      "name": "OMV ČRNOMELJ",
+      "address": "Belokranjska c. 18a",
+      "lat": 45.57995,
+      "lng": 15.19583,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.849,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": 2.096,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8340"
+    },
+    {
       "pk": 776,
       "franchise": 2,
       "name": "OMV DIVAČA",
@@ -506,27 +527,6 @@
       "direction": "Trst",
       "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
       "zip_code": "6240"
-    },
-    {
-      "pk": 812,
-      "franchise": 2,
-      "name": "OMV LAZARET",
-      "address": "Jadranska c. 1",
-      "lat": 45.59283,
-      "lng": 13.72411,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.849,
-        "98": null,
-        "100": 1.878,
-        "dizel-premium": 2.096,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Maj: Pon-Ned 07:00-21:00; Jun-Sep: Pon-Ned 07:00-22:00",
-      "zip_code": "6280"
     }
   ],
   "position": null
