@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2003,
-      "franchise": 1,
-      "name": "PETROL CERKNICA",
-      "address": "CESTA 4. MAJA 3A",
-      "lat": 45.78853568,
-      "lng": 14.36984285,
-      "prices": {
-        "95": 1.652,
-        "dizel": 1.853,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1380"
-    },
-    {
       "pk": 2004,
       "franchise": 1,
       "name": "PETROL KOPER - ŠMARSKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-21:00\r\nsobota 07:00-21:00\r\nnedelja 08:00-20:00\r\nprazniki 08:00-20:00",
       "zip_code": "2230"
+    },
+    {
+      "pk": 2286,
+      "franchise": 4,
+      "name": "BS MOL RADLJE OB DRAVI",
+      "address": "Mariborska cesta 60",
+      "lat": 46.612815,
+      "lng": 15.232126,
+      "prices": {
+        "95": 1.652,
+        "dizel": 1.854,
+        "98": null,
+        "100": 1.869,
+        "dizel-premium": 1.999,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
+      "zip_code": "2360"
     }
   ],
   "position": null

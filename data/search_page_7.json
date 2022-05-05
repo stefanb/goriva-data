@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 2071,
-      "franchise": 1,
-      "name": "PETROL DOMŽALE - ČEŠMINOVA",
-      "address": "ČEŠMINOVA ULICA 1",
-      "lat": 46.146469,
-      "lng": 14.599615,
-      "prices": {
-        "95": 1.652,
-        "dizel": 1.853,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1230"
-    },
-    {
       "pk": 1560,
       "franchise": 4,
       "name": "BS MOL ROŽNA DOLINA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-13:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 1573,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "BAKOVSKA 31/A",
+      "lat": 46.645667,
+      "lng": 16.168083,
+      "prices": {
+        "95": 1.652,
+        "dizel": 1.854,
+        "98": null,
+        "100": 1.869,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 21:00\r\nnedelja in prazniki 08:00 - 16:00",
+      "zip_code": "9000"
     }
   ],
   "position": null

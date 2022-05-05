@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2286,
-      "franchise": 4,
-      "name": "BS MOL RADLJE OB DRAVI",
-      "address": "Mariborska cesta 60",
-      "lat": 46.612815,
-      "lng": 15.232126,
-      "prices": {
-        "95": 1.652,
-        "dizel": 1.854,
-        "98": null,
-        "100": 1.869,
-        "dizel-premium": 1.999,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
-      "zip_code": "2360"
-    },
-    {
       "pk": 2287,
       "franchise": 4,
       "name": "BS MOL LAŠKO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "2352"
+    },
+    {
+      "pk": 2246,
+      "franchise": 3,
+      "name": "BS MAXEN LJUBLJANA-BTC",
+      "address": "Argentinska ulica bš",
+      "lat": 46.0665824,
+      "lng": 14.5488544,
+      "prices": {
+        "95": 1.707,
+        "dizel": 1.913,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1000"
     }
   ],
   "position": null
