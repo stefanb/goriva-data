@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2176,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - VZHOD",
+      "address": "SPODNJE GRUŠOVJE 10B",
+      "lat": 46.347484,
+      "lng": 15.48757,
+      "prices": {
+        "95": 1.716,
+        "dizel": 1.913,
+        "98": null,
+        "100": 1.947,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.111,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
+    },
+    {
       "pk": 1923,
       "franchise": 1,
       "name": "PETROL ŠENTILJ AC - ZAHOD",
@@ -338,27 +359,6 @@
       "direction": "Koper -> Ljubljana",
       "open_hours": "NON-STOP",
       "zip_code": "6240"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.716,
-        "dizel": 1.853,
-        "98": 1.935,
-        "100": 1.935,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2018,
