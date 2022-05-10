@@ -4,69 +4,6 @@
   "previous": null,
   "results": [
     {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.599,
-        "dizel": 1.799,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.264
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
-    },
-    {
-      "pk": 2297,
-      "franchise": 16,
-      "name": "Agas Maribor",
-      "address": "Perhavčeva ulica 15",
-      "lat": 46.525107,
-      "lng": 15.667885,
-      "prices": {
-        "95": 1.619,
-        "dizel": 1.861,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.978,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "Maribor Center",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.619,
-        "dizel": 1.861,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.978,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -107,6 +44,48 @@
       "direction": "",
       "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
       "zip_code": "6253"
+    },
+    {
+      "pk": 2297,
+      "franchise": 16,
+      "name": "Agas Maribor",
+      "address": "Perhavčeva ulica 15",
+      "lat": 46.525107,
+      "lng": 15.667885,
+      "prices": {
+        "95": 1.677,
+        "dizel": 1.862,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.978,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "Maribor Center",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2299,
+      "franchise": 16,
+      "name": "Agas Slovenska Bistrica",
+      "address": "Žolgarjeva ulica 25",
+      "lat": 46.385204,
+      "lng": 15.576529,
+      "prices": {
+        "95": 1.677,
+        "dizel": 1.862,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.978,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "Izvoz Slovenska Bistrica jug",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2310"
     },
     {
       "pk": 2288,
@@ -275,6 +254,27 @@
       "direction": "",
       "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
       "zip_code": "6250"
+    },
+    {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.699,
+        "dizel": 1.849,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.359
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - NED. : 6:00 - 20:00",
+      "zip_code": "2283"
     },
     {
       "pk": 2315,
