@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2239,
+      "franchise": 3,
+      "name": "BS MAXEN NIZKA",
+      "address": "Nizka bš",
+      "lat": 46.3157792,
+      "lng": 14.9116624,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "3332"
+    },
+    {
       "pk": 1984,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8360"
-    },
-    {
-      "pk": 1996,
-      "franchise": 1,
-      "name": "PETROL POSTOJNA",
-      "address": "REŠKA CESTA 5",
-      "lat": 45.76695944,
-      "lng": 14.19834697,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "6230"
     }
   ],
   "position": null

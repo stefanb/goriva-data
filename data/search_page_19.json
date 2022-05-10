@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2014,
+      "franchise": 1,
+      "name": "PETROL PTUJ - ORMOŠKA 26/B",
+      "address": "ORMOŠKA CESTA 26B",
+      "lat": 46.41676013,
+      "lng": 15.88049476,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2250"
+    },
+    {
       "pk": 2015,
       "franchise": 1,
       "name": "PETROL PTUJ - OSOJNIKOVA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
       "zip_code": "3270"
-    },
-    {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 2.005,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": 1.099,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
     }
   ],
   "position": null

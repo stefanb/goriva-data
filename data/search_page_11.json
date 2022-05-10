@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2153,
+      "franchise": 1,
+      "name": "PETROL DVOR PRI ŽUŽEMBERKU",
+      "address": "DVOR 93",
+      "lat": 45.80627184,
+      "lng": 14.97033528,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 12:30-16:00",
+      "zip_code": "8361"
+    },
+    {
       "pk": 874,
       "franchise": 2,
       "name": "OMV VRTOJBA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3254"
-    },
-    {
-      "pk": 2175,
-      "franchise": 1,
-      "name": "PETROL TEPANJE AC - ZAHOD",
-      "address": "SPODNJE GRUŠOVJE 10C",
-      "lat": 46.348824,
-      "lng": 15.487582,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 2.005,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.099,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3210"
     }
   ],
   "position": null

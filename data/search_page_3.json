@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 2069,
+      "franchise": 1,
+      "name": "PETROL VRHNIKA - LJUBLJANSKA ZAHOD",
+      "address": "LJUBLJANSKA CESTA 3",
+      "lat": 45.968275,
+      "lng": 14.299194,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "1360"
+    },
+    {
       "pk": 790,
       "franchise": 2,
       "name": "OMV FERNETIČI JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6310"
-    },
-    {
-      "pk": 1566,
-      "franchise": 4,
-      "name": "BS MOL SEŽANA",
-      "address": "PARTIZANSKA CESTA 69/B",
-      "lat": 45.7050725,
-      "lng": 13.8608974,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.942,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": 1.057,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
     }
   ],
   "position": null

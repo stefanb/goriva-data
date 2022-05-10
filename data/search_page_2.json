@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 780,
+      "franchise": 2,
+      "name": "OMV DRAVOGRAD",
+      "address": "Koroška c. 49",
+      "lat": 46.59033,
+      "lng": 15.01542,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2370"
+    },
+    {
       "pk": 1548,
       "franchise": 4,
       "name": "BS MOL KIDRIČEVO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "PON - NED 00:00-24:00",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2069,
-      "franchise": 1,
-      "name": "PETROL VRHNIKA - LJUBLJANSKA ZAHOD",
-      "address": "LJUBLJANSKA CESTA 3",
-      "lat": 45.968275,
-      "lng": 14.299194,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "1360"
     }
   ],
   "position": null
