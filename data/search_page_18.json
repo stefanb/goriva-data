@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2033,
-      "franchise": 1,
-      "name": "PETROL PIVKA",
-      "address": "POSTOJNSKA CESTA 20A",
-      "lat": 45.68611881,
-      "lng": 14.19717139,
-      "prices": {
-        "95": 1.717,
-        "dizel": 1.862,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": 2.2,
-        "avtoplin-lpg": 1.057,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "6257"
-    },
-    {
       "pk": 2034,
       "franchise": 1,
       "name": "PETROL KOPER - KOLODVORSKA",
@@ -338,6 +317,27 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
       "zip_code": "4205"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.738,
+        "dizel": 1.897,
+        "98": 1.857,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2237,

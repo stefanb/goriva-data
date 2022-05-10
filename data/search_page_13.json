@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 1935,
-      "franchise": 1,
-      "name": "PETROL ŠEMPETER PRI GORICI - PADLIH BORCEV",
-      "address": "ULICA PADLIH BORCEV 2",
-      "lat": 45.92923326,
-      "lng": 13.64146317,
-      "prices": {
-        "95": 1.717,
-        "dizel": 1.862,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
-      "zip_code": "5290"
-    },
-    {
-      "pk": 2191,
-      "franchise": 1,
-      "name": "PETROL ŠOŠTANJ",
-      "address": "AŠKERČEVA CESTA 7",
-      "lat": 46.37530944,
-      "lng": 15.04892524,
-      "prices": {
-        "95": 1.717,
-        "dizel": 1.862,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "3325"
-    },
-    {
       "pk": 1936,
       "franchise": 1,
       "name": "PETROL ŠENTILJ - MARIBORSKA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 2205,
+      "franchise": 1,
+      "name": "PETROL NAZARJE",
+      "address": "SAVINJSKA CESTA 11",
+      "lat": 46.322491,
+      "lng": 14.950163,
+      "prices": {
+        "95": 1.717,
+        "dizel": 1.862,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3331"
+    },
+    {
+      "pk": 1950,
+      "franchise": 1,
+      "name": "PETROL IDRIJA",
+      "address": "VOJKOVA ULICA 27",
+      "lat": 46.00620792,
+      "lng": 14.02764615,
+      "prices": {
+        "95": 1.717,
+        "dizel": 1.862,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": 2.2,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "5280"
     }
   ],
   "position": null
