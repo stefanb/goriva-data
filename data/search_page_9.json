@@ -4,6 +4,69 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 847,
+      "franchise": 2,
+      "name": "OMV RAVBARKOMANDA VZHOD",
+      "address": "Javorniška pot 9a",
+      "lat": 45.78312588,
+      "lng": 14.22304178,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 1.097,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 2127,
+      "franchise": 1,
+      "name": "PETROL HORJUL",
+      "address": "VRHNIŠKA CESTA 11",
+      "lat": 46.02135318,
+      "lng": 14.30128011,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:00-12:00",
+      "zip_code": "1354"
+    },
+    {
+      "pk": 848,
+      "franchise": 2,
+      "name": "OMV RAVBARKOMANDA ZAHOD",
+      "address": "Javorniška pot 7a",
+      "lat": 45.78536414,
+      "lng": 14.22271237,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 1.097,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
       "pk": 2128,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ČRNUČE, ŠTAJERSKA",
@@ -464,69 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Pet 07:00-20:00, Sob 07:00-15:00, Ned 07:00-13:00, Praz. Zaprto; Apr-Sep: Pon-Sob 07:00-20:00, Ned 07:00-13:00, Praz. zaprto",
       "zip_code": "1386"
-    },
-    {
-      "pk": 2139,
-      "franchise": 1,
-      "name": "PETROL KRŠKO - CESTA KRŠKIH ŽRTEV",
-      "address": "CESTA KRŠKIH ŽRTEV 136A",
-      "lat": 45.941161,
-      "lng": 15.484993,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "8270"
-    },
-    {
-      "pk": 860,
-      "franchise": 2,
-      "name": "OMV STOJNCI",
-      "address": "Stojnci 24",
-      "lat": 46.380448,
-      "lng": 15.972496,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "2281"
-    },
-    {
-      "pk": 2140,
-      "franchise": 1,
-      "name": "PETROL SEVNICA",
-      "address": "PREŠERNOVA ULICA 9",
-      "lat": 46.0077338,
-      "lng": 15.3050164,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-13:00",
-      "zip_code": "8290"
     }
   ],
   "position": null

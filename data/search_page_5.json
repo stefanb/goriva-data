@@ -4,6 +4,69 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 806,
+      "franchise": 2,
+      "name": "OMV KOPER TERMINAL",
+      "address": "Ankaranska c. 5d",
+      "lat": 45.545957,
+      "lng": 13.742681,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 1574,
+      "franchise": 4,
+      "name": "BS MOL KOČEVJE",
+      "address": "REŠKA CESTA 25/A",
+      "lat": 45.632833,
+      "lng": 14.864267,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.942,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1330"
+    },
+    {
+      "pk": 2086,
+      "franchise": 1,
+      "name": "PETROL NAKLO",
+      "address": "KRANJSKA CESTA 4",
+      "lat": 46.27058563,
+      "lng": 14.31367281,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
+      "zip_code": "4202"
+    },
+    {
       "pk": 807,
       "franchise": 2,
       "name": "OMV KOPER TOMOS",
@@ -464,69 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "9231"
-    },
-    {
-      "pk": 1582,
-      "franchise": 4,
-      "name": "BS MOL MIKLAVŽ",
-      "address": "PTUJSKA CESTA 135",
-      "lat": 46.496423,
-      "lng": 15.713914,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.942,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - pet. 06:00 - 22:00\r\nsobota 07:00 - 21:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2204"
-    },
-    {
-      "pk": 2094,
-      "franchise": 1,
-      "name": "PETROL HRASTNIK",
-      "address": "PODKRAJ 77B",
-      "lat": 46.11937061,
-      "lng": 15.08074191,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1430"
-    },
-    {
-      "pk": 815,
-      "franchise": 2,
-      "name": "OMV LITIJA",
-      "address": "Zasavska c. 1",
-      "lat": 46.058713,
-      "lng": 14.832858,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1270"
     }
   ],
   "position": null

@@ -4,6 +4,69 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 1969,
+      "franchise": 1,
+      "name": "PETROL ODRANCI",
+      "address": "NASELJE GREDICE 1A",
+      "lat": 46.58197141,
+      "lng": 16.28224598,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "9233"
+    },
+    {
+      "pk": 2225,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - TOPLIŠKA",
+      "address": "TOPLIŠKA CESTA 9",
+      "lat": 45.79863637,
+      "lng": 15.15095997,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:30-21:00",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 1970,
+      "franchise": 1,
+      "name": "PETROL GORNJA RADGONA - MELE",
+      "address": "LJUTOMERSKA CESTA 36",
+      "lat": 46.66198841,
+      "lng": 16.01446177,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "9250"
+    },
+    {
       "pk": 1971,
       "franchise": 1,
       "name": "PETROL MARTJANCI",
@@ -464,69 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "4290"
-    },
-    {
-      "pk": 1982,
-      "franchise": 1,
-      "name": "PETROL AJDOVŠČINA - GORIŠKA",
-      "address": "GORIŠKA CESTA 29",
-      "lat": 45.88663093,
-      "lng": 13.89897002,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5270"
-    },
-    {
-      "pk": 2238,
-      "franchise": 3,
-      "name": "BS MAXEN KOPER",
-      "address": "Ulica 15. maja bš",
-      "lat": 45.5371584,
-      "lng": 13.7323296,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 1983,
-      "franchise": 1,
-      "name": "PETROL GOLO BRDO V BRDIH",
-      "address": "GOLO BRDO 10B",
-      "lat": 46.054382,
-      "lng": 13.497999,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5212"
     }
   ],
   "position": null
