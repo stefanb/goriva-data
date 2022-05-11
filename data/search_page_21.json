@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2045,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 101",
+      "address": "ŠMARTINSKA CESTA 101",
+      "lat": 46.066152,
+      "lng": 14.531219,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 766,
+      "franchise": 2,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 2046,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
@@ -235,27 +277,6 @@
       "zip_code": "1317"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.717,
-        "dizel": 1.862,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2324,
       "franchise": 19,
       "name": "LOGO BENCINSKI SERVIS d.o.o.",
@@ -275,27 +296,6 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.717,
-        "dizel": 1.862,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2302,
@@ -369,7 +369,7 @@
       "lng": 14.659423828125,
       "prices": {
         "95": null,
-        "dizel": 1.862,
+        "dizel": 1.668,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -390,7 +390,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.862,
+        "dizel": 1.668,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -411,7 +411,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.862,
+        "dizel": 1.668,
         "98": null,
         "100": null,
         "dizel-premium": null,

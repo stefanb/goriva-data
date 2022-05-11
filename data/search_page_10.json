@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 859,
+      "franchise": 2,
+      "name": "OMV STARI TRG",
+      "address": "C.Notranjskega odreda 5",
+      "lat": 45.715829,
+      "lng": 14.470974,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Pet 07:00-20:00, Sob 07:00-15:00, Ned 07:00-13:00, Praz. Zaprto; Apr-Sep: Pon-Sob 07:00-20:00, Ned 07:00-13:00, Praz. zaprto",
+      "zip_code": "1386"
+    },
+    {
       "pk": 2139,
       "franchise": 1,
       "name": "PETROL KRŠKO - CESTA KRŠKIH ŽRTEV",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "3320"
-    },
-    {
-      "pk": 2151,
-      "franchise": 1,
-      "name": "PETROL SEMIČ",
-      "address": "METLIŠKA CESTA 10",
-      "lat": 45.65031764,
-      "lng": 15.18401353,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 08:00-11:30",
-      "zip_code": "8333"
     }
   ],
   "position": null

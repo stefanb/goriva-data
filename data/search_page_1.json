@@ -487,6 +487,27 @@
       "zip_code": "1261"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 779,
       "franchise": 2,
       "name": "OMV DOL PRI LJUBLJANI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "1262"
-    },
-    {
-      "pk": 2059,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA AC - BARJE SEVER",
-      "address": "CESTA DVEH CESARJEV 71",
-      "lat": 46.029136,
-      "lng": 14.481739,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 2.005,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": 1.099,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
     }
   ],
   "position": null

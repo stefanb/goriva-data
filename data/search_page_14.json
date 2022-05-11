@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 1943,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - NA POLJANAH",
+      "address": "NA POLJANAH 10",
+      "lat": 46.551953,
+      "lng": 15.630002,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2199,
       "franchise": 1,
       "name": "PETROL CELJE - MARIBORSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "2382"
-    },
-    {
-      "pk": 1956,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PTUJSKA 188",
-      "address": "PTUJSKA CESTA 188",
-      "lat": 46.52829802,
-      "lng": 15.67244913,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "2000"
     }
   ],
   "position": null

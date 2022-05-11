@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2237,
+      "franchise": 3,
+      "name": "BS MAXEN TRŽIČ",
+      "address": "Cesta Ste Marie aux Mines bš",
+      "lat": 46.3583296,
+      "lng": 14.2978288,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "4290"
+    },
+    {
       "pk": 1982,
       "franchise": 1,
       "name": "PETROL AJDOVŠČINA - GORIŠKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "2392"
-    },
-    {
-      "pk": 1994,
-      "franchise": 1,
-      "name": "PETROL JAGODJE - JUG",
-      "address": "JAGODJE 10",
-      "lat": 45.52451738,
-      "lng": 13.6508096,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "6310"
     }
   ],
   "position": null

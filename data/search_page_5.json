@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 2085,
+      "franchise": 1,
+      "name": "PETROL PODKOREN",
+      "address": "PODKOREN 1A",
+      "lat": 46.4896618,
+      "lng": 13.76471293,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "4280"
+    },
+    {
       "pk": 806,
       "franchise": 2,
       "name": "OMV KOPER TERMINAL",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "4220"
-    },
-    {
-      "pk": 814,
-      "franchise": 2,
-      "name": "OMV LIPOVCI",
-      "address": "Lipovci 243b",
-      "lat": 46.625125,
-      "lng": 16.214332,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "9231"
     }
   ],
   "position": null

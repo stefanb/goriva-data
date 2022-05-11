@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 814,
+      "franchise": 2,
+      "name": "OMV LIPOVCI",
+      "address": "Lipovci 243b",
+      "lat": 46.625125,
+      "lng": 16.214332,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "9231"
+    },
+    {
       "pk": 1582,
       "franchise": 4,
       "name": "BS MOL MIKLAVŽ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
       "zip_code": "6219"
-    },
-    {
-      "pk": 1590,
-      "franchise": 4,
-      "name": "BS MOL RUDNIK",
-      "address": "PREMRLOVA ULICA 10",
-      "lat": 46.01729,
-      "lng": 14.530471,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.942,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 16:00",
-      "zip_code": "1000"
     }
   ],
   "position": null

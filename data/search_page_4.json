@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 797,
+      "franchise": 2,
+      "name": "OMV ILIRSKA BISTRICA BAZOVIŠKA",
+      "address": "Bazoviška 45",
+      "lat": 45.559604,
+      "lng": 14.244346,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
+      "zip_code": "6250"
+    },
+    {
       "pk": 1565,
       "franchise": 4,
       "name": "BS MOL NOVO MESTO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 21:00\r\nnedelja in prazniki 08:00 - 16:00",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2085,
-      "franchise": 1,
-      "name": "PETROL PODKOREN",
-      "address": "PODKOREN 1A",
-      "lat": 46.4896618,
-      "lng": 13.76471293,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "4280"
     }
   ],
   "position": null
