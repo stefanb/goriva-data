@@ -4,6 +4,111 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 2136,
+      "franchise": 1,
+      "name": "PETROL GORENJA VAS",
+      "address": "POLJANSKA CESTA 118",
+      "lat": 46.105122,
+      "lng": 14.144388,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "4224"
+    },
+    {
+      "pk": 857,
+      "franchise": 2,
+      "name": "OMV SPODNJA IDRIJA",
+      "address": "Vojkova ulica 24",
+      "lat": 46.01699,
+      "lng": 14.0288,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "5280"
+    },
+    {
+      "pk": 2137,
+      "franchise": 1,
+      "name": "PETROL ŽIRI",
+      "address": "JOBSTOVA CESTA 35",
+      "lat": 46.043743,
+      "lng": 14.10785,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
+      "zip_code": "4226"
+    },
+    {
+      "pk": 858,
+      "franchise": 2,
+      "name": "OMV SPODNJI DUPLEK",
+      "address": "C. 4.julija 69",
+      "lat": 46.501143,
+      "lng": 15.751535,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.316
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2241"
+    },
+    {
+      "pk": 2138,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
+      "address": "BARJANSKA CESTA 90",
+      "lat": 46.031446,
+      "lng": 14.499955,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 859,
       "franchise": 2,
       "name": "OMV STARI TRG",
@@ -422,111 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 08:00-15:00",
       "zip_code": "8000"
-    },
-    {
-      "pk": 869,
-      "franchise": 2,
-      "name": "OMV TREBNJE",
-      "address": "Obrtniška 28",
-      "lat": 45.910462,
-      "lng": 15.025649,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8210"
-    },
-    {
-      "pk": 2149,
-      "franchise": 1,
-      "name": "PETROL BRESTANICA",
-      "address": "CESTA PRVIH BORCEV 17",
-      "lat": 45.995159,
-      "lng": 15.476035,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "8280"
-    },
-    {
-      "pk": 870,
-      "franchise": 2,
-      "name": "OMV VELENJE GORENJE",
-      "address": "Partizanska c. 15a",
-      "lat": 46.359472,
-      "lng": 15.099174,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:30",
-      "zip_code": "3320"
-    },
-    {
-      "pk": 2150,
-      "franchise": 1,
-      "name": "PETROL VAVTA VAS",
-      "address": "VAVTA VAS 1A",
-      "lat": 45.78222236,
-      "lng": 15.08335069,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 13:00-18:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "8351"
-    },
-    {
-      "pk": 871,
-      "franchise": 2,
-      "name": "OMV VELENJE SELO",
-      "address": "Selo 10a",
-      "lat": 46.36972,
-      "lng": 15.13265,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3320"
     }
   ],
   "position": null

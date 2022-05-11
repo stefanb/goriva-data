@@ -4,6 +4,111 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2027,
+      "franchise": 1,
+      "name": "PETROL PINCE AC - JUG",
+      "address": "PINCE-MAROF 55",
+      "lat": 46.52174721,
+      "lng": 16.51820014,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 2.005,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 1.099,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 2283,
+      "franchise": 4,
+      "name": "BS MOL ŠALOVCI",
+      "address": "Šalovci 168",
+      "lat": 46.821993,
+      "lng": 16.278851,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.942,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-19:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
+      "zip_code": "9204"
+    },
+    {
+      "pk": 2028,
+      "franchise": 1,
+      "name": "PETROL SLIVNICA VZHOD",
+      "address": "LJUBLJANSKA CESTA 61",
+      "lat": 46.493923,
+      "lng": 15.652196,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "2311"
+    },
+    {
+      "pk": 2284,
+      "franchise": 4,
+      "name": "BS MOL HOTIZA",
+      "address": "Ložič 1",
+      "lat": 46.551502,
+      "lng": 16.344579,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.942,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-18:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 2029,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA - PLESE",
+      "address": "PANONSKA ULICA 5",
+      "lat": 46.656739,
+      "lng": 16.178624,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-23:00",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2285,
       "franchise": 4,
       "name": "BS MOL LENART",
@@ -422,111 +527,6 @@
       "direction": "",
       "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
       "zip_code": "6250"
-    },
-    {
-      "pk": 2040,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 44",
-      "address": "TRŽAŠKA CESTA 44",
-      "lat": 46.04443147,
-      "lng": 14.48517761,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-13:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2041,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
-      "address": "TRŽAŠKA CESTA 131A",
-      "lat": 46.03869769,
-      "lng": 14.47088774,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2042,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ZALOŠKA",
-      "address": "ZALOŠKA CESTA 60A",
-      "lat": 46.05587096,
-      "lng": 14.53893203,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.374
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2043,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK VZHOD",
-      "address": "DOLENJSKA CESTA 157A",
-      "lat": 46.01990066,
-      "lng": 14.54272853,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2044,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 133",
-      "address": "DUNAJSKA CESTA 133",
-      "lat": 46.07883295,
-      "lng": 14.51209267,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.927,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1000"
     }
   ],
   "position": null

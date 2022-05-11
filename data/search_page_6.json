@@ -4,6 +4,111 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 1580,
+      "franchise": 4,
+      "name": "BS MOL PTUJ",
+      "address": "PUHOVA ULICA 18A",
+      "lat": 46.421507,
+      "lng": 15.88666,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.942,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2250"
+    },
+    {
+      "pk": 2092,
+      "franchise": 1,
+      "name": "PETROL TRZIN",
+      "address": "LJUBLJANSKA CESTA 50",
+      "lat": 46.123204,
+      "lng": 14.553637,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.927,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 22:00-24:00",
+      "zip_code": "1236"
+    },
+    {
+      "pk": 813,
+      "franchise": 2,
+      "name": "OMV LESCE",
+      "address": "Hraška c. 17",
+      "lat": 46.365369,
+      "lng": 14.16032,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4248"
+    },
+    {
+      "pk": 1581,
+      "franchise": 4,
+      "name": "BS MOL ZASAVJE",
+      "address": "ZAVRŠJE 30",
+      "lat": 46.1110129,
+      "lng": 15.0066052,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.942,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 2093,
+      "franchise": 1,
+      "name": "PETROL BRODE",
+      "address": "BRODE 20",
+      "lat": 46.1379264,
+      "lng": 14.25352741,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.374
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "4220"
+    },
+    {
       "pk": 814,
       "franchise": 2,
       "name": "OMV LIPOVCI",
@@ -422,111 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
-    },
-    {
-      "pk": 2100,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - ZAHOD",
-      "address": "GASILSKA CESTA 55",
-      "lat": 46.22788,
-      "lng": 14.419719,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 2.005,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.099,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 821,
-      "franchise": 2,
-      "name": "OMV LJUTOMER",
-      "address": "Kolodvorska 7a",
-      "lat": 46.5289,
-      "lng": 16.19006,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.316
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "9240"
-    },
-    {
-      "pk": 1589,
-      "franchise": 4,
-      "name": "BS MOL BTC",
-      "address": "LETALIŠKA CESTA 24",
-      "lat": 46.061644,
-      "lng": 14.564443,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.942,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 06:00-22:00\r\nSOBOTA    07:00-22:00\r\nNEDELJA    08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2101,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - VZHOD",
-      "address": "GASILSKA CESTA 51",
-      "lat": 46.22679,
-      "lng": 14.424885,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 2.005,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.099,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 822,
-      "franchise": 2,
-      "name": "OMV LOKEV",
-      "address": "Lokev 1a",
-      "lat": 45.66133,
-      "lng": 13.91942,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6219"
     }
   ],
   "position": null
