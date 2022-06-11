@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2024,
+      "franchise": 1,
+      "name": "PETROL PTUJ - DORNAVSKA",
+      "address": "DORNAVSKA CESTA 6B",
+      "lat": 46.42336766,
+      "lng": 15.88908401,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 2.204,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.538
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2250"
+    },
+    {
       "pk": 2025,
       "franchise": 1,
       "name": "PETROL MARIBOR - TRŽAŠKA 11",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-13:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2294,
-      "franchise": 13,
-      "name": "FE Trading - DISKONT Postojna",
-      "address": "Industrijska cesta 4",
-      "lat": 45.769831,
-      "lng": 14.197979,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "6230"
     }
   ],
   "position": null

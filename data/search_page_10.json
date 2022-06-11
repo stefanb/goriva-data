@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 856,
+      "franchise": 2,
+      "name": "OMV SMEDNIK",
+      "address": "Smednik 12a",
+      "lat": 45.90773,
+      "lng": 15.37137,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 2.214,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 0.998,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Novo Mesto",
+      "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
+      "zip_code": "8274"
+    },
+    {
       "pk": 2136,
       "franchise": 1,
       "name": "PETROL GORENJA VAS",
@@ -506,27 +527,6 @@
       "direction": "Slovenske Konjice",
       "open_hours": "16.Sep-14.Jun: Pon-Ned 6:00-22:00; 15.Jun-15.Sep: Pon-Ned 6:00-23:00",
       "zip_code": "3210"
-    },
-    {
-      "pk": 2148,
-      "franchise": 1,
-      "name": "PETROL NOVO MESTO - SEIDLOVA",
-      "address": "SEIDLOVA CESTA 50",
-      "lat": 45.81283786,
-      "lng": 15.17472988,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 2.204,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.538
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 08:00-15:00",
-      "zip_code": "8000"
     }
   ],
   "position": null

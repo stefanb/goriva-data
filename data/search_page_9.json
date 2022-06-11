@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 843,
+      "franchise": 2,
+      "name": "OMV POSTOJNA TRŽAŠKA",
+      "address": "Tržaška c. 60b",
+      "lat": 45.772642,
+      "lng": 14.200028,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": 2.214,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.567
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
+    },
+    {
       "pk": 844,
       "franchise": 2,
       "name": "OMV RADOVLJICA JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-15:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 856,
-      "franchise": 2,
-      "name": "OMV SMEDNIK",
-      "address": "Smednik 12a",
-      "lat": 45.90773,
-      "lng": 15.37137,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.668,
-        "98": null,
-        "100": 2.214,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": 0.998,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Novo Mesto",
-      "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
-      "zip_code": "8274"
     }
   ],
   "position": null

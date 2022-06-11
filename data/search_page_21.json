@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2294,
+      "franchise": 13,
+      "name": "FE Trading - DISKONT Postojna",
+      "address": "Industrijska cesta 4",
+      "lat": 45.769831,
+      "lng": 14.197979,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.668,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
+      "zip_code": "6230"
+    },
+    {
       "pk": 2039,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - DUNAJSKA 130",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6210"
-    },
-    {
-      "pk": 2320,
-      "franchise": 25,
-      "name": "URMA D.O.O.",
-      "address": "DEKANI 076 E",
-      "lat": 1e-15,
-      "lng": -1e-15,
-      "prices": {
-        "95": null,
-        "dizel": 1.186,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.95
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6271"
     }
   ],
   "position": null
