@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 1946,
-      "franchise": 1,
-      "name": "PETROL SREDIŠČE OB DRAVI",
-      "address": "SLOVENSKA CESTA 91A",
-      "lat": 46.394433,
-      "lng": 16.277736,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.641
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 07:00-12:00",
-      "zip_code": "2277"
-    },
-    {
       "pk": 1947,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - VOJKOVA VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2215,
+      "franchise": 1,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA JUG",
+      "address": "RONKOVA ULICA 25",
+      "lat": 46.504186,
+      "lng": 15.090699,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.15,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.641
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2380"
     }
   ],
   "position": null
