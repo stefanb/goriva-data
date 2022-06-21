@@ -25,6 +25,27 @@
       "zip_code": "4226"
     },
     {
+      "pk": 858,
+      "franchise": 2,
+      "name": "OMV SPODNJI DUPLEK",
+      "address": "C. 4.julija 69",
+      "lat": 46.501143,
+      "lng": 15.751535,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.178,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.622
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2241"
+    },
+    {
       "pk": 2138,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-19:00\r\nsobote 12:00-13:00",
       "zip_code": "8333"
-    },
-    {
-      "pk": 872,
-      "franchise": 2,
-      "name": "OMV VIPOLŽE",
-      "address": "Vipolže 6b",
-      "lat": 45.966782,
-      "lng": 13.540767,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.178,
-        "dizel-premium": 1.848,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "5212"
     }
   ],
   "position": null

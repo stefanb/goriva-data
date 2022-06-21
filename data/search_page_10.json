@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 872,
+      "franchise": 2,
+      "name": "OMV VIPOLŽE",
+      "address": "Vipolže 6b",
+      "lat": 45.966782,
+      "lng": 13.540767,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.178,
+        "dizel-premium": 1.848,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "5212"
+    },
+    {
       "pk": 2152,
       "franchise": 1,
       "name": "PETROL ŠENTJERNEJ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "3320"
-    },
-    {
-      "pk": 2173,
-      "franchise": 1,
-      "name": "PETROL ŠENTRUPERT",
-      "address": "ŠENTRUPERT 6B",
-      "lat": 46.250078,
-      "lng": 15.075261,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.641
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3303"
     }
   ],
   "position": null
