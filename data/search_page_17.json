@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2004,
-      "franchise": 1,
-      "name": "PETROL KOPER - ŠMARSKA",
-      "address": "ŠMARSKA CESTA 5F",
-      "lat": 45.53250448,
-      "lng": 13.73568232,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 2005,
-      "franchise": 1,
-      "name": "PETROL IZOLA, INDUSTRIJSKA",
-      "address": "INDUSTRIJSKA CESTA 9B",
-      "lat": 45.535631,
-      "lng": 13.671735,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 2006,
       "franchise": 1,
       "name": "PETROL HRPELJE",
@@ -151,6 +109,27 @@
       "zip_code": "2250"
     },
     {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.15,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.641
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
+    },
+    {
       "pk": 2012,
       "franchise": 1,
       "name": "PETROL HAJDOŠE",
@@ -170,6 +149,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": 2.15,
+        "100": 2.15,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.646
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2013,

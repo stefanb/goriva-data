@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2056,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
-      "address": "DUNAJSKA CESTA 70",
-      "lat": 46.06882986,
-      "lng": 14.51074492,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2057,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
-      "address": "DOLENJSKA CESTA 242F",
-      "lat": 46.01990756,
-      "lng": 14.54219888,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 07:00-19:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2058,
       "franchise": 1,
       "name": "PETROL ZADVOR",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "1420"
+    },
+    {
+      "pk": 2323,
+      "franchise": 2,
+      "name": "OMV KOPER LUKA",
+      "address": "Vojkovo nabrežje 38",
+      "lat": 45.55757,
+      "lng": 13.75353,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 1556,
+      "franchise": 4,
+      "name": "BS MOL LOGATEC",
+      "address": "TRŽAŠKA 74A",
+      "lat": 45.9166669,
+      "lng": 14.218824,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.174,
+        "dizel-premium": 1.848,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1370"
     }
   ],
   "position": null

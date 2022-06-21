@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 2323,
-      "franchise": 2,
-      "name": "OMV KOPER LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.55757,
-      "lng": 13.75353,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 1556,
-      "franchise": 4,
-      "name": "BS MOL LOGATEC",
-      "address": "TRŽAŠKA 74A",
-      "lat": 45.9166669,
-      "lng": 14.218824,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.174,
-        "dizel-premium": 1.848,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "1370"
-    },
-    {
       "pk": 2068,
       "franchise": 1,
       "name": "PETROL TRŽIČ - VZHOD",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 798,
+      "franchise": 2,
+      "name": "OMV IZOLA JUG",
+      "address": "Prešernova 7c",
+      "lat": 45.53687,
+      "lng": 13.66795,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.178,
+        "dizel-premium": 1.848,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 1566,
+      "franchise": 4,
+      "name": "BS MOL SEŽANA",
+      "address": "PARTIZANSKA CESTA 69/B",
+      "lat": 45.7050725,
+      "lng": 13.8608974,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.174,
+        "dizel-premium": 1.848,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
     }
   ],
   "position": null
