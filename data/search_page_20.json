@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 1949,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - VZHOD",
+      "address": "STANOŠINA 35",
+      "lat": 46.326604,
+      "lng": 15.880214,
+      "prices": {
+        "95": 1.851,
+        "dizel": 1.895,
+        "98": null,
+        "100": 2.227,
+        "dizel-premium": 2.391,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2286"
+    },
+    {
       "pk": 2216,
       "franchise": 1,
       "name": "PETROL LOPATA AC - SEVER",
@@ -506,27 +527,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.924,
-        "dizel": 1.999,
-        "98": null,
-        "100": 2.254,
-        "dizel-premium": 2.299,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
     }
   ],
   "position": null

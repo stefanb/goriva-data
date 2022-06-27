@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2320,
+      "franchise": 25,
+      "name": "URMA D.O.O.",
+      "address": "DEKANI 076 E",
+      "lat": 1e-15,
+      "lng": -1e-15,
+      "prices": {
+        "95": null,
+        "dizel": 1.186,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.95
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6271"
+    },
+    {
       "pk": 785,
       "franchise": 2,
       "name": "ET LENDAVA",
@@ -149,27 +170,6 @@
       "direction": "",
       "open_hours": "pon-pet. 6.00-16.00h\r\nsob 6.00-12.00h\r\nned in prazniki zaprto",
       "zip_code": "1217"
-    },
-    {
-      "pk": 2123,
-      "franchise": 1,
-      "name": "PETROL LUKOVICA AC - JUG",
-      "address": "KOSESKEGA CESTA 1",
-      "lat": 46.166803,
-      "lng": 14.693314,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "NON-STOP",
-      "zip_code": "1225"
     },
     {
       "pk": 2185,

@@ -340,6 +340,27 @@
       "zip_code": "1294"
     },
     {
+      "pk": 2123,
+      "franchise": 1,
+      "name": "PETROL LUKOVICA AC - JUG",
+      "address": "KOSESKEGA CESTA 1",
+      "lat": 46.166803,
+      "lng": 14.693314,
+      "prices": {
+        "95": 1.851,
+        "dizel": 1.895,
+        "98": null,
+        "100": 2.227,
+        "dizel-premium": 2.391,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "1225"
+    },
+    {
       "pk": 2141,
       "franchise": 1,
       "name": "PETROL ČATEŽ AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8274"
-    },
-    {
-      "pk": 1949,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - VZHOD",
-      "address": "STANOŠINA 35",
-      "lat": 46.326604,
-      "lng": 15.880214,
-      "prices": {
-        "95": 1.851,
-        "dizel": 1.895,
-        "98": null,
-        "100": 2.227,
-        "dizel-premium": 2.391,
-        "avtoplin-lpg": 1.041,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2286"
     }
   ],
   "position": null
