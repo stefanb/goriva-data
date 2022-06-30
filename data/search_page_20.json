@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2202,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - SEVER",
+      "address": "ZALOKE 15",
+      "lat": 45.909601,
+      "lng": 15.400316,
+      "prices": {
+        "95": 1.851,
+        "dizel": 1.895,
+        "98": null,
+        "100": 2.227,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
       "pk": 1949,
       "franchise": 1,
       "name": "PETROL PODLEHNIK AC - VZHOD",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "Trst",
       "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
-      "zip_code": "6281"
-    },
-    {
-      "pk": 864,
-      "franchise": 2,
-      "name": "OMV ŠKOFIJE BLOK ZAHOD",
-      "address": "Sp.Škofije 256a",
-      "lat": 45.579851,
-      "lng": 13.796288,
-      "prices": {
-        "95": 1.874,
-        "dizel": 1.977,
-        "98": null,
-        "100": 2.178,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
     }
   ],

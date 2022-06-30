@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 864,
+      "franchise": 2,
+      "name": "OMV ŠKOFIJE BLOK ZAHOD",
+      "address": "Sp.Škofije 256a",
+      "lat": 45.579851,
+      "lng": 13.796288,
+      "prices": {
+        "95": 1.874,
+        "dizel": 1.977,
+        "98": null,
+        "100": 2.178,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6281"
+    },
+    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2341"
-    },
-    {
-      "pk": 784,
-      "franchise": 2,
-      "name": "ET CAR.C.SEŽANA",
-      "address": "Partizanska 77",
-      "lat": 45.70387478,
-      "lng": 13.8514001,
-      "prices": {
-        "95": null,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
     }
   ],
   "position": null

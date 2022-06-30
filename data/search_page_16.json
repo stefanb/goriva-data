@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2245,
+      "franchise": 3,
+      "name": "BS MAXEN SELNICA OB DRAVI",
+      "address": "Spodnja Selnica bš",
+      "lat": 46.5546048,
+      "lng": 15.5078896,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2352"
+    },
+    {
       "pk": 1990,
       "franchise": 1,
       "name": "PETROL KOPER, SERMIN",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1380"
-    },
-    {
-      "pk": 2004,
-      "franchise": 1,
-      "name": "PETROL KOPER - ŠMARSKA",
-      "address": "ŠMARSKA CESTA 5F",
-      "lat": 45.53250448,
-      "lng": 13.73568232,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": 2.317,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
-      "zip_code": "6000"
     }
   ],
   "position": null

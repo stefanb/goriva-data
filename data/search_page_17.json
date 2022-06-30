@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2004,
+      "franchise": 1,
+      "name": "PETROL KOPER - ŠMARSKA",
+      "address": "ŠMARSKA CESTA 5F",
+      "lat": 45.53250448,
+      "lng": 13.73568232,
+      "prices": {
+        "95": 1.755,
+        "dizel": 1.848,
+        "98": null,
+        "100": 2.15,
+        "dizel-premium": 2.317,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
+      "zip_code": "6000"
+    },
+    {
       "pk": 2005,
       "franchise": 1,
       "name": "PETROL IZOLA, INDUSTRIJSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "2311"
-    },
-    {
-      "pk": 2284,
-      "franchise": 4,
-      "name": "BS MOL HOTIZA",
-      "address": "Ložič 1",
-      "lat": 46.551502,
-      "lng": 16.344579,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.144,
-        "dizel-premium": 1.848,
-        "avtoplin-lpg": null,
-        "KOEL": 1.65
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-18:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
-      "zip_code": "9220"
     }
   ],
   "position": null
