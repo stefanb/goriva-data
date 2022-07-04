@@ -4,25 +4,25 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 864,
-      "franchise": 2,
-      "name": "OMV ŠKOFIJE BLOK ZAHOD",
-      "address": "Sp.Škofije 256a",
-      "lat": 45.579851,
-      "lng": 13.796288,
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
       "prices": {
-        "95": 1.874,
-        "dizel": 1.977,
+        "95": 1.851,
+        "dizel": 1.875,
         "98": null,
-        "100": 2.178,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
+        "100": 2.227,
+        "dizel-premium": 2.346,
+        "avtoplin-lpg": 1.041,
         "KOEL": null
       },
       "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6281"
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
     },
     {
       "pk": 1559,
@@ -32,11 +32,11 @@
       "lat": 46.522006,
       "lng": 16.51979,
       "prices": {
-        "95": 1.892,
-        "dizel": 1.999,
+        "95": 1.884,
+        "dizel": 1.919,
         "98": null,
-        "100": 2.224,
-        "dizel-premium": 2.299,
+        "100": 2.174,
+        "dizel-premium": 2.222,
         "avtoplin-lpg": 0.999,
         "KOEL": null
       },
@@ -53,11 +53,11 @@
       "lat": 46.566917,
       "lng": 15.8255,
       "prices": {
-        "95": 1.892,
-        "dizel": 1.999,
+        "95": 1.884,
+        "dizel": 1.919,
         "98": null,
-        "100": 2.224,
-        "dizel-premium": 2.299,
+        "100": 2.174,
+        "dizel-premium": 2.222,
         "avtoplin-lpg": 0.999,
         "KOEL": null
       },
@@ -411,7 +411,7 @@
       "lng": 14.659423828125,
       "prices": {
         "95": null,
-        "dizel": 1.848,
+        "dizel": 1.808,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -432,7 +432,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.848,
+        "dizel": 1.808,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -453,7 +453,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.848,
+        "dizel": 1.808,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -495,7 +495,7 @@
       "lng": 13.6284418,
       "prices": {
         "95": null,
-        "dizel": 1.848,
+        "dizel": 1.808,
         "98": null,
         "100": null,
         "dizel-premium": null,
