@@ -4,6 +4,90 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2139,
+      "franchise": 1,
+      "name": "PETROL KRŠKO - CESTA KRŠKIH ŽRTEV",
+      "address": "CESTA KRŠKIH ŽRTEV 136A",
+      "lat": 45.941161,
+      "lng": 15.484993,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.15,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.542
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "8270"
+    },
+    {
+      "pk": 860,
+      "franchise": 2,
+      "name": "OMV STOJNCI",
+      "address": "Stojnci 24",
+      "lat": 46.380448,
+      "lng": 15.972496,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.126,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.583
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "2281"
+    },
+    {
+      "pk": 2140,
+      "franchise": 1,
+      "name": "PETROL SEVNICA",
+      "address": "PREŠERNOVA ULICA 9",
+      "lat": 46.0077338,
+      "lng": 15.3050164,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.542
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-13:00",
+      "zip_code": "8290"
+    },
+    {
+      "pk": 862,
+      "franchise": 2,
+      "name": "OMV ŠENTJUR",
+      "address": "Ljubljanska c. 20a",
+      "lat": 46.214942,
+      "lng": 15.38352,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.126,
+        "dizel-premium": 1.808,
+        "avtoplin-lpg": null,
+        "KOEL": 1.583
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3230"
+    },
+    {
       "pk": 2142,
       "franchise": 1,
       "name": "PETROL BIZELJSKO",
@@ -443,90 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 12:30-16:00",
       "zip_code": "8361"
-    },
-    {
-      "pk": 874,
-      "franchise": 2,
-      "name": "OMV VRTOJBA",
-      "address": "Polje 6",
-      "lat": 45.920878,
-      "lng": 13.631287,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": 2.126,
-        "dizel-premium": 1.808,
-        "avtoplin-lpg": null,
-        "KOEL": 1.583
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "5290"
-    },
-    {
-      "pk": 2154,
-      "franchise": 1,
-      "name": "PETROL VINICA",
-      "address": "VINICA 61",
-      "lat": 45.45963416,
-      "lng": 15.2553875,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.542
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 05:00-22:00\r\nnedelje in prazniki 05:00-22:00",
-      "zip_code": "8344"
-    },
-    {
-      "pk": 875,
-      "franchise": 2,
-      "name": "OMV ZAGRADEC",
-      "address": "Zagradec 34",
-      "lat": 45.85943,
-      "lng": 14.83524,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": 2.126,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.583
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1303"
-    },
-    {
-      "pk": 2155,
-      "franchise": 1,
-      "name": "PETROL METLIKA - CESTA XV BRIGADE JUG",
-      "address": "CESTA XV. BRIGADE 35",
-      "lat": 45.64976238,
-      "lng": 15.30623221,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.542
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00",
-      "zip_code": "8330"
     }
   ],
   "position": null
