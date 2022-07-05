@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2302,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
+      "address": "Tržaška cesta 358",
+      "lat": 46.026026,
+      "lng": 14.4284534,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.174,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.30",
+      "zip_code": "1351"
+    },
+    {
+      "pk": 767,
+      "franchise": 2,
+      "name": "OMV BENEDIKT",
+      "address": "Radgonska c. 15",
+      "lat": 46.61068,
+      "lng": 15.89416,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.126,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.583
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
+      "zip_code": "2234"
+    },
+    {
       "pk": 2047,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - CELOVŠKA 251",
@@ -88,27 +130,6 @@
       "zip_code": "2283"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.62
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2085,
       "franchise": 1,
       "name": "PETROL PODKOREN",
@@ -128,27 +149,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "4280"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.62
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2268,

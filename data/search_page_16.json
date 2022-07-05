@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 1991,
+      "franchise": 1,
+      "name": "PETROL PODBRDO",
+      "address": "PODBRDO 60C",
+      "lat": 46.206127,
+      "lng": 13.959792,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.542
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-19:00\r\nsobote 08:00-15:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "5243"
+    },
+    {
       "pk": 2247,
       "franchise": 3,
       "name": "BS MAXEN METLIKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-24:00\r\nsobote 06:00-24:00\r\nnedelje in prazniki 06:00-24:00",
       "zip_code": "6240"
-    },
-    {
-      "pk": 2007,
-      "franchise": 1,
-      "name": "PETROL ŠTALONI",
-      "address": "KOZARNO 1B",
-      "lat": 46.00171653,
-      "lng": 13.51782499,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.542
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "5212"
     }
   ],
   "position": null
