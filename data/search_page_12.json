@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 1934,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - TRŽAŠKA 10",
+      "address": "TRŽAŠKA CESTA 10",
+      "lat": 46.54123587,
+      "lng": 15.64785997,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2190,
       "franchise": 1,
       "name": "PETROL CELJE - LANOVŽ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-19:00\r\nsobote 12:00-19:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3215"
-    },
-    {
-      "pk": 1948,
-      "franchise": 1,
-      "name": "PETROL MOŠKANJCI",
-      "address": "MOŠKANJCI 1G",
-      "lat": 46.41531527,
-      "lng": 15.98015915,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.542
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 05:30-22:00\r\nnedelje in prazniki 05:30-22:00",
-      "zip_code": "2272"
     }
   ],
   "position": null

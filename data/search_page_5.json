@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 1577,
+      "franchise": 4,
+      "name": "BS MOL PRESTRANEK",
+      "address": "REŠKA CESTA 18/B",
+      "lat": 45.728,
+      "lng": 14.188,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.094,
+        "dizel-premium": 1.808,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 06:00 - 22:00",
+      "zip_code": "6258"
+    },
+    {
       "pk": 810,
       "franchise": 2,
       "name": "OMV KRŠKO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
-    },
-    {
-      "pk": 2098,
-      "franchise": 1,
-      "name": "PETROL IVANČNA GORICA",
-      "address": "VODOTUČINE 14",
-      "lat": 45.935276,
-      "lng": 14.804536,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": 2.15,
-        "dizel-premium": 2.273,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.542
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "1295"
     }
   ],
   "position": null

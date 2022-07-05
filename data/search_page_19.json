@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 766,
+      "franchise": 2,
+      "name": "OMV AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.95337,
+      "lng": 13.69157,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.126,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
+      "zip_code": "5000"
+    },
+    {
+      "pk": 2046,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
+      "address": "TRŽAŠKA CESTA 130",
+      "lat": 46.03844761,
+      "lng": 14.46933955,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.15,
+        "dizel-premium": 2.273,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Koper",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2302,
       "franchise": 19,
       "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
@@ -86,48 +128,6 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
       "zip_code": "4205"
-    },
-    {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.725,
-        "dizel": 1.818,
-        "98": null,
-        "100": 2.099,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.959,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.753,
-        "dizel": 1.846,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.641
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
     },
     {
       "pk": 2085,

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 2324,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVIS d.o.o.",
+      "address": "Ljubljanska cesta 62",
+      "lat": 45.96802,
+      "lng": 14.66103,
+      "prices": {
+        "95": 1.723,
+        "dizel": 1.808,
+        "98": null,
+        "100": 2.174,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.529
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "VSAK DAN 5,30 do 22,30",
+      "zip_code": "1290"
+    },
+    {
       "pk": 789,
       "franchise": 2,
       "name": "OMV FERNETIČI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4270"
-    },
-    {
-      "pk": 799,
-      "franchise": 2,
-      "name": "OMV IZOLA SEVER",
-      "address": "Prešernova 2a",
-      "lat": 45.537905,
-      "lng": 13.668631,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.808,
-        "98": null,
-        "100": 2.126,
-        "dizel-premium": 1.808,
-        "avtoplin-lpg": null,
-        "KOEL": 1.583
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6310"
     }
   ],
   "position": null
