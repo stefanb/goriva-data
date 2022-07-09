@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 784,
-      "franchise": 2,
-      "name": "ET CAR.C.SEŽANA",
-      "address": "Partizanska 77",
-      "lat": 45.70387478,
-      "lng": 13.8514001,
-      "prices": {
-        "95": null,
-        "dizel": 1.808,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 2320,
       "franchise": 25,
       "name": "URMA D.O.O.",
@@ -191,6 +170,27 @@
       "direction": "",
       "open_hours": "pon-pet. 6.00-16.00h\r\nsob 6.00-12.00h\r\nned in prazniki zaprto",
       "zip_code": "1217"
+    },
+    {
+      "pk": 2085,
+      "franchise": 1,
+      "name": "PETROL PODKOREN",
+      "address": "PODKOREN 1A",
+      "lat": 46.4896618,
+      "lng": 13.76471293,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "4280"
     },
     {
       "pk": 2258,
