@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2176,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - VZHOD",
+      "address": "SPODNJE GRUŠOVJE 10B",
+      "lat": 46.347484,
+      "lng": 15.48757,
+      "prices": {
+        "95": 1.901,
+        "dizel": 1.975,
+        "98": null,
+        "100": 2.227,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
+    },
+    {
+      "pk": 2201,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - JUG",
+      "address": "ZALOKE 16",
+      "lat": 45.908304,
+      "lng": 15.400616,
+      "prices": {
+        "95": 1.901,
+        "dizel": 1.975,
+        "98": null,
+        "100": 2.227,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
       "pk": 2202,
       "franchise": 1,
       "name": "PETROL ZALOKE AC - SEVER",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2212"
-    },
-    {
-      "pk": 1997,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - SEVER",
-      "address": "MEDNARODNI PREHOD 1A",
-      "lat": 45.920547,
-      "lng": 13.628483,
-      "prices": {
-        "95": 1.906,
-        "dizel": 1.981,
-        "98": null,
-        "100": 2.227,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5290"
-    },
-    {
-      "pk": 2000,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - JUG",
-      "address": "MEDNARODNI PREHOD 4A",
-      "lat": 45.91934,
-      "lng": 13.627636,
-      "prices": {
-        "95": 1.906,
-        "dizel": 1.981,
-        "98": null,
-        "100": 2.227,
-        "dizel-premium": 2.346,
-        "avtoplin-lpg": 1.041,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "5290"
     }
   ],
   "position": null
