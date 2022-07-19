@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 2041,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
+      "address": "TRŽAŠKA CESTA 131A",
+      "lat": 46.03869769,
+      "lng": 14.47088774,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.7,
+        "98": null,
+        "100": 2.022,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2040,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - TRŽAŠKA 44",
@@ -424,48 +445,6 @@
       "zip_code": "2322"
     },
     {
-      "pk": 872,
-      "franchise": 2,
-      "name": "OMV VIPOLŽE",
-      "address": "Vipolže 6b",
-      "lat": 45.966782,
-      "lng": 13.540767,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.7,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "5212"
-    },
-    {
-      "pk": 875,
-      "franchise": 2,
-      "name": "OMV ZAGRADEC",
-      "address": "Zagradec 34",
-      "lat": 45.85943,
-      "lng": 14.83524,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.7,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.521
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1303"
-    },
-    {
       "pk": 874,
       "franchise": 2,
       "name": "OMV VRTOJBA",
@@ -508,12 +487,33 @@
       "zip_code": "1230"
     },
     {
-      "pk": 870,
+      "pk": 872,
       "franchise": 2,
-      "name": "OMV VELENJE GORENJE",
-      "address": "Partizanska c. 15a",
-      "lat": 46.359472,
-      "lng": 15.099174,
+      "name": "OMV VIPOLŽE",
+      "address": "Vipolže 6b",
+      "lat": 45.966782,
+      "lng": 13.540767,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.7,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": 1.998,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "5212"
+    },
+    {
+      "pk": 875,
+      "franchise": 2,
+      "name": "OMV ZAGRADEC",
+      "address": "Zagradec 34",
+      "lat": 45.85943,
+      "lng": 14.83524,
       "prices": {
         "95": 1.62,
         "dizel": 1.7,
@@ -521,12 +521,12 @@
         "100": 1.998,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
+        "KOEL": 1.521
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:30",
-      "zip_code": "3320"
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1303"
     }
   ],
   "position": null

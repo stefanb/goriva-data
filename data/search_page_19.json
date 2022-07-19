@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2316,
+      "franchise": 23,
+      "name": "BS Žihlava",
+      "address": "Žihlava 15",
+      "lat": 46.55,
+      "lng": 16.0396,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.7,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gornja Radgona - Ljutomer",
+      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 18.00\r\nprazniki:      7.00 - 18.00",
+      "zip_code": "9244"
+    },
+    {
       "pk": 2317,
       "franchise": 23,
       "name": "BS Lemerje",
@@ -233,27 +254,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.848,
-        "98": 2.178,
-        "100": 2.178,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.481
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 1949,
