@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 2240,
+      "franchise": 3,
+      "name": "BS MAXEN GORNJA RADGONA",
+      "address": "Ljutomerska cesta bš",
+      "lat": 46.6636544,
+      "lng": 16.0091968,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.7,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "9250"
+    },
+    {
       "pk": 2239,
       "franchise": 3,
       "name": "BS MAXEN NIZKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
       "zip_code": "3335"
-    },
-    {
-      "pk": 2173,
-      "franchise": 1,
-      "name": "PETROL ŠENTRUPERT",
-      "address": "ŠENTRUPERT 6B",
-      "lat": 46.250078,
-      "lng": 15.075261,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.7,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.477
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3303"
     }
   ],
   "position": null
