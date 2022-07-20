@@ -172,33 +172,33 @@
       "zip_code": "3250"
     },
     {
-      "pk": 797,
-      "franchise": 2,
-      "name": "OMV ILIRSKA BISTRICA BAZOVIŠKA",
-      "address": "Bazoviška 45",
-      "lat": 45.559604,
-      "lng": 14.244346,
+      "pk": 1561,
+      "franchise": 4,
+      "name": "BS MOL RADVANJE MARIBOR",
+      "address": "STRELIŠKA CESTA 16/A",
+      "lat": 46.5360559,
+      "lng": 15.6202679,
       "prices": {
         "95": 1.62,
         "dizel": 1.7,
         "98": null,
-        "100": 1.998,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": null,
-        "KOEL": 1.521
+        "100": 2.019,
+        "dizel-premium": 1.999,
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.505
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
-      "zip_code": "6250"
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
     },
     {
-      "pk": 1548,
+      "pk": 1552,
       "franchise": 4,
-      "name": "BS MOL KIDRIČEVO",
-      "address": "TOVARNIŠKA CESTA 8A",
-      "lat": 46.404094,
-      "lng": 15.799085,
+      "name": "BS MOL KOČEVJE",
+      "address": "LJUBLJANSKA CESTA 40",
+      "lat": 45.6488405,
+      "lng": 14.8544269,
       "prices": {
         "95": 1.62,
         "dizel": 1.7,
@@ -211,7 +211,7 @@
       "distance": null,
       "direction": "",
       "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "2325"
+      "zip_code": "1330"
     },
     {
       "pk": 1551,
@@ -256,12 +256,12 @@
       "zip_code": "2256"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
       "prices": {
         "95": 1.62,
         "dizel": 1.7,
@@ -269,20 +269,20 @@
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.477
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
-      "pk": 2316,
+      "pk": 2317,
       "franchise": 23,
-      "name": "BS Žihlava",
-      "address": "Žihlava 15",
-      "lat": 46.55,
-      "lng": 16.0396,
+      "name": "BS Lemerje",
+      "address": "Lemerje 2",
+      "lat": 46.7094,
+      "lng": 16.1102,
       "prices": {
         "95": 1.62,
         "dizel": 1.7,
@@ -293,51 +293,9 @@
         "KOEL": null
       },
       "distance": null,
-      "direction": "Gornja Radgona - Ljutomer",
+      "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 18.00\r\nprazniki:      7.00 - 18.00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2323,
-      "franchise": 2,
-      "name": "OMV KOPER LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.55757,
-      "lng": 13.75353,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.7,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 799,
-      "franchise": 2,
-      "name": "OMV IZOLA SEVER",
-      "address": "Prešernova 2a",
-      "lat": 45.537905,
-      "lng": 13.668631,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.7,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": null,
-        "KOEL": 1.521
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6310"
+      "zip_code": "9201"
     },
     {
       "pk": 798,
@@ -361,25 +319,46 @@
       "zip_code": "6310"
     },
     {
-      "pk": 1561,
+      "pk": 797,
+      "franchise": 2,
+      "name": "OMV ILIRSKA BISTRICA BAZOVIŠKA",
+      "address": "Bazoviška 45",
+      "lat": 45.559604,
+      "lng": 14.244346,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.7,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": 1.998,
+        "avtoplin-lpg": null,
+        "KOEL": 1.521
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
+      "zip_code": "6250"
+    },
+    {
+      "pk": 1548,
       "franchise": 4,
-      "name": "BS MOL RADVANJE MARIBOR",
-      "address": "STRELIŠKA CESTA 16/A",
-      "lat": 46.5360559,
-      "lng": 15.6202679,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
       "prices": {
         "95": 1.62,
         "dizel": 1.7,
         "98": null,
         "100": 2.019,
         "dizel-premium": 1.999,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.505
+        "avtoplin-lpg": null,
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2000"
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
     },
     {
       "pk": 794,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.7,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.477
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
     }
   ],
   "position": null
