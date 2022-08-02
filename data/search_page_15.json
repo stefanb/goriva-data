@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2180,
+      "franchise": 1,
+      "name": "PETROL CELJE - POLULE",
+      "address": "CESTA V LAŠKO 4A",
+      "lat": 46.21772911,
+      "lng": 15.26310535,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.451
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-14:00",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2181,
       "franchise": 1,
       "name": "PETROL ZREČE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "2370"
-    },
-    {
-      "pk": 2207,
-      "franchise": 1,
-      "name": "PETROL RAVNE NA KOROŠKEM",
-      "address": "KOROŠKA CESTA 4A",
-      "lat": 46.54726828,
-      "lng": 14.96495101,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": 1.962,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:30-20:00",
-      "zip_code": "2390"
     }
   ],
   "position": null

@@ -445,27 +445,6 @@
       "zip_code": "2322"
     },
     {
-      "pk": 876,
-      "franchise": 2,
-      "name": "OMV ZGORNJA POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43075,
-      "lng": 15.62705,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": 1.961,
-        "dizel-premium": 1.976,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2314"
-    },
-    {
       "pk": 875,
       "franchise": 2,
       "name": "OMV ZAGRADEC",
@@ -508,25 +487,46 @@
       "zip_code": "5290"
     },
     {
-      "pk": 1548,
-      "franchise": 4,
-      "name": "BS MOL KIDRIČEVO",
-      "address": "TOVARNIŠKA CESTA 8A",
-      "lat": 46.404094,
-      "lng": 15.799085,
+      "pk": 873,
+      "franchise": 2,
+      "name": "OMV VIR DOMŽALE",
+      "address": "Šaranovičeva c. 10a",
+      "lat": 46.147666,
+      "lng": 14.60635,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
         "98": null,
-        "100": 1.933,
-        "dizel-premium": 1.899,
+        "100": 1.961,
+        "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,
       "direction": "",
-      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "2325"
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1230"
+    },
+    {
+      "pk": 876,
+      "franchise": 2,
+      "name": "OMV ZGORNJA POLSKAVA",
+      "address": "Bukovec 1b",
+      "lat": 46.43075,
+      "lng": 15.62705,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": 1.961,
+        "dizel-premium": 1.976,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2314"
     }
   ],
   "position": null
