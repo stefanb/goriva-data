@@ -46,12 +46,12 @@
       "zip_code": "1262"
     },
     {
-      "pk": 1548,
+      "pk": 1549,
       "franchise": 4,
-      "name": "BS MOL KIDRIČEVO",
-      "address": "TOVARNIŠKA CESTA 8A",
-      "lat": 46.404094,
-      "lng": 15.799085,
+      "name": "BS MOL ROGAŠKA SLATINA",
+      "address": "TRŽIŠČE 12B",
+      "lat": 46.2306674,
+      "lng": 15.6556409,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
@@ -63,8 +63,8 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "2325"
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "3250"
     },
     {
       "pk": 1551,
@@ -298,6 +298,27 @@
       "zip_code": "1310"
     },
     {
+      "pk": 1548,
+      "franchise": 4,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": 1.933,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
+    },
+    {
       "pk": 780,
       "franchise": 2,
       "name": "OMV DRAVOGRAD",
@@ -424,12 +445,12 @@
       "zip_code": "2256"
     },
     {
-      "pk": 2323,
-      "franchise": 2,
-      "name": "OMV KOPER LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.55757,
-      "lng": 13.75353,
+      "pk": 2316,
+      "franchise": 23,
+      "name": "BS Žihlava",
+      "address": "Žihlava 15",
+      "lat": 46.55,
+      "lng": 16.0396,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
@@ -440,30 +461,9 @@
         "KOEL": null
       },
       "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 2070,
-      "franchise": 1,
-      "name": "PETROL ZAGORJE OB SAVI",
-      "address": "CESTA ZMAGE 51B",
-      "lat": 46.1272492,
-      "lng": 14.99353794,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": 1.962,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.451
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1410"
+      "direction": "Gornja Radgona - Ljutomer",
+      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 18.00\r\nprazniki:      7.00 - 18.00",
+      "zip_code": "9244"
     },
     {
       "pk": 789,
@@ -508,25 +508,25 @@
       "zip_code": "9000"
     },
     {
-      "pk": 2324,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVIS d.o.o.",
-      "address": "Ljubljanska cesta 62",
-      "lat": 45.96802,
-      "lng": 14.66103,
+      "pk": 2317,
+      "franchise": 23,
+      "name": "BS Lemerje",
+      "address": "Lemerje 2",
+      "lat": 46.7094,
+      "lng": 16.1102,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
         "98": null,
-        "100": 1.961,
+        "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.452
+        "KOEL": null
       },
       "distance": null,
-      "direction": "",
-      "open_hours": "VSAK DAN 5,30 do 22,30",
-      "zip_code": "1290"
+      "direction": "Murska Sobota - Grad (Kuzma)",
+      "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 18.00\r\nprazniki:      7.00 - 18.00",
+      "zip_code": "9201"
     }
   ],
   "position": null

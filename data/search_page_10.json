@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 2033,
+      "franchise": 1,
+      "name": "PETROL PIVKA",
+      "address": "POSTOJNSKA CESTA 20A",
+      "lat": 45.68611881,
+      "lng": 14.19717139,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": 1.962,
+        "dizel-premium": 2.151,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-24:00\r\nsobote 00:00-24:00\r\nnedelje00:00-24:00\r\nprazniki05:00-24:00",
+      "zip_code": "6257"
+    },
+    {
+      "pk": 2029,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA - PLESE",
+      "address": "PANONSKA ULICA 5",
+      "lat": 46.656739,
+      "lng": 16.178624,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": 1.962,
+        "dizel-premium": 2.151,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-23:00",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2028,
       "franchise": 1,
       "name": "PETROL SLIVNICA VZHOD",
@@ -319,12 +361,12 @@
       "zip_code": "2270"
     },
     {
-      "pk": 1556,
+      "pk": 1557,
       "franchise": 4,
-      "name": "BS MOL LOGATEC",
-      "address": "TRŽAŠKA 74A",
-      "lat": 45.9166669,
-      "lng": 14.218824,
+      "name": "BS MOL CELJE, MARIBORSKA",
+      "address": "MARIBORSKA CESTA 111",
+      "lat": 46.2451779,
+      "lng": 15.2776158,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
@@ -336,28 +378,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 1550,
-      "franchise": 4,
-      "name": "BS MOL CELJE, KIDRIČEVA",
-      "address": "KIDRIČEVA ULICA 40",
-      "lat": 46.234044,
-      "lng": 15.2961655,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": 1.933,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00 - 22:00\r\nSOBOTA 05:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "open_hours": "PON - NED 00:00-24:00",
       "zip_code": "3000"
     },
     {
@@ -466,12 +487,12 @@
       "zip_code": "1310"
     },
     {
-      "pk": 1562,
+      "pk": 1556,
       "franchise": 4,
-      "name": "BS MOL KOZINA",
-      "address": "BAZOVIŠKA CESTA 18",
-      "lat": 45.6090699,
-      "lng": 13.9336733,
+      "name": "BS MOL LOGATEC",
+      "address": "TRŽAŠKA 74A",
+      "lat": 45.9166669,
+      "lng": 14.218824,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
@@ -483,50 +504,29 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "6240"
+      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1370"
     },
     {
-      "pk": 1561,
+      "pk": 1563,
       "franchise": 4,
-      "name": "BS MOL RADVANJE MARIBOR",
-      "address": "STRELIŠKA CESTA 16/A",
-      "lat": 46.5360559,
-      "lng": 15.6202679,
+      "name": "BS MOL GORNJA RADGONA",
+      "address": "LJUTOMERSKA CESTA 12",
+      "lat": 46.6699694,
+      "lng": 15.9961534,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
         "98": null,
         "100": 1.933,
         "dizel-premium": 1.899,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.483
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1560,
-      "franchise": 4,
-      "name": "BS MOL ROŽNA DOLINA",
-      "address": "ULICA ANGELA BESEDNJAKA 8A",
-      "lat": 45.9404582,
-      "lng": 13.6399226,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": 1.933,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": 0.999,
+        "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,
       "direction": "",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "5000"
+      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": ""
     }
   ],
   "position": null
