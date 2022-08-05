@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2000,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - JUG",
-      "address": "MEDNARODNI PREHOD 4A",
-      "lat": 45.91934,
-      "lng": 13.627636,
-      "prices": {
-        "95": 1.761,
-        "dizel": 1.904,
-        "98": null,
-        "100": 2.039,
-        "dizel-premium": 2.225,
-        "avtoplin-lpg": 1.041,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "5290"
-    },
-    {
-      "pk": 2008,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS AC - JUG",
-      "address": "ŠEMPAS 160C",
-      "lat": 45.917,
-      "lng": 13.719403,
-      "prices": {
-        "95": 1.761,
-        "dizel": 1.904,
-        "98": null,
-        "100": 2.039,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5261"
-    },
-    {
       "pk": 2027,
       "franchise": 1,
       "name": "PETROL PINCE AC - JUG",
@@ -487,6 +445,27 @@
       "zip_code": "6310"
     },
     {
+      "pk": 2053,
+      "franchise": 1,
+      "name": "PETROL DOBROVA",
+      "address": "POLHOGRAJSKA CESTA 12",
+      "lat": 46.0520304,
+      "lng": 14.42151956,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1356"
+    },
+    {
       "pk": 2085,
       "franchise": 1,
       "name": "PETROL PODKOREN",
@@ -506,6 +485,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "4280"
+    },
+    {
+      "pk": 2105,
+      "franchise": 1,
+      "name": "PETROL JESENICE - KOROŠKA BELA",
+      "address": "CESTA BORISA KIDRIČA 50",
+      "lat": 46.42262407,
+      "lng": 14.10274656,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 16:30-20:00\r\nsobote 16:30-19:00",
+      "zip_code": "4270"
     },
     {
       "pk": 2258,
