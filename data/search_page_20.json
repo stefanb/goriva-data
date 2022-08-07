@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 845,
+      "franchise": 2,
+      "name": "OMV RADOVLJICA SEVER",
+      "address": "Ljubljanska cesta 71",
+      "lat": 46.33934,
+      "lng": 14.19201,
+      "prices": {
+        "95": 1.733,
+        "dizel": 1.87,
+        "98": null,
+        "100": 2.061,
+        "dizel-premium": 2.076,
+        "avtoplin-lpg": 1.039,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Jesenice",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
       "pk": 848,
       "franchise": 2,
       "name": "OMV RAVBARKOMANDA ZAHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "5290"
-    },
-    {
-      "pk": 2008,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS AC - JUG",
-      "address": "ŠEMPAS 160C",
-      "lat": 45.917,
-      "lng": 13.719403,
-      "prices": {
-        "95": 1.761,
-        "dizel": 1.904,
-        "98": null,
-        "100": 2.039,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5261"
     }
   ],
   "position": null
