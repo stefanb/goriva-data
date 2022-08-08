@@ -214,12 +214,33 @@
       "zip_code": "8000"
     },
     {
-      "pk": 2185,
+      "pk": 2227,
       "franchise": 1,
-      "name": "PETROL PLANINA",
-      "address": "PLANINA PRI SEVNICI 65H",
-      "lat": 46.09842192,
-      "lng": 15.39765344,
+      "name": "PETROL NOVO MESTO - BRŠLJIN",
+      "address": "LJUBLJANSKA CESTA 28A",
+      "lat": 45.81628712,
+      "lng": 15.1547285,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": 1.962,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 2184,
+      "franchise": 1,
+      "name": "PETROL SOLČAVA",
+      "address": "SOLČAVA 12A",
+      "lat": 46.419206,
+      "lng": 14.69457786,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
@@ -231,8 +252,29 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
-      "zip_code": "3225"
+      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
+      "zip_code": "3335"
+    },
+    {
+      "pk": 2177,
+      "franchise": 1,
+      "name": "PETROL VITANJE",
+      "address": "DOLIŠKA CESTA 24",
+      "lat": 46.38539537,
+      "lng": 15.29788765,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.451
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 11:00-12:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3205"
     },
     {
       "pk": 2178,
@@ -361,54 +403,12 @@
       "zip_code": "3232"
     },
     {
-      "pk": 2184,
+      "pk": 2188,
       "franchise": 1,
-      "name": "PETROL SOLČAVA",
-      "address": "SOLČAVA 12A",
-      "lat": 46.419206,
-      "lng": 14.69457786,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.451
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
-      "zip_code": "3335"
-    },
-    {
-      "pk": 2189,
-      "franchise": 1,
-      "name": "PETROL GORNJI GRAD",
-      "address": "SPODNJI TRG 34",
-      "lat": 46.29907149,
-      "lng": 14.81925704,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.451
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3342"
-    },
-    {
-      "pk": 2192,
-      "franchise": 1,
-      "name": "PETROL RADEČE",
-      "address": "ULICA MILANA MAJCNA 40",
-      "lat": 46.06279673,
-      "lng": 15.18155904,
+      "name": "PETROL LAŠKO",
+      "address": "CELJSKA CESTA 40",
+      "lat": 46.16731495,
+      "lng": 15.2329947,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
@@ -421,7 +421,7 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1433"
+      "zip_code": "3270"
     },
     {
       "pk": 2191,
@@ -466,25 +466,25 @@
       "zip_code": "3000"
     },
     {
-      "pk": 2187,
+      "pk": 2189,
       "franchise": 1,
-      "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
-      "address": "RIMSKA CESTA 106",
-      "lat": 46.25830238,
-      "lng": 15.11406404,
+      "name": "PETROL GORNJI GRAD",
+      "address": "SPODNJI TRG 34",
+      "lat": 46.29907149,
+      "lng": 14.81925704,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
         "98": null,
-        "100": 1.962,
+        "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 1.451
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3311"
+      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3342"
     },
     {
       "pk": 2186,
@@ -508,12 +508,12 @@
       "zip_code": "3250"
     },
     {
-      "pk": 2177,
+      "pk": 2185,
       "franchise": 1,
-      "name": "PETROL VITANJE",
-      "address": "DOLIŠKA CESTA 24",
-      "lat": 46.38539537,
-      "lng": 15.29788765,
+      "name": "PETROL PLANINA",
+      "address": "PLANINA PRI SEVNICI 65H",
+      "lat": 46.09842192,
+      "lng": 15.39765344,
       "prices": {
         "95": 1.534,
         "dizel": 1.676,
@@ -525,8 +525,8 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 11:00-12:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3205"
+      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
+      "zip_code": "3225"
     }
   ],
   "position": null
