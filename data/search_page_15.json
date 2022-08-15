@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2177,
+      "franchise": 1,
+      "name": "PETROL VITANJE",
+      "address": "DOLIŠKA CESTA 24",
+      "lat": 46.38539537,
+      "lng": 15.29788765,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.365
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 11:00-12:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3205"
+    },
+    {
       "pk": 2178,
       "franchise": 1,
       "name": "PETROL CELJE - KIDRIČEVA JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-19:00\r\nsobote 12:00-19:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3215"
-    },
-    {
-      "pk": 2204,
-      "franchise": 1,
-      "name": "PETROL CELJE - CITY CENTER",
-      "address": "BEŽIGRAJSKA CESTA 1",
-      "lat": 46.24034,
-      "lng": 15.278699,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.676,
-        "98": null,
-        "100": 1.962,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00",
-      "zip_code": "3000"
     }
   ],
   "position": null

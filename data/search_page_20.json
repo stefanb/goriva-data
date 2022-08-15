@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 844,
+      "franchise": 2,
+      "name": "OMV RADOVLJICA JUG",
+      "address": "Ljubljanska cesta 70",
+      "lat": 46.33865,
+      "lng": 14.19095,
+      "prices": {
+        "95": 1.733,
+        "dizel": 1.87,
+        "98": null,
+        "100": 1.954,
+        "dizel-premium": 1.997,
+        "avtoplin-lpg": 1.039,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
       "pk": 845,
       "franchise": 2,
       "name": "OMV RADOVLJICA SEVER",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2286"
-    },
-    {
-      "pk": 1997,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - SEVER",
-      "address": "MEDNARODNI PREHOD 1A",
-      "lat": 45.920547,
-      "lng": 13.628483,
-      "prices": {
-        "95": 1.777,
-        "dizel": 1.92,
-        "98": null,
-        "100": 2.039,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5290"
     }
   ],
   "position": null

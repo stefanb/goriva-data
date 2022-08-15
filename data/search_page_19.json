@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.676,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.48
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -506,27 +527,6 @@
       "direction": "Zagreb",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "8261"
-    },
-    {
-      "pk": 844,
-      "franchise": 2,
-      "name": "OMV RADOVLJICA JUG",
-      "address": "Ljubljanska cesta 70",
-      "lat": 46.33865,
-      "lng": 14.19095,
-      "prices": {
-        "95": 1.733,
-        "dizel": 1.87,
-        "98": null,
-        "100": 1.954,
-        "dizel-premium": 1.997,
-        "avtoplin-lpg": 1.039,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
     }
   ],
   "position": null
