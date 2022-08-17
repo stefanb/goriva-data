@@ -46,6 +46,27 @@
       "zip_code": "4240"
     },
     {
+      "pk": 847,
+      "franchise": 2,
+      "name": "OMV RAVBARKOMANDA VZHOD",
+      "address": "Javorniška pot 9a",
+      "lat": 45.78312588,
+      "lng": 14.22304178,
+      "prices": {
+        "95": 1.689,
+        "dizel": 1.835,
+        "98": null,
+        "100": null,
+        "dizel-premium": 1.997,
+        "avtoplin-lpg": 1.039,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
       "pk": 848,
       "franchise": 2,
       "name": "OMV RAVBARKOMANDA ZAHOD",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Ljubljana -> Koper",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2089,
-      "franchise": 1,
-      "name": "PETROL LOM AC - VZHOD",
-      "address": "NOTRANJSKA CESTA 77",
-      "lat": 45.89814,
-      "lng": 14.256533,
-      "prices": {
-        "95": 1.695,
-        "dizel": 1.839,
-        "98": null,
-        "100": 1.969,
-        "dizel-premium": 2.138,
-        "avtoplin-lpg": 1.041,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
       "open_hours": "NON-STOP",
       "zip_code": "1370"
     }
