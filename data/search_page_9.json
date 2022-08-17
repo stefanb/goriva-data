@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2172,
-      "franchise": 1,
-      "name": "PETROL VELENJE - CELJSKA ZAHOD",
-      "address": "CELJSKA CESTA 2",
-      "lat": 46.35625568,
-      "lng": 15.11475697,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": 1.873,
-        "dizel-premium": 2.065,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "3320"
-    },
-    {
       "pk": 2173,
       "franchise": 1,
       "name": "PETROL ŠENTRUPERT",
@@ -319,46 +298,46 @@
       "zip_code": "3270"
     },
     {
-      "pk": 2214,
+      "pk": 2189,
       "franchise": 1,
-      "name": "PETROL SLOVENJ GRADEC - RONKOVA SEVER",
-      "address": "RONKOVA ULICA 2",
-      "lat": 46.50629441,
-      "lng": 15.08829225,
+      "name": "PETROL GORNJI GRAD",
+      "address": "SPODNJI TRG 34",
+      "lat": 46.29907149,
+      "lng": 14.81925704,
       "prices": {
         "95": 1.49,
         "dizel": 1.641,
         "98": null,
         "100": null,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
+        "avtoplin-lpg": null,
         "KOEL": 1.36
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2380"
+      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3342"
     },
     {
-      "pk": 2207,
+      "pk": 2215,
       "franchise": 1,
-      "name": "PETROL RAVNE NA KOROŠKEM",
-      "address": "KOROŠKA CESTA 4A",
-      "lat": 46.54726828,
-      "lng": 14.96495101,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA JUG",
+      "address": "RONKOVA ULICA 25",
+      "lat": 46.504186,
+      "lng": 15.090699,
       "prices": {
         "95": 1.49,
         "dizel": 1.641,
         "98": null,
         "100": 1.873,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
+        "avtoplin-lpg": null,
+        "KOEL": 1.36
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:30-20:00",
-      "zip_code": "2390"
+      "open_hours": "NON-STOP",
+      "zip_code": "2380"
     },
     {
       "pk": 2208,
@@ -487,6 +466,48 @@
       "zip_code": "2373"
     },
     {
+      "pk": 2214,
+      "franchise": 1,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA SEVER",
+      "address": "RONKOVA ULICA 2",
+      "lat": 46.50629441,
+      "lng": 15.08829225,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.641,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.36
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2380"
+    },
+    {
+      "pk": 2221,
+      "franchise": 1,
+      "name": "PETROL ŽLEBIČ",
+      "address": "BREŽE 1B",
+      "lat": 45.76220176,
+      "lng": 14.70303872,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.641,
+        "98": null,
+        "100": 1.873,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.36
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "1310"
+    },
+    {
       "pk": 2220,
       "franchise": 1,
       "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
       "zip_code": "1330"
-    },
-    {
-      "pk": 2219,
-      "franchise": 1,
-      "name": "PETROL DOBRNA",
-      "address": "PRISTOVA 21",
-      "lat": 46.32717529,
-      "lng": 15.22104794,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.36
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3204"
     }
   ],
   "position": null
