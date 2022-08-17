@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 2238,
+      "franchise": 3,
+      "name": "BS MAXEN KOPER",
+      "address": "Ulica 15. maja bš",
+      "lat": 45.5371584,
+      "lng": 13.7323296,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.641,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "6000"
+    },
+    {
       "pk": 2237,
       "franchise": 3,
       "name": "BS MAXEN TRŽIČ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "3320"
-    },
-    {
-      "pk": 2185,
-      "franchise": 1,
-      "name": "PETROL PLANINA",
-      "address": "PLANINA PRI SEVNICI 65H",
-      "lat": 46.09842192,
-      "lng": 15.39765344,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.36
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
-      "zip_code": "3225"
     }
   ],
   "position": null
