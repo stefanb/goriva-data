@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 2241,
+      "franchise": 3,
+      "name": "BS MAXEN BENEDIKT",
+      "address": "Radgonska cesta bš",
+      "lat": 46.6088,
+      "lng": 15.893144,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.641,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2234"
+    },
+    {
+      "pk": 2240,
+      "franchise": 3,
+      "name": "BS MAXEN GORNJA RADGONA",
+      "address": "Ljutomerska cesta bš",
+      "lat": 46.6636544,
+      "lng": 16.0091968,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.641,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "9250"
+    },
+    {
       "pk": 2239,
       "franchise": 3,
       "name": "BS MAXEN NIZKA",
@@ -193,33 +235,12 @@
       "zip_code": "8000"
     },
     {
-      "pk": 2225,
+      "pk": 2184,
       "franchise": 1,
-      "name": "PETROL NOVO MESTO - TOPLIŠKA",
-      "address": "TOPLIŠKA CESTA 9",
-      "lat": 45.79863637,
-      "lng": 15.15095997,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": 1.873,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.36
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 2183,
-      "franchise": 1,
-      "name": "PETROL PONIKVA",
-      "address": "PONIKVA 36A",
-      "lat": 46.25437076,
-      "lng": 15.44383892,
+      "name": "PETROL SOLČAVA",
+      "address": "SOLČAVA 12A",
+      "lat": 46.419206,
+      "lng": 14.69457786,
       "prices": {
         "95": 1.49,
         "dizel": 1.641,
@@ -227,33 +248,12 @@
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "3232"
-    },
-    {
-      "pk": 2174,
-      "franchise": 1,
-      "name": "PETROL PODČETRTEK",
-      "address": "ZDRAVILIŠKA CESTA 27",
-      "lat": 46.15162206,
-      "lng": 15.59945055,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": 1.873,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
         "KOEL": 1.36
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3254"
+      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
+      "zip_code": "3335"
     },
     {
       "pk": 2177,
@@ -382,12 +382,33 @@
       "zip_code": "3256"
     },
     {
-      "pk": 2187,
+      "pk": 2183,
       "franchise": 1,
-      "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
-      "address": "RIMSKA CESTA 106",
-      "lat": 46.25830238,
-      "lng": 15.11406404,
+      "name": "PETROL PONIKVA",
+      "address": "PONIKVA 36A",
+      "lat": 46.25437076,
+      "lng": 15.44383892,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.641,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3232"
+    },
+    {
+      "pk": 2188,
+      "franchise": 1,
+      "name": "PETROL LAŠKO",
+      "address": "CELJSKA CESTA 40",
+      "lat": 46.16731495,
+      "lng": 15.2329947,
       "prices": {
         "95": 1.49,
         "dizel": 1.641,
@@ -399,8 +420,29 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3311"
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3270"
+    },
+    {
+      "pk": 2191,
+      "franchise": 1,
+      "name": "PETROL ŠOŠTANJ",
+      "address": "AŠKERČEVA CESTA 7",
+      "lat": 46.37530944,
+      "lng": 15.04892524,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.641,
+        "98": null,
+        "100": 1.873,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.36
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "3325"
     },
     {
       "pk": 2190,
@@ -445,12 +487,12 @@
       "zip_code": "3342"
     },
     {
-      "pk": 2188,
+      "pk": 2186,
       "franchise": 1,
-      "name": "PETROL LAŠKO",
-      "address": "CELJSKA CESTA 40",
-      "lat": 46.16731495,
-      "lng": 15.2329947,
+      "name": "PETROL ROGAŠKA SLATINA",
+      "address": "SPODNJE NEGONJE 27A",
+      "lat": 46.25266116,
+      "lng": 15.61686431,
       "prices": {
         "95": 1.49,
         "dizel": 1.641,
@@ -462,8 +504,8 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3270"
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-17:00",
+      "zip_code": "3250"
     },
     {
       "pk": 2185,
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
       "zip_code": "3225"
-    },
-    {
-      "pk": 2184,
-      "franchise": 1,
-      "name": "PETROL SOLČAVA",
-      "address": "SOLČAVA 12A",
-      "lat": 46.419206,
-      "lng": 14.69457786,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.36
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
-      "zip_code": "3335"
-    },
-    {
-      "pk": 2173,
-      "franchise": 1,
-      "name": "PETROL ŠENTRUPERT",
-      "address": "ŠENTRUPERT 6B",
-      "lat": 46.250078,
-      "lng": 15.075261,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.36
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3303"
     }
   ],
   "position": null
