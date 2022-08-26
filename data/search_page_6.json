@@ -46,25 +46,25 @@
       "zip_code": ""
     },
     {
-      "pk": 2056,
+      "pk": 2074,
       "franchise": 1,
-      "name": "PETROL LJUBLJANA - DUNAJSKA 70",
-      "address": "DUNAJSKA CESTA 70",
-      "lat": 46.06882986,
-      "lng": 14.51074492,
+      "name": "PETROL KRANJ - LABORE",
+      "address": "LJUBLJANSKA CESTA 23",
+      "lat": 46.229097,
+      "lng": 14.354692,
       "prices": {
         "95": 1.49,
         "dizel": 1.641,
         "98": null,
         "100": 1.873,
         "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.431
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1000"
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "4000"
     },
     {
       "pk": 1569,
@@ -353,7 +353,7 @@
         "100": 1.854,
         "dizel-premium": null,
         "avtoplin-lpg": 0.999,
-        "KOEL": 1.418
+        "KOEL": 1.431
       },
       "distance": null,
       "direction": "",
@@ -374,7 +374,7 @@
         "100": 1.854,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.418
+        "KOEL": 1.431
       },
       "distance": null,
       "direction": "",
@@ -395,7 +395,7 @@
         "100": 1.854,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.418
+        "KOEL": 1.431
       },
       "distance": null,
       "direction": "",
@@ -437,7 +437,7 @@
         "100": 1.854,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.418
+        "KOEL": 1.431
       },
       "distance": null,
       "direction": "",
@@ -479,7 +479,7 @@
         "100": 1.854,
         "dizel-premium": 1.849,
         "avtoplin-lpg": null,
-        "KOEL": 1.418
+        "KOEL": 1.431
       },
       "distance": null,
       "direction": "",
