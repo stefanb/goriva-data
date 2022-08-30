@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1590,
-      "franchise": 4,
-      "name": "BS MOL RUDNIK",
-      "address": "PREMRLOVA ULICA 10",
-      "lat": 46.01729,
-      "lng": 14.530471,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.845,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 16:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 1591,
       "franchise": 4,
       "name": "BS MOL VODICE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "2352"
+    },
+    {
+      "pk": 1943,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - NA POLJANAH",
+      "address": "NA POLJANAH 10",
+      "lat": 46.551953,
+      "lng": 15.630002,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.868,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.546
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "2000"
     }
   ],
   "position": null

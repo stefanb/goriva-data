@@ -4,27 +4,6 @@
   "previous": null,
   "results": [
     {
-      "pk": 2311,
-      "franchise": 18,
-      "name": "BS Merkantil KNEŽAK",
-      "address": "KNEŽAK 3",
-      "lat": 45.625625,
-      "lng": 14.239867,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.641,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.48
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
-      "zip_code": "6253"
-    },
-    {
       "pk": 2313,
       "franchise": 17,
       "name": "HOJNIK Oil BS Zavrč",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1218"
+    },
+    {
+      "pk": 806,
+      "franchise": 2,
+      "name": "OMV KOPER TERMINAL",
+      "address": "Ankaranska c. 5d",
+      "lat": 45.545957,
+      "lng": 13.742681,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.829,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
+      "zip_code": "6000"
     }
   ],
   "position": null

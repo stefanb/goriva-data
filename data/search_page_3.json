@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 834,
-      "franchise": 2,
-      "name": "OMV NOVA VAS",
-      "address": "Nova vas 1a",
-      "lat": 45.773401,
-      "lng": 14.504678,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.829,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.545
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz. zaprto; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz. zaprto",
-      "zip_code": "1385"
-    },
-    {
       "pk": 835,
       "franchise": 2,
       "name": "OMV NOVO MESTO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 06:00-20:00, Ned/Praz 07:00-20:00; Apr-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "6274"
+    },
+    {
+      "pk": 867,
+      "franchise": 2,
+      "name": "OMV ŠTANJEL",
+      "address": "Štanjel 80",
+      "lat": 45.81842,
+      "lng": 13.84414,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.829,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep Pon-Ned 07:00-20:00",
+      "zip_code": "6222"
     }
   ],
   "position": null

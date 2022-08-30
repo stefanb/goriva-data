@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 867,
-      "franchise": 2,
-      "name": "OMV ŠTANJEL",
-      "address": "Štanjel 80",
-      "lat": 45.81842,
-      "lng": 13.84414,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.829,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep Pon-Ned 07:00-20:00",
-      "zip_code": "6222"
-    },
-    {
       "pk": 868,
       "franchise": 2,
       "name": "OMV TEPANJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": ""
+    },
+    {
+      "pk": 1564,
+      "franchise": 4,
+      "name": "BS MOL HOČE",
+      "address": "MIKLAVŠKA CESTA 80",
+      "lat": 46.5005164,
+      "lng": 15.6550055,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.845,
+        "dizel-premium": 1.969,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA  07:00 - 22:00\r\nPRAZNIKI 08:00 - 20:00",
+      "zip_code": "2311"
     }
   ],
   "position": null
