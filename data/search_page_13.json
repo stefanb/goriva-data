@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2118,
-      "franchise": 1,
-      "name": "PETROL GABROVKA",
-      "address": "KLANEC PRI GABROVKI 12",
-      "lat": 45.995845,
-      "lng": 14.976083,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1274"
-    },
-    {
-      "pk": 2119,
-      "franchise": 1,
-      "name": "PETROL GROSUPLJE",
-      "address": "LJUBLJANSKA CESTA 16A",
-      "lat": 45.958264,
-      "lng": 14.657955,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.868,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.546
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "1290"
-    },
-    {
       "pk": 2121,
       "franchise": 1,
       "name": "PETROL KAMNIK - PEROVO",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
       "zip_code": "8222"
+    },
+    {
+      "pk": 2146,
+      "franchise": 1,
+      "name": "PETROL ČRNOMELJ - BELOKRANJSKA",
+      "address": "BELOKRANJSKA CESTA 1",
+      "lat": 45.57849993,
+      "lng": 15.19151321,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.868,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.546
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-11:30",
+      "zip_code": "8340"
+    },
+    {
+      "pk": 2147,
+      "franchise": 1,
+      "name": "PETROL TREBNJE - POD GRADOM",
+      "address": "CESTA VILME BUKOVEC 2",
+      "lat": 45.90473997,
+      "lng": 15.00357364,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.868,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.546
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "8210"
     }
   ],
   "position": null

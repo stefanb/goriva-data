@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1588,
-      "franchise": 4,
-      "name": "BS MOL SENOŽETI",
-      "address": "SENOŽETI 93",
-      "lat": 46.088644,
-      "lng": 14.716823,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.845,
-        "dizel-premium": 1.969,
-        "avtoplin-lpg": null,
-        "KOEL": 1.544
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
-      "pk": 1589,
-      "franchise": 4,
-      "name": "BS MOL BTC",
-      "address": "LETALIŠKA CESTA 24",
-      "lat": 46.061644,
-      "lng": 14.564443,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.845,
-        "dizel-premium": 1.969,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 06:00-22:00\r\nSOBOTA    07:00-22:00\r\nNEDELJA    08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 1590,
       "franchise": 4,
       "name": "BS MOL RUDNIK",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-14:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 1941,
+      "franchise": 1,
+      "name": "PETROL OPLOTNICA",
+      "address": "PARTIZANSKA CESTA 31",
+      "lat": 46.38403,
+      "lng": 15.448916,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-16:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2317"
+    },
+    {
+      "pk": 1942,
+      "franchise": 1,
+      "name": "PETROL SELNICA OB DRAVI",
+      "address": "MARIBORSKA CESTA 46",
+      "lat": 46.54934191,
+      "lng": 15.4860149,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.868,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.546
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2352"
     }
   ],
   "position": null
