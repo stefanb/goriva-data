@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 833,
-      "franchise": 2,
-      "name": "OMV MURSKA SOBOTA",
-      "address": "Lendavska 60d",
-      "lat": 46.66673,
-      "lng": 16.17698,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.829,
-        "dizel-premium": 2.059,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00",
-      "zip_code": "9000"
-    },
-    {
       "pk": 834,
       "franchise": 2,
       "name": "OMV NOVA VAS",
@@ -86,6 +65,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 6:00-22:00",
       "zip_code": "8000"
+    },
+    {
+      "pk": 838,
+      "franchise": 2,
+      "name": "OMV ORMOŽ",
+      "address": "Hardek 44d",
+      "lat": 46.409754,
+      "lng": 16.160733,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": 1.829,
+        "dizel-premium": 2.059,
+        "avtoplin-lpg": null,
+        "KOEL": 1.545
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:00",
+      "zip_code": "2270"
     },
     {
       "pk": 839,
