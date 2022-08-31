@@ -336,7 +336,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 10:30-16:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 07:00-17:00",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4270"
     },
     {
@@ -420,7 +420,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 09:30-14:00\r\nsobote 09:30-14:00",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "4240"
     },
     {
@@ -443,6 +443,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-13:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2085,
+      "franchise": 1,
+      "name": "PETROL PODKOREN",
+      "address": "PODKOREN 1A",
+      "lat": 46.4896618,
+      "lng": 13.76471293,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.767,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "4280"
     },
     {
       "pk": 2086,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 10:30-13:00",
       "zip_code": "1223"
-    },
-    {
-      "pk": 2091,
-      "franchise": 1,
-      "name": "PETROL BOHINJSKA BISTRICA",
-      "address": "SAVSKA CESTA 22",
-      "lat": 46.27794883,
-      "lng": 13.9514971,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.868,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.546
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "4264"
     }
   ],
   "position": null

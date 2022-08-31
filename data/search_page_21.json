@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2095,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - JUG",
+      "address": "SPODNJI PLAVŽ 24A",
+      "lat": 46.440467,
+      "lng": 14.026493,
+      "prices": {
+        "95": 1.706,
+        "dizel": 1.975,
+        "98": null,
+        "100": 1.974,
+        "dizel-premium": 2.273,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
       "pk": 2096,
       "franchise": 1,
       "name": "PETROL HRUŠICA AC - SEVER",
@@ -485,27 +506,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-13:00\r\nsobote 08:00-13:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2085,
-      "franchise": 1,
-      "name": "PETROL PODKOREN",
-      "address": "PODKOREN 1A",
-      "lat": 46.4896618,
-      "lng": 13.76471293,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "4280"
     },
     {
       "pk": 2258,
