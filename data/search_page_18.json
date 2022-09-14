@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2283,
+      "franchise": 4,
+      "name": "BS MOL ŠALOVCI",
+      "address": "Šalovci 168",
+      "lat": 46.821993,
+      "lng": 16.278851,
+      "prices": {
+        "95": 1.354,
+        "dizel": 1.683,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.884,
+        "avtoplin-lpg": null,
+        "KOEL": 1.366
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-19:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
+      "zip_code": "9204"
+    },
+    {
       "pk": 2284,
       "franchise": 4,
       "name": "BS MOL HOTIZA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.354,
-        "dizel": 1.683,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     }
   ],
   "position": null
