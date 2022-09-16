@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2125,
+      "franchise": 1,
+      "name": "PETROL IG",
+      "address": "LJUBLJANSKA CESTA 69",
+      "lat": 45.96267202,
+      "lng": 14.53000724,
+      "prices": {
+        "95": 1.354,
+        "dizel": 1.683,
+        "98": null,
+        "100": 1.71,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.366
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1292"
+    },
+    {
       "pk": 2126,
       "franchise": 1,
       "name": "PETROL KRANJ - STANETA ŽAGARJA 65",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 13:00-18:00\r\nnedelje in prazniki 08:00-11:30",
       "zip_code": "8351"
-    },
-    {
-      "pk": 2151,
-      "franchise": 1,
-      "name": "PETROL SEMIČ",
-      "address": "METLIŠKA CESTA 10",
-      "lat": 45.65031764,
-      "lng": 15.18401353,
-      "prices": {
-        "95": 1.354,
-        "dizel": 1.683,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.366
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-19:00\r\nsobote 12:00-13:00",
-      "zip_code": "8333"
     }
   ],
   "position": null
