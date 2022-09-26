@@ -277,27 +277,6 @@
       "zip_code": "1230"
     },
     {
-      "pk": 2216,
-      "franchise": 1,
-      "name": "PETROL LOPATA AC - SEVER",
-      "address": "LOPATA 81",
-      "lat": 46.262458,
-      "lng": 15.222118,
-      "prices": {
-        "95": 1.57,
-        "dizel": 1.891,
-        "98": null,
-        "100": 1.816,
-        "dizel-premium": 2.273,
-        "avtoplin-lpg": 1.041,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3000"
-    },
-    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -527,6 +506,27 @@
       "direction": "Maribor",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 828,
+      "franchise": 2,
+      "name": "OMV LUKOVICA",
+      "address": "Koseskega cesta 4",
+      "lat": 46.16606,
+      "lng": 14.6896,
+      "prices": {
+        "95": 1.579,
+        "dizel": 1.898,
+        "98": null,
+        "100": 1.821,
+        "dizel-premium": 2.048,
+        "avtoplin-lpg": 1.039,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1225"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 828,
-      "franchise": 2,
-      "name": "OMV LUKOVICA",
-      "address": "Koseskega cesta 4",
-      "lat": 46.16606,
-      "lng": 14.6896,
-      "prices": {
-        "95": 1.579,
-        "dizel": 1.898,
-        "98": null,
-        "100": 1.821,
-        "dizel-premium": 2.048,
-        "avtoplin-lpg": 1.039,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1225"
-    },
-    {
       "pk": 837,
       "franchise": 2,
       "name": "OMV OBREŽJE JUG",
@@ -514,6 +493,27 @@
       "address": "CESTA DVEH CESARJEV 71",
       "lat": 46.029136,
       "lng": 14.481739,
+      "prices": {
+        "95": 1.589,
+        "dizel": 1.899,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": 2.273,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2060,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA AC - BARJE JUG",
+      "address": "CESTA DVEH CESARJEV 73",
+      "lat": 46.02880654,
+      "lng": 14.47842262,
       "prices": {
         "95": 1.589,
         "dizel": 1.899,
