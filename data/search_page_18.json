@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2283,
+      "franchise": 4,
+      "name": "BS MOL ŠALOVCI",
+      "address": "Šalovci 168",
+      "lat": 46.821993,
+      "lng": 16.278851,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.603,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.805,
+        "avtoplin-lpg": null,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-19:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
+      "zip_code": "9204"
+    },
+    {
       "pk": 2284,
       "franchise": 4,
       "name": "BS MOL HOTIZA",
@@ -424,6 +445,48 @@
       "zip_code": "1317"
     },
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.603,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.603,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
+    },
+    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -464,69 +527,6 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.00 - 21.00\r\ntorek:          6.00 - 21.00\r\nsreda:          6.00 - 21.00\r\nčetrtek:        6.00 - 21.00\r\npetek:          6.00 - 21.00\r\nsobota:        6.00 - 21.00\r\nnedelja:       7.00 - 18.00\r\nprazniki:      7.00 - 18.00",
       "zip_code": "9201"
-    },
-    {
-      "pk": 2323,
-      "franchise": 2,
-      "name": "OMV KOPER LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.55757,
-      "lng": 13.75353,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 2324,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVIS d.o.o.",
-      "address": "Ljubljanska cesta 62",
-      "lat": 45.96802,
-      "lng": 14.66103,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.287
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "VSAK DAN 5,30 do 22,30",
-      "zip_code": "1290"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.354,
-        "dizel": 1.683,
-        "98": null,
-        "100": 1.71,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.366
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     }
   ],
   "position": null
