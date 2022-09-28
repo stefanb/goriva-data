@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.593,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - NED. : 6:00 - 20:00",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -128,27 +149,6 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.354,
-        "dizel": 1.683,
-        "98": 1.71,
-        "100": 1.71,
-        "dizel-premium": 1.676,
-        "avtoplin-lpg": null,
-        "KOEL": 1.366
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 768,
