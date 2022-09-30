@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2093,
+      "franchise": 1,
+      "name": "PETROL BRODE",
+      "address": "BRODE 20",
+      "lat": 46.1379264,
+      "lng": 14.25352741,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.603,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "4220"
+    },
+    {
       "pk": 2094,
       "franchise": 1,
       "name": "PETROL HRASTNIK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 21:00-24:00\r\nnedelje in prazniki 20:00-24:00",
       "zip_code": "4220"
-    },
-    {
-      "pk": 2124,
-      "franchise": 1,
-      "name": "PETROL BOROVNICA",
-      "address": "LJUBLJANSKA CESTA 10",
-      "lat": 45.92154962,
-      "lng": 14.3602911,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.287
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-20:30\r\nsobote 06:30-20:30\r\nnedelje in prazniki 12:00-15:00",
-      "zip_code": "1353"
     }
   ],
   "position": null

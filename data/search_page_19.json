@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2312,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Leskovec",
+      "address": "Leskovec 15",
+      "lat": 46.259264,
+      "lng": 15.310556,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.593,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.9,
+        "KOEL": 1.277
+      },
+      "distance": null,
+      "direction": "Celje",
+      "open_hours": "PON. - PET.      6.00 - 19.00        \r\nSOB.                 7.00 - 12.00\r\nNED., PRAZNIKI   ZAPRTO",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2313,
       "franchise": 17,
       "name": "HOJNIK Oil BS Zavrč",
@@ -275,27 +296,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "5000"
-    },
-    {
-      "pk": 2071,
-      "franchise": 1,
-      "name": "PETROL DOMŽALE - ČEŠMINOVA",
-      "address": "ČEŠMINOVA ULICA 1",
-      "lat": 46.146469,
-      "lng": 14.599615,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.868,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.463
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1230"
     },
     {
       "pk": 777,
