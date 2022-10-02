@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2174,
+      "franchise": 1,
+      "name": "PETROL PODČETRTEK",
+      "address": "ZDRAVILIŠKA CESTA 27",
+      "lat": 46.15162206,
+      "lng": 15.59945055,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.603,
+        "98": null,
+        "100": 1.702,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3254"
+    },
+    {
+      "pk": 2177,
+      "franchise": 1,
+      "name": "PETROL VITANJE",
+      "address": "DOLIŠKA CESTA 24",
+      "lat": 46.38539537,
+      "lng": 15.29788765,
+      "prices": {
+        "95": 1.353,
+        "dizel": 1.603,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 11:00-12:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3205"
+    },
+    {
       "pk": 2178,
       "franchise": 1,
       "name": "PETROL CELJE - KIDRIČEVA JUG",
@@ -484,48 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2203,
-      "franchise": 1,
-      "name": "PETROL LOČE",
-      "address": "SLOMŠKOVA ULICA 6",
-      "lat": 46.30051455,
-      "lng": 15.50179414,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.287
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-19:00\r\nsobote 12:00-19:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3215"
-    },
-    {
-      "pk": 2204,
-      "franchise": 1,
-      "name": "PETROL CELJE - CITY CENTER",
-      "address": "BEŽIGRAJSKA CESTA 1",
-      "lat": 46.24034,
-      "lng": 15.278699,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": 1.702,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00",
       "zip_code": "3000"
     }
   ],

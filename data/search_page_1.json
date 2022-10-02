@@ -4,6 +4,48 @@
   "previous": null,
   "results": [
     {
+      "pk": 2297,
+      "franchise": 16,
+      "name": "Agas Maribor",
+      "address": "Perhavčeva ulica 15",
+      "lat": 46.525107,
+      "lng": 15.667885,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.603,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.9,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "Maribor Center",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2299,
+      "franchise": 16,
+      "name": "Agas Slovenska Bistrica",
+      "address": "Žolgarjeva ulica 25",
+      "lat": 46.385204,
+      "lng": 15.576529,
+      "prices": {
+        "95": 1.313,
+        "dizel": 1.603,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.9,
+        "KOEL": 1.287
+      },
+      "distance": null,
+      "direction": "Izvoz Slovenska Bistrica jug",
+      "open_hours": "Pon do Pet 7:00 - 19:00\r\nSob             8:00 - 15:00",
+      "zip_code": "2310"
+    },
+    {
       "pk": 766,
       "franchise": 2,
       "name": "OMV AJŠEVICA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1218"
-    },
-    {
-      "pk": 806,
-      "franchise": 2,
-      "name": "OMV KOPER TERMINAL",
-      "address": "Ankaranska c. 5d",
-      "lat": 45.545957,
-      "lng": 13.742681,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": 1.686,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 807,
-      "franchise": 2,
-      "name": "OMV KOPER TOMOS",
-      "address": "Šmarska c. 4a",
-      "lat": 45.530207,
-      "lng": 13.734777,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": 1.686,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.287
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6000"
     }
   ],
   "position": null
