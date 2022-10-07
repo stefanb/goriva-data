@@ -14,7 +14,7 @@
         "95": 1.579,
         "dizel": 1.822,
         "98": null,
-        "100": 1.808,
+        "100": 1.819,
         "dizel-premium": 2.087,
         "avtoplin-lpg": 1.051,
         "KOEL": null
@@ -98,7 +98,7 @@
         "95": 1.579,
         "dizel": 1.822,
         "98": null,
-        "100": 1.808,
+        "100": 1.819,
         "dizel-premium": 2.087,
         "avtoplin-lpg": 1.051,
         "KOEL": null
@@ -245,7 +245,7 @@
         "95": 1.579,
         "dizel": 1.822,
         "98": null,
-        "100": 1.808,
+        "100": 1.819,
         "dizel-premium": null,
         "avtoplin-lpg": 1.051,
         "KOEL": null
@@ -266,7 +266,7 @@
         "95": 1.579,
         "dizel": 1.822,
         "98": null,
-        "100": 1.808,
+        "100": 1.819,
         "dizel-premium": null,
         "avtoplin-lpg": 1.051,
         "KOEL": null
@@ -287,7 +287,7 @@
         "95": 1.579,
         "dizel": 1.822,
         "98": null,
-        "100": 1.808,
+        "100": 1.819,
         "dizel-premium": null,
         "avtoplin-lpg": 1.051,
         "KOEL": null
@@ -317,6 +317,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8274"
+    },
+    {
+      "pk": 2216,
+      "franchise": 1,
+      "name": "PETROL LOPATA AC - SEVER",
+      "address": "LOPATA 81",
+      "lat": 46.262458,
+      "lng": 15.222118,
+      "prices": {
+        "95": 1.579,
+        "dizel": 1.822,
+        "98": null,
+        "100": 1.808,
+        "dizel-premium": 2.087,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "3000"
     },
     {
       "pk": 2229,
@@ -371,7 +392,7 @@
         "95": 1.579,
         "dizel": 1.822,
         "98": null,
-        "100": 1.808,
+        "100": 1.819,
         "dizel-premium": 2.087,
         "avtoplin-lpg": 1.051,
         "KOEL": null
@@ -392,7 +413,7 @@
         "95": 1.579,
         "dizel": 1.822,
         "98": null,
-        "100": 1.808,
+        "100": 1.819,
         "dizel-premium": 2.087,
         "avtoplin-lpg": 1.051,
         "KOEL": null
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-13:00\r\nsobote 08:00-13:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2216,
-      "franchise": 1,
-      "name": "PETROL LOPATA AC - SEVER",
-      "address": "LOPATA 81",
-      "lat": 46.262458,
-      "lng": 15.222118,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3000"
     }
   ],
   "position": null
