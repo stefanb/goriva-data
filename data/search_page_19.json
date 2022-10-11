@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.414,
+        "dizel": 1.684,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.367
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
+    },
+    {
       "pk": 2312,
       "franchise": 17,
       "name": "HOJNIK Oil BS Leskovec",
@@ -275,27 +296,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
-    },
-    {
-      "pk": 1981,
-      "franchise": 1,
-      "name": "PETROL NOVA GORICA - GRČNA",
-      "address": "VOJKOVA CESTA 68",
-      "lat": 45.95320889,
-      "lng": 13.65237464,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.767,
-        "98": null,
-        "100": 1.868,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "5000"
     },
     {
       "pk": 1559,
