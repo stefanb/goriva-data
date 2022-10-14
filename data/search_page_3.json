@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 831,
-      "franchise": 2,
-      "name": "OMV MARIBOR PTUJSKA ZAHOD",
-      "address": "Ptujska cesta 104",
-      "lat": 46.53485,
-      "lng": 15.66165,
-      "prices": {
-        "95": 1.414,
-        "dizel": 1.684,
-        "98": null,
-        "100": 1.689,
-        "dizel-premium": 1.898,
-        "avtoplin-lpg": null,
-        "KOEL": 1.367
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00 (S,N,praz 6-22)",
-      "zip_code": "2000"
-    },
-    {
       "pk": 832,
       "franchise": 2,
       "name": "OMV MARINA KOPER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "2281"
+    },
+    {
+      "pk": 862,
+      "franchise": 2,
+      "name": "OMV ŠENTJUR",
+      "address": "Ljubljanska c. 20a",
+      "lat": 46.214942,
+      "lng": 15.38352,
+      "prices": {
+        "95": 1.414,
+        "dizel": 1.684,
+        "98": null,
+        "100": 1.689,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": null,
+        "KOEL": 1.367
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3230"
     }
   ],
   "position": null

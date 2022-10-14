@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 862,
-      "franchise": 2,
-      "name": "OMV ŠENTJUR",
-      "address": "Ljubljanska c. 20a",
-      "lat": 46.214942,
-      "lng": 15.38352,
-      "prices": {
-        "95": 1.414,
-        "dizel": 1.684,
-        "98": null,
-        "100": 1.689,
-        "dizel-premium": 1.898,
-        "avtoplin-lpg": null,
-        "KOEL": 1.367
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3230"
-    },
-    {
       "pk": 865,
       "franchise": 2,
       "name": "OMV ŠKOFJA LOKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - ned. 00:00 - 24:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 1561,
+      "franchise": 4,
+      "name": "BS MOL RADVANJE MARIBOR",
+      "address": "STRELIŠKA CESTA 16/A",
+      "lat": 46.5360559,
+      "lng": 15.6202679,
+      "prices": {
+        "95": 1.414,
+        "dizel": 1.684,
+        "98": null,
+        "100": 1.664,
+        "dizel-premium": 1.889,
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.367
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
     }
   ],
   "position": null

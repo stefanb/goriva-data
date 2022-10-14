@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2086,
-      "franchise": 1,
-      "name": "PETROL NAKLO",
-      "address": "KRANJSKA CESTA 4",
-      "lat": 46.27058563,
-      "lng": 14.31367281,
-      "prices": {
-        "95": 1.414,
-        "dizel": 1.684,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.367
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
-      "zip_code": "4202"
-    },
-    {
       "pk": 2087,
       "franchise": 1,
       "name": "PETROL MORAVČE",
@@ -65,6 +44,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 10:30-13:00",
       "zip_code": "1223"
+    },
+    {
+      "pk": 2091,
+      "franchise": 1,
+      "name": "PETROL BOHINJSKA BISTRICA",
+      "address": "SAVSKA CESTA 22",
+      "lat": 46.27794883,
+      "lng": 13.9514971,
+      "prices": {
+        "95": 1.414,
+        "dizel": 1.684,
+        "98": null,
+        "100": 1.697,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.367
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "4264"
     },
     {
       "pk": 2092,

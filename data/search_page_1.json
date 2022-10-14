@@ -25,27 +25,6 @@
       "zip_code": "1260"
     },
     {
-      "pk": 2091,
-      "franchise": 1,
-      "name": "PETROL BOHINJSKA BISTRICA",
-      "address": "SAVSKA CESTA 22",
-      "lat": 46.27794883,
-      "lng": 13.9514971,
-      "prices": {
-        "95": 1.353,
-        "dizel": 1.603,
-        "98": null,
-        "100": 1.702,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.287
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "4264"
-    },
-    {
       "pk": 2113,
       "franchise": 1,
       "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "1240"
+    },
+    {
+      "pk": 801,
+      "franchise": 2,
+      "name": "OMV KOČEVJE",
+      "address": "Gornje Ložine 1a",
+      "lat": 45.689289,
+      "lng": 14.7997,
+      "prices": {
+        "95": 1.414,
+        "dizel": 1.684,
+        "98": null,
+        "100": 1.689,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1332"
     }
   ],
   "position": null
