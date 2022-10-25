@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 837,
-      "franchise": 2,
-      "name": "OMV OBREŽJE JUG",
-      "address": "Jesenice 36a",
-      "lat": 45.854884,
-      "lng": 15.684443,
-      "prices": {
-        "95": 1.648,
-        "dizel": 1.989,
-        "98": null,
-        "100": 1.829,
-        "dizel-premium": 2.148,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "8261"
-    },
-    {
       "pk": 844,
       "franchise": 2,
       "name": "OMV RADOVLJICA JUG",
@@ -525,6 +504,27 @@
       },
       "distance": null,
       "direction": "Ljubljana -> Koper",
+      "open_hours": "NON-STOP",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 2089,
+      "franchise": 1,
+      "name": "PETROL LOM AC - VZHOD",
+      "address": "NOTRANJSKA CESTA 77",
+      "lat": 45.89814,
+      "lng": 14.256533,
+      "prices": {
+        "95": 1.657,
+        "dizel": 1.994,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": 2.271,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
       "open_hours": "NON-STOP",
       "zip_code": "1370"
     }
