@@ -130,6 +130,27 @@
       "zip_code": "5290"
     },
     {
+      "pk": 2009,
+      "franchise": 1,
+      "name": "PETROL KOZINA AC - VZHOD",
+      "address": "BAZOVIŠKA CESTA 23A",
+      "lat": 45.60515,
+      "lng": 13.928699,
+      "prices": {
+        "95": 1.679,
+        "dizel": 2.017,
+        "98": null,
+        "100": 1.842,
+        "dizel-premium": 2.271,
+        "avtoplin-lpg": 1.051,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "6240"
+    },
+    {
       "pk": 2030,
       "franchise": 1,
       "name": "PETROL POVIR AC - JUG",
@@ -485,27 +506,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
-    },
-    {
-      "pk": 2009,
-      "franchise": 1,
-      "name": "PETROL KOZINA AC - VZHOD",
-      "address": "BAZOVIŠKA CESTA 23A",
-      "lat": 45.60515,
-      "lng": 13.928699,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "6240"
     },
     {
       "pk": 2113,
