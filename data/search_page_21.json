@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2202,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - SEVER",
-      "address": "ZALOKE 15",
-      "lat": 45.909601,
-      "lng": 15.400316,
-      "prices": {
-        "95": 1.668,
-        "dizel": 2.005,
-        "98": null,
-        "100": 1.834,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.041,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8274"
-    },
-    {
-      "pk": 2229,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - JUG",
-      "address": "ZAGRAD PRI OTOČCU 111",
-      "lat": 45.841312,
-      "lng": 15.217206,
-      "prices": {
-        "95": 1.668,
-        "dizel": 2.005,
-        "98": null,
-        "100": 1.834,
-        "dizel-premium": 2.347,
-        "avtoplin-lpg": 1.041,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8222"
-    },
-    {
       "pk": 2230,
       "franchise": 1,
       "name": "PETROL STARINE AC - SEVER",
@@ -53,10 +11,10 @@
       "lat": 45.841967,
       "lng": 15.216726,
       "prices": {
-        "95": 1.668,
-        "dizel": 2.005,
+        "95": 1.657,
+        "dizel": 1.994,
         "98": null,
-        "100": 1.834,
+        "100": 1.822,
         "dizel-premium": 2.347,
         "avtoplin-lpg": 1.041,
         "KOEL": null
@@ -65,6 +23,48 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8222"
+    },
+    {
+      "pk": 2231,
+      "franchise": 1,
+      "name": "PETROL DUL AC - JUG",
+      "address": "DOLENJI PODBORŠT PRI TREB. 50",
+      "lat": 45.898858,
+      "lng": 15.026398,
+      "prices": {
+        "95": 1.657,
+        "dizel": 1.994,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": 2.347,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Novo Me",
+      "open_hours": "NON-STOP",
+      "zip_code": "8210"
+    },
+    {
+      "pk": 2232,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - ZAHOD",
+      "address": "DEŽNO PRI PODLEHNIKU 2",
+      "lat": 46.329098,
+      "lng": 15.878359,
+      "prices": {
+        "95": 1.657,
+        "dizel": 1.994,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": 2.347,
+        "avtoplin-lpg": 1.041,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2286"
     },
     {
       "pk": 777,
