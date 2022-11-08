@@ -46,6 +46,27 @@
       "zip_code": "6253"
     },
     {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.708,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.391
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - NED. : 6:00 - 20:00",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -506,27 +527,6 @@
       "direction": "Zagreb",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "8261"
-    },
-    {
-      "pk": 844,
-      "franchise": 2,
-      "name": "OMV RADOVLJICA JUG",
-      "address": "Ljubljanska cesta 70",
-      "lat": 46.33865,
-      "lng": 14.19095,
-      "prices": {
-        "95": 1.698,
-        "dizel": 1.935,
-        "98": null,
-        "100": 1.938,
-        "dizel-premium": 2.085,
-        "avtoplin-lpg": 1.039,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
     }
   ],
   "position": null

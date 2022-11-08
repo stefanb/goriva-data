@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1558,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA",
-      "address": "LENDAVSKA ULICA 75",
-      "lat": 46.6676096,
-      "lng": 16.1767565,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.784,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "9000"
-    },
-    {
-      "pk": 1560,
-      "franchise": 4,
-      "name": "BS MOL ROŽNA DOLINA",
-      "address": "ULICA ANGELA BESEDNJAKA 8A",
-      "lat": 45.9404582,
-      "lng": 13.6399226,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.784,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "5000"
-    },
-    {
       "pk": 1561,
       "franchise": 4,
       "name": "BS MOL RADVANJE MARIBOR",
@@ -520,6 +478,48 @@
         "98": null,
         "100": 1.784,
         "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.401
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1585,
+      "franchise": 4,
+      "name": "BS MOL ARCLIN",
+      "address": "ARCLIN 101",
+      "lat": 46.278837,
+      "lng": 15.300182,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.784,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA  08:00-20:00\r\nPRAZNIKI 08:00-20:00",
+      "zip_code": "3211"
+    },
+    {
+      "pk": 1586,
+      "franchise": 4,
+      "name": "BS MOL TRBOVLJE",
+      "address": "VODENSKA CESTA 28A",
+      "lat": 46.142862,
+      "lng": 15.036079,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.784,
+        "dizel-premium": 1.925,
         "avtoplin-lpg": null,
         "KOEL": 1.401
       },
