@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 856,
-      "franchise": 2,
-      "name": "OMV SMEDNIK",
-      "address": "Smednik 12a",
-      "lat": 45.90773,
-      "lng": 15.37137,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.916,
-        "avtoplin-lpg": 0.998,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Novo Mesto",
-      "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
-      "zip_code": "8274"
-    },
-    {
-      "pk": 857,
-      "franchise": 2,
-      "name": "OMV SPODNJA IDRIJA",
-      "address": "Vojkova ulica 24",
-      "lat": 46.01699,
-      "lng": 14.0288,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.916,
-        "avtoplin-lpg": null,
-        "KOEL": 1.401
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "5280"
-    },
-    {
-      "pk": 858,
-      "franchise": 2,
-      "name": "OMV SPODNJI DUPLEK",
-      "address": "C. 4.julija 69",
-      "lat": 46.501143,
-      "lng": 15.751535,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.797,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.401
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
-      "zip_code": "2241"
-    },
-    {
       "pk": 859,
       "franchise": 2,
       "name": "OMV STARI TRG",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "pon. - sob. 05:00 - 22:00\r\nnedelja in prazniki 07:00 - 20:00",
       "zip_code": "9000"
+    },
+    {
+      "pk": 1555,
+      "franchise": 4,
+      "name": "BS MOL RIBNICA",
+      "address": "MERHARJEVA ULICA 13",
+      "lat": 45.738688,
+      "lng": 14.733154,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.784,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1310"
+    },
+    {
+      "pk": 1556,
+      "franchise": 4,
+      "name": "BS MOL LOGATEC",
+      "address": "TRŽAŠKA 74A",
+      "lat": 45.9166669,
+      "lng": 14.218824,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.784,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 1557,
+      "franchise": 4,
+      "name": "BS MOL CELJE, MARIBORSKA",
+      "address": "MARIBORSKA CESTA 111",
+      "lat": 46.2451779,
+      "lng": 15.2776158,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.784,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - NED 00:00-24:00",
+      "zip_code": "3000"
     }
   ],
   "position": null

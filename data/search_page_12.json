@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2079,
-      "franchise": 1,
-      "name": "PETROL CERKLJE NA GORENJSKEM",
-      "address": "SLOVENSKA CESTA 52",
-      "lat": 46.247136,
-      "lng": 14.485884,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.401
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 06:30-18:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "4207"
-    },
-    {
-      "pk": 2080,
-      "franchise": 1,
-      "name": "PETROL ŠKOFJA LOKA - TRATA",
-      "address": "KIDRIČEVA CESTA 57A",
-      "lat": 46.17302892,
-      "lng": 14.33101817,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.802,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": 1.401
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
-      "zip_code": "4220"
-    },
-    {
-      "pk": 2082,
-      "franchise": 1,
-      "name": "PETROL KAMNIK - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 10A",
-      "lat": 46.21205029,
-      "lng": 14.59993502,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.401
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "1241"
-    },
-    {
       "pk": 2083,
       "franchise": 1,
       "name": "PETROL RADOVLJICA - GORENJSKA",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-19:00",
       "zip_code": "1218"
+    },
+    {
+      "pk": 2112,
+      "franchise": 1,
+      "name": "PETROL MEDVODE - GORENJSKA 15",
+      "address": "GORENJSKA CESTA 15",
+      "lat": 46.14877179,
+      "lng": 14.40705025,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 12:30-18:00",
+      "zip_code": "1215"
+    },
+    {
+      "pk": 2114,
+      "franchise": 1,
+      "name": "PETROL LESCE",
+      "address": "HRAŠKA CESTA 13A",
+      "lat": 46.36782569,
+      "lng": 14.15376274,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.401
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-16:00",
+      "zip_code": "4248"
+    },
+    {
+      "pk": 2115,
+      "franchise": 1,
+      "name": "PETROL MEDVODE - GORENJSKA 14",
+      "address": "GORENJSKA CESTA 14",
+      "lat": 46.13700649,
+      "lng": 14.4167802,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.802,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.401
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1215"
     }
   ],
   "position": null

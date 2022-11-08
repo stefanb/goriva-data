@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 792,
-      "franchise": 2,
-      "name": "OMV GEDEROVCI",
-      "address": "Gederovci 17a",
-      "lat": 46.67921,
-      "lng": 16.056079,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.797,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.401
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Pet 5:00-22:00; Sob 6:00-22:00;Ned/Praz 7:00-21:00",
-      "zip_code": "9251"
-    },
-    {
-      "pk": 794,
-      "franchise": 2,
-      "name": "OMV GRAČIŠČE",
-      "address": "Gračišče 4a",
-      "lat": 45.501301,
-      "lng": 13.873635,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6272"
-    },
-    {
-      "pk": 797,
-      "franchise": 2,
-      "name": "OMV ILIRSKA BISTRICA BAZOVIŠKA",
-      "address": "Bazoviška 45",
-      "lat": 45.559604,
-      "lng": 14.244346,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.797,
-        "dizel-premium": 1.916,
-        "avtoplin-lpg": null,
-        "KOEL": 1.401
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
-      "zip_code": "6250"
-    },
-    {
       "pk": 798,
       "franchise": 2,
       "name": "OMV IZOLA JUG",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
       "zip_code": "6219"
+    },
+    {
+      "pk": 824,
+      "franchise": 2,
+      "name": "OMV LUCIJA POMOL",
+      "address": "Seča 188",
+      "lat": 45.50526,
+      "lng": 13.59658,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: na klic ; Jun-Sep: Pon-Ned 09:00-19:00 (zaprto od 13:00-14:00)",
+      "zip_code": "6320"
+    },
+    {
+      "pk": 825,
+      "franchise": 2,
+      "name": "OMV LUCIJA VZHOD",
+      "address": "Vinjole 29b",
+      "lat": 45.50069,
+      "lng": 13.61044,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.797,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6320"
+    },
+    {
+      "pk": 826,
+      "franchise": 2,
+      "name": "OMV LUCIJA ZAHOD",
+      "address": "Seča 188",
+      "lat": 45.50043,
+      "lng": 13.61022,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.797,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.401
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6320"
     }
   ],
   "position": null
