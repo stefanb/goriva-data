@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.401
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
+    },
+    {
       "pk": 2313,
       "franchise": 17,
       "name": "HOJNIK Oil BS Zavrč",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
-    },
-    {
-      "pk": 845,
-      "franchise": 2,
-      "name": "OMV RADOVLJICA SEVER",
-      "address": "Ljubljanska cesta 71",
-      "lat": 46.33934,
-      "lng": 14.19201,
-      "prices": {
-        "95": 1.708,
-        "dizel": 1.935,
-        "98": null,
-        "100": 1.938,
-        "dizel-premium": 2.098,
-        "avtoplin-lpg": 1.039,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Jesenice",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "4240"
     }

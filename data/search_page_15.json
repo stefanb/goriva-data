@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2173,
+      "franchise": 1,
+      "name": "PETROL ŠENTRUPERT",
+      "address": "ŠENTRUPERT 6B",
+      "lat": 46.250078,
+      "lng": 15.075261,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.718,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.401
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
+      "zip_code": "3303"
+    },
+    {
       "pk": 2174,
       "franchise": 1,
       "name": "PETROL PODČETRTEK",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2200,
-      "franchise": 1,
-      "name": "PETROL CELJE - KIDRIČEVA SEVER",
-      "address": "KIDRIČEVA ULICA 21",
-      "lat": 46.23557589,
-      "lng": 15.27676905,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.802,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "3000"
     }
   ],
