@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2147,
+      "franchise": 1,
+      "name": "PETROL TREBNJE - POD GRADOM",
+      "address": "CESTA VILME BUKOVEC 2",
+      "lat": 45.90473997,
+      "lng": 15.00357364,
+      "prices": {
+        "95": 1.464,
+        "dizel": 1.623,
+        "98": null,
+        "100": 1.83,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.999,
+        "KOEL": 1.306
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "8210"
+    },
+    {
       "pk": 2148,
       "franchise": 1,
       "name": "PETROL NOVO MESTO - SEIDLOVA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
       "zip_code": "3303"
-    },
-    {
-      "pk": 2174,
-      "franchise": 1,
-      "name": "PETROL PODČETRTEK",
-      "address": "ZDRAVILIŠKA CESTA 27",
-      "lat": 46.15162206,
-      "lng": 15.59945055,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.623,
-        "98": null,
-        "100": 1.83,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.306
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3254"
     }
   ],
   "position": null

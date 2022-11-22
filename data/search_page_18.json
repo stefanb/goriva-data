@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.464,
+        "dizel": 1.623,
+        "98": null,
+        "100": 1.83,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.306
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
+    },
+    {
       "pk": 2268,
       "franchise": 9,
       "name": "BS Pesniška vrata",
@@ -506,27 +527,6 @@
       "direction": "Celje",
       "open_hours": "PON. - PET.      6.00 - 17.00        \r\nSOB.                 7.00 - 12.00\r\nNED., PRAZNIKI   ZAPRTO",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.613,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.306
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
     }
   ],
   "position": null
