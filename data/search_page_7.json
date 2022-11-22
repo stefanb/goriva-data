@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1942,
-      "franchise": 1,
-      "name": "PETROL SELNICA OB DRAVI",
-      "address": "MARIBORSKA CESTA 46",
-      "lat": 46.54934191,
-      "lng": 15.4860149,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.623,
-        "98": null,
-        "100": 1.83,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.306
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2352"
-    },
-    {
       "pk": 1943,
       "franchise": 1,
       "name": "PETROL MARIBOR - NA POLJANAH",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "9223"
+    },
+    {
+      "pk": 1969,
+      "franchise": 1,
+      "name": "PETROL ODRANCI",
+      "address": "NASELJE GREDICE 1A",
+      "lat": 46.58197141,
+      "lng": 16.28224598,
+      "prices": {
+        "95": 1.464,
+        "dizel": 1.623,
+        "98": null,
+        "100": 1.83,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.306
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "9233"
     }
   ],
   "position": null
