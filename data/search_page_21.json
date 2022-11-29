@@ -1,5 +1,5 @@
 {
-  "count": 548,
+  "count": 547,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
@@ -487,27 +487,6 @@
       "zip_code": "5290"
     },
     {
-      "pk": 850,
-      "franchise": 2,
-      "name": "OMV RUŠE BEZENA",
-      "address": "Bezena 99",
-      "lat": 46.54981,
-      "lng": 15.53794,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "2342"
-    },
-    {
       "pk": 2113,
       "franchise": 1,
       "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-14:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2258,
+      "franchise": 5,
+      "name": "SHELL KOPER",
+      "address": "SERMIN 7C",
+      "lat": 45.552486,
+      "lng": 13.762092,
+      "prices": {
+        "95": null,
+        "dizel": 1.623,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "6000"
     }
   ],
   "position": null
