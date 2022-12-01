@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2001,
-      "franchise": 1,
-      "name": "PETROL VIPAVA",
-      "address": "GORIŠKA CESTA 41",
-      "lat": 45.8488706,
-      "lng": 13.95468545,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.623,
-        "98": null,
-        "100": 1.83,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.306
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5271"
-    },
-    {
       "pk": 2002,
       "franchise": 1,
       "name": "PETROL AJŠEVICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2035,
+      "franchise": 1,
+      "name": "PETROL IZOLA MANDRAČ",
+      "address": "VELIKI TRG 0N",
+      "lat": 45.538539,
+      "lng": 13.65634,
+      "prices": {
+        "95": 1.464,
+        "dizel": 1.623,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-14:00\r\nsobote 08:00-14:00\r\nnedelje in prazniki 08:00-14:00",
+      "zip_code": "6310"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2312,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Leskovec",
-      "address": "Leskovec 15",
-      "lat": 46.259264,
-      "lng": 15.310556,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.563,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.9,
-        "KOEL": 1.296
-      },
-      "distance": null,
-      "direction": "Celje",
-      "open_hours": "PON. - PET.      6.00 - 17.00        \r\nSOB.                 7.00 - 12.00\r\nNED., PRAZNIKI   ZAPRTO",
-      "zip_code": "3000"
-    },
-    {
       "pk": 2313,
       "franchise": 17,
       "name": "HOJNIK Oil BS Zavrč",
@@ -525,6 +504,27 @@
       },
       "distance": null,
       "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
+      "pk": 845,
+      "franchise": 2,
+      "name": "OMV RADOVLJICA SEVER",
+      "address": "Ljubljanska cesta 71",
+      "lat": 46.33934,
+      "lng": 14.19201,
+      "prices": {
+        "95": 1.69,
+        "dizel": 1.841,
+        "98": null,
+        "100": 1.959,
+        "dizel-premium": 1.999,
+        "avtoplin-lpg": 1.039,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Jesenice",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "4240"
     }
