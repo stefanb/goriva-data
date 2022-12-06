@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 768,
+      "franchise": 2,
+      "name": "OMV BERTOKI",
+      "address": "C.med vinogradi 52",
+      "lat": 45.555358,
+      "lng": 13.78105,
+      "prices": {
+        "95": 1.398,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.697,
+        "dizel-premium": 1.798,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 804,
+      "franchise": 2,
+      "name": "OMV KOPER BONIFIKA",
+      "address": "Istrska cesta 14",
+      "lat": 45.5404,
+      "lng": 13.7263,
+      "prices": {
+        "95": 1.398,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.697,
+        "dizel-premium": 1.798,
+        "avtoplin-lpg": 0.998,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Portorož",
+      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
+      "zip_code": "6000"
+    },
+    {
       "pk": 805,
       "franchise": 2,
       "name": "OMV KOPER SEMEDELA",
@@ -109,27 +151,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.623,
-        "98": 1.83,
-        "100": 1.83,
-        "dizel-premium": 1.775,
-        "avtoplin-lpg": null,
-        "KOEL": 1.306
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -233,27 +254,6 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.464,
-        "dizel": 1.623,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 1559,

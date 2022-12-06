@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2272,
+      "franchise": 1,
+      "name": "PETROL BLED - SELIŠKA",
+      "address": "SELIŠKA CESTA 4C",
+      "lat": 46.370163,
+      "lng": 14.116395,
+      "prices": {
+        "95": 1.366,
+        "dizel": 1.556,
+        "98": null,
+        "100": 1.662,
+        "dizel-premium": 1.985,
+        "avtoplin-lpg": 0.999,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 06:00-21:00",
+      "zip_code": "4260"
+    },
+    {
       "pk": 2283,
       "franchise": 4,
       "name": "BS MOL ŠALOVCI",
@@ -403,6 +424,27 @@
       "zip_code": "1317"
     },
     {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.366,
+        "dizel": 1.556,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
+    },
+    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
-    },
-    {
-      "pk": 768,
-      "franchise": 2,
-      "name": "OMV BERTOKI",
-      "address": "C.med vinogradi 52",
-      "lat": 45.555358,
-      "lng": 13.78105,
-      "prices": {
-        "95": 1.398,
-        "dizel": 1.598,
-        "98": null,
-        "100": 1.697,
-        "dizel-premium": 1.798,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 804,
-      "franchise": 2,
-      "name": "OMV KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.398,
-        "dizel": 1.598,
-        "98": null,
-        "100": 1.697,
-        "dizel-premium": 1.798,
-        "avtoplin-lpg": 0.998,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
     }
   ],
   "position": null
