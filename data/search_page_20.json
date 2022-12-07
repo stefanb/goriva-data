@@ -1,8 +1,29 @@
 {
-  "count": 547,
+  "count": 548,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
+    {
+      "pk": 837,
+      "franchise": 2,
+      "name": "OMV OBREŽJE JUG",
+      "address": "Jesenice 36a",
+      "lat": 45.854884,
+      "lng": 15.684443,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.774,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Zagreb",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "8261"
+    },
     {
       "pk": 844,
       "franchise": 2,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8250"
-    },
-    {
-      "pk": 2162,
-      "franchise": 1,
-      "name": "PETROL OBREŽJE AC - VZHOD",
-      "address": "JESENICE 32A",
-      "lat": 45.85448,
-      "lng": 15.686297,
-      "prices": {
-        "95": 1.611,
-        "dizel": 1.775,
-        "98": null,
-        "100": 1.784,
-        "dizel-premium": 2.069,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8261"
     }
   ],
   "position": null

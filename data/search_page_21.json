@@ -1,8 +1,29 @@
 {
-  "count": 547,
+  "count": 548,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
+    {
+      "pk": 2162,
+      "franchise": 1,
+      "name": "PETROL OBREŽJE AC - VZHOD",
+      "address": "JESENICE 32A",
+      "lat": 45.85448,
+      "lng": 15.686297,
+      "prices": {
+        "95": 1.611,
+        "dizel": 1.775,
+        "98": null,
+        "100": 1.784,
+        "dizel-premium": 2.069,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8261"
+    },
     {
       "pk": 2202,
       "franchise": 1,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-14:00",
       "zip_code": "4000"
-    },
-    {
-      "pk": 2258,
-      "franchise": 5,
-      "name": "SHELL KOPER",
-      "address": "SERMIN 7C",
-      "lat": 45.552486,
-      "lng": 13.762092,
-      "prices": {
-        "95": null,
-        "dizel": 1.556,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "6000"
     }
   ],
   "position": null
