@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2002,
+      "franchise": 1,
+      "name": "PETROL AJŠEVICA",
+      "address": "AJŠEVICA 19",
+      "lat": 45.9530272,
+      "lng": 13.69107053,
+      "prices": {
+        "95": 1.366,
+        "dizel": 1.556,
+        "98": null,
+        "100": 1.662,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.949,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 2003,
       "franchise": 1,
       "name": "PETROL CERKNICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-14:00\r\nsobote 08:00-14:00\r\nnedelje in prazniki 08:00-14:00",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2036,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - CELOVŠKA 226",
-      "address": "CELOVŠKA CESTA 226",
-      "lat": 46.081849,
-      "lng": 14.479525,
-      "prices": {
-        "95": 1.366,
-        "dizel": 1.556,
-        "98": null,
-        "100": 1.662,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Kranj",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
     }
   ],
   "position": null

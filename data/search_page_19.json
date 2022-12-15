@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.366,
+        "dizel": 1.556,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.192
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
+    },
+    {
       "pk": 2315,
       "franchise": 21,
       "name": "Bencinski servis STRANICE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2026,
-      "franchise": 1,
-      "name": "PETROL LORMANJE AC - JUG",
-      "address": "LORMANJE 22C",
-      "lat": 46.564825,
-      "lng": 15.826899,
-      "prices": {
-        "95": 1.611,
-        "dizel": 1.794,
-        "98": null,
-        "100": 1.784,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.989,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "NON-STOP",
-      "zip_code": "2230"
     }
   ],
   "position": null

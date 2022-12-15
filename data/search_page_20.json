@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2026,
+      "franchise": 1,
+      "name": "PETROL LORMANJE AC - JUG",
+      "address": "LORMANJE 22C",
+      "lat": 46.564825,
+      "lng": 15.826899,
+      "prices": {
+        "95": 1.611,
+        "dizel": 1.794,
+        "98": null,
+        "100": 1.784,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.989,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "2230"
+    },
+    {
       "pk": 2027,
       "franchise": 1,
       "name": "PETROL PINCE AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "Ljubljana -> Maribor",
       "open_hours": "NON-STOP",
       "zip_code": "3210"
-    },
-    {
-      "pk": 2201,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - JUG",
-      "address": "ZALOKE 16",
-      "lat": 45.908304,
-      "lng": 15.400616,
-      "prices": {
-        "95": 1.614,
-        "dizel": 1.797,
-        "98": null,
-        "100": 1.786,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.989,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8274"
     }
   ],
   "position": null

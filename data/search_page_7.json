@@ -25,6 +25,27 @@
       "zip_code": "2277"
     },
     {
+      "pk": 1947,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - VOJKOVA VZHOD",
+      "address": "VOJKOVA CESTA 51",
+      "lat": 45.962335,
+      "lng": 13.649495,
+      "prices": {
+        "95": 1.366,
+        "dizel": 1.556,
+        "98": null,
+        "100": 1.662,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.192
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 1948,
       "franchise": 1,
       "name": "PETROL MOŠKANJCI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:30",
       "zip_code": "9221"
-    },
-    {
-      "pk": 1972,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
-      "address": "TIŠINSKA ULICA 29D",
-      "lat": 46.651421,
-      "lng": 16.14565,
-      "prices": {
-        "95": 1.366,
-        "dizel": 1.556,
-        "98": null,
-        "100": 1.662,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.949,
-        "KOEL": 1.192
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "9000"
     }
   ],
   "position": null
