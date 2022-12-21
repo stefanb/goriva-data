@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2201,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - JUG",
+      "address": "ZALOKE 16",
+      "lat": 45.908304,
+      "lng": 15.400616,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.711,
+        "98": null,
+        "100": 1.619,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.989,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
+    },
+    {
+      "pk": 2216,
+      "franchise": 1,
+      "name": "PETROL LOPATA AC - SEVER",
+      "address": "LOPATA 81",
+      "lat": 46.262458,
+      "lng": 15.222118,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.711,
+        "98": null,
+        "100": 1.619,
+        "dizel-premium": 1.973,
+        "avtoplin-lpg": 0.989,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2231,
       "franchise": 1,
       "name": "PETROL DUL AC - JUG",
@@ -11,10 +53,10 @@
       "lat": 45.898858,
       "lng": 15.026398,
       "prices": {
-        "95": 1.469,
-        "dizel": 1.686,
+        "95": 1.493,
+        "dizel": 1.711,
         "98": null,
-        "100": 1.599,
+        "100": 1.619,
         "dizel-premium": 1.973,
         "avtoplin-lpg": 0.989,
         "KOEL": null
@@ -32,10 +74,10 @@
       "lat": 46.329098,
       "lng": 15.878359,
       "prices": {
-        "95": 1.469,
-        "dizel": 1.686,
+        "95": 1.493,
+        "dizel": 1.711,
         "98": null,
-        "100": 1.599,
+        "100": 1.619,
         "dizel-premium": 1.973,
         "avtoplin-lpg": 0.989,
         "KOEL": null
@@ -44,48 +86,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2286"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.689,
-        "98": null,
-        "100": 1.629,
-        "dizel-premium": 1.829,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.689,
-        "98": null,
-        "100": 1.629,
-        "dizel-premium": 1.829,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
     },
     {
       "pk": 777,
