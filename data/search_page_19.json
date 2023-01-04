@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2302,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
-      "address": "Tržaška cesta 358",
-      "lat": 46.026026,
-      "lng": 14.4284534,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": 1.242,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.30",
-      "zip_code": "1351"
-    },
-    {
       "pk": 2312,
       "franchise": 17,
       "name": "HOJNIK Oil BS Leskovec",
@@ -521,6 +500,27 @@
         "100": 1.656,
         "dizel-premium": null,
         "avtoplin-lpg": 0.989,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2019,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - JUG",
+      "address": "BAKOVSKA ULICA 51",
+      "lat": 46.634461,
+      "lng": 16.164346,
+      "prices": {
+        "95": 1.503,
+        "dizel": 1.702,
+        "98": null,
+        "100": 1.656,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,

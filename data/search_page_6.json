@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1583,
-      "franchise": 4,
-      "name": "BS MOL DRNOVO",
-      "address": "VELIKA VAS PRI KRŠKEM 69",
-      "lat": 45.920289,
-      "lng": 15.473747,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": 1.555,
-        "dizel-premium": 1.699,
-        "avtoplin-lpg": null,
-        "KOEL": 1.306
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 -20:30\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "8273"
-    },
-    {
       "pk": 1584,
       "franchise": 4,
       "name": "BS MOL ŠMARJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 1936,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ - MARIBORSKA",
+      "address": "MARIBORSKA CESTA 49",
+      "lat": 46.67188025,
+      "lng": 15.66080301,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "2212"
     }
   ],
   "position": null

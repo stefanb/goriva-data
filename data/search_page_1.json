@@ -46,27 +46,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 2085,
-      "franchise": 1,
-      "name": "PETROL PODKOREN",
-      "address": "PODKOREN 1A",
-      "lat": 46.4896618,
-      "lng": 13.76471293,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.467,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "4280"
-    },
-    {
       "pk": 2303,
       "franchise": 19,
       "name": "Bencinski servis Tupaliče",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Pet 5:00-22:00; Sob 6:00-22:00;Ned/Praz 7:00-21:00",
       "zip_code": "9251"
+    },
+    {
+      "pk": 794,
+      "franchise": 2,
+      "name": "OMV GRAČIŠČE",
+      "address": "Gračišče 4a",
+      "lat": 45.501301,
+      "lng": 13.873635,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
+      "zip_code": "6272"
     }
   ],
   "position": null

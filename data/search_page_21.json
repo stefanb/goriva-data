@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2231,
-      "franchise": 1,
-      "name": "PETROL DUL AC - JUG",
-      "address": "DOLENJI PODBORŠT PRI TREB. 50",
-      "lat": 45.898858,
-      "lng": 15.026398,
-      "prices": {
-        "95": 1.503,
-        "dizel": 1.702,
-        "98": null,
-        "100": 1.656,
-        "dizel-premium": 1.997,
-        "avtoplin-lpg": 0.989,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Novo Me",
-      "open_hours": "NON-STOP",
-      "zip_code": "8210"
-    },
-    {
       "pk": 2232,
       "franchise": 1,
       "name": "PETROL PODLEHNIK AC - ZAHOD",
@@ -506,6 +485,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2085,
+      "franchise": 1,
+      "name": "PETROL PODKOREN",
+      "address": "PODKOREN 1A",
+      "lat": 46.4896618,
+      "lng": 13.76471293,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "4280"
     },
     {
       "pk": 2113,
