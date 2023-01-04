@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2013,
-      "franchise": 1,
-      "name": "PETROL MAJŠPERK",
-      "address": "MAJŠPERK 55A",
-      "lat": 46.3487854,
-      "lng": 15.73672014,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "2322"
-    },
-    {
-      "pk": 2014,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 26/B",
-      "address": "ORMOŠKA CESTA 26B",
-      "lat": 46.41676013,
-      "lng": 15.88049476,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": 1.55,
-        "dizel-premium": 1.913,
-        "avtoplin-lpg": 0.949,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2250"
-    },
-    {
       "pk": 2015,
       "franchise": 1,
       "name": "PETROL PTUJ - OSOJNIKOVA",
@@ -526,6 +484,48 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2045,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ŠMARTINSKA 101",
+      "address": "ŠMARTINSKA CESTA 101",
+      "lat": 46.066152,
+      "lng": 14.531219,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.55,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2046,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
+      "address": "TRŽAŠKA CESTA 130",
+      "lat": 46.03844761,
+      "lng": 14.46933955,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.55,
+        "dizel-premium": 1.913,
+        "avtoplin-lpg": 0.949,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Koper",
+      "open_hours": "NON-STOP",
       "zip_code": "1000"
     }
   ],
