@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1964,
-      "franchise": 1,
-      "name": "PETROL DOLNJI LAKOŠ",
-      "address": "GLAVNA ULICA 3",
-      "lat": 46.55372124,
-      "lng": 16.44233518,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "9220"
-    },
-    {
       "pk": 1965,
       "franchise": 1,
       "name": "PETROL RADENCI",
@@ -399,7 +378,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 12:30-17:00",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 12:30-16:00",
       "zip_code": "5261"
     },
     {
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-19:00\r\nsobote 08:00-15:00",
       "zip_code": "5243"
+    },
+    {
+      "pk": 1992,
+      "franchise": 1,
+      "name": "PETROL LIPICA",
+      "address": "LIPICA 26",
+      "lat": 45.6554886,
+      "lng": 13.88112209,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.55,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6210"
     }
   ],
   "position": null
