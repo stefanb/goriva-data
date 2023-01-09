@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2311,
-      "franchise": 18,
-      "name": "BS Merkantil KNEŽAK",
-      "address": "KNEŽAK 3",
-      "lat": 45.625625,
-      "lng": 14.239867,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.057,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
-      "zip_code": "6253"
-    },
-    {
       "pk": 2312,
       "franchise": 17,
       "name": "HOJNIK Oil BS Leskovec",
@@ -170,6 +149,27 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 06:00-21:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2324,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVIS d.o.o.",
+      "address": "Ljubljanska cesta 62",
+      "lat": 45.96802,
+      "lng": 14.66103,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": 1.518,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "VSAK DAN 5,30 do 22,30",
+      "zip_code": "1290"
     },
     {
       "pk": 2327,

@@ -46,132 +46,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 2303,
-      "franchise": 19,
-      "name": "Bencinski servis Tupaliče",
-      "address": "Tupaliče 35a",
-      "lat": 46.2955877,
-      "lng": 14.4297645,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
-      "zip_code": "4205"
-    },
-    {
-      "pk": 2304,
-      "franchise": 19,
-      "name": "Bencinski servis Velika Pirešica",
-      "address": "Velika Pirešica 60",
-      "lat": 46.28633117675781,
-      "lng": 15.176063537597656,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.483,
-        "98": 1.276,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.00",
-      "zip_code": "3310"
-    },
-    {
-      "pk": 2305,
-      "franchise": 19,
-      "name": "Bencinski servis Škofja Loka",
-      "address": "Grenc 57",
-      "lat": 46.1730598,
-      "lng": 14.3212867,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.483,
-        "98": 1.276,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.89,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.00",
-      "zip_code": "4220"
-    },
-    {
-      "pk": 2306,
-      "franchise": 19,
-      "name": "Bencinski servis Juršinci",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.483,
-        "98": 1.518,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
-      "pk": 2307,
-      "franchise": 19,
-      "name": "Bencinski servis Sodražica",
-      "address": "cesta Notranjskega odreda 56",
-      "lat": 45.76375961303711,
-      "lng": 14.63137435913086,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "5.30-22.00",
-      "zip_code": "1317"
-    },
-    {
-      "pk": 2324,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVIS d.o.o.",
-      "address": "Ljubljanska cesta 62",
-      "lat": 45.96802,
-      "lng": 14.66103,
-      "prices": {
-        "95": 1.242,
-        "dizel": 1.483,
-        "98": 1.518,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "VSAK DAN 5,30 do 22,30",
-      "zip_code": "1290"
-    },
-    {
       "pk": 766,
       "franchise": 2,
       "name": "OMV AJŠEVICA",
@@ -527,6 +401,132 @@
       "direction": "",
       "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
       "zip_code": "6250"
+    },
+    {
+      "pk": 798,
+      "franchise": 2,
+      "name": "OMV IZOLA JUG",
+      "address": "Prešernova 7c",
+      "lat": 45.53687,
+      "lng": 13.66795,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.557,
+        "dizel-premium": 1.718,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 799,
+      "franchise": 2,
+      "name": "OMV IZOLA SEVER",
+      "address": "Prešernova 2a",
+      "lat": 45.537905,
+      "lng": 13.668631,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.557,
+        "dizel-premium": 1.718,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 800,
+      "franchise": 2,
+      "name": "OMV KAMNIK",
+      "address": "Perovo 32",
+      "lat": 46.208865,
+      "lng": 14.606844,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.557,
+        "dizel-premium": 1.718,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "1240"
+    },
+    {
+      "pk": 801,
+      "franchise": 2,
+      "name": "OMV KOČEVJE",
+      "address": "Gornje Ložine 1a",
+      "lat": 45.689289,
+      "lng": 14.7997,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.557,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1332"
+    },
+    {
+      "pk": 802,
+      "franchise": 2,
+      "name": "OMV KOMEN",
+      "address": "Komen 119a",
+      "lat": 45.816868,
+      "lng": 13.745429,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.557,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
+      "zip_code": "6223"
+    },
+    {
+      "pk": 803,
+      "franchise": 2,
+      "name": "OMV KOMENDA",
+      "address": "Potok pri Komendi 8",
+      "lat": 46.205702,
+      "lng": 14.52399,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.557,
+        "dizel-premium": 1.718,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1218"
     }
   ],
   "position": null

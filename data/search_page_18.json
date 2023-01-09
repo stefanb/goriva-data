@@ -4,132 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2253,
-      "franchise": 3,
-      "name": "BS MAXEN LOGATEC",
-      "address": "Tržaška cesta bš",
-      "lat": 45.9388,
-      "lng": 14.2365616,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2254,
-      "franchise": 3,
-      "name": "BS MAXEN RIBNICA",
-      "address": "Gorenjska cesta bš",
-      "lat": 45.7490272,
-      "lng": 14.7190224,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1310"
-    },
-    {
-      "pk": 2255,
-      "franchise": 3,
-      "name": "BS MAXEN NOVO MESTO",
-      "address": "Mirnopeška cesta bš",
-      "lat": 45.8202208,
-      "lng": 15.1490384,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 2256,
-      "franchise": 3,
-      "name": "BS MAXEN KRANJ",
-      "address": "Cesta Staneta Žagarja bš",
-      "lat": 46.24224,
-      "lng": 14.3774704,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4000"
-    },
-    {
-      "pk": 2257,
-      "franchise": 3,
-      "name": "BS MAXEN AJDOVŠČINA",
-      "address": "Vipavska cesta bš",
-      "lat": 45.8809344,
-      "lng": 13.9107888,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "5270"
-    },
-    {
-      "pk": 2266,
-      "franchise": 5,
-      "name": "SHELL MARIBOR RETAIL",
-      "address": "TURNEJEVA ULICA 35",
-      "lat": 46.449892,
-      "lng": 15.651698,
-      "prices": {
-        "95": 1.276,
-        "dizel": 1.483,
-        "98": null,
-        "100": 1.575,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka z osebjem",
-      "zip_code": "2313"
-    },
-    {
       "pk": 2267,
       "franchise": 6,
       "name": "EKO-NAFTA d.o.o.",
@@ -527,6 +401,132 @@
       "direction": "",
       "open_hours": "6.00-22.30",
       "zip_code": "1351"
+    },
+    {
+      "pk": 2303,
+      "franchise": 19,
+      "name": "Bencinski servis Tupaliče",
+      "address": "Tupaliče 35a",
+      "lat": 46.2955877,
+      "lng": 14.4297645,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00-21.00\r\nNedelja od 7.00-22.00",
+      "zip_code": "4205"
+    },
+    {
+      "pk": 2304,
+      "franchise": 19,
+      "name": "Bencinski servis Velika Pirešica",
+      "address": "Velika Pirešica 60",
+      "lat": 46.28633117675781,
+      "lng": 15.176063537597656,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": 1.276,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.00",
+      "zip_code": "3310"
+    },
+    {
+      "pk": 2305,
+      "franchise": 19,
+      "name": "Bencinski servis Škofja Loka",
+      "address": "Grenc 57",
+      "lat": 46.1730598,
+      "lng": 14.3212867,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": 1.276,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.89,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.00",
+      "zip_code": "4220"
+    },
+    {
+      "pk": 2306,
+      "franchise": 19,
+      "name": "Bencinski servis Juršinci",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": 1.518,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
+    },
+    {
+      "pk": 2307,
+      "franchise": 19,
+      "name": "Bencinski servis Sodražica",
+      "address": "cesta Notranjskega odreda 56",
+      "lat": 45.76375961303711,
+      "lng": 14.63137435913086,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "5.30-22.00",
+      "zip_code": "1317"
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.276,
+        "dizel": 1.483,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.057,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
     }
   ],
   "position": null
