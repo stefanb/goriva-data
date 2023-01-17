@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2005,
-      "franchise": 1,
-      "name": "PETROL IZOLA, INDUSTRIJSKA",
-      "address": "INDUSTRIJSKA CESTA 9B",
-      "lat": 45.535631,
-      "lng": 13.671735,
-      "prices": {
-        "95": 1.288,
-        "dizel": 1.483,
-        "98": null,
-        "100": 1.554,
-        "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.929,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "6310"
-    },
-    {
-      "pk": 2006,
-      "franchise": 1,
-      "name": "PETROL HRPELJE",
-      "address": "REŠKA CESTA 51",
-      "lat": 45.604489,
-      "lng": 13.949959,
-      "prices": {
-        "95": 1.288,
-        "dizel": 1.483,
-        "98": null,
-        "100": 1.554,
-        "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.929,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "6240"
-    },
-    {
       "pk": 2007,
       "franchise": 1,
       "name": "PETROL ŠTALONI",
@@ -526,6 +484,48 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-13:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2039,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 130",
+      "address": "DUNAJSKA CESTA 130",
+      "lat": 46.078052,
+      "lng": 14.512668,
+      "prices": {
+        "95": 1.288,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.554,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2040,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRŽAŠKA 44",
+      "address": "TRŽAŠKA CESTA 44",
+      "lat": 46.04443147,
+      "lng": 14.48517761,
+      "prices": {
+        "95": 1.288,
+        "dizel": 1.483,
+        "98": null,
+        "100": 1.554,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-13:00",
       "zip_code": "1000"
     }
   ],
