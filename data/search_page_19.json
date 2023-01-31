@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2306,
-      "franchise": 19,
-      "name": "Bencinski servis Juršinci",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.529,
-        "98": 1.518,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.151
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
       "pk": 2307,
       "franchise": 19,
       "name": "Bencinski servis Sodražica",
@@ -44,6 +23,27 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.355,
+        "dizel": 1.489,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.141
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - NED. : 6:00 - 20:00",
+      "zip_code": "2283"
     },
     {
       "pk": 2315,
