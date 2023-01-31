@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2145,
-      "franchise": 1,
-      "name": "PETROL OTOČEC - JUG",
-      "address": "GRAJSKA CESTA 6",
-      "lat": 45.83957835,
-      "lng": 15.23583099,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.529,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.151
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
-      "zip_code": "8222"
-    },
-    {
-      "pk": 2146,
-      "franchise": 1,
-      "name": "PETROL ČRNOMELJ - BELOKRANJSKA",
-      "address": "BELOKRANJSKA CESTA 1",
-      "lat": 45.57849993,
-      "lng": 15.19151321,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.529,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.151
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "8340"
-    },
-    {
-      "pk": 2147,
-      "franchise": 1,
-      "name": "PETROL TREBNJE - POD GRADOM",
-      "address": "CESTA VILME BUKOVEC 2",
-      "lat": 45.90473997,
-      "lng": 15.00357364,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.529,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.929,
-        "KOEL": 1.151
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "8210"
-    },
-    {
       "pk": 2148,
       "franchise": 1,
       "name": "PETROL NOVO MESTO - SEIDLOVA",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3330"
+    },
+    {
+      "pk": 2171,
+      "franchise": 1,
+      "name": "PETROL VOJNIK",
+      "address": "CELJSKA CESTA 35A",
+      "lat": 46.28580502,
+      "lng": 15.30428269,
+      "prices": {
+        "95": 1.355,
+        "dizel": 1.529,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.151
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3212"
+    },
+    {
+      "pk": 2172,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA ZAHOD",
+      "address": "CELJSKA CESTA 2",
+      "lat": 46.35625568,
+      "lng": 15.11475697,
+      "prices": {
+        "95": 1.355,
+        "dizel": 1.529,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": 1.974,
+        "avtoplin-lpg": 0.929,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3320"
+    },
+    {
+      "pk": 2173,
+      "franchise": 1,
+      "name": "PETROL ŠENTRUPERT",
+      "address": "ŠENTRUPERT 6B",
+      "lat": 46.250078,
+      "lng": 15.075261,
+      "prices": {
+        "95": 1.355,
+        "dizel": 1.529,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.151
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
+      "zip_code": "3303"
     }
   ],
   "position": null
