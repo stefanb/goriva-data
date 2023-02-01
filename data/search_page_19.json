@@ -97,7 +97,7 @@
       "prices": {
         "95": 1.355,
         "dizel": 1.529,
-        "98": 1.523,
+        "98": 1.578,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
@@ -128,27 +128,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
       "zip_code": "2342"
-    },
-    {
-      "pk": 2328,
-      "franchise": 19,
-      "name": "Tankomat Jesenice",
-      "address": "Cesta Železarjev 8",
-      "lat": 46.43106460571289,
-      "lng": 14.07077407836914,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.529,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "4270"
     },
     {
       "pk": 768,
@@ -527,6 +506,27 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "NON-STOP",
       "zip_code": "2230"
+    },
+    {
+      "pk": 2027,
+      "franchise": 1,
+      "name": "PETROL PINCE AC - JUG",
+      "address": "PINCE-MAROF 55",
+      "lat": 46.521752,
+      "lng": 16.51791,
+      "prices": {
+        "95": 1.664,
+        "dizel": 1.776,
+        "98": null,
+        "100": 1.79,
+        "dizel-premium": 2.058,
+        "avtoplin-lpg": 0.969,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "9220"
     }
   ],
   "position": null
