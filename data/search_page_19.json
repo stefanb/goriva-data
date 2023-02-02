@@ -361,27 +361,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 1997,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - SEVER",
-      "address": "MEDNARODNI PREHOD 1A",
-      "lat": 45.920547,
-      "lng": 13.628483,
-      "prices": {
-        "95": 1.664,
-        "dizel": 1.806,
-        "98": null,
-        "100": 1.819,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5290"
-    },
-    {
       "pk": 2000,
       "franchise": 1,
       "name": "PETROL VRTOJBA AC - JUG",
@@ -527,6 +506,27 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "NON-STOP",
       "zip_code": "9220"
+    },
+    {
+      "pk": 2030,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - JUG",
+      "address": "POVIR 95",
+      "lat": 45.703393,
+      "lng": 13.940151,
+      "prices": {
+        "95": 1.664,
+        "dizel": 1.776,
+        "98": null,
+        "100": 1.79,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.969,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Fernetiči -> Ljublja",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
     }
   ],
   "position": null
