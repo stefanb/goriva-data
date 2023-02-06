@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2030,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - JUG",
+      "address": "POVIR 95",
+      "lat": 45.703393,
+      "lng": 13.940151,
+      "prices": {
+        "95": 1.664,
+        "dizel": 1.776,
+        "98": null,
+        "100": 1.79,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.969,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Fernetiči -> Ljublja",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
+    },
+    {
       "pk": 2031,
       "franchise": 1,
       "name": "PETROL POVIR AC - SEVER",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 778,
-      "franchise": 2,
-      "name": "OMV DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.665,
-        "dizel": 1.775,
-        "98": null,
-        "100": 1.794,
-        "dizel-premium": 1.944,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2211"
     }
