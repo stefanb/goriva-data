@@ -109,6 +109,27 @@
       "zip_code": "6310"
     },
     {
+      "pk": 1995,
+      "franchise": 1,
+      "name": "PETROL ILIRSKA BISTRICA",
+      "address": "VILHARJEVA CESTA 33C",
+      "lat": 45.575503,
+      "lng": 14.23202,
+      "prices": {
+        "95": 1.355,
+        "dizel": 1.529,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.939,
+        "KOEL": 1.151
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "6250"
+    },
+    {
       "pk": 1996,
       "franchise": 1,
       "name": "PETROL POSTOJNA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "2310"
-    },
-    {
-      "pk": 2022,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ZAGREBŠKA",
-      "address": "ZAGREBŠKA CESTA 49B",
-      "lat": 46.40705215,
-      "lng": 15.866315,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.529,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.151
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "2250"
     }
   ],
   "position": null
