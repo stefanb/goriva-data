@@ -193,27 +193,6 @@
       "zip_code": "2230"
     },
     {
-      "pk": 1949,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - VZHOD",
-      "address": "STANOŠINA 35",
-      "lat": 46.326604,
-      "lng": 15.880214,
-      "prices": {
-        "95": 1.684,
-        "dizel": 1.766,
-        "98": null,
-        "100": 1.804,
-        "dizel-premium": 2.012,
-        "avtoplin-lpg": 0.979,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2286"
-    },
-    {
       "pk": 2027,
       "franchise": 1,
       "name": "PETROL PINCE AC - JUG",
@@ -233,48 +212,6 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "NON-STOP",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2162,
-      "franchise": 1,
-      "name": "PETROL OBREŽJE AC - VZHOD",
-      "address": "JESENICE 32A",
-      "lat": 45.85448,
-      "lng": 15.686297,
-      "prices": {
-        "95": 1.684,
-        "dizel": 1.766,
-        "98": null,
-        "100": 1.804,
-        "dizel-premium": 2.012,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8261"
-    },
-    {
-      "pk": 2232,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
-      "prices": {
-        "95": 1.684,
-        "dizel": 1.766,
-        "98": null,
-        "100": 1.804,
-        "dizel-premium": 2.012,
-        "avtoplin-lpg": 0.979,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2286"
     },
     {
       "pk": 1923,
@@ -317,6 +254,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2212"
+    },
+    {
+      "pk": 1949,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - VZHOD",
+      "address": "STANOŠINA 35",
+      "lat": 46.326604,
+      "lng": 15.880214,
+      "prices": {
+        "95": 1.696,
+        "dizel": 1.775,
+        "98": null,
+        "100": 1.814,
+        "dizel-premium": 2.012,
+        "avtoplin-lpg": 0.979,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2286"
     },
     {
       "pk": 2000,
@@ -401,6 +359,48 @@
       "direction": "Ljubljana -> Karavan",
       "open_hours": "NON-STOP",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2162,
+      "franchise": 1,
+      "name": "PETROL OBREŽJE AC - VZHOD",
+      "address": "JESENICE 32A",
+      "lat": 45.85448,
+      "lng": 15.686297,
+      "prices": {
+        "95": 1.696,
+        "dizel": 1.775,
+        "98": null,
+        "100": 1.814,
+        "dizel-premium": 2.012,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8261"
+    },
+    {
+      "pk": 2232,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - ZAHOD",
+      "address": "DEŽNO PRI PODLEHNIKU 2",
+      "lat": 46.329098,
+      "lng": 15.878359,
+      "prices": {
+        "95": 1.696,
+        "dizel": 1.775,
+        "98": null,
+        "100": 1.814,
+        "dizel-premium": 2.012,
+        "avtoplin-lpg": 0.979,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2286"
     },
     {
       "pk": 784,
