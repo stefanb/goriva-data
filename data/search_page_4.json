@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 855,
+      "franchise": 2,
+      "name": "OMV SLOVENSKE KONJICE",
+      "address": "Liptovska 36a",
+      "lat": 46.34068,
+      "lng": 15.41675,
+      "prices": {
+        "95": 1.355,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.598,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.083
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3210"
+    },
+    {
       "pk": 856,
       "franchise": 2,
       "name": "OMV SMEDNIK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
-    },
-    {
-      "pk": 1554,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA",
-      "address": "MALA NOVA ULICA 1",
-      "lat": 46.6560676,
-      "lng": 16.1751469,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.599,
-        "dizel-premium": 1.759,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 05:00 - 22:00\r\nnedelja in prazniki 07:00 - 20:00",
-      "zip_code": "9000"
     }
   ],
   "position": null

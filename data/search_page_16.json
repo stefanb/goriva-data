@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2191,
+      "franchise": 1,
+      "name": "PETROL ŠOŠTANJ",
+      "address": "AŠKERČEVA CESTA 7",
+      "lat": 46.37530944,
+      "lng": 15.04892524,
+      "prices": {
+        "95": 1.355,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.593,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.083
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "3325"
+    },
+    {
       "pk": 2192,
       "franchise": 1,
       "name": "PETROL RADEČE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "3230"
-    },
-    {
-      "pk": 2219,
-      "franchise": 1,
-      "name": "PETROL DOBRNA",
-      "address": "PRISTOVA 21",
-      "lat": 46.32717529,
-      "lng": 15.22104794,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.489,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.083
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3204"
     }
   ],
   "position": null
