@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1927,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - GOSPOSVETSKA SEVER",
-      "address": "GOSPOSVETSKA CESTA 92",
-      "lat": 46.56386643,
-      "lng": 15.62682805,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.489,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1928,
-      "franchise": 1,
-      "name": "PETROL SOLKAN",
-      "address": "CESTA IX. KORPUSA 67",
-      "lat": 45.96778633,
-      "lng": 13.64164681,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.078
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5250"
-    },
-    {
       "pk": 1929,
       "franchise": 1,
       "name": "PETROL MARIBOR - PARTIZANSKA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:00-12:00",
       "zip_code": "9253"
+    },
+    {
+      "pk": 1954,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - POBREŽJE",
+      "address": "ČUFARJEVA CESTA 10",
+      "lat": 46.5542838,
+      "lng": 15.66939413,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.078
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1955,
+      "franchise": 1,
+      "name": "PETROL MOST NA SOČI",
+      "address": "MOST NA SOČI 51B",
+      "lat": 46.15283904,
+      "lng": 13.74145196,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 17:30-19:00",
+      "zip_code": "5216"
     }
   ],
   "position": null

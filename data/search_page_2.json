@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 773,
-      "franchise": 2,
-      "name": "OMV CELJE EMO",
-      "address": "Mariborska c. 84",
-      "lat": 46.23923,
-      "lng": 15.27456,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.613,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.078
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 774,
-      "franchise": 2,
-      "name": "OMV CELJE MEDLOG",
-      "address": "Ljubljanska cesta 110",
-      "lat": 46.238118,
-      "lng": 15.235194,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.613,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Pet 05:00-22:00, Sob/Ned/Praz 06:00-21:00",
-      "zip_code": "3000"
-    },
-    {
       "pk": 775,
       "franchise": 2,
       "name": "OMV ČRNOMELJ",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "4248"
+    },
+    {
+      "pk": 814,
+      "franchise": 2,
+      "name": "OMV LIPOVCI",
+      "address": "Lipovci 243b",
+      "lat": 46.625125,
+      "lng": 16.214332,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.613,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.078
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "9231"
+    },
+    {
+      "pk": 815,
+      "franchise": 2,
+      "name": "OMV LITIJA",
+      "address": "Zasavska c. 1",
+      "lat": 46.058713,
+      "lng": 14.832858,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.613,
+        "dizel-premium": 1.779,
+        "avtoplin-lpg": null,
+        "KOEL": 1.078
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1270"
     }
   ],
   "position": null
