@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2217,
-      "franchise": 1,
-      "name": "PETROL ŠTORE",
-      "address": "OBRTNIŠKA CESTA 2",
-      "lat": 46.224064,
-      "lng": 15.312733,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.078
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3220"
-    },
-    {
       "pk": 2218,
       "franchise": 1,
       "name": "PETROL ŠENTJUR",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2247,
+      "franchise": 3,
+      "name": "BS MAXEN METLIKA",
+      "address": "Mestni log bš",
+      "lat": 45.6406592,
+      "lng": 15.3216016,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8330"
     }
   ],
   "position": null
