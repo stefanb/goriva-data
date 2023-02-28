@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2160,
-      "franchise": 1,
-      "name": "PETROL ŠKOCJAN",
-      "address": "DOLNJA STARA VAS 50",
-      "lat": 45.89728,
-      "lng": 15.300093,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.489,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.078
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 12:00-15:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "8275"
-    },
-    {
       "pk": 2161,
       "franchise": 1,
       "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
@@ -162,7 +141,7 @@
         "dizel": 1.489,
         "98": null,
         "100": 1.608,
-        "dizel-premium": 1.929,
+        "dizel-premium": 1.899,
         "avtoplin-lpg": 0.939,
         "KOEL": 1.078
       },
@@ -246,7 +225,7 @@
         "dizel": 1.489,
         "98": null,
         "100": 1.608,
-        "dizel-premium": 1.929,
+        "dizel-premium": 1.899,
         "avtoplin-lpg": 0.939,
         "KOEL": null
       },
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "3311"
+    },
+    {
+      "pk": 2188,
+      "franchise": 1,
+      "name": "PETROL LAŠKO",
+      "address": "CELJSKA CESTA 40",
+      "lat": 46.16731495,
+      "lng": 15.2329947,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.078
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3270"
     }
   ],
   "position": null

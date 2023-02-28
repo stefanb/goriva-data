@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2304,
-      "franchise": 19,
-      "name": "Bencinski servis Velika Pirešica",
-      "address": "Velika Pirešica 60",
-      "lat": 46.28633117675781,
-      "lng": 15.176063537597656,
-      "prices": {
-        "95": 1.359,
-        "dizel": 1.489,
-        "98": 1.355,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.078
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.00",
-      "zip_code": "3310"
-    },
-    {
       "pk": 2305,
       "franchise": 19,
       "name": "Bencinski servis Škofja Loka",
@@ -193,6 +172,27 @@
       "zip_code": "1290"
     },
     {
+      "pk": 2327,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Bezena",
+      "address": "Bezena 99",
+      "lat": 46.5499175582367,
+      "lng": 15.538353293954877,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.598,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
+      "zip_code": "2342"
+    },
+    {
       "pk": 768,
       "franchise": 2,
       "name": "OMV BERTOKI",
@@ -340,27 +340,6 @@
       "zip_code": "2212"
     },
     {
-      "pk": 1949,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - VZHOD",
-      "address": "STANOŠINA 35",
-      "lat": 46.326604,
-      "lng": 15.880214,
-      "prices": {
-        "95": 1.668,
-        "dizel": 1.736,
-        "98": null,
-        "100": 1.79,
-        "dizel-premium": 2.012,
-        "avtoplin-lpg": 0.979,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2286"
-    },
-    {
       "pk": 1976,
       "franchise": 1,
       "name": "PETROL GRABONOŠ AC - SEVER",
@@ -393,7 +372,7 @@
         "dizel": 1.736,
         "98": null,
         "100": 1.79,
-        "dizel-premium": 2.012,
+        "dizel-premium": 1.989,
         "avtoplin-lpg": 0.979,
         "KOEL": null
       },
@@ -414,7 +393,7 @@
         "dizel": 1.736,
         "98": null,
         "100": 1.79,
-        "dizel-premium": 2.012,
+        "dizel-premium": 1.989,
         "avtoplin-lpg": 0.979,
         "KOEL": null
       },
@@ -435,7 +414,7 @@
         "dizel": 1.736,
         "98": null,
         "100": 1.79,
-        "dizel-premium": 2.012,
+        "dizel-premium": 1.989,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -456,7 +435,7 @@
         "dizel": 1.736,
         "98": null,
         "100": 1.79,
-        "dizel-premium": 2.012,
+        "dizel-premium": 1.989,
         "avtoplin-lpg": 0.979,
         "KOEL": null
       },
@@ -498,7 +477,7 @@
         "dizel": 1.736,
         "98": null,
         "100": 1.79,
-        "dizel-premium": 2.012,
+        "dizel-premium": 1.989,
         "avtoplin-lpg": 0.979,
         "KOEL": null
       },
@@ -521,6 +500,27 @@
         "100": 1.79,
         "dizel-premium": null,
         "avtoplin-lpg": 0.979,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2019,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - JUG",
+      "address": "BAKOVSKA ULICA 51",
+      "lat": 46.634461,
+      "lng": 16.164346,
+      "prices": {
+        "95": 1.668,
+        "dizel": 1.736,
+        "98": null,
+        "100": 1.79,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,

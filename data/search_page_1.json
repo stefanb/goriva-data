@@ -130,27 +130,6 @@
       "zip_code": "2283"
     },
     {
-      "pk": 2327,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Bezena",
-      "address": "Bezena 99",
-      "lat": 46.5499175582367,
-      "lng": 15.538353293954877,
-      "prices": {
-        "95": 1.355,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.598,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
-      "zip_code": "2342"
-    },
-    {
       "pk": 2288,
       "franchise": 13,
       "name": "FE Trading - DISKONT Tržič",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
       "zip_code": "6215"
+    },
+    {
+      "pk": 779,
+      "franchise": 2,
+      "name": "OMV DOL PRI LJUBLJANI",
+      "address": "Podgora pri Dolskem 40",
+      "lat": 46.090168,
+      "lng": 14.650805,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.613,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.078
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "1262"
     }
   ],
   "position": null
