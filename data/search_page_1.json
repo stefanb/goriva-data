@@ -67,27 +67,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.349,
-        "dizel": 1.479,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.078
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-20.00\r\n\r\nSobota \r\n07.00-18.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2313,
       "franchise": 17,
       "name": "HOJNIK Oil BS Zavrč",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
       "zip_code": "2370"
+    },
+    {
+      "pk": 783,
+      "franchise": 2,
+      "name": "OMV DUTOVLJE",
+      "address": "Dutovlje 3b",
+      "lat": 45.755992,
+      "lng": 13.835896,
+      "prices": {
+        "95": 1.359,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.613,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.078
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
+      "zip_code": "6221"
     }
   ],
   "position": null
