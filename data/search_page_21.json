@@ -4,59 +4,38 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2027,
+      "pk": 2202,
       "franchise": 1,
-      "name": "PETROL PINCE AC - JUG",
-      "address": "PINCE-MAROF 55",
-      "lat": 46.521752,
-      "lng": 16.51791,
+      "name": "PETROL ZALOKE AC - SEVER",
+      "address": "ZALOKE 15",
+      "lat": 45.909601,
+      "lng": 15.400316,
       "prices": {
-        "95": 1.697,
-        "dizel": 1.768,
+        "95": 1.699,
+        "dizel": 1.769,
         "98": null,
-        "100": 1.819,
-        "dizel-premium": 1.989,
+        "100": 1.824,
+        "dizel-premium": null,
         "avtoplin-lpg": 0.989,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "NON-STOP",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2162,
-      "franchise": 1,
-      "name": "PETROL OBREŽJE AC - VZHOD",
-      "address": "JESENICE 32A",
-      "lat": 45.85448,
-      "lng": 15.686297,
-      "prices": {
-        "95": 1.697,
-        "dizel": 1.768,
-        "98": null,
-        "100": 1.819,
-        "dizel-premium": 1.989,
-        "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "8261"
+      "zip_code": "8274"
     },
     {
-      "pk": 2232,
+      "pk": 2229,
       "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
+      "name": "PETROL STARINE AC - JUG",
+      "address": "ZAGRAD PRI OTOČCU 111",
+      "lat": 45.841312,
+      "lng": 15.217206,
       "prices": {
-        "95": 1.697,
-        "dizel": 1.768,
+        "95": 1.699,
+        "dizel": 1.769,
         "98": null,
-        "100": 1.819,
+        "100": 1.824,
         "dizel-premium": 1.989,
         "avtoplin-lpg": 0.989,
         "KOEL": null
@@ -64,7 +43,28 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "2286"
+      "zip_code": "8222"
+    },
+    {
+      "pk": 2230,
+      "franchise": 1,
+      "name": "PETROL STARINE AC - SEVER",
+      "address": "ZAGRAD PRI OTOČCU 110",
+      "lat": 45.841967,
+      "lng": 15.216726,
+      "prices": {
+        "95": 1.699,
+        "dizel": 1.769,
+        "98": null,
+        "100": 1.824,
+        "dizel-premium": 1.989,
+        "avtoplin-lpg": 0.989,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8222"
     },
     {
       "pk": 1923,
