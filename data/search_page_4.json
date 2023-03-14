@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 853,
-      "franchise": 2,
-      "name": "OMV SEŽANA",
-      "address": "Partizanska 63a",
-      "lat": 45.705649,
-      "lng": 13.863156,
-      "prices": {
-        "95": 1.374,
-        "dizel": 1.504,
-        "98": null,
-        "100": 1.653,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 855,
-      "franchise": 2,
-      "name": "OMV SLOVENSKE KONJICE",
-      "address": "Liptovska 36a",
-      "lat": 46.34068,
-      "lng": 15.41675,
-      "prices": {
-        "95": 1.374,
-        "dizel": 1.504,
-        "98": null,
-        "100": 1.653,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.097
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3210"
-    },
-    {
       "pk": 856,
       "franchise": 2,
       "name": "OMV SMEDNIK",
@@ -149,6 +107,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "2281"
+    },
+    {
+      "pk": 862,
+      "franchise": 2,
+      "name": "OMV ŠENTJUR",
+      "address": "Ljubljanska c. 20a",
+      "lat": 46.214942,
+      "lng": 15.38352,
+      "prices": {
+        "95": 1.374,
+        "dizel": 1.504,
+        "98": null,
+        "100": 1.653,
+        "dizel-premium": 1.798,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3230"
     },
     {
       "pk": 865,
@@ -359,6 +338,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 875,
+      "franchise": 2,
+      "name": "OMV ZAGRADEC",
+      "address": "Zagradec 34",
+      "lat": 45.85943,
+      "lng": 14.83524,
+      "prices": {
+        "95": 1.374,
+        "dizel": 1.504,
+        "98": null,
+        "100": 1.653,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1303"
     },
     {
       "pk": 876,
