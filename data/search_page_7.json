@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 2289,
-      "franchise": 13,
-      "name": "FE Trading - DISKONT Kranj",
-      "address": "Šuceva ulica 23 a",
-      "lat": 46.246355,
-      "lng": 14.378,
-      "prices": {
-        "95": 1.372,
-        "dizel": 1.502,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "4000"
-    },
-    {
-      "pk": 2290,
-      "franchise": 13,
-      "name": "FE Trading - DISKONT Medvode",
-      "address": "Gorenjska cesta 12",
-      "lat": 46.136526,
-      "lng": 14.417849,
-      "prices": {
-        "95": 1.372,
-        "dizel": 1.502,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "1215"
-    },
-    {
-      "pk": 2291,
-      "franchise": 13,
-      "name": "FE Trading - AVANTI Ljubljana Toplarniška",
-      "address": "Toplarniška ulica 4",
-      "lat": 46.056904,
-      "lng": 14.541465,
-      "prices": {
-        "95": 1.372,
-        "dizel": 1.502,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2292,
       "franchise": 13,
       "name": "FE Trading - AVANTI Ljubljana Tržaška",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "2312"
+    },
+    {
+      "pk": 1940,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
+      "address": "GOSPOSVETSKA CESTA 81",
+      "lat": 46.56349021,
+      "lng": 15.62652364,
+      "prices": {
+        "95": 1.374,
+        "dizel": 1.504,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-14:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1941,
+      "franchise": 1,
+      "name": "PETROL OPLOTNICA",
+      "address": "PARTIZANSKA CESTA 31",
+      "lat": 46.38403,
+      "lng": 15.448916,
+      "prices": {
+        "95": 1.374,
+        "dizel": 1.504,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-16:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2317"
+    },
+    {
+      "pk": 1942,
+      "franchise": 1,
+      "name": "PETROL SELNICA OB DRAVI",
+      "address": "MARIBORSKA CESTA 46",
+      "lat": 46.54934191,
+      "lng": 15.4860149,
+      "prices": {
+        "95": 1.374,
+        "dizel": 1.504,
+        "98": null,
+        "100": 1.648,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2352"
     }
   ],
   "position": null
