@@ -1,6 +1,6 @@
 {
-  "count": 549,
-  "next": null,
+  "count": 551,
+  "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
@@ -506,6 +506,27 @@
       "direction": "",
       "open_hours": "neprenehoma 24/7",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2329,
+      "franchise": 31,
+      "name": "",
+      "address": "Sermin 8A",
+      "lat": 45.552372,
+      "lng": 13.766288,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET: 7.30 - 15.30\r\n\r\nOb sobotah, nedeljah in praznikih zaprto.",
+      "zip_code": "6000"
     }
   ],
   "position": null
