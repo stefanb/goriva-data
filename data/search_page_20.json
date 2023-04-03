@@ -151,27 +151,6 @@
       "zip_code": "1000"
     },
     {
-      "pk": 2060,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA AC - BARJE JUG",
-      "address": "CESTA DVEH CESARJEV 73",
-      "lat": 46.028806,
-      "lng": 14.478422,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.831,
-        "dizel-premium": 1.927,
-        "avtoplin-lpg": 0.979,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2088,
       "franchise": 1,
       "name": "PETROL LOM AC - ZAHOD",
@@ -262,27 +241,6 @@
       "address": "GASILSKA CESTA 55",
       "lat": 46.22788,
       "lng": 14.419719,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.831,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.979,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 2101,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - VZHOD",
-      "address": "GASILSKA CESTA 51",
-      "lat": 46.22679,
-      "lng": 14.424885,
       "prices": {
         "95": 1.683,
         "dizel": 1.696,
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8222"
+    },
+    {
+      "pk": 2231,
+      "franchise": 1,
+      "name": "PETROL DUL AC - JUG",
+      "address": "DOLENJI PODBORŠT PRI TREB. 50",
+      "lat": 45.898858,
+      "lng": 15.026398,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.696,
+        "98": null,
+        "100": 1.831,
+        "dizel-premium": 1.927,
+        "avtoplin-lpg": 0.979,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Novo Me",
+      "open_hours": "NON-STOP",
+      "zip_code": "8210"
+    },
+    {
+      "pk": 2232,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - ZAHOD",
+      "address": "DEŽNO PRI PODLEHNIKU 2",
+      "lat": 46.329098,
+      "lng": 15.878359,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.696,
+        "98": null,
+        "100": 1.831,
+        "dizel-premium": 1.927,
+        "avtoplin-lpg": 0.979,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2286"
     }
   ],
   "position": null
