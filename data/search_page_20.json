@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 796,
-      "franchise": 2,
-      "name": "OMV GROSUPLJE CIKAVA",
-      "address": "Ljubljanska cesta 129",
-      "lat": 45.9730555555556,
-      "lng": 14.625555555555556,
-      "prices": {
-        "95": 1.698,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.849,
-        "dizel-premium": 1.938,
-        "avtoplin-lpg": 0.967,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Grosuplje",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1290"
-    },
-    {
       "pk": 823,
       "franchise": 2,
       "name": "OMV LOPATA JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "4208"
+    },
+    {
+      "pk": 2120,
+      "franchise": 1,
+      "name": "PETROL PODSMREKA AC - SEVER",
+      "address": "PODSMREKA PRI VIŠNJI GORI 15",
+      "lat": 45.947759,
+      "lng": 14.771093,
+      "prices": {
+        "95": 1.699,
+        "dizel": 1.719,
+        "98": null,
+        "100": 1.849,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.944,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1294"
     }
   ],
   "position": null

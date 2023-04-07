@@ -298,27 +298,6 @@
       "zip_code": "6281"
     },
     {
-      "pk": 1997,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - SEVER",
-      "address": "MEDNARODNI PREHOD 1A",
-      "lat": 45.920547,
-      "lng": 13.628483,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.831,
-        "dizel-premium": 1.927,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 00:00-16:00\r\nsobote 00:00-16:00\r\nnedelje in prazniki 00:00-16:00",
-      "zip_code": "5290"
-    },
-    {
       "pk": 2027,
       "franchise": 1,
       "name": "PETROL PINCE AC - JUG",
@@ -527,6 +506,27 @@
       "direction": "Lenti",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "9244"
+    },
+    {
+      "pk": 796,
+      "franchise": 2,
+      "name": "OMV GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.698,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.849,
+        "dizel-premium": 1.938,
+        "avtoplin-lpg": 0.967,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1290"
     }
   ],
   "position": null
