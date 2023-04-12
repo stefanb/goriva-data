@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2245,
-      "franchise": 3,
-      "name": "BS MAXEN SELNICA OB DRAVI",
-      "address": "Spodnja Selnica bš",
-      "lat": 46.5546048,
-      "lng": 15.5078896,
-      "prices": {
-        "95": 1.416,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2352"
-    },
-    {
       "pk": 2246,
       "franchise": 3,
       "name": "BS MAXEN LJUBLJANA-BTC",
@@ -317,6 +296,27 @@
       "direction": "",
       "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
       "zip_code": "9220"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.416,
+        "dizel": 1.441,
+        "98": 1.685,
+        "100": 1.685,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.033
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2271,

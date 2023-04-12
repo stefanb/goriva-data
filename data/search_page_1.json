@@ -67,27 +67,6 @@
       "zip_code": "8290"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.374,
-        "dizel": 1.449,
-        "98": 1.653,
-        "100": 1.653,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.043
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "Sep-Maj: Pon-Ned 05:00-22:00; Jun-Avg: Pon-Ned 05:00-23:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 774,
+      "franchise": 2,
+      "name": "OMV CELJE MEDLOG",
+      "address": "Ljubljanska cesta 110",
+      "lat": 46.238118,
+      "lng": 15.235194,
+      "prices": {
+        "95": 1.416,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.689,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 05:00-22:00, Sob/Ned/Praz 06:00-21:00",
       "zip_code": "3000"
     }
   ],
