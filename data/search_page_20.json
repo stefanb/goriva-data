@@ -46,27 +46,6 @@
       "zip_code": "2230"
     },
     {
-      "pk": 2027,
-      "franchise": 1,
-      "name": "PETROL PINCE AC - JUG",
-      "address": "PINCE-MAROF 55",
-      "lat": 46.521752,
-      "lng": 16.51791,
-      "prices": {
-        "95": 1.725,
-        "dizel": 1.688,
-        "98": null,
-        "100": 1.867,
-        "dizel-premium": 1.917,
-        "avtoplin-lpg": 0.934,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "NON-STOP",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2030,
       "franchise": 1,
       "name": "PETROL POVIR AC - JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8222"
+    },
+    {
+      "pk": 2231,
+      "franchise": 1,
+      "name": "PETROL DUL AC - JUG",
+      "address": "DOLENJI PODBORŠT PRI TREB. 50",
+      "lat": 45.898858,
+      "lng": 15.026398,
+      "prices": {
+        "95": 1.725,
+        "dizel": 1.688,
+        "98": null,
+        "100": 1.867,
+        "dizel-premium": 1.917,
+        "avtoplin-lpg": 0.934,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Novo Me",
+      "open_hours": "NON-STOP",
+      "zip_code": "8210"
     }
   ],
   "position": null
