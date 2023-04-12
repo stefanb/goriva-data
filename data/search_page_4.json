@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 853,
-      "franchise": 2,
-      "name": "OMV SEŽANA",
-      "address": "Partizanska 63a",
-      "lat": 45.705649,
-      "lng": 13.863156,
-      "prices": {
-        "95": 1.416,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.689,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 854,
       "franchise": 2,
       "name": "OMV SLOVENSKA BISTRICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "1270"
+    },
+    {
+      "pk": 1552,
+      "franchise": 4,
+      "name": "BS MOL KOČEVJE",
+      "address": "LJUBLJANSKA CESTA 40",
+      "lat": 45.6488405,
+      "lng": 14.8544269,
+      "prices": {
+        "95": 1.416,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.687,
+        "dizel-premium": 1.752,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1330"
     }
   ],
   "position": null

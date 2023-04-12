@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2249,
-      "franchise": 3,
-      "name": "BS MAXEN MEŽICA",
-      "address": "Mariborska cesta bš",
-      "lat": 46.5236096,
-      "lng": 14.8536976,
-      "prices": {
-        "95": 1.416,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2392"
-    },
-    {
       "pk": 2250,
       "franchise": 3,
       "name": "BS MAXEN KOČEVJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
       "zip_code": "2256"
+    },
+    {
+      "pk": 2307,
+      "franchise": 19,
+      "name": "Bencinski servis Sodražica",
+      "address": "cesta Notranjskega odreda 56",
+      "lat": 45.76375961303711,
+      "lng": 14.63137435913086,
+      "prices": {
+        "95": 1.416,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.033
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "5.30-22.00",
+      "zip_code": "1317"
     }
   ],
   "position": null
