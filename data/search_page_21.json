@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2231,
-      "franchise": 1,
-      "name": "PETROL DUL AC - JUG",
-      "address": "DOLENJI PODBORŠT PRI TREB. 50",
-      "lat": 45.898858,
-      "lng": 15.026398,
-      "prices": {
-        "95": 1.725,
-        "dizel": 1.688,
-        "98": null,
-        "100": 1.867,
-        "dizel-premium": 1.917,
-        "avtoplin-lpg": 0.934,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Novo Me",
-      "open_hours": "NON-STOP",
-      "zip_code": "8210"
-    },
-    {
       "pk": 2232,
       "franchise": 1,
       "name": "PETROL PODLEHNIK AC - ZAHOD",
@@ -422,6 +401,27 @@
       "direction": "Nova Gorica",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5261"
+    },
+    {
+      "pk": 2027,
+      "franchise": 1,
+      "name": "PETROL PINCE AC - JUG",
+      "address": "PINCE-MAROF 55",
+      "lat": 46.521752,
+      "lng": 16.51791,
+      "prices": {
+        "95": 1.745,
+        "dizel": 1.709,
+        "98": null,
+        "100": 1.867,
+        "dizel-premium": 1.917,
+        "avtoplin-lpg": 0.934,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "9220"
     },
     {
       "pk": 784,
