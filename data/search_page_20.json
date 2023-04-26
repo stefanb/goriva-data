@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2018,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - SEVER",
+      "address": "BAKOVSKA ULICA 53",
+      "lat": 46.635944,
+      "lng": 16.166272,
+      "prices": {
+        "95": 1.725,
+        "dizel": 1.688,
+        "98": null,
+        "100": 1.878,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.944,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2019,
       "franchise": 1,
       "name": "PETROL MURSKA SOBOTA AC - JUG",
@@ -493,27 +514,6 @@
       "address": "ZAGRAD PRI OTOČCU 111",
       "lat": 45.841312,
       "lng": 15.217206,
-      "prices": {
-        "95": 1.725,
-        "dizel": 1.688,
-        "98": null,
-        "100": 1.878,
-        "dizel-premium": 1.922,
-        "avtoplin-lpg": 0.944,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8222"
-    },
-    {
-      "pk": 2230,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - SEVER",
-      "address": "ZAGRAD PRI OTOČCU 110",
-      "lat": 45.841967,
-      "lng": 15.216726,
       "prices": {
         "95": 1.725,
         "dizel": 1.688,

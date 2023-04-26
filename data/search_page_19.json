@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": 1.416,
+        "dizel": 1.441,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.894,
+        "KOEL": 1.022
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
+    },
+    {
       "pk": 2312,
       "franchise": 17,
       "name": "HOJNIK Oil BS Leskovec",
@@ -506,27 +527,6 @@
       "direction": "Koper -> Ljubljana",
       "open_hours": "NON-STOP",
       "zip_code": "6240"
-    },
-    {
-      "pk": 2018,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA AC - SEVER",
-      "address": "BAKOVSKA ULICA 53",
-      "lat": 46.635944,
-      "lng": 16.166272,
-      "prices": {
-        "95": 1.725,
-        "dizel": 1.688,
-        "98": null,
-        "100": 1.878,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.944,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9000"
     }
   ],
   "position": null
