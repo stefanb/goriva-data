@@ -445,6 +445,48 @@
       "zip_code": "1317"
     },
     {
+      "pk": 2316,
+      "franchise": 23,
+      "name": "BS Žihlava",
+      "address": "Žihlava 15",
+      "lat": 46.55,
+      "lng": 16.0396,
+      "prices": {
+        "95": 1.39,
+        "dizel": 1.421,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gornja Radgona - Ljutomer",
+      "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9244"
+    },
+    {
+      "pk": 2317,
+      "franchise": 23,
+      "name": "BS Lemerje",
+      "address": "Lemerje 2",
+      "lat": 46.7094,
+      "lng": 16.1102,
+      "prices": {
+        "95": 1.39,
+        "dizel": 1.421,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Murska Sobota - Grad (Kuzma)",
+      "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9201"
+    },
+    {
       "pk": 2323,
       "franchise": 2,
       "name": "OMV KOPER LUKA",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
-    },
-    {
-      "pk": 2145,
-      "franchise": 1,
-      "name": "PETROL OTOČEC - JUG",
-      "address": "GRAJSKA CESTA 6",
-      "lat": 45.83957835,
-      "lng": 15.23583099,
-      "prices": {
-        "95": 1.416,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.696,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.022
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
-      "zip_code": "8222"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.416,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.696,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.022
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     }
   ],
   "position": null
