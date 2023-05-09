@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.39,
+        "dizel": 1.411,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 0.991
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - NED. : 6:00 - 20:00",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -170,48 +191,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
       "zip_code": "8222"
-    },
-    {
-      "pk": 2312,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Leskovec",
-      "address": "Leskovec 15",
-      "lat": 46.259264,
-      "lng": 15.310556,
-      "prices": {
-        "95": 1.416,
-        "dizel": 1.419,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.8,
-        "KOEL": 1.012
-      },
-      "distance": null,
-      "direction": "Celje",
-      "open_hours": "PON. - PET.      6.00 - 17.00        \r\nSOB.                 7.00 - 12.00\r\nNED., PRAZNIKI   ZAPRTO",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.416,
-        "dizel": 1.429,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.012
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
     },
     {
       "pk": 768,
@@ -527,6 +506,27 @@
       "direction": "Koper -> Ljubljana",
       "open_hours": "NON-STOP",
       "zip_code": "6240"
+    },
+    {
+      "pk": 2018,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - SEVER",
+      "address": "BAKOVSKA ULICA 53",
+      "lat": 46.635944,
+      "lng": 16.166272,
+      "prices": {
+        "95": 1.699,
+        "dizel": 1.668,
+        "98": null,
+        "100": 1.85,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.934,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
     }
   ],
   "position": null

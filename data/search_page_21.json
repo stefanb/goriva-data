@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2230,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - SEVER",
-      "address": "ZAGRAD PRI OTOČCU 110",
-      "lat": 45.841967,
-      "lng": 15.216726,
-      "prices": {
-        "95": 1.699,
-        "dizel": 1.668,
-        "98": null,
-        "100": 1.85,
-        "dizel-premium": 1.9,
-        "avtoplin-lpg": 0.934,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8222"
-    },
-    {
       "pk": 2231,
       "franchise": 1,
       "name": "PETROL DUL AC - JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2258,
+      "franchise": 5,
+      "name": "SHELL KOPER",
+      "address": "SERMIN 7C",
+      "lat": 45.552486,
+      "lng": 13.762092,
+      "prices": {
+        "95": null,
+        "dizel": 1.421,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "6000"
     }
   ],
   "position": null

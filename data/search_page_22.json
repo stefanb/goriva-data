@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 2258,
-      "franchise": 5,
-      "name": "SHELL KOPER",
-      "address": "SERMIN 7C",
-      "lat": 45.552486,
-      "lng": 13.762092,
-      "prices": {
-        "95": null,
-        "dizel": 1.421,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "6000"
-    },
-    {
       "pk": 2259,
       "franchise": 5,
       "name": "SHELL AJDOVŠČINA",
@@ -340,6 +319,27 @@
       "zip_code": "4270"
     },
     {
+      "pk": 2312,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Leskovec",
+      "address": "Leskovec 15",
+      "lat": 46.259264,
+      "lng": 15.310556,
+      "prices": {
+        "95": null,
+        "dizel": 1.401,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.8,
+        "KOEL": 0.991
+      },
+      "distance": null,
+      "direction": "Celje",
+      "open_hours": "PON. - PET.      6.00 - 17.00        \r\nSOB.                 7.00 - 12.00\r\nNED., PRAZNIKI   ZAPRTO",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2318,
       "franchise": 24,
       "name": "PRUNK OIL",
@@ -432,7 +432,7 @@
       "lng": 15.052119626875369,
       "prices": {
         "95": null,
-        "dizel": 1.441,
+        "dizel": 1.421,
         "98": null,
         "100": null,
         "dizel-premium": null,
