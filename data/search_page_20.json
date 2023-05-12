@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 828,
+      "franchise": 2,
+      "name": "OMV LUKOVICA",
+      "address": "Koseskega cesta 4",
+      "lat": 46.16606,
+      "lng": 14.6896,
+      "prices": {
+        "95": 1.708,
+        "dizel": 1.676,
+        "98": null,
+        "100": 1.849,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": 0.933,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1225"
+    },
+    {
+      "pk": 837,
+      "franchise": 2,
+      "name": "OMV OBREŽJE JUG",
+      "address": "Jesenice 36a",
+      "lat": 45.854884,
+      "lng": 15.684443,
+      "prices": {
+        "95": 1.708,
+        "dizel": 1.676,
+        "98": null,
+        "100": 1.849,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": 0.669,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Zagreb",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "8261"
+    },
+    {
       "pk": 844,
       "franchise": 2,
       "name": "OMV RADOVLJICA JUG",
@@ -11,8 +53,8 @@
       "lat": 46.33865,
       "lng": 14.19095,
       "prices": {
-        "95": 1.698,
-        "dizel": 1.667,
+        "95": 1.708,
+        "dizel": 1.676,
         "98": null,
         "100": 1.849,
         "dizel-premium": 1.898,
@@ -32,8 +74,8 @@
       "lat": 46.33934,
       "lng": 14.19201,
       "prices": {
-        "95": 1.698,
-        "dizel": 1.667,
+        "95": 1.708,
+        "dizel": 1.676,
         "98": null,
         "100": 1.849,
         "dizel-premium": 1.898,
@@ -53,8 +95,8 @@
       "lat": 45.78312588,
       "lng": 14.22304178,
       "prices": {
-        "95": 1.698,
-        "dizel": 1.667,
+        "95": 1.708,
+        "dizel": 1.676,
         "98": null,
         "100": null,
         "dizel-premium": 1.898,
@@ -74,8 +116,8 @@
       "lat": 45.78536414,
       "lng": 14.22271237,
       "prices": {
-        "95": 1.698,
-        "dizel": 1.667,
+        "95": 1.708,
+        "dizel": 1.676,
         "98": null,
         "100": null,
         "dizel-premium": 1.898,
@@ -95,8 +137,8 @@
       "lat": 45.917693,
       "lng": 13.721916,
       "prices": {
-        "95": 1.698,
-        "dizel": 1.667,
+        "95": 1.708,
+        "dizel": 1.676,
         "98": null,
         "100": 1.849,
         "dizel-premium": 1.898,
@@ -107,48 +149,6 @@
       "direction": "Nova Gorica",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5261"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.7,
-        "dizel": 1.669,
-        "98": null,
-        "100": 1.849,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.7,
-        "dizel": 1.669,
-        "98": null,
-        "100": 1.849,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
     },
     {
       "pk": 1976,
