@@ -109,6 +109,27 @@
       "zip_code": "8294"
     },
     {
+      "pk": 2145,
+      "franchise": 1,
+      "name": "PETROL OTOČEC - JUG",
+      "address": "GRAJSKA CESTA 6",
+      "lat": 45.83957835,
+      "lng": 15.23583099,
+      "prices": {
+        "95": 1.382,
+        "dizel": 1.426,
+        "98": null,
+        "100": 1.658,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.01
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 12:00-17:00",
+      "zip_code": "8222"
+    },
+    {
       "pk": 2146,
       "franchise": 1,
       "name": "PETROL ČRNOMELJ - BELOKRANJSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
       "zip_code": "3320"
-    },
-    {
-      "pk": 2166,
-      "franchise": 1,
-      "name": "PETROL VRANSKO",
-      "address": "VRANSKO 74A",
-      "lat": 46.24594145,
-      "lng": 14.95996662,
-      "prices": {
-        "95": 1.382,
-        "dizel": 1.426,
-        "98": null,
-        "100": 1.658,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.01
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3305"
     }
   ],
   "position": null
