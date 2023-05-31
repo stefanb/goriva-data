@@ -67,6 +67,27 @@
       "zip_code": "2319"
     },
     {
+      "pk": 1939,
+      "franchise": 1,
+      "name": "PETROL SLIVNICA ZAHOD",
+      "address": "POT K ČRPALKI 5",
+      "lat": 46.482509,
+      "lng": 15.654919,
+      "prices": {
+        "95": 1.382,
+        "dizel": 1.426,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.01
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "2312"
+    },
+    {
       "pk": 1940,
       "franchise": 1,
       "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "9220"
-    },
-    {
-      "pk": 1963,
-      "franchise": 1,
-      "name": "PETROL ROGAŠOVCI",
-      "address": "SVETI JURIJ 7A",
-      "lat": 46.798925,
-      "lng": 16.03618722,
-      "prices": {
-        "95": 1.382,
-        "dizel": 1.426,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.01
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "9262"
     }
   ],
   "position": null
