@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2155,
-      "franchise": 1,
-      "name": "PETROL METLIKA - CESTA XV BRIGADE JUG",
-      "address": "CESTA XV. BRIGADE 35",
-      "lat": 45.64976238,
-      "lng": 15.30623221,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00",
-      "zip_code": "8330"
-    },
-    {
       "pk": 2156,
       "franchise": 1,
       "name": "PETROL KRŠKO - CESTA 4. JULIJA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-16:00\r\nsobote 08:00-12:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3256"
+    },
+    {
+      "pk": 2183,
+      "franchise": 1,
+      "name": "PETROL PONIKVA",
+      "address": "PONIKVA 36A",
+      "lat": 46.25437076,
+      "lng": 15.44383892,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3232"
     }
   ],
   "position": null

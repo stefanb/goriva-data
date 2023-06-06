@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 876,
-      "franchise": 2,
-      "name": "OMV ZGORNJA POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43075,
-      "lng": 15.62705,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.677,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2314"
-    },
-    {
       "pk": 1921,
       "franchise": 1,
       "name": "PETROL MARIBOR - TRŽAŠKA 36",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 07:00-12:00",
       "zip_code": "2277"
+    },
+    {
+      "pk": 1947,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - VOJKOVA VZHOD",
+      "address": "VOJKOVA CESTA 51",
+      "lat": 45.962335,
+      "lng": 13.649495,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": 1.675,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.02
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
+      "zip_code": "5000"
     }
   ],
   "position": null

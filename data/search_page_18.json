@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2243,
-      "franchise": 3,
-      "name": "BS MAXEN GRAD",
-      "address": "Grad bš",
-      "lat": 46.7978208,
-      "lng": 16.0886368,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9264"
-    },
-    {
       "pk": 2244,
       "franchise": 3,
       "name": "BS MAXEN DOLNJI LAKOŠ",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
       "zip_code": "2256"
+    },
+    {
+      "pk": 2307,
+      "franchise": 19,
+      "name": "Bencinski servis Sodražica",
+      "address": "cesta Notranjskega odreda 56",
+      "lat": 45.76375961303711,
+      "lng": 14.63137435913086,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.02
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "5.30-22.00",
+      "zip_code": "1317"
     }
   ],
   "position": null
