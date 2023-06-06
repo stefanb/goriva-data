@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2209,
-      "franchise": 1,
-      "name": "PETROL SLOVENJ GRADEC - FRANCETOVA",
-      "address": "FRANCETOVA CESTA 21",
-      "lat": 46.51479276,
-      "lng": 15.08272833,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00",
-      "zip_code": "2380"
-    },
-    {
       "pk": 2210,
       "franchise": 1,
       "name": "PETROL PREVALJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "2234"
+    },
+    {
+      "pk": 2242,
+      "franchise": 3,
+      "name": "BS MAXEN ČRNOMELJ",
+      "address": "Ulica heroja Stariha bš",
+      "lat": 45.5729152,
+      "lng": 15.1853056,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8340"
     }
   ],
   "position": null

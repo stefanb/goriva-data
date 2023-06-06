@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 875,
-      "franchise": 2,
-      "name": "OMV ZAGRADEC",
-      "address": "Zagradec 34",
-      "lat": 45.85943,
-      "lng": 14.83524,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.677,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1303"
-    },
-    {
       "pk": 876,
       "franchise": 2,
       "name": "OMV ZGORNJA POLSKAVA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00",
       "zip_code": "2344"
+    },
+    {
+      "pk": 1946,
+      "franchise": 1,
+      "name": "PETROL SREDIŠČE OB DRAVI",
+      "address": "SLOVENSKA CESTA 91A",
+      "lat": 46.394433,
+      "lng": 16.277736,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.02
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 07:00-12:00",
+      "zip_code": "2277"
     }
   ],
   "position": null

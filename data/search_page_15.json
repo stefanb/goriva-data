@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2154,
-      "franchise": 1,
-      "name": "PETROL VINICA",
-      "address": "VINICA 61",
-      "lat": 45.45963416,
-      "lng": 15.2553875,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 06:00-20:00",
-      "zip_code": "8344"
-    },
-    {
       "pk": 2155,
       "franchise": 1,
       "name": "PETROL METLIKA - CESTA XV BRIGADE JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:30-18:00",
       "zip_code": "3214"
+    },
+    {
+      "pk": 2182,
+      "franchise": 1,
+      "name": "PETROL BISTRICA OB SOTLI",
+      "address": "HRASTJE OB BISTRICI 1A",
+      "lat": 46.0620292,
+      "lng": 15.6554536,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.02
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:30-16:00\r\nsobote 08:00-12:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3256"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2065,
-      "franchise": 1,
-      "name": "PETROL LOGATEC",
-      "address": "TRŽAŠKA CESTA 21",
-      "lat": 45.91699729,
-      "lng": 14.22441176,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 19:00-24:00\r\nsobote 19:00-24:00\r\nnedelje in prazniki 19:00-24:00",
-      "zip_code": "1370"
-    },
-    {
       "pk": 2067,
       "franchise": 1,
       "name": "PETROL TRBOVLJE - TRG REVOLUCIJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "4220"
+    },
+    {
+      "pk": 2094,
+      "franchise": 1,
+      "name": "PETROL HRASTNIK",
+      "address": "PODKRAJ 77B",
+      "lat": 46.11937061,
+      "lng": 15.08074191,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": 1.675,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.894,
+        "KOEL": 1.02
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "1430"
     }
   ],
   "position": null
