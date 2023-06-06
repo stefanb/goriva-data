@@ -4,111 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2204,
-      "franchise": 1,
-      "name": "PETROL CELJE - CITY CENTER",
-      "address": "BEŽIGRAJSKA CESTA 1",
-      "lat": 46.24034,
-      "lng": 15.278699,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-21:00\r\nsobote 07:00-21:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2205,
-      "franchise": 1,
-      "name": "PETROL NAZARJE",
-      "address": "SAVINJSKA CESTA 11",
-      "lat": 46.322491,
-      "lng": 14.950163,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3331"
-    },
-    {
-      "pk": 2206,
-      "franchise": 1,
-      "name": "PETROL DRAVOGRAD",
-      "address": "MARIBORSKA CESTA 50",
-      "lat": 46.59116716,
-      "lng": 15.02966432,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "2370"
-    },
-    {
-      "pk": 2207,
-      "franchise": 1,
-      "name": "PETROL RAVNE NA KOROŠKEM",
-      "address": "KOROŠKA CESTA 4A",
-      "lat": 46.54726828,
-      "lng": 14.96495101,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2390"
-    },
-    {
-      "pk": 2208,
-      "franchise": 1,
-      "name": "PETROL ŽERJAV",
-      "address": "ŽERJAV 3A",
-      "lat": 46.48491258,
-      "lng": 14.86992734,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 12:30-15:00",
-      "zip_code": "2393"
-    },
-    {
       "pk": 2209,
       "franchise": 1,
       "name": "PETROL SLOVENJ GRADEC - FRANCETOVA",
@@ -527,6 +422,111 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2237,
+      "franchise": 3,
+      "name": "BS MAXEN TRŽIČ",
+      "address": "Cesta Ste Marie aux Mines bš",
+      "lat": 46.3583296,
+      "lng": 14.2978288,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "4290"
+    },
+    {
+      "pk": 2238,
+      "franchise": 3,
+      "name": "BS MAXEN KOPER",
+      "address": "Ulica 15. maja bš",
+      "lat": 45.5371584,
+      "lng": 13.7323296,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 2239,
+      "franchise": 3,
+      "name": "BS MAXEN NIZKA",
+      "address": "Nizka bš",
+      "lat": 46.3157792,
+      "lng": 14.9116624,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "3332"
+    },
+    {
+      "pk": 2240,
+      "franchise": 3,
+      "name": "BS MAXEN GORNJA RADGONA",
+      "address": "Ljutomerska cesta bš",
+      "lat": 46.6636544,
+      "lng": 16.0091968,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "9250"
+    },
+    {
+      "pk": 2241,
+      "franchise": 3,
+      "name": "BS MAXEN BENEDIKT",
+      "address": "Radgonska cesta bš",
+      "lat": 46.6088,
+      "lng": 15.893144,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2234"
     }
   ],
   "position": null
