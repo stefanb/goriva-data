@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1948,
-      "franchise": 1,
-      "name": "PETROL MOŠKANJCI",
-      "address": "MOŠKANJCI 1G",
-      "lat": 46.41531527,
-      "lng": 15.98015915,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.894,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 05:30-22:00\r\nnedelje in prazniki 05:30-22:00",
-      "zip_code": "2272"
-    },
-    {
       "pk": 1951,
       "franchise": 1,
       "name": "PETROL LENART",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-13:00",
       "zip_code": "9261"
+    },
+    {
+      "pk": 1975,
+      "franchise": 1,
+      "name": "PETROL KUZMA",
+      "address": "KUZMA 26B",
+      "lat": 46.83371949,
+      "lng": 16.08249735,
+      "prices": {
+        "95": 1.412,
+        "dizel": 1.432,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.02
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:30-18:00\r\nsobote 07:30-13:00",
+      "zip_code": "9263"
     }
   ],
   "position": null
