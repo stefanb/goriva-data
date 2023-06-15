@@ -4,33 +4,12 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.722,
-        "dizel": 1.679,
-        "98": null,
-        "100": 1.859,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
-      "pk": 1949,
+      "pk": 2229,
       "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - VZHOD",
-      "address": "STANOŠINA 35",
-      "lat": 46.326604,
-      "lng": 15.880214,
+      "name": "PETROL STARINE AC - JUG",
+      "address": "ZAGRAD PRI OTOČCU 111",
+      "lat": 45.841312,
+      "lng": 15.217206,
       "prices": {
         "95": 1.739,
         "dizel": 1.699,
@@ -43,28 +22,49 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "2286"
+      "zip_code": "8222"
     },
     {
-      "pk": 2162,
+      "pk": 2230,
       "franchise": 1,
-      "name": "PETROL OBREŽJE AC - VZHOD",
-      "address": "JESENICE 32A",
-      "lat": 45.85448,
-      "lng": 15.686297,
+      "name": "PETROL STARINE AC - SEVER",
+      "address": "ZAGRAD PRI OTOČCU 110",
+      "lat": 45.841967,
+      "lng": 15.216726,
       "prices": {
         "95": 1.739,
         "dizel": 1.699,
         "98": null,
         "100": 1.876,
         "dizel-premium": 1.887,
-        "avtoplin-lpg": null,
+        "avtoplin-lpg": 0.914,
         "KOEL": null
       },
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "8261"
+      "zip_code": "8222"
+    },
+    {
+      "pk": 2231,
+      "franchise": 1,
+      "name": "PETROL DUL AC - JUG",
+      "address": "DOLENJI PODBORŠT PRI TREB. 50",
+      "lat": 45.898858,
+      "lng": 15.026398,
+      "prices": {
+        "95": 1.739,
+        "dizel": 1.699,
+        "98": null,
+        "100": 1.876,
+        "dizel-premium": 1.887,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Novo Me",
+      "open_hours": "NON-STOP",
+      "zip_code": "8210"
     },
     {
       "pk": 2232,
