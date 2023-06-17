@@ -277,6 +277,48 @@
       "zip_code": "6281"
     },
     {
+      "pk": 1923,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ AC - ZAHOD",
+      "address": "CESTA 2. JULIJA 19",
+      "lat": 46.68509786,
+      "lng": 15.64986497,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.924,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2212"
+    },
+    {
+      "pk": 1945,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ AC - VZHOD",
+      "address": "CESTA 2. JULIJA 22",
+      "lat": 46.6859127,
+      "lng": 15.65055471,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.924,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2212"
+    },
+    {
       "pk": 1949,
       "franchise": 1,
       "name": "PETROL PODLEHNIK AC - VZHOD",
@@ -296,6 +338,111 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2286"
+    },
+    {
+      "pk": 1976,
+      "franchise": 1,
+      "name": "PETROL GRABONOŠ AC - SEVER",
+      "address": "GRABONOŠ 4D",
+      "lat": 46.585173,
+      "lng": 16.007142,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.924,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9244"
+    },
+    {
+      "pk": 1977,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - AC ZAHOD",
+      "address": "NA POLJU 24",
+      "lat": 46.532935,
+      "lng": 15.699297,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": 1.887,
+        "avtoplin-lpg": 0.924,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1978,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - AC VZHOD",
+      "address": "NA POLJU 20",
+      "lat": 46.531265,
+      "lng": 15.701209,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": 1.887,
+        "avtoplin-lpg": 0.924,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Pince",
+      "open_hours": "NON-STOP",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1997,
+      "franchise": 1,
+      "name": "PETROL VRTOJBA AC - SEVER",
+      "address": "MEDNARODNI PREHOD 1A",
+      "lat": 45.920547,
+      "lng": 13.628483,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": 1.887,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5290"
+    },
+    {
+      "pk": 2000,
+      "franchise": 1,
+      "name": "PETROL VRTOJBA AC - JUG",
+      "address": "MEDNARODNI PREHOD 4A",
+      "lat": 45.91934,
+      "lng": 13.627636,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": 1.887,
+        "avtoplin-lpg": 0.924,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5290"
     },
     {
       "pk": 2008,
@@ -319,33 +466,12 @@
       "zip_code": "5261"
     },
     {
-      "pk": 2162,
+      "pk": 2009,
       "franchise": 1,
-      "name": "PETROL OBREŽJE AC - VZHOD",
-      "address": "JESENICE 32A",
-      "lat": 45.85448,
-      "lng": 15.686297,
-      "prices": {
-        "95": 1.721,
-        "dizel": 1.68,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": 1.887,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8261"
-    },
-    {
-      "pk": 2232,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
+      "name": "PETROL KOZINA AC - VZHOD",
+      "address": "BAZOVIŠKA CESTA 23A",
+      "lat": 45.60515,
+      "lng": 13.928699,
       "prices": {
         "95": 1.721,
         "dizel": 1.68,
@@ -356,72 +482,9 @@
         "KOEL": null
       },
       "distance": null,
-      "direction": "",
+      "direction": "Koper -> Ljubljana",
       "open_hours": "NON-STOP",
-      "zip_code": "2286"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.722,
-        "dizel": 1.679,
-        "98": null,
-        "100": 1.859,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.722,
-        "dizel": 1.679,
-        "98": null,
-        "100": 1.859,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
-    },
-    {
-      "pk": 1976,
-      "franchise": 1,
-      "name": "PETROL GRABONOŠ AC - SEVER",
-      "address": "GRABONOŠ 4D",
-      "lat": 46.585173,
-      "lng": 16.007142,
-      "prices": {
-        "95": 1.739,
-        "dizel": 1.699,
-        "98": null,
-        "100": 1.876,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.924,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9244"
+      "zip_code": "6240"
     },
     {
       "pk": 2018,
@@ -431,10 +494,10 @@
       "lat": 46.635944,
       "lng": 16.166272,
       "prices": {
-        "95": 1.739,
-        "dizel": 1.699,
+        "95": 1.721,
+        "dizel": 1.68,
         "98": null,
-        "100": 1.876,
+        "100": 1.857,
         "dizel-premium": null,
         "avtoplin-lpg": 0.924,
         "KOEL": null
@@ -452,10 +515,10 @@
       "lat": 46.634461,
       "lng": 16.164346,
       "prices": {
-        "95": 1.739,
-        "dizel": 1.699,
+        "95": 1.721,
+        "dizel": 1.68,
         "98": null,
-        "100": 1.876,
+        "100": 1.857,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -464,69 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2026,
-      "franchise": 1,
-      "name": "PETROL LORMANJE AC - JUG",
-      "address": "LORMANJE 22C",
-      "lat": 46.564825,
-      "lng": 15.826899,
-      "prices": {
-        "95": 1.739,
-        "dizel": 1.699,
-        "98": null,
-        "100": 1.876,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.924,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "NON-STOP",
-      "zip_code": "2230"
-    },
-    {
-      "pk": 2030,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - JUG",
-      "address": "POVIR 95",
-      "lat": 45.703393,
-      "lng": 13.940151,
-      "prices": {
-        "95": 1.739,
-        "dizel": 1.699,
-        "98": null,
-        "100": 1.876,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.924,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Fernetiči -> Ljublja",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.739,
-        "dizel": 1.699,
-        "98": null,
-        "100": 1.876,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.924,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
     }
   ],
   "position": null
