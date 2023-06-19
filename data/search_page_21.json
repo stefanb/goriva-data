@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2232,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
-      "prices": {
-        "95": 1.721,
-        "dizel": 1.68,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": 1.887,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2286"
-    },
-    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -485,6 +464,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 1954,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - POBREŽJE",
+      "address": "ČUFARJEVA CESTA 10",
+      "lat": 46.5542838,
+      "lng": 15.66939413,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2000"
     },
     {
       "pk": 1988,
