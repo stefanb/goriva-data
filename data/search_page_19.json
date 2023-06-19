@@ -298,6 +298,27 @@
       "zip_code": "2212"
     },
     {
+      "pk": 1976,
+      "franchise": 1,
+      "name": "PETROL GRABONOŠ AC - SEVER",
+      "address": "GRABONOŠ 4D",
+      "lat": 46.585173,
+      "lng": 16.007142,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9244"
+    },
+    {
       "pk": 1977,
       "franchise": 1,
       "name": "PETROL MARIBOR - AC ZAHOD",
@@ -424,6 +445,69 @@
       "zip_code": "6240"
     },
     {
+      "pk": 2018,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - SEVER",
+      "address": "BAKOVSKA ULICA 53",
+      "lat": 46.635944,
+      "lng": 16.166272,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2019,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - JUG",
+      "address": "BAKOVSKA ULICA 51",
+      "lat": 46.634461,
+      "lng": 16.164346,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2026,
+      "franchise": 1,
+      "name": "PETROL LORMANJE AC - JUG",
+      "address": "LORMANJE 22C",
+      "lat": 46.564825,
+      "lng": 15.826899,
+      "prices": {
+        "95": 1.721,
+        "dizel": 1.68,
+        "98": null,
+        "100": 1.857,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "2230"
+    },
+    {
       "pk": 2027,
       "franchise": 1,
       "name": "PETROL PINCE AC - JUG",
@@ -443,90 +527,6 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "NON-STOP",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2088,
-      "franchise": 1,
-      "name": "PETROL LOM AC - ZAHOD",
-      "address": "NOTRANJSKA CESTA 75",
-      "lat": 45.898796,
-      "lng": 14.254887,
-      "prices": {
-        "95": 1.721,
-        "dizel": 1.68,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": 1.887,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Koper",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2089,
-      "franchise": 1,
-      "name": "PETROL LOM AC - VZHOD",
-      "address": "NOTRANJSKA CESTA 77",
-      "lat": 45.89814,
-      "lng": 14.256533,
-      "prices": {
-        "95": 1.721,
-        "dizel": 1.68,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": 1.887,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2095,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - JUG",
-      "address": "SPODNJI PLAVŽ 24A",
-      "lat": 46.440467,
-      "lng": 14.026493,
-      "prices": {
-        "95": 1.721,
-        "dizel": 1.68,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": 1.887,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2096,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - SEVER",
-      "address": "SPODNJI PLAVŽ 24B",
-      "lat": 46.440937,
-      "lng": 14.028828,
-      "prices": {
-        "95": 1.721,
-        "dizel": 1.68,
-        "98": null,
-        "100": 1.857,
-        "dizel-premium": 1.887,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Karavan",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
     }
   ],
   "position": null
