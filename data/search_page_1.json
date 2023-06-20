@@ -151,48 +151,6 @@
       "zip_code": "2380"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.675,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": 1.677,
-        "100": 1.677,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -254,27 +212,6 @@
       "direction": "PTUJ",
       "open_hours": "PON. - NED. : 6:00 - 20:00",
       "zip_code": "2283"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
     },
     {
       "pk": 2315,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 767,
+      "franchise": 2,
+      "name": "OMV BENEDIKT",
+      "address": "Radgonska c. 15",
+      "lat": 46.61068,
+      "lng": 15.89416,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.699,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.04
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Nov-Apr: Pon-Pet 06:00-21:00, Sob/Ned/Praz 07:00-20:00; Maj-Okt: Pon-Pet 05:00-21:00, Sob/Ned/Praz 07:00-21:00",
+      "zip_code": "2234"
+    },
+    {
+      "pk": 769,
+      "franchise": 2,
+      "name": "OMV BRESTOVICA",
+      "address": "Brestovica 116b",
+      "lat": 45.81302,
+      "lng": 13.62228,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
+      "zip_code": "6223"
+    },
+    {
+      "pk": 770,
+      "franchise": 2,
+      "name": "OMV BREZOVICA",
+      "address": "Tržaška c. 565",
+      "lat": 46.022535,
+      "lng": 14.407636,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.699,
+        "dizel-premium": 1.769,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1351"
     }
   ],
   "position": null

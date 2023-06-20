@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2158,
-      "franchise": 1,
-      "name": "PETROL ČRNOMELJ - KOČEVJE",
-      "address": "KOČEVJE 22B",
-      "lat": 45.56606773,
-      "lng": 15.17772212,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": 1.781,
-        "avtoplin-lpg": 0.874,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "8340"
-    },
-    {
-      "pk": 2159,
-      "franchise": 1,
-      "name": "PETROL DOBOVA",
-      "address": "ULICA BRATOV GERJOVIČEV 24",
-      "lat": 45.89537811,
-      "lng": 15.65616953,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:30-15:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "8257"
-    },
-    {
-      "pk": 2160,
-      "franchise": 1,
-      "name": "PETROL ŠKOCJAN",
-      "address": "DOLNJA STARA VAS 50",
-      "lat": 45.89728,
-      "lng": 15.300093,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 12:00-15:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "8275"
-    },
-    {
       "pk": 2161,
       "franchise": 1,
       "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
       "zip_code": "3225"
+    },
+    {
+      "pk": 2186,
+      "franchise": 1,
+      "name": "PETROL ROGAŠKA SLATINA",
+      "address": "SPODNJE NEGONJE 27A",
+      "lat": 46.25266116,
+      "lng": 15.61686431,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.04
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-17:00",
+      "zip_code": "3250"
+    },
+    {
+      "pk": 2187,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
+      "address": "RIMSKA CESTA 106",
+      "lat": 46.25830238,
+      "lng": 15.11406404,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.04
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3311"
+    },
+    {
+      "pk": 2188,
+      "franchise": 1,
+      "name": "PETROL LAŠKO",
+      "address": "CELJSKA CESTA 40",
+      "lat": 46.16731495,
+      "lng": 15.2329947,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.04
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3270"
     }
   ],
   "position": null
