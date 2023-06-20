@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2096,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - SEVER",
-      "address": "SPODNJI PLAVŽ 24B",
-      "lat": 46.440937,
-      "lng": 14.028828,
-      "prices": {
-        "95": 1.733,
-        "dizel": 1.708,
-        "98": null,
-        "100": 1.88,
-        "dizel-premium": 1.908,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Karavan",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2100,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - ZAHOD",
-      "address": "GASILSKA CESTA 55",
-      "lat": 46.22788,
-      "lng": 14.419719,
-      "prices": {
-        "95": 1.733,
-        "dizel": 1.708,
-        "98": null,
-        "100": 1.88,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
       "pk": 2101,
       "franchise": 1,
       "name": "PETROL VOKLO AC - VZHOD",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4240"
+    },
+    {
+      "pk": 2147,
+      "franchise": 1,
+      "name": "PETROL TREBNJE - POD GRADOM",
+      "address": "CESTA VILME BUKOVEC 2",
+      "lat": 45.90473997,
+      "lng": 15.00357364,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "8210"
+    },
+    {
+      "pk": 2214,
+      "franchise": 1,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA SEVER",
+      "address": "RONKOVA ULICA 2",
+      "lat": 46.50629441,
+      "lng": 15.08829225,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2380"
     }
   ],
   "position": null

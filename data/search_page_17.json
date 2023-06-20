@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2221,
-      "franchise": 1,
-      "name": "PETROL ŽLEBIČ",
-      "address": "BREŽE 1B",
-      "lat": 45.76220176,
-      "lng": 14.70303872,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "1310"
-    },
-    {
-      "pk": 2222,
-      "franchise": 1,
-      "name": "PETROL KOČEVJE - LJUBLJANSKA VZHOD",
-      "address": "LJUBLJANSKA CESTA 44",
-      "lat": 45.64954924,
-      "lng": 14.85397187,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-20:00\r\nsobote 12:30-15:00",
-      "zip_code": "1330"
-    },
-    {
       "pk": 2223,
       "franchise": 1,
       "name": "PETROL PETRINA",
@@ -65,27 +23,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00-19:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "1336"
-    },
-    {
-      "pk": 2224,
-      "franchise": 1,
-      "name": "PETROL LOŠKI POTOK",
-      "address": "MALI LOG 2B",
-      "lat": 45.717099,
-      "lng": 14.58622,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 08:00-12:00",
-      "zip_code": "1318"
     },
     {
       "pk": 2225,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "1332"
+    },
+    {
+      "pk": 2251,
+      "franchise": 3,
+      "name": "BS MAXEN ŽUŽEMBERK",
+      "address": "Grajski trg bš",
+      "lat": 45.8333056,
+      "lng": 14.9274912,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8360"
+    },
+    {
+      "pk": 2252,
+      "franchise": 3,
+      "name": "BS MAXEN VELENJE",
+      "address": "Črnova bš",
+      "lat": 46.347808,
+      "lng": 15.1495248,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "3320"
+    },
+    {
+      "pk": 2253,
+      "franchise": 3,
+      "name": "BS MAXEN LOGATEC",
+      "address": "Tržaška cesta bš",
+      "lat": 45.9388,
+      "lng": 14.2365616,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1370"
     }
   ],
   "position": null
