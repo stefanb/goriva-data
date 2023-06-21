@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 818,
-      "franchise": 2,
-      "name": "OMV LJUBLJANA ŠENTVID",
-      "address": "Celovška c. 455",
-      "lat": 46.09891,
-      "lng": 14.460958,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.699,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1210"
-    },
-    {
       "pk": 819,
       "franchise": 2,
       "name": "OMV LJUBLJANA ZALOŠKA JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
       "zip_code": "6224"
+    },
+    {
+      "pk": 853,
+      "franchise": 2,
+      "name": "OMV SEŽANA",
+      "address": "Partizanska 63a",
+      "lat": 45.705649,
+      "lng": 13.863156,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.699,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6210"
     }
   ],
   "position": null

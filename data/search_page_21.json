@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2101,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - VZHOD",
-      "address": "GASILSKA CESTA 51",
-      "lat": 46.22679,
-      "lng": 14.424885,
-      "prices": {
-        "95": 1.733,
-        "dizel": 1.72,
-        "98": null,
-        "100": 1.88,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
       "pk": 2120,
       "franchise": 1,
       "name": "PETROL PODSMREKA AC - SEVER",
@@ -485,6 +464,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4240"
+    },
+    {
+      "pk": 2113,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
+      "address": "CESTA STANETA ŽAGARJA 53B",
+      "lat": 46.24371235,
+      "lng": 14.36955351,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-14:00",
+      "zip_code": "4000"
     },
     {
       "pk": 2147,

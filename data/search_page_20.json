@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 861,
-      "franchise": 2,
-      "name": "OMV ŠEMPAS",
-      "address": "Šempas 160b",
-      "lat": 45.917693,
-      "lng": 13.721916,
-      "prices": {
-        "95": 1.732,
-        "dizel": 1.719,
-        "98": null,
-        "100": 1.879,
-        "dizel-premium": 1.938,
-        "avtoplin-lpg": 0.913,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Nova Gorica",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5261"
-    },
-    {
       "pk": 1923,
       "franchise": 1,
       "name": "PETROL ŠENTILJ AC - ZAHOD",
@@ -514,6 +493,27 @@
       "address": "GASILSKA CESTA 55",
       "lat": 46.22788,
       "lng": 14.419719,
+      "prices": {
+        "95": 1.733,
+        "dizel": 1.72,
+        "98": null,
+        "100": 1.88,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4208"
+    },
+    {
+      "pk": 2101,
+      "franchise": 1,
+      "name": "PETROL VOKLO AC - VZHOD",
+      "address": "GASILSKA CESTA 51",
+      "lat": 46.22679,
+      "lng": 14.424885,
       "prices": {
         "95": 1.733,
         "dizel": 1.72,
