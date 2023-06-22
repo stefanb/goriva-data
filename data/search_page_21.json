@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2231,
+      "franchise": 1,
+      "name": "PETROL DUL AC - JUG",
+      "address": "DOLENJI PODBORŠT PRI TREB. 50",
+      "lat": 45.898858,
+      "lng": 15.026398,
+      "prices": {
+        "95": 1.749,
+        "dizel": 1.736,
+        "98": null,
+        "100": 1.897,
+        "dizel-premium": 1.92,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Novo Me",
+      "open_hours": "NON-STOP",
+      "zip_code": "8210"
+    },
+    {
       "pk": 2232,
       "franchise": 1,
       "name": "PETROL PODLEHNIK AC - ZAHOD",
@@ -464,27 +485,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5210"
-    },
-    {
-      "pk": 2066,
-      "franchise": 1,
-      "name": "PETROL RADOVLJICA - KRANJSKA",
-      "address": "KRANJSKA CESTA 20",
-      "lat": 46.34605506,
-      "lng": 14.1817862,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "4240"
     },
     {
       "pk": 2113,

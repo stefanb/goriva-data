@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 848,
+      "franchise": 2,
+      "name": "OMV RAVBARKOMANDA ZAHOD",
+      "address": "Javorniška pot 7a",
+      "lat": 45.78536414,
+      "lng": 14.22271237,
+      "prices": {
+        "95": 1.732,
+        "dizel": 1.719,
+        "98": null,
+        "100": null,
+        "dizel-premium": 1.938,
+        "avtoplin-lpg": 0.913,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
       "pk": 861,
       "franchise": 2,
       "name": "OMV ŠEMPAS",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8222"
-    },
-    {
-      "pk": 2231,
-      "franchise": 1,
-      "name": "PETROL DUL AC - JUG",
-      "address": "DOLENJI PODBORŠT PRI TREB. 50",
-      "lat": 45.898858,
-      "lng": 15.026398,
-      "prices": {
-        "95": 1.749,
-        "dizel": 1.736,
-        "98": null,
-        "100": 1.897,
-        "dizel-premium": 1.92,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Novo Me",
-      "open_hours": "NON-STOP",
-      "zip_code": "8210"
     }
   ],
   "position": null
