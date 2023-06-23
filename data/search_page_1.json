@@ -46,27 +46,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 803,
-      "franchise": 2,
-      "name": "OMV KOMENDA",
-      "address": "Potok pri Komendi 8",
-      "lat": 46.205702,
-      "lng": 14.52399,
-      "prices": {
-        "95": 1.412,
-        "dizel": 1.432,
-        "98": null,
-        "100": 1.677,
-        "dizel-premium": 1.749,
-        "avtoplin-lpg": null,
-        "KOEL": 1.02
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1218"
-    },
-    {
       "pk": 851,
       "franchise": 2,
       "name": "OMV SENOVO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
       "zip_code": "6215"
+    },
+    {
+      "pk": 779,
+      "franchise": 2,
+      "name": "OMV DOL PRI LJUBLJANI",
+      "address": "Podgora pri Dolskem 40",
+      "lat": 46.090168,
+      "lng": 14.650805,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.699,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.04
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "1262"
     }
   ],
   "position": null
