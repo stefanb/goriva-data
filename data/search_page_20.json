@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 844,
+      "franchise": 2,
+      "name": "OMV RADOVLJICA JUG",
+      "address": "Ljubljanska cesta 70",
+      "lat": 46.33865,
+      "lng": 14.19095,
+      "prices": {
+        "95": 1.748,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": 1.938,
+        "avtoplin-lpg": 0.913,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
       "pk": 845,
       "franchise": 2,
       "name": "OMV RADOVLJICA SEVER",
@@ -493,27 +514,6 @@
       "address": "ZAGRAD PRI OTOČCU 111",
       "lat": 45.841312,
       "lng": 15.217206,
-      "prices": {
-        "95": 1.749,
-        "dizel": 1.736,
-        "98": null,
-        "100": 1.897,
-        "dizel-premium": 1.92,
-        "avtoplin-lpg": 0.914,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8222"
-    },
-    {
-      "pk": 2230,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - SEVER",
-      "address": "ZAGRAD PRI OTOČCU 110",
-      "lat": 45.841967,
-      "lng": 15.216726,
       "prices": {
         "95": 1.749,
         "dizel": 1.736,
