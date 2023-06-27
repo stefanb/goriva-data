@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1580,
-      "franchise": 4,
-      "name": "BS MOL PTUJ",
-      "address": "PUHOVA ULICA 18A",
-      "lat": 46.421507,
-      "lng": 15.88666,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.699,
-        "dizel-premium": 1.769,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2250"
-    },
-    {
       "pk": 1581,
       "franchise": 4,
       "name": "BS MOL ZASAVJE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "2331"
+    },
+    {
+      "pk": 1933,
+      "franchise": 1,
+      "name": "PETROL RAČE",
+      "address": "LJUBLJANSKA CESTA 22",
+      "lat": 46.45289915,
+      "lng": 15.67336264,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.04
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2327"
     }
   ],
   "position": null
