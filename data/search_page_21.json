@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2100,
+      "franchise": 1,
+      "name": "PETROL VOKLO AC - ZAHOD",
+      "address": "GASILSKA CESTA 55",
+      "lat": 46.22788,
+      "lng": 14.419719,
+      "prices": {
+        "95": 1.733,
+        "dizel": 1.72,
+        "98": null,
+        "100": 1.88,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4208"
+    },
+    {
       "pk": 2101,
       "franchise": 1,
       "name": "PETROL VOKLO AC - VZHOD",
@@ -422,27 +443,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
-    },
-    {
-      "pk": 1954,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - POBREŽJE",
-      "address": "ČUFARJEVA CESTA 10",
-      "lat": 46.5542838,
-      "lng": 15.66939413,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "2000"
     },
     {
       "pk": 1988,

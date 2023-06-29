@@ -382,6 +382,27 @@
       "zip_code": "9253"
     },
     {
+      "pk": 1954,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - POBREŽJE",
+      "address": "ČUFARJEVA CESTA 10",
+      "lat": 46.5542838,
+      "lng": 15.66939413,
+      "prices": {
+        "95": 1.424,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.04
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 1955,
       "franchise": 1,
       "name": "PETROL MOST NA SOČI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5291"
-    },
-    {
-      "pk": 1961,
-      "franchise": 1,
-      "name": "PETROL LJUTOMER",
-      "address": "PREŠERNOVA ULICA 19",
-      "lat": 46.52201409,
-      "lng": 16.19426906,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9240"
     }
   ],
   "position": null
