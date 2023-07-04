@@ -46,27 +46,6 @@
       "zip_code": "2310"
     },
     {
-      "pk": 2082,
-      "franchise": 1,
-      "name": "PETROL KAMNIK - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 10A",
-      "lat": 46.21205029,
-      "lng": 14.59993502,
-      "prices": {
-        "95": 1.424,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.04
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "1241"
-    },
-    {
       "pk": 2288,
       "franchise": 13,
       "name": "FE Trading - DISKONT Tržič",
@@ -527,6 +506,27 @@
       "direction": "Sežana",
       "open_hours": "Pon-Ned 07:00-22:00",
       "zip_code": "6210"
+    },
+    {
+      "pk": 792,
+      "franchise": 2,
+      "name": "OMV GEDEROVCI",
+      "address": "Gederovci 17a",
+      "lat": 46.67921,
+      "lng": 16.056079,
+      "prices": {
+        "95": 1.444,
+        "dizel": 1.481,
+        "98": null,
+        "100": 1.709,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.06
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Pet 5:00-22:00; Sob 6:00-22:00;Ned/Praz 7:00-21:00",
+      "zip_code": "9251"
     }
   ],
   "position": null

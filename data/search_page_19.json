@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.444,
-        "dizel": 1.481,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
-      "zip_code": "9201"
-    },
-    {
       "pk": 2323,
       "franchise": 2,
       "name": "OMV KOPER LUKA",
@@ -525,6 +504,27 @@
       },
       "distance": null,
       "direction": "Fernetiči -> Ljublja",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 2031,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - SEVER",
+      "address": "POVIR 96",
+      "lat": 45.703632,
+      "lng": 13.941688,
+      "prices": {
+        "95": 1.742,
+        "dizel": 1.74,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.914,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "6210"
     }
