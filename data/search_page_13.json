@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2114,
-      "franchise": 1,
-      "name": "PETROL LESCE",
-      "address": "HRAŠKA CESTA 13A",
-      "lat": 46.36782569,
-      "lng": 14.15376274,
-      "prices": {
-        "95": 1.456,
-        "dizel": 1.504,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.081
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "4248"
-    },
-    {
       "pk": 2115,
       "franchise": 1,
       "name": "PETROL MEDVODE - GORENJSKA 14",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-13:00",
       "zip_code": "8290"
+    },
+    {
+      "pk": 2142,
+      "franchise": 1,
+      "name": "PETROL BIZELJSKO",
+      "address": "BIZELJSKA CESTA 70",
+      "lat": 46.01420273,
+      "lng": 15.69312736,
+      "prices": {
+        "95": 1.456,
+        "dizel": 1.504,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.081
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:00-15:00\r\nnedelje in prazniki 08:00-11:30",
+      "zip_code": "8259"
     }
   ],
   "position": null
