@@ -466,6 +466,27 @@
       "zip_code": "2286"
     },
     {
+      "pk": 777,
+      "franchise": 2,
+      "name": "OMV DOBRENJE VZHOD",
+      "address": "Sp.Dobrenje 41a",
+      "lat": 46.605931,
+      "lng": 15.663342,
+      "prices": {
+        "95": 1.756,
+        "dizel": 1.778,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 1.975,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gradec",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
+    },
+    {
       "pk": 778,
       "franchise": 2,
       "name": "OMV DOBRENJE ZAHOD",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2288"
-    },
-    {
-      "pk": 782,
-      "franchise": 2,
-      "name": "OMV DRAVSKO POLJE SEVER",
-      "address": "Gerečja vas 1g",
-      "lat": 46.428104,
-      "lng": 15.796613,
-      "prices": {
-        "95": 1.756,
-        "dizel": 1.778,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.975,
-        "avtoplin-lpg": 0.897,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2288"
     }
