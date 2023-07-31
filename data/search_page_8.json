@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1952,
-      "franchise": 1,
-      "name": "PETROL ROŽNA DOLINA",
-      "address": "VIPAVSKA CESTA 3A",
-      "lat": 45.942191,
-      "lng": 13.638451,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": 1.774,
-        "dizel-premium": 1.85,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5000"
-    },
-    {
       "pk": 1953,
       "franchise": 1,
       "name": "PETROL ČRNCI",
@@ -527,6 +506,27 @@
       "direction": "Maribor -> Pince",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-19:00",
       "zip_code": "9242"
+    },
+    {
+      "pk": 1980,
+      "franchise": 1,
+      "name": "PETROL DORNBERK",
+      "address": "DRAGA 18A",
+      "lat": 45.88507011,
+      "lng": 13.73292985,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": null,
+        "100": 1.774,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.13
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5294"
     }
   ],
   "position": null
