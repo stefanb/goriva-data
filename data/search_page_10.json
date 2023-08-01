@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2011,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 25",
-      "address": "ORMOŠKA CESTA 25",
-      "lat": 46.41703099,
-      "lng": 15.8826979,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.13
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-15:00\r\nsobote 07:00-12:00",
-      "zip_code": "2250"
-    },
-    {
-      "pk": 2012,
-      "franchise": 1,
-      "name": "PETROL HAJDOŠE",
-      "address": "HAJDOŠE 43D",
-      "lat": 46.42559375,
-      "lng": 15.82734335,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.13
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
-      "zip_code": "2288"
-    },
-    {
       "pk": 2013,
       "franchise": 1,
       "name": "PETROL MAJŠPERK",
@@ -526,6 +484,48 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2043,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - RUDNIK VZHOD",
+      "address": "DOLENJSKA CESTA 157A",
+      "lat": 46.01990066,
+      "lng": 14.54272853,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": null,
+        "100": 1.774,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 07:30-21:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2044,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 133",
+      "address": "DUNAJSKA CESTA 133",
+      "lat": 46.07883295,
+      "lng": 14.51209267,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": null,
+        "100": 1.774,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "1000"
     }
   ],
