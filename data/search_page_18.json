@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2247,
-      "franchise": 3,
-      "name": "BS MAXEN METLIKA",
-      "address": "Mestni log bš",
-      "lat": 45.6406592,
-      "lng": 15.3216016,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8330"
-    },
-    {
-      "pk": 2248,
-      "franchise": 3,
-      "name": "BS MAXEN PREDGRAD",
-      "address": "Paka pri Predgradu bš",
-      "lat": 45.5025792,
-      "lng": 15.0603264,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8342"
-    },
-    {
-      "pk": 2249,
-      "franchise": 3,
-      "name": "BS MAXEN MEŽICA",
-      "address": "Mariborska cesta bš",
-      "lat": 46.5236096,
-      "lng": 14.8536976,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2392"
-    },
-    {
       "pk": 2250,
       "franchise": 3,
       "name": "BS MAXEN KOČEVJE",
@@ -254,6 +191,48 @@
       "direction": "",
       "open_hours": "24 ur - črpalka z osebjem",
       "zip_code": "2313"
+    },
+    {
+      "pk": 2267,
+      "franchise": 6,
+      "name": "EKO-NAFTA d.o.o.",
+      "address": "Trimlini 65A, 9220 Lendava - Lendva",
+      "lat": 46.5429019,
+      "lng": 16.4429144,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": null,
+        "100": 1.774,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.13
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": 1.778,
+        "100": 1.778,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.13
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2271,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.13
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     }
   ],
   "position": null
