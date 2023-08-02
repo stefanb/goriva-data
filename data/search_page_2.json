@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 783,
-      "franchise": 2,
-      "name": "OMV DUTOVLJE",
-      "address": "Dutovlje 3b",
-      "lat": 45.755992,
-      "lng": 13.835896,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.13
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6221"
-    },
-    {
       "pk": 789,
       "franchise": 2,
       "name": "OMV FERNETIČI",
@@ -514,6 +493,27 @@
       "address": "Zaloška 158",
       "lat": 46.05628,
       "lng": 14.562775,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.877,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 820,
+      "franchise": 2,
+      "name": "OMV LJUBLJANA ZALOŠKA SEVER",
+      "address": "Zaloška 157",
+      "lat": 46.056444,
+      "lng": 14.55814,
       "prices": {
         "95": 1.511,
         "dizel": 1.558,
