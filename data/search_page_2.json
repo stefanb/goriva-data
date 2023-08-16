@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 789,
-      "franchise": 2,
-      "name": "OMV FERNETIČI",
-      "address": "Partizanska c. 151",
-      "lat": 45.701768,
-      "lng": 13.841505,
-      "prices": {
-        "95": 1.511,
-        "dizel": 1.558,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.849,
-        "avtoplin-lpg": 0.857,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Sežana",
-      "open_hours": "Pon-Ned 07:00-22:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 792,
       "franchise": 2,
       "name": "OMV GEDEROVCI",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 821,
+      "franchise": 2,
+      "name": "OMV LJUTOMER",
+      "address": "Kolodvorska 7a",
+      "lat": 46.5289,
+      "lng": 16.19006,
+      "prices": {
+        "95": 1.511,
+        "dizel": 1.558,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.13
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "9240"
     }
   ],
   "position": null
