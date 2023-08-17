@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 782,
-      "franchise": 2,
-      "name": "OMV DRAVSKO POLJE SEVER",
-      "address": "Gerečja vas 1g",
-      "lat": 46.428104,
-      "lng": 15.796613,
-      "prices": {
-        "95": 1.811,
-        "dizel": 1.846,
-        "98": null,
-        "100": 1.956,
-        "dizel-premium": 1.978,
-        "avtoplin-lpg": 0.897,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2288"
-    },
-    {
-      "pk": 790,
-      "franchise": 2,
-      "name": "OMV FERNETIČI JUG",
-      "address": "Partizanska c. 98",
-      "lat": 45.704437,
-      "lng": 13.846496,
-      "prices": {
-        "95": 1.811,
-        "dizel": 1.846,
-        "98": null,
-        "100": 1.956,
-        "dizel-premium": 1.978,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 791,
-      "franchise": 2,
-      "name": "OMV FERNETIČI SEVER",
-      "address": "Partizanska c. 130",
-      "lat": 45.70492,
-      "lng": 13.84554,
-      "prices": {
-        "95": 1.811,
-        "dizel": 1.846,
-        "98": null,
-        "100": 1.956,
-        "dizel-premium": 1.978,
-        "avtoplin-lpg": 0.897,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Benetke",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 793,
       "franchise": 2,
       "name": "OMV GRABONOŠ",
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-14:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2205,
+      "franchise": 1,
+      "name": "PETROL NAZARJE",
+      "address": "SAVINJSKA CESTA 11",
+      "lat": 46.322491,
+      "lng": 14.950163,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3331"
+    },
+    {
+      "pk": 2208,
+      "franchise": 1,
+      "name": "PETROL ŽERJAV",
+      "address": "ŽERJAV 3A",
+      "lat": 46.48491258,
+      "lng": 14.86992734,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 12:30-15:00",
+      "zip_code": "2393"
+    },
+    {
+      "pk": 2213,
+      "franchise": 1,
+      "name": "PETROL OTIŠKI VRH",
+      "address": "OTIŠKI VRH 25C",
+      "lat": 46.572637,
+      "lng": 15.025052,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:30-11:00",
+      "zip_code": "2373"
     }
   ],
   "position": null

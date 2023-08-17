@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2030,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - JUG",
-      "address": "POVIR 95",
-      "lat": 45.703393,
-      "lng": 13.940151,
-      "prices": {
-        "95": 1.809,
-        "dizel": 1.817,
-        "98": null,
-        "100": 1.952,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.938,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Fernetiči -> Ljublja",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.809,
-        "dizel": 1.817,
-        "98": null,
-        "100": 1.952,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.938,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.809,
-        "dizel": 1.817,
-        "98": null,
-        "100": 1.952,
-        "dizel-premium": 1.988,
-        "avtoplin-lpg": 0.938,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
-    },
-    {
       "pk": 2088,
       "franchise": 1,
       "name": "PETROL LOM AC - ZAHOD",
@@ -527,6 +464,69 @@
       "direction": "Zagreb",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 782,
+      "franchise": 2,
+      "name": "OMV DRAVSKO POLJE SEVER",
+      "address": "Gerečja vas 1g",
+      "lat": 46.428104,
+      "lng": 15.796613,
+      "prices": {
+        "95": 1.811,
+        "dizel": 1.846,
+        "98": null,
+        "100": 1.956,
+        "dizel-premium": 1.978,
+        "avtoplin-lpg": 0.897,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2288"
+    },
+    {
+      "pk": 790,
+      "franchise": 2,
+      "name": "OMV FERNETIČI JUG",
+      "address": "Partizanska c. 98",
+      "lat": 45.704437,
+      "lng": 13.846496,
+      "prices": {
+        "95": 1.811,
+        "dizel": 1.846,
+        "98": null,
+        "100": 1.956,
+        "dizel-premium": 1.978,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 791,
+      "franchise": 2,
+      "name": "OMV FERNETIČI SEVER",
+      "address": "Partizanska c. 130",
+      "lat": 45.70492,
+      "lng": 13.84554,
+      "prices": {
+        "95": 1.811,
+        "dizel": 1.846,
+        "98": null,
+        "100": 1.956,
+        "dizel-premium": 1.978,
+        "avtoplin-lpg": 0.897,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Benetke",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
     }
   ],
   "position": null
