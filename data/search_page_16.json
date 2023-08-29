@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2189,
-      "franchise": 1,
-      "name": "PETROL GORNJI GRAD",
-      "address": "SPODNJI TRG 34",
-      "lat": 46.29907149,
-      "lng": 14.81925704,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.156
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3342"
-    },
-    {
       "pk": 2190,
       "franchise": 1,
       "name": "PETROL CELJE - LANOVŽ",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
       "zip_code": "1330"
+    },
+    {
+      "pk": 2221,
+      "franchise": 1,
+      "name": "PETROL ŽLEBIČ",
+      "address": "BREŽE 1B",
+      "lat": 45.76220176,
+      "lng": 14.70303872,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": 1.814,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "1310"
     }
   ],
   "position": null
