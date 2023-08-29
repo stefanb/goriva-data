@@ -4,90 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 812,
-      "franchise": 2,
-      "name": "BS MOL LAZARET",
-      "address": "Jadranska c. 1",
-      "lat": 45.59283,
-      "lng": 13.72411,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": 1.864,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Maj: Pon-Ned 07:00-21:00; Jun-Sep: Pon-Ned 07:00-22:00",
-      "zip_code": "6280"
-    },
-    {
-      "pk": 813,
-      "franchise": 2,
-      "name": "BS MOL LESCE",
-      "address": "Hraška c. 17",
-      "lat": 46.365369,
-      "lng": 14.16032,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4248"
-    },
-    {
-      "pk": 814,
-      "franchise": 2,
-      "name": "BS MOL LIPOVCI",
-      "address": "Lipovci 243b",
-      "lat": 46.625125,
-      "lng": 16.214332,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.156
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "9231"
-    },
-    {
-      "pk": 815,
-      "franchise": 2,
-      "name": "BS MOL LITIJA",
-      "address": "Zasavska c. 1",
-      "lat": 46.058713,
-      "lng": 14.832858,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": 1.864,
-        "avtoplin-lpg": null,
-        "KOEL": 1.156
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1270"
-    },
-    {
       "pk": 816,
       "franchise": 2,
       "name": "BS MOL LJUBLJANA LETALIŠKA",
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6320"
+    },
+    {
+      "pk": 842,
+      "franchise": 2,
+      "name": "BS MOL POSTOJNA TITOVA",
+      "address": "Titova c.12",
+      "lat": 45.77113,
+      "lng": 14.201277,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 843,
+      "franchise": 2,
+      "name": "BS MOL POSTOJNA TRŽAŠKA",
+      "address": "Tržaška c. 60b",
+      "lat": 45.772642,
+      "lng": 14.200028,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": 1.739,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-21:00; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 846,
+      "franchise": 2,
+      "name": "BS MOL RAKEK",
+      "address": "Partizanska 73a",
+      "lat": 45.808113,
+      "lng": 14.329101,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1381"
+    },
+    {
+      "pk": 849,
+      "franchise": 2,
+      "name": "BS MOL ROŽNA DOLINA SEVER",
+      "address": "Angela Besednjaka 8",
+      "lat": 45.940972,
+      "lng": 13.640395,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": 1.864,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5000"
     }
   ],
   "position": null

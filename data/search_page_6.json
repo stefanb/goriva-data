@@ -4,90 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1571,
-      "franchise": 4,
-      "name": "BS MOL DRAMLJE",
-      "address": "LAZE PRI DRAMLJAH 6B",
-      "lat": 46.260293,
-      "lng": 15.3918165,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": 1.864,
-        "avtoplin-lpg": 0.857,
-        "KOEL": 1.144
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "3222"
-    },
-    {
-      "pk": 1572,
-      "franchise": 4,
-      "name": "BS MOL MESTINJE",
-      "address": "MESTINJE 2A",
-      "lat": 46.2343558,
-      "lng": 15.5634657,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": 1.864,
-        "avtoplin-lpg": null,
-        "KOEL": 1.144
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "3241"
-    },
-    {
-      "pk": 1573,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA 3",
-      "address": "BAKOVSKA 31/A",
-      "lat": 46.645667,
-      "lng": 16.168083,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": 1.877,
-        "avtoplin-lpg": null,
-        "KOEL": 1.144
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 21:00\r\nnedelja in prazniki 08:00 - 16:00",
-      "zip_code": "9000"
-    },
-    {
-      "pk": 1574,
-      "franchise": 4,
-      "name": "BS MOL KOČEVJE 2",
-      "address": "REŠKA CESTA 25/A",
-      "lat": 45.632833,
-      "lng": 14.864267,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": 1.877,
-        "avtoplin-lpg": null,
-        "KOEL": 1.144
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "1330"
-    },
-    {
       "pk": 1575,
       "franchise": 4,
       "name": "BS MOL OTIŠKI VRH",
@@ -526,6 +442,90 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 08:00-16:00\r\nsobote 08:00-14:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1924,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PTUJSKA 136",
+      "address": "PTUJSKA CESTA 136",
+      "lat": 46.53249876,
+      "lng": 15.66655604,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 08:00-18:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1925,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - VALVASORJEVA",
+      "address": "VALVASORJEVA ULICA 51",
+      "lat": 46.555036,
+      "lng": 15.633782,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1926,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA ZAHOD",
+      "address": "LJUBLJANSKA CESTA 74",
+      "lat": 46.38470725,
+      "lng": 15.5654534,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2310"
+    },
+    {
+      "pk": 1927,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - GOSPOSVETSKA SEVER",
+      "address": "GOSPOSVETSKA CESTA 92",
+      "lat": 46.56386643,
+      "lng": 15.62682805,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "2000"
     }
   ],
