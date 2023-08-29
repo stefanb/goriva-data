@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 818,
-      "franchise": 2,
-      "name": "BS MOL LJUBLJANA CELOVŠKA",
-      "address": "Celovška c. 455",
-      "lat": 46.09891,
-      "lng": 14.460958,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.822,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1210"
-    },
-    {
       "pk": 819,
       "franchise": 2,
       "name": "BS MOL LJUBLJANA ZALOŠKA JUG",
@@ -107,6 +86,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
       "zip_code": "6219"
+    },
+    {
+      "pk": 824,
+      "franchise": 2,
+      "name": "BS MOL MARINA PORTOROŽ",
+      "address": "Seča 188",
+      "lat": 45.50526,
+      "lng": 13.59658,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: na klic ; Jun-Sep: Pon-Ned 09:00-19:00 (zaprto od 13:00-14:00)",
+      "zip_code": "6320"
     },
     {
       "pk": 825,
