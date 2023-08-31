@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 790,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI JUG",
+      "address": "Partizanska c. 98",
+      "lat": 45.704437,
+      "lng": 13.846496,
+      "prices": {
+        "95": 1.844,
+        "dizel": 1.83,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": 1.993,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
       "pk": 791,
       "franchise": 2,
       "name": "BS MOL FERNETIČI SEVER",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 12:30-15:00",
       "zip_code": "2393"
-    },
-    {
-      "pk": 2213,
-      "franchise": 1,
-      "name": "PETROL OTIŠKI VRH",
-      "address": "OTIŠKI VRH 25C",
-      "lat": 46.572637,
-      "lng": 15.025052,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-18:00\r\nsobote 07:30-11:00",
-      "zip_code": "2373"
     }
   ],
   "position": null
