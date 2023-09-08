@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2000,
+      "franchise": 1,
+      "name": "PETROL VRTOJBA AC - JUG",
+      "address": "MEDNARODNI PREHOD 4A",
+      "lat": 45.91934,
+      "lng": 13.627636,
+      "prices": {
+        "95": 1.859,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.999,
+        "dizel-premium": 2,
+        "avtoplin-lpg": 0.905,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5290"
+    },
+    {
       "pk": 2008,
       "franchise": 1,
       "name": "PETROL ŠEMPAS AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3331"
-    },
-    {
-      "pk": 2208,
-      "franchise": 1,
-      "name": "PETROL ŽERJAV",
-      "address": "ŽERJAV 3A",
-      "lat": 46.48491258,
-      "lng": 14.86992734,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 12:30-15:00",
-      "zip_code": "2393"
     }
   ],
   "position": null
