@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2316,
+      "franchise": 23,
+      "name": "BS Žihlava",
+      "address": "Žihlava 15",
+      "lat": 46.55,
+      "lng": 16.0396,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.572,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gornja Radgona - Ljutomer",
+      "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9244"
+    },
+    {
       "pk": 2317,
       "franchise": 23,
       "name": "BS Lemerje",
@@ -506,27 +527,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
-    },
-    {
-      "pk": 861,
-      "franchise": 2,
-      "name": "BS MOL ŠEMPAS",
-      "address": "Šempas 160b",
-      "lat": 45.917693,
-      "lng": 13.721916,
-      "prices": {
-        "95": 1.859,
-        "dizel": 1.845,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": 1.993,
-        "avtoplin-lpg": 0.936,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Nova Gorica",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5261"
     }
   ],
   "position": null
