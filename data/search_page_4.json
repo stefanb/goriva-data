@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 852,
-      "franchise": 2,
-      "name": "BS MOL SENOŽEČE",
-      "address": "Senožeče 10a",
-      "lat": 45.72321,
-      "lng": 14.04572,
-      "prices": {
-        "95": 1.551,
-        "dizel": 1.6,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
-      "zip_code": "6224"
-    },
-    {
       "pk": 853,
       "franchise": 2,
       "name": "BS MOL SEŽANA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON - PET 05:00 - 22:00\r\nSOBOTA 05:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 1551,
+      "franchise": 4,
+      "name": "BS MOL LITIJA",
+      "address": "LJUBLJANSKA CESTA 10B",
+      "lat": 46.057104,
+      "lng": 14.822957,
+      "prices": {
+        "95": 1.551,
+        "dizel": 1.6,
+        "98": null,
+        "100": 1.822,
+        "dizel-premium": 1.872,
+        "avtoplin-lpg": null,
+        "KOEL": 1.144
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "1270"
     }
   ],
   "position": null
