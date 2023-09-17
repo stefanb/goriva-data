@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 2017,
+      "franchise": 1,
+      "name": "PETROL DOLGA VAS",
+      "address": "GLAVNA ULICA 200",
+      "lat": 46.59372345,
+      "lng": 16.46019878,
+      "prices": {
+        "95": 1.551,
+        "dizel": 1.6,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.181
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9220"
+    },
+    {
       "pk": 2020,
       "franchise": 1,
       "name": "PETROL VOSEK",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2049,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ŠMARTINSKA 150",
-      "address": "ŠMARTINSKA CESTA 150",
-      "lat": 46.06921194,
-      "lng": 14.54248084,
-      "prices": {
-        "95": 1.551,
-        "dizel": 1.6,
-        "98": null,
-        "100": 1.817,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.181
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
       "zip_code": "1000"
     }
   ],
