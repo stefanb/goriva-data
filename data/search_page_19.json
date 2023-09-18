@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.551,
+        "dizel": 1.59,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.181
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - NED. : 6:00 - 20:00",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
-    },
-    {
-      "pk": 845,
-      "franchise": 2,
-      "name": "BS MOL RADOVLJICA SEVER",
-      "address": "Ljubljanska cesta 71",
-      "lat": 46.33934,
-      "lng": 14.19201,
-      "prices": {
-        "95": 1.866,
-        "dizel": 1.873,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": 0.894,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Jesenice",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "4240"
     }

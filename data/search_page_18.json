@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2250,
+      "franchise": 3,
+      "name": "BS MAXEN KOČEVJE",
+      "address": "Mrtvice bš",
+      "lat": 45.6768128,
+      "lng": 14.827288,
+      "prices": {
+        "95": 1.551,
+        "dizel": 1.6,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1332"
+    },
+    {
       "pk": 2251,
       "franchise": 3,
       "name": "BS MAXEN ŽUŽEMBERK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
       "zip_code": "6253"
-    },
-    {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.551,
-        "dizel": 1.59,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.181
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
     }
   ],
   "position": null
