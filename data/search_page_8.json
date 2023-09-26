@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1950,
-      "franchise": 1,
-      "name": "PETROL IDRIJA",
-      "address": "VOJKOVA ULICA 27",
-      "lat": 46.00620792,
-      "lng": 14.02764615,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": 1.834,
-        "dizel-premium": 1.968,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "5280"
-    },
-    {
-      "pk": 1951,
-      "franchise": 1,
-      "name": "PETROL LENART",
-      "address": "KRAIGHERJEVA ULICA 40",
-      "lat": 46.58401138,
-      "lng": 15.84030408,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": 1.834,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.855,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "2230"
-    },
-    {
       "pk": 1952,
       "franchise": 1,
       "name": "PETROL ROŽNA DOLINA",
@@ -527,6 +485,48 @@
       "direction": "Maribor -> Pince",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-19:00",
       "zip_code": "9242"
+    },
+    {
+      "pk": 1980,
+      "franchise": 1,
+      "name": "PETROL DORNBERK",
+      "address": "DRAGA 18A",
+      "lat": 45.88507011,
+      "lng": 13.73292985,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.834,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.249
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5294"
+    },
+    {
+      "pk": 1981,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - GRČNA",
+      "address": "VOJKOVA CESTA 68",
+      "lat": 45.95320889,
+      "lng": 13.65237464,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.834,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5000"
     }
   ],
   "position": null

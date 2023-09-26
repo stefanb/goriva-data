@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 872,
-      "franchise": 2,
-      "name": "BS MOL VIPOLŽE",
-      "address": "Vipolže 6b",
-      "lat": 45.966782,
-      "lng": 13.540767,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": 1.839,
-        "dizel-premium": 1.939,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "5212"
-    },
-    {
-      "pk": 873,
-      "franchise": 2,
-      "name": "BS MOL VIR DOMŽALE",
-      "address": "Šaranovičeva c. 10a",
-      "lat": 46.147666,
-      "lng": 14.60635,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": 1.839,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1230"
-    },
-    {
       "pk": 874,
       "franchise": 2,
       "name": "BS MOL VRTOJBA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00 - 21:00",
       "zip_code": "3000"
+    },
+    {
+      "pk": 1570,
+      "franchise": 4,
+      "name": "BS MOL SLOVENSKE KONJICE",
+      "address": "LIPTOVSKA CESTA 32B",
+      "lat": 46.340083,
+      "lng": 15.418667,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1571,
+      "franchise": 4,
+      "name": "BS MOL DRAMLJE",
+      "address": "LAZE PRI DRAMLJAH 6B",
+      "lat": 46.260293,
+      "lng": 15.3918165,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": 2.059,
+        "avtoplin-lpg": 0.854,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3222"
     }
   ],
   "position": null

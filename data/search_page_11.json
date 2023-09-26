@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2041,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
-      "address": "TRŽAŠKA CESTA 131A",
-      "lat": 46.03869769,
-      "lng": 14.47088774,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": 1.834,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2042,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ZALOŠKA",
-      "address": "ZALOŠKA CESTA 60A",
-      "lat": 46.05587096,
-      "lng": 14.53893203,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2043,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - RUDNIK VZHOD",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1420"
+    },
+    {
+      "pk": 2068,
+      "franchise": 1,
+      "name": "PETROL TRŽIČ - VZHOD",
+      "address": "CESTA STE MARIE AUX MINES 13A",
+      "lat": 46.35376615,
+      "lng": 14.2930683,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
+      "zip_code": "4290"
+    },
+    {
+      "pk": 2069,
+      "franchise": 1,
+      "name": "PETROL VRHNIKA - LJUBLJANSKA ZAHOD",
+      "address": "LJUBLJANSKA CESTA 3",
+      "lat": 45.968275,
+      "lng": 14.299194,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.834,
+        "dizel-premium": 1.968,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
+      "zip_code": "1360"
     }
   ],
   "position": null
