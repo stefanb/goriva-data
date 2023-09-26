@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2105,
-      "franchise": 1,
-      "name": "PETROL JESENICE - KOROŠKA BELA",
-      "address": "CESTA BORISA KIDRIČA 50",
-      "lat": 46.42262407,
-      "lng": 14.10274656,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 16:30-19:00\r\nsobote 09:30-13:00",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2106,
-      "franchise": 1,
-      "name": "PETROL IZLAKE",
-      "address": "OBREZIJA 6",
-      "lat": 46.150311,
-      "lng": 14.931488,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-20:00\r\nsobote 07:00-14:00",
-      "zip_code": "1411"
-    },
-    {
       "pk": 2107,
       "franchise": 1,
       "name": "PETROL ČEŠNJICE V TUHINJU",
@@ -527,6 +485,48 @@
       "direction": "Ljubljana -> Maribor",
       "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1230"
+    },
+    {
+      "pk": 2134,
+      "franchise": 1,
+      "name": "PETROL ŽEJE PRI KOMENDI",
+      "address": "POD LIPAMI 3",
+      "lat": 46.19219144,
+      "lng": 14.52190652,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.834,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.855,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "1218"
+    },
+    {
+      "pk": 2135,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - KAJUHOVA",
+      "address": "KAJUHOVA ULICA 32S",
+      "lat": 46.061482,
+      "lng": 14.538136,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.834,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.855,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "1000"
     }
   ],
   "position": null
