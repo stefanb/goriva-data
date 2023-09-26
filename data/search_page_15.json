@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2159,
-      "franchise": 1,
-      "name": "PETROL DOBOVA",
-      "address": "ULICA BRATOV GERJOVIČEV 24",
-      "lat": 45.89537811,
-      "lng": 15.65616953,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:30-15:00\r\nnedelje in prazniki 08:00-11:30",
-      "zip_code": "8257"
-    },
-    {
       "pk": 2160,
       "franchise": 1,
       "name": "PETROL ŠKOCJAN",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-17:00",
       "zip_code": "3250"
+    },
+    {
+      "pk": 2187,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
+      "address": "RIMSKA CESTA 106",
+      "lat": 46.25830238,
+      "lng": 15.11406404,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.834,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.249
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3311"
     }
   ],
   "position": null
