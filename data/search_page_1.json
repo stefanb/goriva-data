@@ -46,27 +46,6 @@
       "zip_code": "1290"
     },
     {
-      "pk": 2327,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Bezena",
-      "address": "Bezena 99",
-      "lat": 46.5499175582367,
-      "lng": 15.538353293954877,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.599,
-        "98": null,
-        "100": 1.816,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
-      "zip_code": "2342"
-    },
-    {
       "pk": 1969,
       "franchise": 1,
       "name": "PETROL ODRANCI",
@@ -306,7 +285,7 @@
       "lng": 15.646512,
       "prices": {
         "95": 1.587,
-        "dizel": 1.644,
+        "dizel": 1.643,
         "98": null,
         "100": 1.799,
         "dizel-premium": null,
@@ -317,6 +296,27 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2327,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Bezena",
+      "address": "Bezena 99",
+      "lat": 46.5499175582367,
+      "lng": 15.538353293954877,
+      "prices": {
+        "95": 1.587,
+        "dizel": 1.663,
+        "98": null,
+        "100": 1.833,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
+      "zip_code": "2342"
     },
     {
       "pk": 766,
