@@ -4,27 +4,6 @@
   "previous": null,
   "results": [
     {
-      "pk": 1961,
-      "franchise": 1,
-      "name": "PETROL LJUTOMER",
-      "address": "PREŠERNOVA ULICA 19",
-      "lat": 46.52201409,
-      "lng": 16.19426906,
-      "prices": {
-        "95": 1.544,
-        "dizel": 1.572,
-        "98": null,
-        "100": 1.814,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.156
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9240"
-    },
-    {
       "pk": 2308,
       "franchise": 19,
       "name": "Tankomat Grosuplje",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
       "zip_code": "6215"
+    },
+    {
+      "pk": 779,
+      "franchise": 2,
+      "name": "BS MOL DOL PRI LJUBLJANI",
+      "address": "Podgora pri Dolskem 40",
+      "lat": 46.090168,
+      "lng": 14.650805,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.664,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.249
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "1262"
     }
   ],
   "position": null
