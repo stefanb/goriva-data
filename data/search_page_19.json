@@ -4,6 +4,90 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2324,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVIS d.o.o.",
+      "address": "Ljubljanska cesta 62",
+      "lat": 45.96802,
+      "lng": 14.66103,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": 1.804,
+        "100": 1.819,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "VSAK DAN 5,30 do 22,30",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 2332,
+      "franchise": 4,
+      "name": "BS MOL RAVNE",
+      "address": "Dobja vas 18b",
+      "lat": 46.544943013174425,
+      "lng": 14.939777713626901,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": null,
+        "100": 1.765,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": 0.854,
+        "KOEL": 1.233
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 05:00-23:00\r\nSOB 06:00-23:00\r\nNED IN PRAZNIKI 07:00-22:00",
+      "zip_code": "2390"
+    },
+    {
+      "pk": 2308,
+      "franchise": 19,
+      "name": "Tankomat Grosuplje",
+      "address": "Ljubljanska cesta 66",
+      "lat": 45.96573257446289,
+      "lng": 14.659423828125,
+      "prices": {
+        "95": 1.544,
+        "dizel": 1.651,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.156
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "neprenehoma 24/7",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 1969,
+      "franchise": 1,
+      "name": "PETROL ODRANCI",
+      "address": "NASELJE GREDICE 1A",
+      "lat": 46.58197141,
+      "lng": 16.28224598,
+      "prices": {
+        "95": 1.551,
+        "dizel": 1.6,
+        "98": null,
+        "100": 1.817,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.181
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "9233"
+    },
+    {
       "pk": 768,
       "franchise": 2,
       "name": "BS MOL BERTOKI",
@@ -193,48 +277,6 @@
       "zip_code": ""
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": 1.834,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": 1.834,
-        "100": 1.834,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2311,
       "franchise": 18,
       "name": "BS Merkantil KNEŽAK",
@@ -275,48 +317,6 @@
       "direction": "PTUJ",
       "open_hours": "PON. - NED. : 6:00 - 20:00",
       "zip_code": "2283"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.664,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.249
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 1923,
