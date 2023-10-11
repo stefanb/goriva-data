@@ -130,6 +130,27 @@
       "zip_code": "9223"
     },
     {
+      "pk": 1969,
+      "franchise": 1,
+      "name": "PETROL ODRANCI",
+      "address": "NASELJE GREDICE 1A",
+      "lat": 46.58197141,
+      "lng": 16.28224598,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": null,
+        "100": 1.76,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "9233"
+    },
+    {
       "pk": 1970,
       "franchise": 1,
       "name": "PETROL GORNJA RADGONA - MELE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "6000"
-    },
-    {
-      "pk": 1991,
-      "franchise": 1,
-      "name": "PETROL PODBRDO",
-      "address": "PODBRDO 60C",
-      "lat": 46.206127,
-      "lng": 13.959792,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-19:00\r\nsobote 08:00-15:00",
-      "zip_code": "5243"
     }
   ],
   "position": null
