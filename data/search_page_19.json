@@ -141,7 +141,7 @@
         "dizel": 1.651,
         "98": null,
         "100": 1.765,
-        "dizel-premium": 1.925,
+        "dizel-premium": 1.998,
         "avtoplin-lpg": 0.854,
         "KOEL": 1.233
       },
@@ -170,111 +170,6 @@
       "direction": "",
       "open_hours": "neprenehoma 24/7",
       "zip_code": "1290"
-    },
-    {
-      "pk": 768,
-      "franchise": 2,
-      "name": "BS MOL BERTOKI",
-      "address": "C.med vinogradi 52",
-      "lat": 45.555358,
-      "lng": 13.78105,
-      "prices": {
-        "95": 1.586,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.889,
-        "dizel-premium": 1.985,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 804,
-      "franchise": 2,
-      "name": "BS MOL KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.586,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.889,
-        "dizel-premium": 1.985,
-        "avtoplin-lpg": 0.854,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 805,
-      "franchise": 2,
-      "name": "BS MOL KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.538903,
-      "lng": 13.728619,
-      "prices": {
-        "95": 1.586,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.889,
-        "dizel-premium": 1.985,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 863,
-      "franchise": 2,
-      "name": "BS MOL ŠKOFIJE VZHOD",
-      "address": "Sp.Škofije 260",
-      "lat": 45.580603,
-      "lng": 13.797535,
-      "prices": {
-        "95": 1.586,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.889,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.854,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
-      "zip_code": "6281"
-    },
-    {
-      "pk": 864,
-      "franchise": 2,
-      "name": "BS MOL ŠKOFIJE ZAHOD",
-      "address": "Sp.Škofije 256a",
-      "lat": 45.579851,
-      "lng": 13.796288,
-      "prices": {
-        "95": 1.586,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.889,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6281"
     },
     {
       "pk": 1549,
@@ -319,6 +214,111 @@
       "zip_code": ""
     },
     {
+      "pk": 768,
+      "franchise": 2,
+      "name": "BS MOL BERTOKI",
+      "address": "C.med vinogradi 52",
+      "lat": 45.555358,
+      "lng": 13.78105,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.713,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": 1.985,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 804,
+      "franchise": 2,
+      "name": "BS MOL KOPER BONIFIKA",
+      "address": "Istrska cesta 14",
+      "lat": 45.5404,
+      "lng": 13.7263,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.713,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": 1.985,
+        "avtoplin-lpg": 0.854,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Portorož",
+      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 805,
+      "franchise": 2,
+      "name": "BS MOL KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.538903,
+      "lng": 13.728619,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.713,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": 1.985,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 863,
+      "franchise": 2,
+      "name": "BS MOL ŠKOFIJE VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.713,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.854,
+        "KOEL": 1.233
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
+    },
+    {
+      "pk": 864,
+      "franchise": 2,
+      "name": "BS MOL ŠKOFIJE ZAHOD",
+      "address": "Sp.Škofije 256a",
+      "lat": 45.579851,
+      "lng": 13.796288,
+      "prices": {
+        "95": 1.598,
+        "dizel": 1.713,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6281"
+    },
+    {
       "pk": 1923,
       "franchise": 1,
       "name": "PETROL ŠENTILJ AC - ZAHOD",
@@ -331,7 +331,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
@@ -352,7 +352,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
@@ -373,7 +373,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": 2.133,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
@@ -394,7 +394,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": null,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
@@ -415,7 +415,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": 2.133,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
@@ -436,7 +436,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": 2.133,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
@@ -478,7 +478,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": 2.133,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
@@ -520,7 +520,7 @@
         "98": null,
         "100": 1.942,
         "dizel-premium": 2.133,
-        "avtoplin-lpg": 0.895,
+        "avtoplin-lpg": 0.905,
         "KOEL": null
       },
       "distance": null,
