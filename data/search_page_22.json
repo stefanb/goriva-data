@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2059,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA AC - BARJE SEVER",
+      "address": "CESTA DVEH CESARJEV 71",
+      "lat": 46.029136,
+      "lng": 14.481739,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2060,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA AC - BARJE JUG",
+      "address": "CESTA DVEH CESARJEV 73",
+      "lat": 46.028806,
+      "lng": 14.478422,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2112,
       "franchise": 1,
       "name": "PETROL MEDVODE - GORENJSKA 15",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6240"
-    },
-    {
-      "pk": 2326,
-      "franchise": 30,
-      "name": "Ka olje d.o.o.",
-      "address": "ŠKOJELOŠKA CESTA 16",
-      "lat": 46.1845316,
-      "lng": 14.47429,
-      "prices": {
-        "95": null,
-        "dizel": 1.651,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet. 6.00-16.00h\r\nsob 6.00-12.00h\r\nned in prazniki zaprto",
-      "zip_code": "1217"
-    },
-    {
-      "pk": 2328,
-      "franchise": 19,
-      "name": "Tankomat Jesenice",
-      "address": "Cesta Železarjev 8",
-      "lat": 46.43106460571289,
-      "lng": 14.07077407836914,
-      "prices": {
-        "95": null,
-        "dizel": 1.651,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "4270"
     }
   ],
   "position": null
