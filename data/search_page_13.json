@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2112,
+      "franchise": 1,
+      "name": "PETROL MEDVODE - GORENJSKA 15",
+      "address": "GORENJSKA CESTA 15",
+      "lat": 46.14877179,
+      "lng": 14.40705025,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:30-19:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 12:30-18:00",
+      "zip_code": "1215"
+    },
+    {
       "pk": 2113,
       "franchise": 1,
       "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2139,
-      "franchise": 1,
-      "name": "PETROL KRŠKO - CESTA KRŠKIH ŽRTEV",
-      "address": "CESTA KRŠKIH ŽRTEV 136A",
-      "lat": 45.941161,
-      "lng": 15.484993,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": 1.758,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.855,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "8270"
     }
   ],
   "position": null
