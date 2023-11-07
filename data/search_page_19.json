@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2324,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVIS d.o.o.",
+      "address": "Ljubljanska cesta 62",
+      "lat": 45.96802,
+      "lng": 14.66103,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.608,
+        "98": 1.804,
+        "100": 1.819,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.195
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "VSAK DAN 5,30 do 22,30",
+      "zip_code": "1290"
+    },
+    {
       "pk": 2332,
       "franchise": 4,
       "name": "BS MOL RAVNE",
@@ -86,27 +107,6 @@
       "direction": "",
       "open_hours": "Pon - Pet.:  6-22\r\nSob: 7-21 \r\nNed.: 8-20",
       "zip_code": "2204"
-    },
-    {
-      "pk": 2327,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Bezena",
-      "address": "Bezena 99",
-      "lat": 46.5499175582367,
-      "lng": 15.538353293954877,
-      "prices": {
-        "95": 1.535,
-        "dizel": 1.649,
-        "98": null,
-        "100": 1.759,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
-      "zip_code": "2342"
     },
     {
       "pk": 789,

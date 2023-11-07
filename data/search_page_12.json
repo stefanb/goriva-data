@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2084,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 58B",
+      "address": "CESTA STANETA ŽAGARJA 58B",
+      "lat": 46.24334118,
+      "lng": 14.36914271,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.608,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.195
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-13:00",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2085,
       "franchise": 1,
       "name": "PETROL PODKOREN",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 08:00-19:00\r\nnedelje in prazniki 08:00-16:00",
       "zip_code": "4248"
-    },
-    {
-      "pk": 2115,
-      "franchise": 1,
-      "name": "PETROL MEDVODE - GORENJSKA 14",
-      "address": "GORENJSKA CESTA 14",
-      "lat": 46.13700649,
-      "lng": 14.4167802,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.748,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.195
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "1215"
     }
   ],
   "position": null
