@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 857,
+      "franchise": 2,
+      "name": "BS MOL SPODNJA IDRIJA",
+      "address": "Vojkova ulica 24",
+      "lat": 46.01699,
+      "lng": 14.0288,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.608,
+        "98": null,
+        "100": 1.755,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": 1.195
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "5280"
+    },
+    {
       "pk": 858,
       "franchise": 2,
       "name": "BS MOL SPODNJI DUPLEK",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "PON - NED 00:00-24:00",
       "zip_code": "3000"
-    },
-    {
-      "pk": 1560,
-      "franchise": 4,
-      "name": "BS MOL ROŽNA DOLINA",
-      "address": "ULICA ANGELA BESEDNJAKA 8A",
-      "lat": 45.9404582,
-      "lng": 13.6399226,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": 0.854,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "5000"
     }
   ],
   "position": null
