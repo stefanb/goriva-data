@@ -403,6 +403,27 @@
       "zip_code": "1317"
     },
     {
+      "pk": 2313,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.534,
+        "dizel": 1.598,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.195
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - NED. : 6:00 - 20:00",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2315,
       "franchise": 21,
       "name": "Bencinski servis STRANICE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
-    },
-    {
-      "pk": 2332,
-      "franchise": 4,
-      "name": "BS MOL RAVNE",
-      "address": "Dobja vas 18b",
-      "lat": 46.544943013174425,
-      "lng": 14.939777713626901,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": 0.854,
-        "KOEL": 1.195
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00-23:00\r\nSOB 06:00-23:00\r\nNED IN PRAZNIKI 07:00-22:00",
-      "zip_code": "2390"
     }
   ],
   "position": null
