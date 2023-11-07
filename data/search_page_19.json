@@ -403,27 +403,6 @@
       "zip_code": "2286"
     },
     {
-      "pk": 1976,
-      "franchise": 1,
-      "name": "PETROL GRABONOŠ AC - SEVER",
-      "address": "GRABONOŠ 4D",
-      "lat": 46.585173,
-      "lng": 16.007142,
-      "prices": {
-        "95": 1.832,
-        "dizel": 1.867,
-        "98": null,
-        "100": 1.93,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.895,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9244"
-    },
-    {
       "pk": 1977,
       "franchise": 1,
       "name": "PETROL MARIBOR - AC ZAHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "5261"
+    },
+    {
+      "pk": 2009,
+      "franchise": 1,
+      "name": "PETROL KOZINA AC - VZHOD",
+      "address": "BAZOVIŠKA CESTA 23A",
+      "lat": 45.60515,
+      "lng": 13.928699,
+      "prices": {
+        "95": 1.832,
+        "dizel": 1.867,
+        "98": null,
+        "100": 1.93,
+        "dizel-premium": 2.102,
+        "avtoplin-lpg": 0.895,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "6240"
     }
   ],
   "position": null
