@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2030,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - JUG",
+      "address": "POVIR 95",
+      "lat": 45.703393,
+      "lng": 13.940151,
+      "prices": {
+        "95": 1.832,
+        "dizel": 1.867,
+        "98": null,
+        "100": 1.93,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.895,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Fernetiči -> Ljublja",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
+    },
+    {
       "pk": 2031,
       "franchise": 1,
       "name": "PETROL POVIR AC - SEVER",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 788,
-      "franchise": 2,
-      "name": "BS MOL TRUCK VRTOJBA",
-      "address": "Polje 10",
-      "lat": 45.92082361,
-      "lng": 13.63360622,
-      "prices": {
-        "95": null,
-        "dizel": 1.608,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5290"
     }
   ],
   "position": null

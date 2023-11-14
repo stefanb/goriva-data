@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 788,
+      "franchise": 2,
+      "name": "BS MOL TRUCK VRTOJBA",
+      "address": "Polje 10",
+      "lat": 45.92082361,
+      "lng": 13.63360622,
+      "prices": {
+        "95": null,
+        "dizel": 1.608,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5290"
+    },
+    {
       "pk": 1549,
       "franchise": 4,
       "name": "BS MOL ROGAŠKA SLATINA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6271"
-    },
-    {
-      "pk": 2321,
-      "franchise": 29,
-      "name": "Mi oskrba d.o.o.",
-      "address": "Hrašče 4c",
-      "lat": 45.77353972485529,
-      "lng": 14.16884039205976,
-      "prices": {
-        "95": null,
-        "dizel": 1.608,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.195
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "6230"
     }
   ],
   "position": null
