@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 789,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI",
+      "address": "Partizanska c. 151",
+      "lat": 45.701768,
+      "lng": 13.841505,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.748,
+        "dizel-premium": 1.862,
+        "avtoplin-lpg": 0.854,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Sežana",
+      "open_hours": "Pon-Ned 07:00-22:00",
+      "zip_code": "6210"
+    },
+    {
       "pk": 792,
       "franchise": 2,
       "name": "BS MOL GEDEROVCI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1000"
-    },
-    {
-      "pk": 821,
-      "franchise": 2,
-      "name": "BS MOL LJUTOMER",
-      "address": "Kolodvorska 7a",
-      "lat": 46.5289,
-      "lng": 16.19006,
-      "prices": {
-        "95": 1.508,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.748,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.132
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "9240"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2257,
+      "franchise": 3,
+      "name": "BS MAXEN AJDOVŠČINA",
+      "address": "Vipavska cesta bš",
+      "lat": 45.8809344,
+      "lng": 13.9107888,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "5270"
+    },
+    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL MARIBOR RETAIL",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Ponedeljek - Sobota 6:00 - 22:00\r\n\r\nNedelja 8:00 - 20:00",
       "zip_code": "3250"
-    },
-    {
-      "pk": 2335,
-      "franchise": 5,
-      "name": "ŠMARJE PRI JELŠAH",
-      "address": "Celjska cesta 55",
-      "lat": 46.22878,
-      "lng": 15.504,
-      "prices": {
-        "95": 1.508,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.783,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon\tdo Sob \r\n06:00 - 21:00\r\nNed\t\r\n08:00 - 20:00",
-      "zip_code": "3240"
     }
   ],
   "position": null

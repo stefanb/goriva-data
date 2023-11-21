@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2228,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - ŽABJA VAS",
+      "address": "BELOKRANJSKA CESTA 3",
+      "lat": 45.797682,
+      "lng": 15.181242,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.741,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.855,
+        "KOEL": 1.132
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8000"
+    },
+    {
       "pk": 2233,
       "franchise": 1,
       "name": "PETROL MENGEŠ - KAMNIŠKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "4000"
-    },
-    {
-      "pk": 2257,
-      "franchise": 3,
-      "name": "BS MAXEN AJDOVŠČINA",
-      "address": "Vipavska cesta bš",
-      "lat": 45.8809344,
-      "lng": 13.9107888,
-      "prices": {
-        "95": 1.508,
-        "dizel": 1.544,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "5270"
     }
   ],
   "position": null

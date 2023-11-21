@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2172,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA ZAHOD",
+      "address": "CELJSKA CESTA 2",
+      "lat": 46.35625568,
+      "lng": 15.11475697,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.741,
+        "dizel-premium": 1.912,
+        "avtoplin-lpg": 0.855,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3320"
+    },
+    {
       "pk": 2173,
       "franchise": 1,
       "name": "PETROL ŠENTRUPERT",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-18:00",
       "zip_code": "3241"
-    },
-    {
-      "pk": 2199,
-      "franchise": 1,
-      "name": "PETROL CELJE - MARIBORSKA",
-      "address": "MARIBORSKA CESTA 21",
-      "lat": 46.235447,
-      "lng": 15.270271,
-      "prices": {
-        "95": 1.508,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.741,
-        "dizel-premium": 1.912,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "3000"
     }
   ],
   "position": null
