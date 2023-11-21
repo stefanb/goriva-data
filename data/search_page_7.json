@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1944,
+      "franchise": 1,
+      "name": "PETROL LOVRENC NA POHORJU",
+      "address": "MARIBORSKA CESTA 43",
+      "lat": 46.54696377,
+      "lng": 15.40182431,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.132
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00",
+      "zip_code": "2344"
+    },
+    {
       "pk": 1946,
       "franchise": 1,
       "name": "PETROL SREDIŠČE OB DRAVI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "9250"
-    },
-    {
-      "pk": 1971,
-      "franchise": 1,
-      "name": "PETROL MARTJANCI",
-      "address": "MARTJANCI 83B",
-      "lat": 46.68760198,
-      "lng": 16.19649434,
-      "prices": {
-        "95": 1.508,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.741,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "9221"
     }
   ],
   "position": null

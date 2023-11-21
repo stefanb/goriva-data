@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 1591,
+      "franchise": 4,
+      "name": "BS MOL VODICE",
+      "address": "ŠKOFJELOŠKA CESTA 14",
+      "lat": 46.185997,
+      "lng": 14.487635,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.748,
+        "dizel-premium": 1.862,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 1592,
       "franchise": 4,
       "name": "BS MOL AJDOVŠČINA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 1944,
-      "franchise": 1,
-      "name": "PETROL LOVRENC NA POHORJU",
-      "address": "MARIBORSKA CESTA 43",
-      "lat": 46.54696377,
-      "lng": 15.40182431,
-      "prices": {
-        "95": 1.508,
-        "dizel": 1.544,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.132
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-19:00",
-      "zip_code": "2344"
     }
   ],
   "position": null
