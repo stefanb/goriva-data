@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2337,
+      "franchise": 5,
+      "name": "LITIJA",
+      "address": "Ljubljanska cesta 10 B",
+      "lat": 46.14992,
+      "lng": 14.56445,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.783,
+        "dizel-premium": 1.891,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h \r\nNedelja: 8-20h",
+      "zip_code": "1270"
+    },
+    {
       "pk": 2338,
       "franchise": 5,
       "name": "Murska Sobota Lendavska",
@@ -170,27 +191,6 @@
       "direction": "",
       "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
       "zip_code": "6253"
-    },
-    {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.598,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.195
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
     },
     {
       "pk": 1551,
