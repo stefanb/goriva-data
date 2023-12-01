@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 786,
+      "franchise": 2,
+      "name": "BS MOL TRUCK MARIBOR",
+      "address": "Tržaška c. 53a",
+      "lat": 46.52543955,
+      "lng": 15.65123783,
+      "prices": {
+        "95": null,
+        "dizel": 1.544,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 788,
       "franchise": 2,
       "name": "BS MOL TRUCK VRTOJBA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2341"
-    },
-    {
-      "pk": 2320,
-      "franchise": 25,
-      "name": "URMA D.O.O.",
-      "address": "DEKANI 076 E",
-      "lat": 1e-15,
-      "lng": -1e-15,
-      "prices": {
-        "95": null,
-        "dizel": 1.186,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 0.95
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6271"
     }
   ],
   "position": null

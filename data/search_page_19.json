@@ -109,6 +109,27 @@
       "zip_code": "9000"
     },
     {
+      "pk": 2339,
+      "franchise": 5,
+      "name": "Žalec",
+      "address": "Mala Pirešica 22",
+      "lat": 46.266973,
+      "lng": 15.189107,
+      "prices": {
+        "95": 1.508,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.783,
+        "dizel-premium": 1.891,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3301"
+    },
+    {
       "pk": 1565,
       "franchise": 4,
       "name": "BS MOL NOVO MESTO",
@@ -506,27 +527,6 @@
       "direction": "Maribor -> Pince",
       "open_hours": "NON-STOP",
       "zip_code": "2000"
-    },
-    {
-      "pk": 1997,
-      "franchise": 1,
-      "name": "PETROL VRTOJBA AC - SEVER",
-      "address": "MEDNARODNI PREHOD 1A",
-      "lat": 45.920547,
-      "lng": 13.628483,
-      "prices": {
-        "95": 1.733,
-        "dizel": 1.743,
-        "98": null,
-        "100": 1.862,
-        "dizel-premium": 2.039,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5290"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 1997,
+      "franchise": 1,
+      "name": "PETROL VRTOJBA AC - SEVER",
+      "address": "MEDNARODNI PREHOD 1A",
+      "lat": 45.920547,
+      "lng": 13.628483,
+      "prices": {
+        "95": 1.733,
+        "dizel": 1.743,
+        "98": null,
+        "100": 1.862,
+        "dizel-premium": 2.039,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5290"
+    },
+    {
       "pk": 2000,
       "franchise": 1,
       "name": "PETROL VRTOJBA AC - JUG",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8274"
-    },
-    {
-      "pk": 2216,
-      "franchise": 1,
-      "name": "PETROL LOPATA AC - SEVER",
-      "address": "LOPATA 81",
-      "lat": 46.262458,
-      "lng": 15.222118,
-      "prices": {
-        "95": 1.733,
-        "dizel": 1.743,
-        "98": null,
-        "100": 1.862,
-        "dizel-premium": 2.039,
-        "avtoplin-lpg": 0.905,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3000"
     }
   ],
   "position": null
