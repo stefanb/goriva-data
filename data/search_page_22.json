@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 785,
+      "franchise": 2,
+      "name": "BS MOL TRUCK LENDAVA",
+      "address": "Trimlini 65b",
+      "lat": 46.54818511,
+      "lng": 16.44478697,
+      "prices": {
+        "95": null,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9220"
+    },
+    {
       "pk": 786,
       "franchise": 2,
       "name": "BS MOL TRUCK MARIBOR",
@@ -159,7 +180,7 @@
       "lng": 13.762092,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -180,7 +201,7 @@
       "lng": 13.891954,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -201,7 +222,7 @@
       "lng": 13.850927,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -222,7 +243,7 @@
       "lng": 13.634505,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -243,7 +264,7 @@
       "lng": 14.889676,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -264,7 +285,7 @@
       "lng": 14.410096,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -285,7 +306,7 @@
       "lng": 14.026966,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -306,7 +327,7 @@
       "lng": 15.651698,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -369,7 +390,7 @@
       "lng": 15.6574563,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -390,7 +411,7 @@
       "lng": 16.3199527,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -411,7 +432,7 @@
       "lng": 13.855647,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -432,7 +453,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -453,7 +474,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -495,7 +516,7 @@
       "lng": 13.6284418,
       "prices": {
         "95": null,
-        "dizel": 1.544,
+        "dizel": 1.461,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -506,27 +527,6 @@
       "direction": "H4, izhod Vrtojba",
       "open_hours": "24/7",
       "zip_code": "5290"
-    },
-    {
-      "pk": 2319,
-      "franchise": 26,
-      "name": "EKSTRA OLJE",
-      "address": "Limbuška cesta 2",
-      "lat": 46.559416,
-      "lng": 15.597476,
-      "prices": {
-        "95": null,
-        "dizel": 1.544,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.13
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2341"
     }
   ],
   "position": null
