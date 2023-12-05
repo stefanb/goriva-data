@@ -46,27 +46,6 @@
       "zip_code": "3301"
     },
     {
-      "pk": 2340,
-      "franchise": 5,
-      "name": "KOZINA",
-      "address": "Bazoviška cesta 18",
-      "lat": 45.60911603335073,
-      "lng": 13.93361083463169,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6240"
-    },
-    {
       "pk": 768,
       "franchise": 2,
       "name": "BS MOL BERTOKI",
@@ -525,6 +504,27 @@
       },
       "distance": null,
       "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1978,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - AC VZHOD",
+      "address": "NA POLJU 20",
+      "lat": 46.531265,
+      "lng": 15.701209,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.696,
+        "98": null,
+        "100": 1.792,
+        "dizel-premium": 1.987,
+        "avtoplin-lpg": 0.895,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Pince",
       "open_hours": "NON-STOP",
       "zip_code": "2000"
     }
