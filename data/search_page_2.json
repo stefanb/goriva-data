@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 803,
-      "franchise": 2,
-      "name": "BS MOL KOMENDA",
-      "address": "Potok pri Komendi 8",
-      "lat": 46.205702,
-      "lng": 14.52399,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": 1.815,
-        "avtoplin-lpg": null,
-        "KOEL": 1.119
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1218"
-    },
-    {
       "pk": 806,
       "franchise": 2,
       "name": "BS MOL KOPER ANKARANSKA",
@@ -527,6 +506,27 @@
       "direction": "Koper",
       "open_hours": "Okt-Maj: Pon-Sob 08:00-16:00, Ned/Praz 09:00-12:00 in 15:00-20:00; Apr-Sep: Pon-Sob 08:00-20:00, Ned/Praz 09:00-12:00 in 15:00-20:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 833,
+      "franchise": 2,
+      "name": "BS MOL MURSKA SOBOTA LENDAVSKA",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": 1.815,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00",
+      "zip_code": "9000"
     }
   ],
   "position": null

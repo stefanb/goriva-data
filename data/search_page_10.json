@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2046,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 130",
-      "address": "TRŽAŠKA CESTA 130",
-      "lat": 46.03844761,
-      "lng": 14.46933955,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": 1.861,
-        "avtoplin-lpg": 0.855,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Koper",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2047,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - CELOVŠKA 251",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "1234"
+    },
+    {
+      "pk": 2073,
+      "franchise": 1,
+      "name": "PETROL RATEČE",
+      "address": "RATEČE 88A",
+      "lat": 46.497066,
+      "lng": 13.708622,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.119
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:30-17:00\r\nsobote 12:30-17:00\r\nnedelje in prazniki 12:30-17:00",
+      "zip_code": "4283"
     }
   ],
   "position": null
