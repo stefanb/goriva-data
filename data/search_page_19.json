@@ -46,6 +46,27 @@
       "zip_code": "3301"
     },
     {
+      "pk": 2341,
+      "franchise": 5,
+      "name": "LJUTOMER",
+      "address": "Kolodvorska ulica 2A",
+      "lat": 46.52613423254767,
+      "lng": 16.193609363823846,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.719,
+        "dizel-premium": 1.839,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
+      "zip_code": "9240"
+    },
+    {
       "pk": 768,
       "franchise": 2,
       "name": "BS MOL BERTOKI",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1978,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - AC VZHOD",
-      "address": "NA POLJU 20",
-      "lat": 46.531265,
-      "lng": 15.701209,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.792,
-        "dizel-premium": 1.987,
-        "avtoplin-lpg": 0.895,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
       "open_hours": "NON-STOP",
       "zip_code": "2000"
     }
