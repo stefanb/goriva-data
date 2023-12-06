@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1957,
+      "franchise": 1,
+      "name": "PETROL KOBARID",
+      "address": "GORIŠKA CESTA 8",
+      "lat": 46.2417162,
+      "lng": 13.58250354,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.855,
+        "KOEL": 1.119
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5222"
+    },
+    {
       "pk": 1958,
       "franchise": 1,
       "name": "PETROL KANAL OB SOČI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "5000"
-    },
-    {
-      "pk": 1985,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS",
-      "address": "ŠEMPAS 161A",
-      "lat": 45.93039187,
-      "lng": 13.73978149,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.119
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 17:30-19:00\r\nsobote 17:30-19:00",
-      "zip_code": "5261"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 833,
+      "franchise": 2,
+      "name": "BS MOL MURSKA SOBOTA LENDAVSKA",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": 1.815,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00",
+      "zip_code": "9000"
+    },
+    {
       "pk": 834,
       "franchise": 2,
       "name": "BS MOL NOVA VAS",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 06:00-20:00, Ned/Praz 07:00-20:00; Apr-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "6274"
-    },
-    {
-      "pk": 867,
-      "franchise": 2,
-      "name": "BS MOL ŠTANJEL",
-      "address": "Štanjel 80",
-      "lat": 45.81842,
-      "lng": 13.84414,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep Pon-Ned 07:00-20:00",
-      "zip_code": "6222"
     }
   ],
   "position": null
