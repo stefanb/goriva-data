@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 784,
+      "franchise": 2,
+      "name": "BS MOL TRUCK SEŽANA",
+      "address": "Partizanska 77",
+      "lat": 45.70387478,
+      "lng": 13.8514001,
+      "prices": {
+        "95": null,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
       "pk": 785,
       "franchise": 2,
       "name": "BS MOL TRUCK LENDAVA",
@@ -506,27 +527,6 @@
       "direction": "Celje",
       "open_hours": "PON. - PET.      6.00 - 17.00        \r\nSOB.                 7.00 - 12.00\r\nNED., PRAZNIKI   ZAPRTO",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2318,
-      "franchise": 24,
-      "name": "PRUNK OIL",
-      "address": "Mednarodni prehod 1a",
-      "lat": 45.9207599,
-      "lng": 13.6284418,
-      "prices": {
-        "95": null,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "H4, izhod Vrtojba",
-      "open_hours": "24/7",
-      "zip_code": "5290"
     }
   ],
   "position": null

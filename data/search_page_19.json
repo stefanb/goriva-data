@@ -67,6 +67,27 @@
       "zip_code": "9240"
     },
     {
+      "pk": 2343,
+      "franchise": 5,
+      "name": "NOVO MESTO",
+      "address": "Mirnopeška 4, 8000 Novo Mesto",
+      "lat": 45.821327325964894,
+      "lng": 15.150560521690572,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.719,
+        "dizel-premium": 1.839,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": "8000"
+    },
+    {
       "pk": 768,
       "franchise": 2,
       "name": "BS MOL BERTOKI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "9244"
-    },
-    {
-      "pk": 1977,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - AC ZAHOD",
-      "address": "NA POLJU 24",
-      "lat": 46.532935,
-      "lng": 15.699297,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.792,
-        "dizel-premium": 1.987,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
     }
   ],
   "position": null
