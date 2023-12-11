@@ -88,6 +88,27 @@
       "zip_code": "8000"
     },
     {
+      "pk": 2346,
+      "franchise": 5,
+      "name": "Celje Mariborsk",
+      "address": "Mariborska 128",
+      "lat": 46.24423316065561,
+      "lng": 15.278462363239953,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 768,
       "franchise": 2,
       "name": "BS MOL BERTOKI",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2286"
-    },
-    {
-      "pk": 1976,
-      "franchise": 1,
-      "name": "PETROL GRABONOŠ AC - SEVER",
-      "address": "GRABONOŠ 4D",
-      "lat": 46.585173,
-      "lng": 16.007142,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.792,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9244"
     }
   ],
   "position": null
