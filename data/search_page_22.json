@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 861,
+      "franchise": 2,
+      "name": "BS MOL ŠEMPAS",
+      "address": "Šempas 160b",
+      "lat": 45.917693,
+      "lng": 13.721916,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.796,
+        "dizel-premium": 1.946,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Nova Gorica",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5261"
+    },
+    {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.796,
+        "dizel-premium": 1.946,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
+    },
+    {
       "pk": 1568,
       "franchise": 4,
       "name": "BS MOL LORMANJE",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6210"
-    },
-    {
-      "pk": 2309,
-      "franchise": 19,
-      "name": "Tankomat Sežana",
-      "address": "Cesta na Lenivec 32",
-      "lat": 45.7087287902832,
-      "lng": 13.8604755401611,
-      "prices": {
-        "95": null,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2310,
-      "franchise": 19,
-      "name": "Tankomat Jesenice",
-      "address": "Cesta železarjev 8",
-      "lat": 46.43106460571289,
-      "lng": 14.07077407836914,
-      "prices": {
-        "95": null,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "4270"
     }
   ],
   "position": null
