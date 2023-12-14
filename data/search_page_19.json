@@ -67,6 +67,27 @@
       "zip_code": "9240"
     },
     {
+      "pk": 2342,
+      "franchise": 5,
+      "name": "Senožeti",
+      "address": "Senožeti 93, 1262 Senožeti",
+      "lat": 46.088862059954124,
+      "lng": 14.716871893530739,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.461,
+        "98": null,
+        "100": 1.719,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": ""
+    },
+    {
       "pk": 2343,
       "franchise": 5,
       "name": "NOVO MESTO",
@@ -132,7 +153,7 @@
     {
       "pk": 2346,
       "franchise": 5,
-      "name": "Celje Mariborsk",
+      "name": "Celje Mariborska",
       "address": "Mariborska 128",
       "lat": 46.24423316065561,
       "lng": 15.278462363239953,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "neprenehoma 24/7",
       "zip_code": "1290"
-    },
-    {
-      "pk": 1923,
-      "franchise": 1,
-      "name": "PETROL ŠENTILJ AC - ZAHOD",
-      "address": "CESTA 2. JULIJA 19",
-      "lat": 46.68509786,
-      "lng": 15.64986497,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.792,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2212"
     }
   ],
   "position": null

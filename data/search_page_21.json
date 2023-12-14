@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2141,
+      "franchise": 1,
+      "name": "PETROL ČATEŽ AC - JUG",
+      "address": "RIMSKA CESTA 11",
+      "lat": 45.891904,
+      "lng": 15.597607,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.696,
+        "98": null,
+        "100": 1.792,
+        "dizel-premium": 1.987,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8250"
+    },
+    {
       "pk": 2162,
       "franchise": 1,
       "name": "PETROL OBREŽJE AC - VZHOD",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6230"
-    },
-    {
-      "pk": 848,
-      "franchise": 2,
-      "name": "BS MOL RAVBARKOMANDA ZAHOD",
-      "address": "Javorniška pot 7a",
-      "lat": 45.78536414,
-      "lng": 14.22271237,
-      "prices": {
-        "95": 1.684,
-        "dizel": 1.698,
-        "98": null,
-        "100": null,
-        "dizel-premium": 1.946,
-        "avtoplin-lpg": 0.868,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
     }
