@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 845,
+      "franchise": 2,
+      "name": "BS MOL RADOVLJICA SEVER",
+      "address": "Ljubljanska cesta 71",
+      "lat": 46.33934,
+      "lng": 14.19201,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.796,
+        "dizel-premium": 1.946,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Jesenice",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
+      "pk": 847,
+      "franchise": 2,
+      "name": "BS MOL RAVBARKOMANDA VZHOD",
+      "address": "Javorniška pot 9a",
+      "lat": 45.78312588,
+      "lng": 14.22304178,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": null,
+        "dizel-premium": 1.946,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
       "pk": 848,
       "franchise": 2,
       "name": "BS MOL RAVBARKOMANDA ZAHOD",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "PON-PET:             8.00 – 16.00\r\nSOB:                     zaprto\r\nNED, PRAZNIKI:   zaprto",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2273,
-      "franchise": 11,
-      "name": "ECO OIL MARIBOR",
-      "address": "ZAGREBŠKA CESTA 24",
-      "lat": 46.534411,
-      "lng": 15.6574563,
-      "prices": {
-        "95": null,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2275,
-      "franchise": 11,
-      "name": "ECO OIL TURNIŠČE",
-      "address": "ULICA ŠTEFANA KOVAČA",
-      "lat": 46.6209381,
-      "lng": 16.3199527,
-      "prices": {
-        "95": null,
-        "dizel": 1.461,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "9224"
     }
   ],
   "position": null
