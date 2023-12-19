@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2120,
-      "franchise": 1,
-      "name": "PETROL PODSMREKA AC - SEVER",
-      "address": "PODSMREKA PRI VIŠNJI GORI 15",
-      "lat": 45.947759,
-      "lng": 14.771093,
-      "prices": {
-        "95": 1.64,
-        "dizel": 1.653,
-        "98": null,
-        "100": 1.752,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1294"
-    },
-    {
       "pk": 2123,
       "franchise": 1,
       "name": "PETROL LUKOVICA AC - JUG",
@@ -525,6 +504,27 @@
       },
       "distance": null,
       "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
+      "pk": 845,
+      "franchise": 2,
+      "name": "BS MOL RADOVLJICA SEVER",
+      "address": "Ljubljanska cesta 71",
+      "lat": 46.33934,
+      "lng": 14.19201,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.796,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Jesenice",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "4240"
     }

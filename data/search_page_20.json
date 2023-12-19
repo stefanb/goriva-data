@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 2308,
       "franchise": 19,
       "name": "Tankomat Grosuplje",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "4208"
+    },
+    {
+      "pk": 2120,
+      "franchise": 1,
+      "name": "PETROL PODSMREKA AC - SEVER",
+      "address": "PODSMREKA PRI VIŠNJI GORI 15",
+      "lat": 45.947759,
+      "lng": 14.771093,
+      "prices": {
+        "95": 1.64,
+        "dizel": 1.653,
+        "98": null,
+        "100": 1.752,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1294"
     }
   ],
   "position": null

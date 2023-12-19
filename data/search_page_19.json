@@ -172,27 +172,6 @@
       "zip_code": "3270"
     },
     {
-      "pk": 2313,
-      "franchise": 17,
-      "name": "HOJNIK Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.451,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.119
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
-    },
-    {
       "pk": 2332,
       "franchise": 4,
       "name": "BS MOL RAVNE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "9000"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     }
   ],
   "position": null

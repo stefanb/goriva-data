@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 845,
-      "franchise": 2,
-      "name": "BS MOL RADOVLJICA SEVER",
-      "address": "Ljubljanska cesta 71",
-      "lat": 46.33934,
-      "lng": 14.19201,
-      "prices": {
-        "95": 1.684,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.796,
-        "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.868,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Jesenice",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
-    },
-    {
       "pk": 847,
       "franchise": 2,
       "name": "BS MOL RAVBARKOMANDA VZHOD",
@@ -212,6 +191,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 811,
+      "franchise": 2,
+      "name": "BS MOL KRVAVI POTOK",
+      "address": "Krvavi potok 1",
+      "lat": 45.61885,
+      "lng": 13.910126,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6240"
     },
     {
       "pk": 1549,
