@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2255,
+      "franchise": 3,
+      "name": "BS MAXEN NOVO MESTO",
+      "address": "Mirnopeška cesta bš",
+      "lat": 45.8202208,
+      "lng": 15.1490384,
+      "prices": {
+        "95": 1.379,
+        "dizel": 1.418,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8000"
+    },
+    {
       "pk": 2256,
       "franchise": 3,
       "name": "BS MAXEN KRANJ",
@@ -506,27 +527,6 @@
       "direction": "PTUJ",
       "open_hours": "PON. - NED. : 6:00 - 20:00",
       "zip_code": "2283"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.07
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 869,
+      "franchise": 2,
+      "name": "BS MOL TREBNJE",
+      "address": "Obrtniška 28",
+      "lat": 45.910462,
+      "lng": 15.025649,
+      "prices": {
+        "95": 1.379,
+        "dizel": 1.418,
+        "98": null,
+        "100": 1.631,
+        "dizel-premium": 1.766,
+        "avtoplin-lpg": null,
+        "KOEL": 1.07
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "8210"
+    },
+    {
       "pk": 870,
       "franchise": 2,
       "name": "BS MOL VELENJE PARTIZANSKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-13:00",
       "zip_code": "2319"
-    },
-    {
-      "pk": 1939,
-      "franchise": 1,
-      "name": "PETROL SLIVNICA ZAHOD",
-      "address": "POT K ČRPALKI 5",
-      "lat": 46.482509,
-      "lng": 15.654919,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.07
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "2312"
     }
   ],
   "position": null

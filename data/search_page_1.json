@@ -25,6 +25,27 @@
       "zip_code": "2000"
     },
     {
+      "pk": 2327,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Bezena",
+      "address": "Bezena 99",
+      "lat": 46.5499175582367,
+      "lng": 15.538353293954877,
+      "prices": {
+        "95": 1.378,
+        "dizel": 1.418,
+        "98": null,
+        "100": 1.629,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
+      "zip_code": "2342"
+    },
+    {
       "pk": 766,
       "franchise": 2,
       "name": "BS MOL AJŠEVICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1218"
-    },
-    {
-      "pk": 806,
-      "franchise": 2,
-      "name": "BS MOL KOPER ANKARANSKA",
-      "address": "Ankaranska c. 5d",
-      "lat": 45.545957,
-      "lng": 13.742681,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": 1.631,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
-      "zip_code": "6000"
     }
   ],
   "position": null
