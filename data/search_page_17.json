@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2323,
+      "franchise": 2,
+      "name": "BS MOL KOPER LUKA",
+      "address": "Vojkovo nabrežje 38",
+      "lat": 45.55757,
+      "lng": 13.75353,
+      "prices": {
+        "95": 1.379,
+        "dizel": 1.418,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "6000"
+    },
+    {
       "pk": 2324,
       "franchise": 19,
       "name": "LOGO BENCINSKI SERVIS d.o.o.",
@@ -13,7 +34,7 @@
       "prices": {
         "95": 1.379,
         "dizel": 1.418,
-        "98": 1.621,
+        "98": 1.63,
         "100": 1.819,
         "dizel-premium": null,
         "avtoplin-lpg": null,
@@ -317,27 +338,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.419,
-        "dizel": 1.439,
-        "98": null,
-        "100": 1.639,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.79,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
     },
     {
       "pk": 2327,

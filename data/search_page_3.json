@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 836,
+      "franchise": 2,
+      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
+      "address": "Ljubljanska cesta 11",
+      "lat": 45.8139,
+      "lng": 15.153116666666667,
+      "prices": {
+        "95": 1.379,
+        "dizel": 1.418,
+        "98": null,
+        "100": 1.631,
+        "dizel-premium": 1.766,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 6:00-22:00",
+      "zip_code": "8000"
+    },
+    {
       "pk": 838,
       "franchise": 2,
       "name": "BS MOL ORMOŽ",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "8210"
-    },
-    {
-      "pk": 870,
-      "franchise": 2,
-      "name": "BS MOL VELENJE PARTIZANSKA",
-      "address": "Partizanska c. 15a",
-      "lat": 46.359472,
-      "lng": 15.099174,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": 1.631,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:30",
-      "zip_code": "3320"
     }
   ],
   "position": null

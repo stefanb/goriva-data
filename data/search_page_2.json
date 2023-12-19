@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 807,
+      "franchise": 2,
+      "name": "BS MOL KOPER ŠMARSKA",
+      "address": "Šmarska c. 4a",
+      "lat": 45.530207,
+      "lng": 13.734777,
+      "prices": {
+        "95": 1.379,
+        "dizel": 1.418,
+        "98": null,
+        "100": 1.631,
+        "dizel-premium": 1.766,
+        "avtoplin-lpg": null,
+        "KOEL": 1.07
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6000"
+    },
+    {
       "pk": 808,
       "franchise": 2,
       "name": "BS MOL KOZINA",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 06:00-23:00 (S,N,praz 6-22)",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 836,
-      "franchise": 2,
-      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
-      "address": "Ljubljanska cesta 11",
-      "lat": 45.8139,
-      "lng": 15.153116666666667,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": 1.631,
-        "dizel-premium": 1.766,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 6:00-22:00",
       "zip_code": "8000"
     }
   ],

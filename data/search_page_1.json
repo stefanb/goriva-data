@@ -4,6 +4,27 @@
   "previous": null,
   "results": [
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.378,
+        "dizel": 1.398,
+        "98": null,
+        "100": 1.599,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.79,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 766,
       "franchise": 2,
       "name": "BS MOL AJŠEVICA",
@@ -505,27 +526,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 807,
-      "franchise": 2,
-      "name": "BS MOL KOPER ŠMARSKA",
-      "address": "Šmarska c. 4a",
-      "lat": 45.530207,
-      "lng": 13.734777,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": 1.631,
-        "dizel-premium": 1.766,
-        "avtoplin-lpg": null,
-        "KOEL": 1.07
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6000"
     }
   ],

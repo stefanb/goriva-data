@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 870,
+      "franchise": 2,
+      "name": "BS MOL VELENJE PARTIZANSKA",
+      "address": "Partizanska c. 15a",
+      "lat": 46.359472,
+      "lng": 15.099174,
+      "prices": {
+        "95": 1.379,
+        "dizel": 1.418,
+        "98": null,
+        "100": 1.631,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:30",
+      "zip_code": "3320"
+    },
+    {
       "pk": 871,
       "franchise": 2,
       "name": "BS MOL VELENJE SELO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "2312"
-    },
-    {
-      "pk": 1940,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
-      "address": "GOSPOSVETSKA CESTA 81",
-      "lat": 46.56349021,
-      "lng": 15.62652364,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.07
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-14:00",
-      "zip_code": "2000"
     }
   ],
   "position": null
