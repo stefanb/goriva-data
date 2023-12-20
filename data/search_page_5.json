@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 1938,
+      "franchise": 1,
+      "name": "PETROL POLJČANE",
+      "address": "BISTRIŠKA CESTA 93",
+      "lat": 46.309005,
+      "lng": 15.577384,
+      "prices": {
+        "95": 1.379,
+        "dizel": 1.418,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.07
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2319"
+    },
+    {
       "pk": 1939,
       "franchise": 1,
       "name": "PETROL SLIVNICA ZAHOD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "9220"
-    },
-    {
-      "pk": 1965,
-      "franchise": 1,
-      "name": "PETROL RADENCI",
-      "address": "RADGONSKA CESTA 14",
-      "lat": 46.64504675,
-      "lng": 16.03435514,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.07
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "9252"
     }
   ],
   "position": null
