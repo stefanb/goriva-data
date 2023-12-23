@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 844,
+      "franchise": 2,
+      "name": "BS MOL RADOVLJICA JUG",
+      "address": "Ljubljanska cesta 70",
+      "lat": 46.33865,
+      "lng": 14.19095,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.796,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "4240"
+    },
+    {
       "pk": 845,
       "franchise": 2,
       "name": "BS MOL RADOVLJICA SEVER",
@@ -275,27 +296,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
-    },
-    {
-      "pk": 2059,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA AC - BARJE SEVER",
-      "address": "CESTA DVEH CESARJEV 71",
-      "lat": 46.029136,
-      "lng": 14.481739,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
     },
     {
       "pk": 2060,
