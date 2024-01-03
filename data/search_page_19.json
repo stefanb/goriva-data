@@ -4,6 +4,90 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2336,
+      "franchise": 5,
+      "name": "MIKLAVŽ",
+      "address": "Ptujska cesta 135",
+      "lat": 46.53067,
+      "lng": 15.67062,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon - Pet.:  6-22\r\nSob: 7-21 \r\nNed.: 8-20",
+      "zip_code": "2204"
+    },
+    {
+      "pk": 2337,
+      "franchise": 5,
+      "name": "LITIJA",
+      "address": "Ljubljanska cesta 10 B",
+      "lat": 46.14992,
+      "lng": 14.56445,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h \r\nNedelja: 8-20h",
+      "zip_code": "1270"
+    },
+    {
+      "pk": 2338,
+      "franchise": 5,
+      "name": "Murska Sobota Lendavska",
+      "address": "Lendavska ulica 75",
+      "lat": 46.667481,
+      "lng": 16.176773,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h Nedelja: 8-20h",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2339,
+      "franchise": 5,
+      "name": "Žalec",
+      "address": "Mala Pirešica 22",
+      "lat": 46.266973,
+      "lng": 15.189107,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "0-24",
+      "zip_code": "3301"
+    },
+    {
       "pk": 2340,
       "franchise": 5,
       "name": "KOZINA",
@@ -11,11 +95,11 @@
       "lat": 45.60911603335073,
       "lng": 13.93361083463169,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
-        "100": null,
-        "dizel-premium": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -32,11 +116,11 @@
       "lat": 46.52613423254767,
       "lng": 16.193609363823846,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
-        "100": 1.678,
-        "dizel-premium": 1.797,
+        "100": 1.692,
+        "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -53,11 +137,11 @@
       "lat": 46.088862059954124,
       "lng": 14.716871893530739,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
-        "100": 1.678,
-        "dizel-premium": 1.797,
+        "100": 1.692,
+        "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -74,11 +158,11 @@
       "lat": 45.821327325964894,
       "lng": 15.150560521690572,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
-        "100": 1.678,
-        "dizel-premium": 1.797,
+        "100": 1.692,
+        "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -95,11 +179,11 @@
       "lat": 46.27879929325074,
       "lng": 15.300271376669105,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
-        "100": 1.678,
-        "dizel-premium": 1.797,
+        "100": 1.692,
+        "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -116,11 +200,11 @@
       "lat": 45.92022102331869,
       "lng": 15.47376189244999,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
-        "100": 1.678,
-        "dizel-premium": 1.797,
+        "100": 1.692,
+        "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -137,8 +221,8 @@
       "lat": 46.24423316065561,
       "lng": 15.278462363239953,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
         "100": 1.678,
         "dizel-premium": null,
@@ -151,6 +235,27 @@
       "zip_code": "3000"
     },
     {
+      "pk": 2347,
+      "franchise": 5,
+      "name": "PRESTRANEK",
+      "address": "Reška cesta 18B",
+      "lat": 45.728174292934355,
+      "lng": 14.187886149162168,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Summer (01.06.2023 to 30.9.2023): Mon-Sun 6:00-22:00 .Winter (01.10 to 31.5): Mon-Sat 6:00-22:00 ,Sun and holidays 9:00-20:00.",
+      "zip_code": "6258"
+    },
+    {
       "pk": 2348,
       "franchise": 5,
       "name": "Murska Sobota Bakovska",
@@ -158,11 +263,11 @@
       "lat": 46.64580322249098,
       "lng": 16.16815983270674,
       "prices": {
-        "95": 1.379,
-        "dizel": 1.418,
+        "95": 1.393,
+        "dizel": 1.43,
         "98": null,
-        "100": 1.719,
-        "dizel-premium": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -221,11 +326,11 @@
       "lat": 45.555358,
       "lng": 13.78105,
       "prices": {
-        "95": 1.466,
-        "dizel": 1.505,
+        "95": 1.48,
+        "dizel": 1.517,
         "98": null,
-        "100": 1.681,
-        "dizel-premium": 1.816,
+        "100": 1.671,
+        "dizel-premium": 1.828,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -242,11 +347,11 @@
       "lat": 45.5404,
       "lng": 13.7263,
       "prices": {
-        "95": 1.466,
-        "dizel": 1.505,
+        "95": 1.48,
+        "dizel": 1.517,
         "98": null,
-        "100": 1.681,
-        "dizel-premium": 1.816,
+        "100": 1.671,
+        "dizel-premium": 1.828,
         "avtoplin-lpg": 0.828,
         "KOEL": null
       },
@@ -263,13 +368,13 @@
       "lat": 45.538903,
       "lng": 13.728619,
       "prices": {
-        "95": 1.466,
-        "dizel": 1.505,
+        "95": 1.48,
+        "dizel": 1.517,
         "98": null,
-        "100": 1.681,
-        "dizel-premium": 1.816,
+        "100": 1.671,
+        "dizel-premium": 1.828,
         "avtoplin-lpg": null,
-        "KOEL": 1.07
+        "KOEL": 1.082
       },
       "distance": null,
       "direction": "Ljubljana",
@@ -284,13 +389,13 @@
       "lat": 45.580603,
       "lng": 13.797535,
       "prices": {
-        "95": 1.466,
-        "dizel": 1.505,
+        "95": 1.48,
+        "dizel": 1.517,
         "98": null,
-        "100": 1.681,
+        "100": 1.671,
         "dizel-premium": null,
         "avtoplin-lpg": 0.828,
-        "KOEL": 1.07
+        "KOEL": 1.082
       },
       "distance": null,
       "direction": "Trst",
@@ -305,10 +410,10 @@
       "lat": 45.579851,
       "lng": 13.796288,
       "prices": {
-        "95": 1.466,
-        "dizel": 1.505,
+        "95": 1.48,
+        "dizel": 1.517,
         "98": null,
-        "100": 1.681,
+        "100": 1.671,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -422,111 +527,6 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "8000"
-    },
-    {
-      "pk": 1578,
-      "franchise": 4,
-      "name": "BS MOL LJUTOMER",
-      "address": "KOLODVORSKA ULICA 2A",
-      "lat": 46.526083,
-      "lng": 16.193583,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00 - 21:00\r\nSOBOTA 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "9240"
-    },
-    {
-      "pk": 1585,
-      "franchise": 4,
-      "name": "BS MOL ARCLIN",
-      "address": "ARCLIN 101",
-      "lat": 46.278837,
-      "lng": 15.300182,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA  08:00-20:00\r\nPRAZNIKI 08:00-20:00",
-      "zip_code": "3211"
-    },
-    {
-      "pk": 1588,
-      "franchise": 4,
-      "name": "BS MOL SENOŽETI",
-      "address": "SENOŽETI 93",
-      "lat": 46.088644,
-      "lng": 14.716823,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": 1.195
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
-      "pk": 1551,
-      "franchise": 4,
-      "name": "BS MOL LITIJA",
-      "address": "LJUBLJANSKA CESTA 10B",
-      "lat": 46.057104,
-      "lng": 14.822957,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": 1.765,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "1270"
-    },
-    {
-      "pk": 1558,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA",
-      "address": "LENDAVSKA ULICA 75",
-      "lat": 46.6676096,
-      "lng": 16.1767565,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": 1.765,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "9000"
     }
   ],
   "position": null
