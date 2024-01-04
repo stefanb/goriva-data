@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 837,
-      "franchise": 2,
-      "name": "BS MOL OBREŽJE JUG",
-      "address": "Jesenice 36a",
-      "lat": 45.854884,
-      "lng": 15.684443,
-      "prices": {
-        "95": 1.684,
-        "dizel": 1.698,
-        "98": null,
-        "100": 1.786,
-        "dizel-premium": 1.897,
-        "avtoplin-lpg": 0.669,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "8261"
-    },
-    {
       "pk": 844,
       "franchise": 2,
       "name": "BS MOL RADOVLJICA JUG",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON – PET:               7.45 – 18.00\r\nSOB:                         7.45 – 13.00\r\nNED IN PRAZNIKI:    zaprto",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2270,
+      "franchise": 10,
+      "name": "Butan plin - črpalka avtoplina v Izoli",
+      "address": "Polje 6a",
+      "lat": 45.537987,
+      "lng": 13.670166,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.827,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-PET:             8.00 – 16.00\r\nSOB:                     zaprto\r\nNED, PRAZNIKI:   zaprto",
+      "zip_code": "6310"
     }
   ],
   "position": null

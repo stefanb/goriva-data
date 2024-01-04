@@ -382,27 +382,6 @@
       "zip_code": "1290"
     },
     {
-      "pk": 2328,
-      "franchise": 19,
-      "name": "Tankomat Jesenice",
-      "address": "Cesta Železarjev 8",
-      "lat": 46.43106460571289,
-      "lng": 14.07077407836914,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "4270"
-    },
-    {
       "pk": 2332,
       "franchise": 4,
       "name": "BS MOL RAVNE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob; 5-23h Nedelja: 8-20h",
       "zip_code": "9000"
+    },
+    {
+      "pk": 2339,
+      "franchise": 5,
+      "name": "Žalec",
+      "address": "Mala Pirešica 22",
+      "lat": 46.266973,
+      "lng": 15.189107,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "0-24",
+      "zip_code": "3301"
     }
   ],
   "position": null
