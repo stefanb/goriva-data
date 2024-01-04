@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2071,
-      "franchise": 1,
-      "name": "PETROL DOMŽALE - ČEŠMINOVA",
-      "address": "ČEŠMINOVA ULICA 1",
-      "lat": 46.146469,
-      "lng": 14.599615,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": 1.622,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": 0.829,
-        "KOEL": 1.082
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1230"
-    },
-    {
-      "pk": 2072,
-      "franchise": 1,
-      "name": "PETROL MENGEŠ - SLOVENSKA",
-      "address": "SLOVENSKA CESTA 83",
-      "lat": 46.157861,
-      "lng": 14.569698,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.082
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "1234"
-    },
-    {
       "pk": 2073,
       "franchise": 1,
       "name": "PETROL RATEČE",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-16:30\r\nsobote 06:30-12:00",
       "zip_code": "1420"
+    },
+    {
+      "pk": 2103,
+      "franchise": 1,
+      "name": "PETROL RAŠICA",
+      "address": "RAŠICA 40",
+      "lat": 45.84949633,
+      "lng": 14.62405548,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.082
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 12:00-15:00",
+      "zip_code": "1315"
+    },
+    {
+      "pk": 2104,
+      "franchise": 1,
+      "name": "PETROL KRANJSKA GORA",
+      "address": "SAVSKO NASELJE 8",
+      "lat": 46.48650758,
+      "lng": 13.79815941,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.622,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.082
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "4280"
     }
   ],
   "position": null
