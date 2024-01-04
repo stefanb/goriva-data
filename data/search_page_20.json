@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 1578,
-      "franchise": 4,
-      "name": "BS MOL LJUTOMER",
-      "address": "KOLODVORSKA ULICA 2A",
-      "lat": 46.526083,
-      "lng": 16.193583,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00 - 21:00\r\nSOBOTA 06:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "9240"
-    },
-    {
-      "pk": 1585,
-      "franchise": 4,
-      "name": "BS MOL ARCLIN",
-      "address": "ARCLIN 101",
-      "lat": 46.278837,
-      "lng": 15.300182,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA  08:00-20:00\r\nPRAZNIKI 08:00-20:00",
-      "zip_code": "3211"
-    },
-    {
-      "pk": 1588,
-      "franchise": 4,
-      "name": "BS MOL SENOŽETI",
-      "address": "SENOŽETI 93",
-      "lat": 46.088644,
-      "lng": 14.716823,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": 1.195
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 1551,
       "franchise": 4,
       "name": "BS MOL LITIJA",
@@ -527,6 +464,69 @@
       "direction": "Ljubljana -> Koper",
       "open_hours": "NON-STOP",
       "zip_code": "1370"
+    },
+    {
+      "pk": 2089,
+      "franchise": 1,
+      "name": "PETROL LOM AC - VZHOD",
+      "address": "NOTRANJSKA CESTA 77",
+      "lat": 45.89814,
+      "lng": 14.256533,
+      "prices": {
+        "95": 1.655,
+        "dizel": 1.665,
+        "98": null,
+        "100": 1.742,
+        "dizel-premium": 1.845,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 2095,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - JUG",
+      "address": "SPODNJI PLAVŽ 24A",
+      "lat": 46.440467,
+      "lng": 14.026493,
+      "prices": {
+        "95": 1.655,
+        "dizel": 1.665,
+        "98": null,
+        "100": 1.742,
+        "dizel-premium": 1.845,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
+      "pk": 2096,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - SEVER",
+      "address": "SPODNJI PLAVŽ 24B",
+      "lat": 46.440937,
+      "lng": 14.028828,
+      "prices": {
+        "95": 1.655,
+        "dizel": 1.665,
+        "98": null,
+        "100": 1.742,
+        "dizel-premium": 1.845,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Karavan",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
     }
   ],
   "position": null

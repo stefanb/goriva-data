@@ -202,7 +202,7 @@
       "prices": {
         "95": 1.393,
         "dizel": 1.43,
-        "98": 1.63,
+        "98": 1.62,
         "100": 1.819,
         "dizel-premium": null,
         "avtoplin-lpg": null,
@@ -275,69 +275,6 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
-    },
-    {
-      "pk": 2308,
-      "franchise": 19,
-      "name": "Tankomat Grosuplje",
-      "address": "Ljubljanska cesta 66",
-      "lat": 45.96573257446289,
-      "lng": 14.659423828125,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.156
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "1290"
-    },
-    {
-      "pk": 2309,
-      "franchise": 19,
-      "name": "Tankomat Sežana",
-      "address": "Cesta na Lenivec 32",
-      "lat": 45.7087287902832,
-      "lng": 13.8604755401611,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2310,
-      "franchise": 19,
-      "name": "Tankomat Jesenice",
-      "address": "Cesta železarjev 8",
-      "lat": 46.43106460571289,
-      "lng": 14.07077407836914,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "4270"
     },
     {
       "pk": 2315,
@@ -433,7 +370,7 @@
       "prices": {
         "95": 1.393,
         "dizel": 1.43,
-        "98": 1.63,
+        "98": 1.62,
         "100": 1.819,
         "dizel-premium": null,
         "avtoplin-lpg": null,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "Pon\tdo Sob \r\n06:00 - 21:00\r\nNed\t\r\n08:00 - 20:00",
       "zip_code": "3240"
+    },
+    {
+      "pk": 2336,
+      "franchise": 5,
+      "name": "MIKLAVŽ",
+      "address": "Ptujska cesta 135",
+      "lat": 46.53067,
+      "lng": 15.67062,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon - Pet.:  6-22\r\nSob: 7-21 \r\nNed.: 8-20",
+      "zip_code": "2204"
+    },
+    {
+      "pk": 2337,
+      "franchise": 5,
+      "name": "LITIJA",
+      "address": "Ljubljanska cesta 10 B",
+      "lat": 46.14992,
+      "lng": 14.56445,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h \r\nNedelja: 8-20h",
+      "zip_code": "1270"
+    },
+    {
+      "pk": 2338,
+      "franchise": 5,
+      "name": "Murska Sobota Lendavska",
+      "address": "Lendavska ulica 75",
+      "lat": 46.667481,
+      "lng": 16.176773,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": 1.809,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h Nedelja: 8-20h",
+      "zip_code": "9000"
     }
   ],
   "position": null

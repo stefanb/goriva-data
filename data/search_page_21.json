@@ -4,69 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2089,
-      "franchise": 1,
-      "name": "PETROL LOM AC - VZHOD",
-      "address": "NOTRANJSKA CESTA 77",
-      "lat": 45.89814,
-      "lng": 14.256533,
-      "prices": {
-        "95": 1.655,
-        "dizel": 1.665,
-        "98": null,
-        "100": 1.742,
-        "dizel-premium": 1.845,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2095,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - JUG",
-      "address": "SPODNJI PLAVŽ 24A",
-      "lat": 46.440467,
-      "lng": 14.026493,
-      "prices": {
-        "95": 1.655,
-        "dizel": 1.665,
-        "98": null,
-        "100": 1.742,
-        "dizel-premium": 1.845,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2096,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - SEVER",
-      "address": "SPODNJI PLAVŽ 24B",
-      "lat": 46.440937,
-      "lng": 14.028828,
-      "prices": {
-        "95": 1.655,
-        "dizel": 1.665,
-        "98": null,
-        "100": 1.742,
-        "dizel-premium": 1.845,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Karavan",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
       "pk": 2100,
       "franchise": 1,
       "name": "PETROL VOKLO AC - ZAHOD",
@@ -527,6 +464,69 @@
       "direction": "Lenti",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "9244"
+    },
+    {
+      "pk": 796,
+      "franchise": 2,
+      "name": "BS MOL GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.786,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 823,
+      "franchise": 2,
+      "name": "BS MOL LOPATA JUG",
+      "address": "Lopata 80",
+      "lat": 46.261718,
+      "lng": 15.22071,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.786,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 828,
+      "franchise": 2,
+      "name": "BS MOL LUKOVICA",
+      "address": "Koseskega cesta 4",
+      "lat": 46.16606,
+      "lng": 14.6896,
+      "prices": {
+        "95": 1.684,
+        "dizel": 1.698,
+        "98": null,
+        "100": 1.786,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": 0.868,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1225"
     }
   ],
   "position": null
