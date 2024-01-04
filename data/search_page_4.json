@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 865,
-      "franchise": 2,
-      "name": "BS MOL ŠKOFJA LOKA",
-      "address": "Kidričeva 23a",
-      "lat": 46.168842,
-      "lng": 14.31952,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": 1.621,
-        "dizel-premium": 1.778,
-        "avtoplin-lpg": null,
-        "KOEL": 1.082
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 06:00-22:00; Apr-Sep: Pon-Ned 06:00-22:30",
-      "zip_code": "4220"
-    },
-    {
       "pk": 866,
       "franchise": 2,
       "name": "BS MOL ŠMARJE",
@@ -521,6 +500,27 @@
         "100": 1.621,
         "dizel-premium": 1.778,
         "avtoplin-lpg": 0.828,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1567,
+      "franchise": 4,
+      "name": "BS MOL SELNICA OB DRAVI",
+      "address": "MARIBORSKA CESTA 10 C",
+      "lat": 46.5523428,
+      "lng": 15.4977882,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.621,
+        "dizel-premium": 1.778,
+        "avtoplin-lpg": null,
         "KOEL": null
       },
       "distance": null,
