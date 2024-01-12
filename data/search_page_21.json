@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 1978,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - AC VZHOD",
-      "address": "NA POLJU 20",
-      "lat": 46.531265,
-      "lng": 15.701209,
-      "prices": {
-        "95": 1.655,
-        "dizel": 1.665,
-        "98": null,
-        "100": 1.742,
-        "dizel-premium": 1.845,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1997,
       "franchise": 1,
       "name": "PETROL VRTOJBA AC - SEVER",
@@ -527,6 +506,27 @@
       "direction": "Ljubljana -> Maribor",
       "open_hours": "NON-STOP",
       "zip_code": "3210"
+    },
+    {
+      "pk": 2201,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - JUG",
+      "address": "ZALOKE 16",
+      "lat": 45.908304,
+      "lng": 15.400616,
+      "prices": {
+        "95": 1.655,
+        "dizel": 1.665,
+        "98": null,
+        "100": 1.742,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "8274"
     }
   ],
   "position": null

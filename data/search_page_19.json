@@ -277,27 +277,6 @@
       "zip_code": "6000"
     },
     {
-      "pk": 805,
-      "franchise": 2,
-      "name": "BS MOL KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.538903,
-      "lng": 13.728619,
-      "prices": {
-        "95": 1.48,
-        "dizel": 1.517,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": 1.828,
-        "avtoplin-lpg": null,
-        "KOEL": 1.082
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 863,
       "franchise": 2,
       "name": "BS MOL ŠKOFIJE VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "1270"
+    },
+    {
+      "pk": 1558,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "LENDAVSKA ULICA 75",
+      "lat": 46.6676096,
+      "lng": 16.1767565,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": null,
+        "100": 1.765,
+        "dizel-premium": 1.998,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "9000"
     }
   ],
   "position": null
