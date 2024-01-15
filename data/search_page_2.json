@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 802,
-      "franchise": 2,
-      "name": "BS MOL KOMEN",
-      "address": "Komen 119a",
-      "lat": 45.816868,
-      "lng": 13.745429,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": 1.621,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
-    },
-    {
       "pk": 803,
       "franchise": 2,
       "name": "BS MOL KOMENDA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00 (S,N,praz 6-22)",
       "zip_code": "2000"
+    },
+    {
+      "pk": 832,
+      "franchise": 2,
+      "name": "BS MOL MARINA KOPER",
+      "address": "Kopališko nabrežje 5",
+      "lat": 45.55049,
+      "lng": 13.72786,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Okt-Maj: Pon-Sob 08:00-16:00, Ned/Praz 09:00-12:00 in 15:00-20:00; Apr-Sep: Pon-Sob 08:00-20:00, Ned/Praz 09:00-12:00 in 15:00-20:00",
+      "zip_code": "6000"
     }
   ],
   "position": null

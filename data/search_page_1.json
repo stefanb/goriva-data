@@ -25,27 +25,6 @@
       "zip_code": "2211"
     },
     {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "West Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.408,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.07
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - NED. : 6:00 - 20:00",
-      "zip_code": "2283"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1332"
+    },
+    {
+      "pk": 802,
+      "franchise": 2,
+      "name": "BS MOL KOMEN",
+      "address": "Komen 119a",
+      "lat": 45.816868,
+      "lng": 13.745429,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.621,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
+      "zip_code": "6223"
     }
   ],
   "position": null

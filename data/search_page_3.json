@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 832,
-      "franchise": 2,
-      "name": "BS MOL MARINA KOPER",
-      "address": "Kopališko nabrežje 5",
-      "lat": 45.55049,
-      "lng": 13.72786,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Okt-Maj: Pon-Sob 08:00-16:00, Ned/Praz 09:00-12:00 in 15:00-20:00; Apr-Sep: Pon-Sob 08:00-20:00, Ned/Praz 09:00-12:00 in 15:00-20:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 833,
       "franchise": 2,
       "name": "BS MOL MURSKA SOBOTA LENDAVSKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 06:00-20:00, Ned/Praz 07:00-20:00; Apr-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
       "zip_code": "6274"
+    },
+    {
+      "pk": 867,
+      "franchise": 2,
+      "name": "BS MOL ŠTANJEL",
+      "address": "Štanjel 80",
+      "lat": 45.81842,
+      "lng": 13.84414,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.621,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep Pon-Ned 07:00-20:00",
+      "zip_code": "6222"
     }
   ],
   "position": null
