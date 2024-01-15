@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2106,
-      "franchise": 1,
-      "name": "PETROL IZLAKE",
-      "address": "OBREZIJA 6",
-      "lat": 46.150311,
-      "lng": 14.931488,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.082
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-19:00\r\nsobote 07:00-14:00",
-      "zip_code": "1411"
-    },
-    {
       "pk": 2107,
       "franchise": 1,
       "name": "PETROL ČEŠNJICE V TUHINJU",
@@ -527,6 +506,27 @@
       "direction": "Ljubljana -> Koper",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2133,
+      "franchise": 1,
+      "name": "PETROL DOMŽALE - KOPALIŠKA",
+      "address": "KOPALIŠKA CESTA 11",
+      "lat": 46.135583,
+      "lng": 14.606654,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.622,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": 0.819,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1230"
     }
   ],
   "position": null

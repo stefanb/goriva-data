@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 866,
-      "franchise": 2,
-      "name": "BS MOL ŠMARJE",
-      "address": "Srgaši 42a",
-      "lat": 45.510467,
-      "lng": 13.707064,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": 1.621,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 06:00-20:00, Ned/Praz 07:00-20:00; Apr-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "6274"
-    },
-    {
       "pk": 867,
       "franchise": 2,
       "name": "BS MOL ŠTANJEL",
@@ -520,6 +499,27 @@
         "98": null,
         "100": 1.621,
         "dizel-premium": 1.718,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
+      "pk": 1570,
+      "franchise": 4,
+      "name": "BS MOL SLOVENSKE KONJICE",
+      "address": "LIPTOVSKA CESTA 32B",
+      "lat": 46.340083,
+      "lng": 15.418667,
+      "prices": {
+        "95": 1.393,
+        "dizel": 1.43,
+        "98": null,
+        "100": 1.621,
+        "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
       },
