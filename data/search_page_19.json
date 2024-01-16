@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2343,
+      "franchise": 5,
+      "name": "NOVO MESTO",
+      "address": "Mirnopeška 4, 8000 Novo Mesto",
+      "lat": 45.821327325964894,
+      "lng": 15.150560521690572,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": 1.68,
+        "dizel-premium": 1.794,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 2344,
+      "franchise": 5,
+      "name": "ARCLIN",
+      "address": "3211 Arclin – Škofja Vas, Arclin 101",
+      "lat": 46.27879929325074,
+      "lng": 15.300271376669105,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": 1.68,
+        "dizel-premium": 1.794,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
+      "zip_code": "3211"
+    },
+    {
       "pk": 2345,
       "franchise": 5,
       "name": "DRNOVO",
@@ -86,48 +128,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.392,
-        "dizel": 1.41,
-        "98": null,
-        "100": 1.599,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.79,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2327,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Bezena",
-      "address": "Bezena 99",
-      "lat": 46.5499175582367,
-      "lng": 15.538353293954877,
-      "prices": {
-        "95": 1.392,
-        "dizel": 1.417,
-        "98": null,
-        "100": 1.621,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
-      "zip_code": "2342"
     },
     {
       "pk": 2297,
