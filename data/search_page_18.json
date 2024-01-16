@@ -151,6 +151,27 @@
       "zip_code": "1317"
     },
     {
+      "pk": 2313,
+      "franchise": 14,
+      "name": "West Oil BS Zavrč",
+      "address": "Zavrč 8c",
+      "lat": 46.3896077,
+      "lng": 16.05135585,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.065
+      },
+      "distance": null,
+      "direction": "PTUJ",
+      "open_hours": "PON. - PET. 8.00 -18.00\r\nSOB. 8.00 -1600\r\nNEDELJE IN PRAZNIKI - ZAPRTO",
+      "zip_code": "2283"
+    },
+    {
       "pk": 2315,
       "franchise": 21,
       "name": "Bencinski servis STRANICE",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
       "zip_code": "3211"
-    },
-    {
-      "pk": 2345,
-      "franchise": 5,
-      "name": "DRNOVO",
-      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
-      "lat": 45.92022102331869,
-      "lng": 15.47376189244999,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
-        "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
-      "zip_code": "8273"
     }
   ],
   "position": null

@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2345,
+      "franchise": 5,
+      "name": "DRNOVO",
+      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
+      "lat": 45.92022102331869,
+      "lng": 15.47376189244999,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": 1.68,
+        "dizel-premium": 1.794,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
+      "zip_code": "8273"
+    },
+    {
       "pk": 2346,
       "franchise": 5,
       "name": "Celje Mariborska",
@@ -149,27 +170,6 @@
       "direction": "Izvoz Slovenska Bistrica jug",
       "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
       "zip_code": "2310"
-    },
-    {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "West Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.082
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - PET. 8.00 -18.00\r\nSOB. 8.00 -1600\r\nNEDELJE IN PRAZNIKI - ZAPRTO",
-      "zip_code": "2283"
     },
     {
       "pk": 1562,
