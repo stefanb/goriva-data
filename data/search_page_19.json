@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2346,
+      "franchise": 5,
+      "name": "Celje Mariborska",
+      "address": "Mariborska 128",
+      "lat": 46.24423316065561,
+      "lng": 15.278462363239953,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": 1.68,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2347,
       "franchise": 5,
       "name": "PRESTRANEK",
@@ -86,27 +107,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
       "zip_code": "2342"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.393,
-        "dizel": 1.43,
-        "98": null,
-        "100": 1.622,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.082
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2297,

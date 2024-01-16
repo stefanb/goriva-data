@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2295,
+      "franchise": 13,
+      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
+      "address": "Vilharjeva cesta 58",
+      "lat": 45.576279,
+      "lng": 14.23011,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
+      "zip_code": "6250"
+    },
+    {
       "pk": 2302,
       "franchise": 19,
       "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
       "zip_code": "8273"
-    },
-    {
-      "pk": 2346,
-      "franchise": 5,
-      "name": "Celje Mariborska",
-      "address": "Mariborska 128",
-      "lat": 46.24423316065561,
-      "lng": 15.278462363239953,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
-        "98": null,
-        "100": 1.68,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3000"
     }
   ],
   "position": null
