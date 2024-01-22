@@ -298,6 +298,27 @@
       "zip_code": "6281"
     },
     {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "Shell Koper Semedela",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.468,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.767,
+        "dizel-premium": 1.878,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
+    },
+    {
       "pk": 1569,
       "franchise": 4,
       "name": "BS MOL CELJE 3",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
     }
   ],
   "position": null
