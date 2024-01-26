@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2176,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - VZHOD",
+      "address": "SPODNJE GRUŠOVJE 10B",
+      "lat": 46.347484,
+      "lng": 15.48757,
+      "prices": {
+        "95": 1.642,
+        "dizel": 1.65,
+        "98": null,
+        "100": 1.733,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
+    },
+    {
       "pk": 2201,
       "franchise": 1,
       "name": "PETROL ZALOKE AC - JUG",
@@ -233,27 +254,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
-    },
-    {
-      "pk": 805,
-      "franchise": 5,
-      "name": "BS SHELL KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.538903,
-      "lng": 13.728619,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Cet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6000"
     },
     {
       "pk": 842,

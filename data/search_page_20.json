@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 1558,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA",
+      "address": "LENDAVSKA ULICA 75",
+      "lat": 46.6676096,
+      "lng": 16.1767565,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": null,
+        "100": 1.765,
+        "dizel-premium": 1.998,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1978,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - AC VZHOD",
-      "address": "NA POLJU 20",
-      "lat": 46.531265,
-      "lng": 15.701209,
-      "prices": {
-        "95": 1.642,
-        "dizel": 1.65,
-        "98": null,
-        "100": 1.733,
-        "dizel-premium": 1.829,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
       "open_hours": "NON-STOP",
       "zip_code": "2000"
     }
