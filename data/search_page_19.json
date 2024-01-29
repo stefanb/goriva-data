@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2341,
+      "franchise": 5,
+      "name": "LJUTOMER",
+      "address": "Kolodvorska ulica 2A",
+      "lat": 46.52613423254767,
+      "lng": 16.193609363823846,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.71,
+        "dizel-premium": 1.836,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
+      "zip_code": "9240"
+    },
+    {
       "pk": 2342,
       "franchise": 5,
       "name": "Senožeti",
@@ -11,11 +32,11 @@
       "lat": 46.088862059954124,
       "lng": 14.716871893530739,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
+        "100": 1.71,
+        "dizel-premium": 1.836,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -32,11 +53,11 @@
       "lat": 45.821327325964894,
       "lng": 15.150560521690572,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
+        "100": 1.71,
+        "dizel-premium": 1.836,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -53,11 +74,11 @@
       "lat": 46.27879929325074,
       "lng": 15.300271376669105,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
+        "100": 1.71,
+        "dizel-premium": 1.836,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -74,11 +95,11 @@
       "lat": 45.92022102331869,
       "lng": 15.47376189244999,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
+        "100": 1.71,
+        "dizel-premium": 1.836,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -95,10 +116,10 @@
       "lat": 46.24423316065561,
       "lng": 15.278462363239953,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
+        "100": 1.71,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -116,11 +137,11 @@
       "lat": 45.728174292934355,
       "lng": 14.187886149162168,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
+        "100": 1.71,
+        "dizel-premium": 1.836,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -137,10 +158,10 @@
       "lat": 46.64580322249098,
       "lng": 16.16815983270674,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
+        "100": 1.71,
         "dizel-premium": 1.809,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -158,11 +179,11 @@
       "lat": 45.70519088779502,
       "lng": 13.861015699133779,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.411,
+        "dizel": 1.457,
         "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
+        "100": 1.71,
+        "dizel-premium": 1.836,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -170,6 +191,48 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6210"
+    },
+    {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "Shell Koper Semedela",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.71,
+        "dizel-premium": 1.836,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 2351,
+      "franchise": 5,
+      "name": "Shell Celje Kidričeva",
+      "address": "Kidričeva ulica 40",
+      "lat": 46.234018307787046,
+      "lng": 15.296215827340855,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.71,
+        "dizel-premium": 1.836,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
     },
     {
       "pk": 1562,
@@ -242,11 +305,11 @@
       "lat": 45.5404,
       "lng": 13.7263,
       "prices": {
-        "95": 1.468,
-        "dizel": 1.499,
+        "95": 1.498,
+        "dizel": 1.541,
         "98": null,
-        "100": 1.662,
-        "dizel-premium": 1.749,
+        "100": 1.698,
+        "dizel-premium": 1.794,
         "avtoplin-lpg": 0.828,
         "KOEL": null
       },
@@ -263,11 +326,11 @@
       "lat": 45.538903,
       "lng": 13.728619,
       "prices": {
-        "95": 1.468,
-        "dizel": 1.499,
+        "95": 1.498,
+        "dizel": 1.541,
         "98": null,
-        "100": 1.767,
-        "dizel-premium": 1.878,
+        "100": 1.797,
+        "dizel-premium": 1.92,
         "avtoplin-lpg": null,
         "KOEL": null
       },
@@ -284,13 +347,13 @@
       "lat": 45.580603,
       "lng": 13.797535,
       "prices": {
-        "95": 1.468,
-        "dizel": 1.499,
+        "95": 1.498,
+        "dizel": 1.541,
         "98": null,
-        "100": 1.662,
+        "100": 1.698,
         "dizel-premium": null,
         "avtoplin-lpg": 0.818,
-        "KOEL": 1.065
+        "KOEL": 1.111
       },
       "distance": null,
       "direction": "Trst",
@@ -305,10 +368,10 @@
       "lat": 45.579851,
       "lng": 13.796288,
       "prices": {
-        "95": 1.468,
-        "dizel": 1.499,
+        "95": 1.498,
+        "dizel": 1.541,
         "98": null,
-        "100": 1.662,
+        "100": 1.698,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": null
@@ -317,27 +380,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
-    },
-    {
-      "pk": 2350,
-      "franchise": 5,
-      "name": "Shell Koper Semedela",
-      "address": "Istrska cesta 53",
-      "lat": 45.5389688698564,
-      "lng": 13.728621313111132,
-      "prices": {
-        "95": 1.468,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.767,
-        "dizel-premium": 1.878,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6000"
     },
     {
       "pk": 1569,
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "PON-PET 06:00-21:00\r\nSOBOTA  07:00-21:00\r\nNEDELJA  08:00-20:00\r\nPRAZNIKI 08:00-20:00",
       "zip_code": "3211"
-    },
-    {
-      "pk": 1588,
-      "franchise": 4,
-      "name": "BS MOL SENOŽETI",
-      "address": "SENOŽETI 93",
-      "lat": 46.088644,
-      "lng": 14.716823,
-      "prices": {
-        "95": 1.534,
-        "dizel": 1.608,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": 1.195
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
-      "pk": 1551,
-      "franchise": 4,
-      "name": "BS MOL LITIJA",
-      "address": "LJUBLJANSKA CESTA 10B",
-      "lat": 46.057104,
-      "lng": 14.822957,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": 1.765,
-        "dizel-premium": 1.998,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "1270"
     }
   ],
   "position": null
