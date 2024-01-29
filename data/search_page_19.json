@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2341,
-      "franchise": 5,
-      "name": "LJUTOMER",
-      "address": "Kolodvorska ulica 2A",
-      "lat": 46.52613423254767,
-      "lng": 16.193609363823846,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
-        "98": null,
-        "100": 1.68,
-        "dizel-premium": 1.794,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
-      "zip_code": "9240"
-    },
-    {
       "pk": 2342,
       "franchise": 5,
       "name": "Senožeti",
@@ -170,6 +149,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "9000"
+    },
+    {
+      "pk": 2349,
+      "franchise": 5,
+      "name": "Shell Sezana",
+      "address": "Partizanska cesta 69A",
+      "lat": 45.70519088779502,
+      "lng": 13.861015699133779,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.415,
+        "98": null,
+        "100": 1.68,
+        "dizel-premium": 1.794,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6210"
     },
     {
       "pk": 1562,

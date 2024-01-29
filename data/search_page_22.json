@@ -256,6 +256,27 @@
       "zip_code": "5290"
     },
     {
+      "pk": 833,
+      "franchise": 2,
+      "name": "BS MOL MURSKA SOBOTA LENDAVSKA",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00",
+      "zip_code": "9000"
+    },
+    {
       "pk": 842,
       "franchise": 4,
       "name": "BS MOL POSTOJNA TITOVA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24 ur - črpalka brez osebja",
       "zip_code": "2313"
-    },
-    {
-      "pk": 2269,
-      "franchise": 10,
-      "name": "Butan plin - črpalka avtoplina v Ljubljani",
-      "address": "Verovškova ulica 70",
-      "lat": 46.080815,
-      "lng": 14.501862,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.81,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON – PET:               7.45 – 18.00\r\nSOB:                         7.45 – 13.00\r\nNED IN PRAZNIKI:    zaprto",
-      "zip_code": "1000"
     }
   ],
   "position": null
