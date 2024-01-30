@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1932,
-      "franchise": 1,
-      "name": "PETROL PRAGERSKO",
-      "address": "PTUJSKA CESTA 20",
-      "lat": 46.39511839,
-      "lng": 15.65879604,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.111
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
-      "zip_code": "2331"
-    },
-    {
       "pk": 1933,
       "franchise": 1,
       "name": "PETROL RAČE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 13:30-17:00",
       "zip_code": "5213"
+    },
+    {
+      "pk": 1959,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
+      "address": "CESTA PREKOMORSKIH BRIGAD 64A",
+      "lat": 45.93235392,
+      "lng": 13.63826623,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "5290"
     }
   ],
   "position": null

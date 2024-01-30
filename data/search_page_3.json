@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 829,
-      "franchise": 2,
-      "name": "BS MOL MARIBOR BOHOVA",
-      "address": "Tržaška c. 83",
-      "lat": 46.51809,
-      "lng": 15.65131,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": 1.744,
-        "avtoplin-lpg": null,
-        "KOEL": 1.111
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 830,
       "franchise": 2,
       "name": "BS MOL MARIBOR PTUJSKA VZHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "3230"
+    },
+    {
+      "pk": 865,
+      "franchise": 2,
+      "name": "BS MOL ŠKOFJA LOKA",
+      "address": "Kidričeva 23a",
+      "lat": 46.168842,
+      "lng": 14.31952,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": 1.744,
+        "avtoplin-lpg": null,
+        "KOEL": 1.111
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Ned 06:00-22:00; Apr-Sep: Pon-Ned 06:00-22:30",
+      "zip_code": "4220"
     }
   ],
   "position": null

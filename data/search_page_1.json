@@ -4,27 +4,6 @@
   "previous": null,
   "results": [
     {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.379,
-        "dizel": 1.395,
-        "98": null,
-        "100": 1.599,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.79,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2327,
       "franchise": 15,
       "name": "DISCONT OiL - BS Bezena",
@@ -130,25 +109,25 @@
       "zip_code": "1000"
     },
     {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "West Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
       "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
+        "95": 1.409,
+        "dizel": 1.437,
         "98": null,
-        "100": null,
+        "100": 1.639,
         "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.065
+        "avtoplin-lpg": 0.79,
+        "KOEL": null
       },
       "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - PET. 8.00 -18.00\r\nSOB. 8.00 -1600\r\nNEDELJE IN PRAZNIKI - ZAPRTO",
-      "zip_code": "2283"
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
     },
     {
       "pk": 766,
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 799,
+      "franchise": 2,
+      "name": "BS MOL IZOLA SEVER",
+      "address": "Prešernova 2a",
+      "lat": 45.537905,
+      "lng": 13.668631,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": 1.744,
+        "avtoplin-lpg": null,
+        "KOEL": 1.111
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6310"
     }
   ],
