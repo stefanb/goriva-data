@@ -1,5 +1,5 @@
 {
-  "count": 569,
+  "count": 567,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "previous": null,
   "results": [
@@ -23,27 +23,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
       "zip_code": "2342"
-    },
-    {
-      "pk": 831,
-      "franchise": 5,
-      "name": "BS MOL MARIBOR PTUJSKA ZAHOD",
-      "address": "Ptujska cesta 104",
-      "lat": 46.53485,
-      "lng": 15.66165,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.415,
-        "98": null,
-        "100": 1.612,
-        "dizel-premium": 1.699,
-        "avtoplin-lpg": null,
-        "KOEL": 1.065
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00 (S,N,praz 6-22)",
-      "zip_code": "2000"
     },
     {
       "pk": 1550,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "1240"
+    },
+    {
+      "pk": 801,
+      "franchise": 2,
+      "name": "BS MOL KOČEVJE GORNJE LOŽINE",
+      "address": "Gornje Ložine 1a",
+      "lat": 45.689289,
+      "lng": 14.7997,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1332"
     }
   ],
   "position": null

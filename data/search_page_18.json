@@ -1,29 +1,8 @@
 {
-  "count": 569,
+  "count": 567,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
-    {
-      "pk": 2294,
-      "franchise": 13,
-      "name": "BS MOL PAY&GO POSTOJNA",
-      "address": "Industrijska cesta 4",
-      "lat": 45.769831,
-      "lng": 14.197979,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
-      "zip_code": "6230"
-    },
     {
       "pk": 2295,
       "franchise": 13,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
       "zip_code": "9240"
+    },
+    {
+      "pk": 2342,
+      "franchise": 5,
+      "name": "Senožeti",
+      "address": "Senožeti 93, 1262 Senožeti",
+      "lat": 46.088862059954124,
+      "lng": 14.716871893530739,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.71,
+        "dizel-premium": 1.836,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": ""
     }
   ],
   "position": null

@@ -1,50 +1,8 @@
 {
-  "count": 569,
+  "count": 567,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
-    {
-      "pk": 2176,
-      "franchise": 1,
-      "name": "PETROL TEPANJE AC - VZHOD",
-      "address": "SPODNJE GRUŠOVJE 10B",
-      "lat": 46.347484,
-      "lng": 15.48757,
-      "prices": {
-        "95": 1.672,
-        "dizel": 1.692,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "NON-STOP",
-      "zip_code": "3210"
-    },
-    {
-      "pk": 2201,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - JUG",
-      "address": "ZALOKE 16",
-      "lat": 45.908304,
-      "lng": 15.400616,
-      "prices": {
-        "95": 1.672,
-        "dizel": 1.692,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8274"
-    },
     {
       "pk": 2202,
       "franchise": 1,
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "PON – PET:               7.45 – 18.00\r\nSOB:                         7.45 – 13.00\r\nNED IN PRAZNIKI:    zaprto",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2270,
+      "franchise": 10,
+      "name": "Butan plin - črpalka avtoplina v Izoli",
+      "address": "Polje 6a",
+      "lat": 45.537987,
+      "lng": 13.670166,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.81,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-PET:             8.00 – 16.00\r\nSOB:                     zaprto\r\nNED, PRAZNIKI:   zaprto",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 2273,
+      "franchise": 11,
+      "name": "ECO OIL MARIBOR",
+      "address": "ZAGREBŠKA CESTA 24",
+      "lat": 46.534411,
+      "lng": 15.6574563,
+      "prices": {
+        "95": null,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2000"
     }
   ],
   "position": null
