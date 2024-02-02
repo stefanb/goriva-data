@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
-    {
-      "pk": 2250,
-      "franchise": 3,
-      "name": "BS MAXEN KOČEVJE",
-      "address": "Mrtvice bš",
-      "lat": 45.6768128,
-      "lng": 14.827288,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "1332"
-    },
     {
       "pk": 2251,
       "franchise": 3,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
       "zip_code": "6230"
+    },
+    {
+      "pk": 2295,
+      "franchise": 13,
+      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
+      "address": "Vilharjeva cesta 58",
+      "lat": 45.576279,
+      "lng": 14.23011,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ZIMSKI OBRATOVALNI ČAS: \r\n01.11. - 31.3. \r\nPON - SOB : 05.00 - 22.00\r\nNED: 08.00 - 15.00 \r\n\r\nLETNI OBRATOVALNI ČAS: \r\n01.04. - 31.10. \r\nPON - NED : 00.00 - 24.00",
+      "zip_code": "6250"
     }
   ],
   "position": null

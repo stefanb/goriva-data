@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
-    {
-      "pk": 2343,
-      "franchise": 5,
-      "name": "NOVO MESTO",
-      "address": "Mirnopeška 4, 8000 Novo Mesto",
-      "lat": 45.821327325964894,
-      "lng": 15.150560521690572,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": 1.71,
-        "dizel-premium": 1.836,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": "8000"
-    },
     {
       "pk": 2344,
       "franchise": 5,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
+    },
+    {
+      "pk": 777,
+      "franchise": 2,
+      "name": "BS MOL DOBRENJE VZHOD",
+      "address": "Sp.Dobrenje 41a",
+      "lat": 46.605931,
+      "lng": 15.663342,
+      "prices": {
+        "95": 1.672,
+        "dizel": 1.691,
+        "98": null,
+        "100": 1.78,
+        "dizel-premium": 1.874,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Gradec",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
     }
   ],
   "position": null

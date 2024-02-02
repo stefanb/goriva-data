@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
-    {
-      "pk": 869,
-      "franchise": 2,
-      "name": "BS MOL TREBNJE",
-      "address": "Obrtniška 28",
-      "lat": 45.910462,
-      "lng": 15.025649,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": 1.744,
-        "avtoplin-lpg": null,
-        "KOEL": 1.111
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "8210"
-    },
     {
       "pk": 870,
       "franchise": 2,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - pet 05:00 - 23:00\r\nsobota 06:00 - 22:00\r\nnedelja in prazniki 07:00 - 22:00",
       "zip_code": "2373"
+    },
+    {
+      "pk": 1576,
+      "franchise": 4,
+      "name": "BS MOL POBREŽJE MARIBOR",
+      "address": "ULICA VELJKA VLAHOVIČA 8",
+      "lat": 46.546333,
+      "lng": 15.674833,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": 1.744,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
     }
   ],
   "position": null

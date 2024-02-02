@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
-    {
-      "pk": 1936,
-      "franchise": 1,
-      "name": "PETROL ŠENTILJ - MARIBORSKA",
-      "address": "MARIBORSKA CESTA 49",
-      "lat": 46.67188025,
-      "lng": 15.66080301,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.111
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-17:00",
-      "zip_code": "2212"
-    },
     {
       "pk": 1937,
       "franchise": 1,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "9220"
+    },
+    {
+      "pk": 1963,
+      "franchise": 1,
+      "name": "PETROL ROGAŠOVCI",
+      "address": "SVETI JURIJ 7A",
+      "lat": 46.798925,
+      "lng": 16.03618722,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.111
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "9262"
     }
   ],
   "position": null

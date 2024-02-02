@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
-    {
-      "pk": 2192,
-      "franchise": 1,
-      "name": "PETROL RADEČE",
-      "address": "ULICA MILANA MAJCNA 40",
-      "lat": 46.06279673,
-      "lng": 15.18155904,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.111
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "1433"
-    },
     {
       "pk": 2193,
       "franchise": 1,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3204"
+    },
+    {
+      "pk": 2220,
+      "franchise": 1,
+      "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
+      "address": "LJUBLJANSKA CESTA 69A",
+      "lat": 45.64870304,
+      "lng": 14.85374303,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": 1.748,
+        "avtoplin-lpg": 0.819,
+        "KOEL": 1.111
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "1330"
     }
   ],
   "position": null

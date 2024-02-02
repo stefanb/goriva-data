@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
-    {
-      "pk": 2202,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - SEVER",
-      "address": "ZALOKE 15",
-      "lat": 45.909601,
-      "lng": 15.400316,
-      "prices": {
-        "95": 1.672,
-        "dizel": 1.692,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8274"
-    },
     {
       "pk": 2216,
       "franchise": 1,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2275,
+      "franchise": 11,
+      "name": "ECO OIL TURNIŠČE",
+      "address": "ULICA ŠTEFANA KOVAČA",
+      "lat": 46.6209381,
+      "lng": 16.3199527,
+      "prices": {
+        "95": null,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "9224"
     }
   ],
   "position": null

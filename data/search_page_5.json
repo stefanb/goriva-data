@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
-    {
-      "pk": 1576,
-      "franchise": 4,
-      "name": "BS MOL POBREŽJE MARIBOR",
-      "address": "ULICA VELJKA VLAHOVIČA 8",
-      "lat": 46.546333,
-      "lng": 15.674833,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": 1.744,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2000"
-    },
     {
       "pk": 1579,
       "franchise": 4,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 1936,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ - MARIBORSKA",
+      "address": "MARIBORSKA CESTA 49",
+      "lat": 46.67188025,
+      "lng": 15.66080301,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.111
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-17:00",
+      "zip_code": "2212"
     }
   ],
   "position": null

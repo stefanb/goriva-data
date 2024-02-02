@@ -1,29 +1,8 @@
 {
-  "count": 567,
+  "count": 566,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
-    {
-      "pk": 777,
-      "franchise": 2,
-      "name": "BS MOL DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.672,
-        "dizel": 1.691,
-        "98": null,
-        "100": 1.78,
-        "dizel-premium": 1.874,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
     {
       "pk": 778,
       "franchise": 2,
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
+      "zip_code": "5290"
+    },
+    {
+      "pk": 2000,
+      "franchise": 1,
+      "name": "PETROL VRTOJBA AC - JUG",
+      "address": "MEDNARODNI PREHOD 4A",
+      "lat": 45.91934,
+      "lng": 13.627636,
+      "prices": {
+        "95": 1.672,
+        "dizel": 1.692,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.874,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "5290"
     }
   ],
