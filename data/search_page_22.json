@@ -1,29 +1,8 @@
 {
-  "count": 566,
+  "count": 565,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
-    {
-      "pk": 2216,
-      "franchise": 1,
-      "name": "PETROL LOPATA AC - SEVER",
-      "address": "LOPATA 81",
-      "lat": 46.262458,
-      "lng": 15.222118,
-      "prices": {
-        "95": 1.672,
-        "dizel": 1.692,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.874,
-        "avtoplin-lpg": 0.849,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "3000"
-    },
     {
       "pk": 2229,
       "franchise": 1,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "9224"
+    },
+    {
+      "pk": 2276,
+      "franchise": 11,
+      "name": "ECO OIL SEŽANA",
+      "address": "PARTIZANSKA CESTA",
+      "lat": 45.7047532,
+      "lng": 13.855647,
+      "prices": {
+        "95": null,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6210"
     }
   ],
   "position": null

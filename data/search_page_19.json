@@ -1,5 +1,5 @@
 {
-  "count": 566,
+  "count": 565,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
@@ -170,27 +170,6 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "6240"
-    },
-    {
-      "pk": 1573,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA 3",
-      "address": "BAKOVSKA 31/A",
-      "lat": 46.645667,
-      "lng": 16.168083,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.461,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 21:00\r\nnedelja in prazniki 08:00 - 16:00",
-      "zip_code": "9000"
     },
     {
       "pk": 804,
@@ -525,6 +504,27 @@
       },
       "distance": null,
       "direction": "Gradec",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
+    },
+    {
+      "pk": 778,
+      "franchise": 2,
+      "name": "BS MOL DOBRENJE ZAHOD",
+      "address": "Sp.Dobrenje 41d",
+      "lat": 46.609699,
+      "lng": 15.662384,
+      "prices": {
+        "95": 1.672,
+        "dizel": 1.691,
+        "98": null,
+        "100": 1.78,
+        "dizel-premium": 1.874,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2211"
     }
