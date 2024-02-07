@@ -1,5 +1,5 @@
 {
-  "count": 565,
+  "count": 561,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
@@ -170,90 +170,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
-    },
-    {
-      "pk": 833,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA LENDAVSKA",
-      "address": "Lendavska 60d",
-      "lat": 46.66673,
-      "lng": 16.17698,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00",
-      "zip_code": "9000"
-    },
-    {
-      "pk": 1549,
-      "franchise": 4,
-      "name": "BS MOL ROGAŠKA SLATINA",
-      "address": "TRŽIŠČE 12B",
-      "lat": 46.2306674,
-      "lng": 15.6556409,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "3250"
-    },
-    {
-      "pk": 1582,
-      "franchise": 4,
-      "name": "BS MOL MIKLAVŽ",
-      "address": "PTUJSKA CESTA 135",
-      "lat": 46.496423,
-      "lng": 15.713914,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - pet. 06:00 - 22:00\r\nsobota 07:00 - 21:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "2204"
-    },
-    {
-      "pk": 1584,
-      "franchise": 4,
-      "name": "BS MOL ŠMARJE",
-      "address": "CELJSKA CESTA 55",
-      "lat": 46.228855,
-      "lng": 15.504098,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
     },
     {
       "pk": 2258,
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6210"
+    },
+    {
+      "pk": 2308,
+      "franchise": 19,
+      "name": "Tankomat Grosuplje",
+      "address": "Ljubljanska cesta 66",
+      "lat": 45.96573257446289,
+      "lng": 14.659423828125,
+      "prices": {
+        "95": null,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "neprenehoma 24/7",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 2309,
+      "franchise": 19,
+      "name": "Tankomat Sežana",
+      "address": "Cesta na Lenivec 32",
+      "lat": 45.7087287902832,
+      "lng": 13.8604755401611,
+      "prices": {
+        "95": null,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "neprenehoma 24/7",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 2312,
+      "franchise": 17,
+      "name": "HOJNIK Oil BS Leskovec",
+      "address": "Leskovec 15",
+      "lat": 46.259264,
+      "lng": 15.310556,
+      "prices": {
+        "95": null,
+        "dizel": 1.455,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.78,
+        "KOEL": 1.106
+      },
+      "distance": null,
+      "direction": "Celje",
+      "open_hours": "PON. - PET.      6.00 - 17.00        \r\nSOB.                 7.00 - 12.00\r\nNED., PRAZNIKI   ZAPRTO",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 2318,
+      "franchise": 24,
+      "name": "PRUNK OIL",
+      "address": "Mednarodni prehod 1a",
+      "lat": 45.9207599,
+      "lng": 13.6284418,
+      "prices": {
+        "95": null,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "H4, izhod Vrtojba",
+      "open_hours": "24/7",
+      "zip_code": "5290"
     }
   ],
   "position": null
