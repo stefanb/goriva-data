@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2095,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - JUG",
-      "address": "SPODNJI PLAVŽ 24A",
-      "lat": 46.440467,
-      "lng": 14.026493,
-      "prices": {
-        "95": 1.672,
-        "dizel": 1.692,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.874,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
       "pk": 2096,
       "franchise": 1,
       "name": "PETROL HRUŠICA AC - SEVER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24 ur - črpalka brez osebja",
       "zip_code": "5290"
+    },
+    {
+      "pk": 2262,
+      "franchise": 5,
+      "name": "SHELL BIČ",
+      "address": "BIČ 11",
+      "lat": 45.924703,
+      "lng": 14.889676,
+      "prices": {
+        "95": null,
+        "dizel": 1.457,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "8213"
     }
   ],
   "position": null

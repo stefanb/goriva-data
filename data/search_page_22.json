@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 2262,
-      "franchise": 5,
-      "name": "SHELL BIČ",
-      "address": "BIČ 11",
-      "lat": 45.924703,
-      "lng": 14.889676,
-      "prices": {
-        "95": null,
-        "dizel": 1.457,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "8213"
-    },
-    {
       "pk": 2263,
       "franchise": 5,
       "name": "SHELL ŠENČUR",
@@ -233,6 +212,27 @@
       "direction": "",
       "open_hours": "neprenehoma 24/7",
       "zip_code": "6210"
+    },
+    {
+      "pk": 2311,
+      "franchise": 18,
+      "name": "BS Merkantil KNEŽAK",
+      "address": "KNEŽAK 3",
+      "lat": 45.625625,
+      "lng": 14.239867,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - čet: 6,00 - 18,00\r\npet - sob: 6,00 - 20,00\r\nned: 7,00 - 20,00",
+      "zip_code": "6253"
     },
     {
       "pk": 2312,
