@@ -1,6 +1,6 @@
 {
-  "count": 549,
-  "next": null,
+  "count": 552,
+  "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
@@ -506,6 +506,27 @@
       "direction": "",
       "open_hours": "PONEDELJEK- PETEK 7:00-17:00\r\nSOBOTA: 7:30-12:00\r\nNEDELJA& PRAZNIKI: ZAPRTO",
       "zip_code": "8000"
+    },
+    {
+      "pk": 2352,
+      "franchise": 5,
+      "name": "Koper Bertoki",
+      "address": "Cesta med vinogradi 52",
+      "lat": 45.55542689115159,
+      "lng": 13.78089458948286,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
     }
   ],
   "position": null
