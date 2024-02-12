@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2262,
+      "franchise": 5,
+      "name": "SHELL BIČ",
+      "address": "BIČ 11",
+      "lat": 45.924703,
+      "lng": 14.889676,
+      "prices": {
+        "95": null,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "8213"
+    },
+    {
       "pk": 2263,
       "franchise": 5,
       "name": "SHELL ŠENČUR",
@@ -12,7 +33,7 @@
       "lng": 14.410096,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -33,7 +54,7 @@
       "lng": 14.026966,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -54,7 +75,7 @@
       "lng": 15.651698,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -117,7 +138,7 @@
       "lng": 15.6574563,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -138,7 +159,7 @@
       "lng": 16.3199527,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -159,7 +180,7 @@
       "lng": 13.855647,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -180,7 +201,7 @@
       "lng": 14.659423828125,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -201,7 +222,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -285,12 +306,12 @@
       "lng": 15.597476,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.109
+        "KOEL": 1.157
       },
       "distance": null,
       "direction": "",
@@ -327,12 +348,12 @@
       "lng": 14.16884039205976,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.111
+        "KOEL": 1.159
       },
       "distance": null,
       "direction": "",
@@ -348,7 +369,7 @@
       "lng": 15.052119626875369,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -390,12 +411,12 @@
       "lng": 14.47429,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.111
+        "KOEL": 1.159
       },
       "distance": null,
       "direction": "",
@@ -411,7 +432,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -474,7 +495,7 @@
       "lng": 15.65166,
       "prices": {
         "95": null,
-        "dizel": 1.457,
+        "dizel": 1.498,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "PONEDELJEK- PETEK 7:00-17:00\r\nSOBOTA: 7:30-12:00\r\nNEDELJA& PRAZNIKI: ZAPRTO",
       "zip_code": "8000"
-    },
-    {
-      "pk": 2352,
-      "franchise": 5,
-      "name": "Koper Bertoki",
-      "address": "Cesta med vinogradi 52",
-      "lat": 45.55542689115159,
-      "lng": 13.78089458948286,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6000"
     }
   ],
   "position": null
