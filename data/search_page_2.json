@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 801,
-      "franchise": 2,
-      "name": "BS MOL KOČEVJE GORNJE LOŽINE",
-      "address": "Gornje Ložine 1a",
-      "lat": 45.689289,
-      "lng": 14.7997,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.713,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1332"
-    },
-    {
       "pk": 802,
       "franchise": 2,
       "name": "BS MOL KOMEN",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 832,
+      "franchise": 2,
+      "name": "BS MOL MARINA KOPER",
+      "address": "Kopališko nabrežje 5",
+      "lat": 45.55049,
+      "lng": 13.72786,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Okt-Maj: Pon-Sob 08:00-16:00, Ned/Praz 09:00-12:00 in 15:00-20:00; Apr-Sep: Pon-Sob 08:00-20:00, Ned/Praz 09:00-12:00 in 15:00-20:00",
+      "zip_code": "6000"
     }
   ],
   "position": null
