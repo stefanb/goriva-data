@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2051,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - POLJE",
-      "address": "ZALOŠKA CESTA 166",
-      "lat": 46.053796,
-      "lng": 14.587178,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00",
-      "zip_code": "1260"
-    },
-    {
-      "pk": 2052,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRNOVO",
-      "address": "RIHARJEVA ULICA 31",
-      "lat": 46.03925962,
-      "lng": 14.50003317,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.713,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 11:00-13:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2053,
       "franchise": 1,
       "name": "PETROL DOBROVA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2079,
+      "franchise": 1,
+      "name": "PETROL CERKLJE NA GORENJSKEM",
+      "address": "SLOVENSKA CESTA 52",
+      "lat": 46.247136,
+      "lng": 14.485884,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-16:00",
+      "zip_code": "4207"
+    },
+    {
+      "pk": 2080,
+      "franchise": 1,
+      "name": "PETROL ŠKOFJA LOKA - TRATA",
+      "address": "KIDRIČEVA CESTA 57A",
+      "lat": 46.17302892,
+      "lng": 14.33101817,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.713,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.839,
+        "KOEL": 1.159
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-16:00\r\nsobote 07:00-14:00",
+      "zip_code": "4220"
     }
   ],
   "position": null
