@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 862,
-      "franchise": 2,
-      "name": "BS MOL ŠENTJUR",
-      "address": "Ljubljanska c. 20a",
-      "lat": 46.214942,
-      "lng": 15.38352,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.713,
-        "dizel-premium": 1.784,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3230"
-    },
-    {
       "pk": 865,
       "franchise": 2,
       "name": "BS MOL ŠKOFJA LOKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1571,
+      "franchise": 4,
+      "name": "BS MOL DRAMLJE",
+      "address": "LAZE PRI DRAMLJAH 6B",
+      "lat": 46.260293,
+      "lng": 15.3918165,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.713,
+        "dizel-premium": 1.784,
+        "avtoplin-lpg": 0.818,
+        "KOEL": 1.159
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3222"
     }
   ],
   "position": null

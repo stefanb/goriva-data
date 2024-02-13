@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 826,
-      "franchise": 2,
-      "name": "BS MOL LUCIJA",
-      "address": "Seča 188 a",
-      "lat": 45.50043,
-      "lng": 13.61022,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.713,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6320"
-    },
-    {
       "pk": 829,
       "franchise": 2,
       "name": "BS MOL MARIBOR BOHOVA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "2281"
+    },
+    {
+      "pk": 862,
+      "franchise": 2,
+      "name": "BS MOL ŠENTJUR",
+      "address": "Ljubljanska c. 20a",
+      "lat": 46.214942,
+      "lng": 15.38352,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.713,
+        "dizel-premium": 1.784,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "3230"
     }
   ],
   "position": null

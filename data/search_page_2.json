@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 798,
-      "franchise": 2,
-      "name": "BS MOL IZOLA",
-      "address": "Prešernova cesta 1a",
-      "lat": 45.53687,
-      "lng": 13.66795,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.713,
-        "dizel-premium": 1.784,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 799,
       "franchise": 2,
       "name": "BS MOL IZOLA SEVER",
@@ -526,6 +505,27 @@
       "distance": null,
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6320"
+    },
+    {
+      "pk": 826,
+      "franchise": 2,
+      "name": "BS MOL LUCIJA",
+      "address": "Seča 188 a",
+      "lat": 45.50043,
+      "lng": 13.61022,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.713,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6320"
     }
   ],

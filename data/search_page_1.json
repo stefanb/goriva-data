@@ -172,27 +172,6 @@
       "zip_code": "2283"
     },
     {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.457,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.111
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
-    {
       "pk": 766,
       "franchise": 2,
       "name": "BS MOL AJŠEVICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
       "zip_code": "6250"
+    },
+    {
+      "pk": 798,
+      "franchise": 2,
+      "name": "BS MOL IZOLA",
+      "address": "Prešernova cesta 1a",
+      "lat": 45.53687,
+      "lng": 13.66795,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.713,
+        "dizel-premium": 1.784,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6310"
     }
   ],
   "position": null

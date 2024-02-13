@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2219,
-      "franchise": 1,
-      "name": "PETROL DOBRNA",
-      "address": "PRISTOVA 21",
-      "lat": 46.32717529,
-      "lng": 15.22104794,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3204"
-    },
-    {
       "pk": 2220,
       "franchise": 1,
       "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8342"
+    },
+    {
+      "pk": 2249,
+      "franchise": 3,
+      "name": "BS MAXEN MEŽICA",
+      "address": "Mariborska cesta bš",
+      "lat": 46.5236096,
+      "lng": 14.8536976,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2392"
     }
   ],
   "position": null
