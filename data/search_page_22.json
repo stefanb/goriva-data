@@ -1,50 +1,8 @@
 {
-  "count": 552,
-  "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
+  "count": 550,
+  "next": null,
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
-    {
-      "pk": 2262,
-      "franchise": 5,
-      "name": "SHELL BIČ",
-      "address": "BIČ 11",
-      "lat": 45.924703,
-      "lng": 14.889676,
-      "prices": {
-        "95": null,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "8213"
-    },
-    {
-      "pk": 2263,
-      "franchise": 5,
-      "name": "SHELL ŠENČUR",
-      "address": "POSLOVNA CONA 12A",
-      "lat": 46.245779,
-      "lng": 14.410096,
-      "prices": {
-        "95": null,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "4208"
-    },
     {
       "pk": 2264,
       "franchise": 5,
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "PONEDELJEK- PETEK 7:00-17:00\r\nSOBOTA: 7:30-12:00\r\nNEDELJA& PRAZNIKI: ZAPRTO",
       "zip_code": "8000"
+    },
+    {
+      "pk": 2353,
+      "franchise": 5,
+      "name": "Kočevje Reška",
+      "address": "Reška cesta 25a",
+      "lat": 45.63286356949685,
+      "lng": 14.864140348800042,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1330"
+    },
+    {
+      "pk": 2354,
+      "franchise": 5,
+      "name": "SHEL CELJE AERO",
+      "address": "Dečkova cesta 39",
+      "lat": 46.24061678625168,
+      "lng": 15.256515119602888,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
     }
   ],
   "position": null
