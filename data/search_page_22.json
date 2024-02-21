@@ -1,50 +1,8 @@
 {
-  "count": 551,
-  "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
+  "count": 549,
+  "next": null,
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
-    {
-      "pk": 2264,
-      "franchise": 5,
-      "name": "SHELL JESENICE",
-      "address": "SPODNJI PLAVZ 6B",
-      "lat": 46.444186,
-      "lng": 14.026966,
-      "prices": {
-        "95": null,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2265,
-      "franchise": 5,
-      "name": "SHELL TRUCK CENTER MARIBOR FRAM",
-      "address": "TURNEJEVA ULICA 35",
-      "lat": 46.449892,
-      "lng": 15.651698,
-      "prices": {
-        "95": null,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "2313"
-    },
     {
       "pk": 2269,
       "franchise": 10,
@@ -527,6 +485,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "3000"
+    },
+    {
+      "pk": 2355,
+      "franchise": 5,
+      "name": "POSTOJNA TRŽAŠKA",
+      "address": "Tržaška cesta 60b",
+      "lat": 45.772716370874754,
+      "lng": 14.200187856694102,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6230"
     }
   ],
   "position": null

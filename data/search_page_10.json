@@ -1,50 +1,8 @@
 {
-  "count": 551,
+  "count": 549,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
-    {
-      "pk": 2057,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
-      "address": "DOLENJSKA CESTA 242F",
-      "lat": 46.01990756,
-      "lng": 14.54219888,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2058,
-      "franchise": 1,
-      "name": "PETROL ZADVOR",
-      "address": "CESTA II. GRUPE ODREDOV 48",
-      "lat": 46.03588324,
-      "lng": 14.59614121,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
-      "zip_code": "1261"
-    },
     {
       "pk": 2061,
       "franchise": 1,
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-13:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2085,
+      "franchise": 1,
+      "name": "PETROL PODKOREN",
+      "address": "PODKOREN 1A",
+      "lat": 46.4896618,
+      "lng": 13.76471293,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:00-14:00\r\nsobote 12:00-14:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "4280"
+    },
+    {
+      "pk": 2086,
+      "franchise": 1,
+      "name": "PETROL NAKLO",
+      "address": "KRANJSKA CESTA 4",
+      "lat": 46.27058563,
+      "lng": 14.31367281,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
+      "zip_code": "4202"
     }
   ],
   "position": null

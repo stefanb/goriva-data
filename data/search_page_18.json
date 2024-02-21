@@ -1,50 +1,8 @@
 {
-  "count": 551,
+  "count": 549,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
-    {
-      "pk": 2304,
-      "franchise": 19,
-      "name": "Bencinski servis Velika Pirešica",
-      "address": "Velika Pirešica 60",
-      "lat": 46.28633117675781,
-      "lng": 15.176063537597656,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": 1.711,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.00",
-      "zip_code": "3310"
-    },
-    {
-      "pk": 2305,
-      "franchise": 19,
-      "name": "Bencinski servis Škofja Loka",
-      "address": "Grenc 57",
-      "lat": 46.1730598,
-      "lng": 14.3212867,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.79,
-        "KOEL": 1.159
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "6.00-22.00",
-      "zip_code": "4220"
-    },
     {
       "pk": 2306,
       "franchise": 19,
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "Summer (01.06.2023 to 30.9.2023): Mon-Sun 6:00-22:00 .Winter (01.10 to 31.5): Mon-Sat 6:00-22:00 ,Sun and holidays 9:00-20:00.",
       "zip_code": "6258"
+    },
+    {
+      "pk": 2348,
+      "franchise": 5,
+      "name": "Murska Sobota Bakovska",
+      "address": "Bakovska 31 A",
+      "lat": 46.64580322249098,
+      "lng": 16.16815983270674,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.744,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2349,
+      "franchise": 5,
+      "name": "Shell Sezana",
+      "address": "Partizanska cesta 69A",
+      "lat": 45.70519088779502,
+      "lng": 13.861015699133779,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.744,
+        "dizel-premium": 1.877,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6210"
     }
   ],
   "position": null
