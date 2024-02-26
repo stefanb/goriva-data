@@ -1,6 +1,6 @@
 {
-  "count": 549,
-  "next": null,
+  "count": 553,
+  "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
@@ -506,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6230"
+    },
+    {
+      "pk": 2356,
+      "franchise": 5,
+      "name": "Shell BENEDIKT",
+      "address": "Radgonska cesta 15",
+      "lat": 46.61058906474378,
+      "lng": 15.89398684995135,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2234"
     }
   ],
   "position": null
