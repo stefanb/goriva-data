@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 871,
-      "franchise": 2,
-      "name": "BS MOL VELENJE SELO",
-      "address": "Selo 10a",
-      "lat": 46.36972,
-      "lng": 15.13265,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3320"
-    },
-    {
       "pk": 872,
       "franchise": 2,
       "name": "BS MOL VIPOLŽE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "2250"
+    },
+    {
+      "pk": 1581,
+      "franchise": 4,
+      "name": "BS MOL ZASAVJE",
+      "address": "ZAVRŠJE 30",
+      "lat": 46.1110129,
+      "lng": 15.0066052,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": 1.795,
+        "avtoplin-lpg": 0.818,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
     }
   ],
   "position": null

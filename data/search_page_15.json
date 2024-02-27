@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2197,
-      "franchise": 1,
-      "name": "PETROL ŽALEC",
-      "address": "GOTOVELJSKA CESTA 10",
-      "lat": 46.256248,
-      "lng": 15.156901,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.839,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "3310"
-    },
-    {
       "pk": 2198,
       "franchise": 1,
       "name": "PETROL PODPLAT",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 08:00-12:00",
       "zip_code": "1318"
+    },
+    {
+      "pk": 2225,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - TOPLIŠKA",
+      "address": "TOPLIŠKA CESTA 9",
+      "lat": 45.79863637,
+      "lng": 15.15095997,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:30-21:00",
+      "zip_code": "8000"
     }
   ],
   "position": null

@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1581,
-      "franchise": 4,
-      "name": "BS MOL ZASAVJE",
-      "address": "ZAVRŠJE 30",
-      "lat": 46.1110129,
-      "lng": 15.0066052,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": 0.818,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 1587,
       "franchise": 4,
       "name": "BS MOL LETUŠ",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "2312"
+    },
+    {
+      "pk": 1940,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
+      "address": "GOSPOSVETSKA CESTA 81",
+      "lat": 46.56349021,
+      "lng": 15.62652364,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 07:00-14:00",
+      "zip_code": "2000"
     }
   ],
   "position": null
