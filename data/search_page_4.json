@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 872,
-      "franchise": 2,
-      "name": "BS MOL VIPOLŽE",
-      "address": "Vipolže 6b",
-      "lat": 45.966782,
-      "lng": 13.540767,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "5212"
-    },
-    {
       "pk": 873,
       "franchise": 2,
       "name": "BS MOL VIR DOMŽALE",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1587,
+      "franchise": 4,
+      "name": "BS MOL LETUŠ",
+      "address": "LETUŠ 11 D",
+      "lat": 46.311732,
+      "lng": 15.026208,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": 1.795,
+        "avtoplin-lpg": null,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3327"
     }
   ],
   "position": null
