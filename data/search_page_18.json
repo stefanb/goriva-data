@@ -1,92 +1,8 @@
 {
-  "count": 557,
+  "count": 553,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
-    {
-      "pk": 2306,
-      "franchise": 19,
-      "name": "Bencinski servis Juršinci",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
-      "pk": 2307,
-      "franchise": 19,
-      "name": "Bencinski servis Sodražica",
-      "address": "cesta Notranjskega odreda 56",
-      "lat": 45.76375961303711,
-      "lng": 14.63137435913086,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "5.30-22.00",
-      "zip_code": "1317"
-    },
-    {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "West Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - PET. 8.00 -18.00\r\nSOB. 8.00 -1600\r\nNEDELJE IN PRAZNIKI - ZAPRTO",
-      "zip_code": "2283"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
     {
       "pk": 2316,
       "franchise": 23,
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6210"
+    },
+    {
+      "pk": 2351,
+      "franchise": 5,
+      "name": "Shell Celje Kidričeva",
+      "address": "Kidričeva ulica 40",
+      "lat": 46.234018307787046,
+      "lng": 15.296215827340855,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 2353,
+      "franchise": 5,
+      "name": "Kočevje Reška",
+      "address": "Reška cesta 25a",
+      "lat": 45.63286356949685,
+      "lng": 14.864140348800042,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1330"
+    },
+    {
+      "pk": 2354,
+      "franchise": 5,
+      "name": "SHEL CELJE AERO",
+      "address": "Dečkova cesta 39",
+      "lat": 46.24061678625168,
+      "lng": 15.256515119602888,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 2355,
+      "franchise": 5,
+      "name": "POSTOJNA TRŽAŠKA",
+      "address": "Tržaška cesta 60b",
+      "lat": 45.772716370874754,
+      "lng": 14.200187856694102,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6230"
     }
   ],
   "position": null

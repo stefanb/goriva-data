@@ -1,92 +1,8 @@
 {
-  "count": 557,
+  "count": 553,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
-    {
-      "pk": 2231,
-      "franchise": 1,
-      "name": "PETROL DUL AC - JUG",
-      "address": "DOLENJI PODBORŠT PRI TREB. 50",
-      "lat": 45.898858,
-      "lng": 15.026398,
-      "prices": {
-        "95": 1.74,
-        "dizel": 1.745,
-        "98": null,
-        "100": 1.882,
-        "dizel-premium": 1.934,
-        "avtoplin-lpg": 0.869,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Novo Me",
-      "open_hours": "NON-STOP",
-      "zip_code": "8210"
-    },
-    {
-      "pk": 2232,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
-      "prices": {
-        "95": 1.74,
-        "dizel": 1.745,
-        "98": null,
-        "100": 1.882,
-        "dizel-premium": 1.934,
-        "avtoplin-lpg": 0.869,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2286"
-    },
-    {
-      "pk": 777,
-      "franchise": 2,
-      "name": "BS MOL DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.742,
-        "dizel": 1.747,
-        "98": null,
-        "100": 1.884,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 778,
-      "franchise": 2,
-      "name": "BS MOL DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.742,
-        "dizel": 1.747,
-        "98": null,
-        "100": 1.884,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
     {
       "pk": 781,
       "franchise": 2,
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "24 ur - črpalka brez osebja",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2259,
+      "franchise": 5,
+      "name": "SHELL AJDOVŠČINA",
+      "address": "MIRCE 20",
+      "lat": 45.883317,
+      "lng": 13.891954,
+      "prices": {
+        "95": null,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "5270"
+    },
+    {
+      "pk": 2260,
+      "franchise": 5,
+      "name": "SHELL SEŽANA",
+      "address": "PARTIZANSKA CESTA 79",
+      "lat": 45.703002,
+      "lng": 13.850927,
+      "prices": {
+        "95": null,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 2261,
+      "franchise": 5,
+      "name": "SHELL VRTOJBA",
+      "address": "IC POLJE",
+      "lat": 45.921155,
+      "lng": 13.634505,
+      "prices": {
+        "95": null,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "5290"
+    },
+    {
+      "pk": 2262,
+      "franchise": 5,
+      "name": "SHELL BIČ",
+      "address": "BIČ 11",
+      "lat": 45.924703,
+      "lng": 14.889676,
+      "prices": {
+        "95": null,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "8213"
     }
   ],
   "position": null

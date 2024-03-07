@@ -1,92 +1,8 @@
 {
-  "count": 557,
+  "count": 553,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
-    {
-      "pk": 2351,
-      "franchise": 5,
-      "name": "Shell Celje Kidričeva",
-      "address": "Kidričeva ulica 40",
-      "lat": 46.234018307787046,
-      "lng": 15.296215827340855,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2353,
-      "franchise": 5,
-      "name": "Kočevje Reška",
-      "address": "Reška cesta 25a",
-      "lat": 45.63286356949685,
-      "lng": 14.864140348800042,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1330"
-    },
-    {
-      "pk": 2354,
-      "franchise": 5,
-      "name": "SHEL CELJE AERO",
-      "address": "Dečkova cesta 39",
-      "lat": 46.24061678625168,
-      "lng": 15.256515119602888,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2355,
-      "franchise": 5,
-      "name": "POSTOJNA TRŽAŠKA",
-      "address": "Tržaška cesta 60b",
-      "lat": 45.772716370874754,
-      "lng": 14.200187856694102,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6230"
-    },
     {
       "pk": 2356,
       "franchise": 5,
@@ -215,7 +131,7 @@
     },
     {
       "pk": 863,
-      "franchise": 2,
+      "franchise": 4,
       "name": "BS MOL ŠKOFIJE VZHOD",
       "address": "Sp.Škofije 260",
       "lat": 45.580603,
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "9000"
+    },
+    {
+      "pk": 2019,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA AC - JUG",
+      "address": "BAKOVSKA ULICA 51",
+      "lat": 46.634461,
+      "lng": 16.164346,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.882,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2026,
+      "franchise": 1,
+      "name": "PETROL LORMANJE AC - JUG",
+      "address": "LORMANJE 22C",
+      "lat": 46.564825,
+      "lng": 15.826899,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.882,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.869,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "2230"
+    },
+    {
+      "pk": 2027,
+      "franchise": 1,
+      "name": "PETROL PINCE AC - JUG",
+      "address": "PINCE-MAROF 55",
+      "lat": 46.521752,
+      "lng": 16.51791,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.882,
+        "dizel-premium": 1.934,
+        "avtoplin-lpg": 0.869,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "NON-STOP",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 2030,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - JUG",
+      "address": "POVIR 95",
+      "lat": 45.703393,
+      "lng": 13.940151,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.882,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.869,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Fernetiči -> Ljublja",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
     }
   ],
   "position": null

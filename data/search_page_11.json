@@ -1,92 +1,8 @@
 {
-  "count": 557,
+  "count": 553,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
-    {
-      "pk": 2087,
-      "franchise": 1,
-      "name": "PETROL MORAVČE",
-      "address": "PARTIZANSKA CESTA 18",
-      "lat": 46.13700902,
-      "lng": 14.74115067,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 16:20-19:00\r\nsobote 13:00-18:00\r\nnedelje in prazniki 12:00-13:00",
-      "zip_code": "1251"
-    },
-    {
-      "pk": 2090,
-      "franchise": 1,
-      "name": "PETROL BLAGOVICA",
-      "address": "BLAGOVICA 30",
-      "lat": 46.17650516,
-      "lng": 14.80743334,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 10:30-13:00",
-      "zip_code": "1223"
-    },
-    {
-      "pk": 2091,
-      "franchise": 1,
-      "name": "PETROL BOHINJSKA BISTRICA",
-      "address": "SAVSKA CESTA 22",
-      "lat": 46.27794883,
-      "lng": 13.9514971,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 13:50-20:00",
-      "zip_code": "4264"
-    },
-    {
-      "pk": 2092,
-      "franchise": 1,
-      "name": "PETROL TRZIN",
-      "address": "LJUBLJANSKA CESTA 50",
-      "lat": 46.123204,
-      "lng": 14.553637,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": 1.807,
-        "avtoplin-lpg": 0.839,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 21:00-24:00\r\nsobote 21:00-24:00\r\nnedelje in prazniki 19:00-24:00",
-      "zip_code": "1236"
-    },
     {
       "pk": 2093,
       "franchise": 1,
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2118,
+      "franchise": 1,
+      "name": "PETROL GABROVKA",
+      "address": "KLANEC PRI GABROVKI 12",
+      "lat": 45.995845,
+      "lng": 14.976083,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1274"
+    },
+    {
+      "pk": 2119,
+      "franchise": 1,
+      "name": "PETROL GROSUPLJE",
+      "address": "LJUBLJANSKA CESTA 16A",
+      "lat": 45.958264,
+      "lng": 14.657955,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.839,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 2121,
+      "franchise": 1,
+      "name": "PETROL KAMNIK - PEROVO",
+      "address": "PEROVO 24",
+      "lat": 46.20908766,
+      "lng": 14.60717566,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "1241"
+    },
+    {
+      "pk": 2122,
+      "franchise": 1,
+      "name": "PETROL ŠKOFJA LOKA - KIDRIČEVA JUG",
+      "address": "KIDRIČEVA CESTA 8",
+      "lat": 46.16681875,
+      "lng": 14.31398429,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 21:00-24:00\r\nnedelje in prazniki 20:00-24:00",
+      "zip_code": "4220"
     }
   ],
   "position": null
