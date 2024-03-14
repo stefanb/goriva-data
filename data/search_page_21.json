@@ -1,71 +1,8 @@
 {
-  "count": 553,
+  "count": 550,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
-    {
-      "pk": 777,
-      "franchise": 4,
-      "name": "BS MOL DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.742,
-        "dizel": 1.744,
-        "98": null,
-        "100": 1.898,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": 0.877,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 778,
-      "franchise": 2,
-      "name": "BS MOL DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.742,
-        "dizel": 1.744,
-        "98": null,
-        "100": 1.898,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 781,
-      "franchise": 2,
-      "name": "BS MOL DRAVSKO POLJE JUG",
-      "address": "Gerečja vas 1h",
-      "lat": 46.428962,
-      "lng": 15.794118,
-      "prices": {
-        "95": 1.742,
-        "dizel": 1.744,
-        "98": null,
-        "100": 1.898,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": 0.877,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2288"
-    },
     {
       "pk": 782,
       "franchise": 2,
@@ -527,6 +464,69 @@
       "direction": "",
       "open_hours": "24 ur - črpalka brez osebja",
       "zip_code": "6210"
+    },
+    {
+      "pk": 2261,
+      "franchise": 5,
+      "name": "SHELL VRTOJBA",
+      "address": "IC POLJE",
+      "lat": 45.921155,
+      "lng": 13.634505,
+      "prices": {
+        "95": null,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "5290"
+    },
+    {
+      "pk": 2262,
+      "franchise": 5,
+      "name": "SHELL BIČ",
+      "address": "BIČ 11",
+      "lat": 45.924703,
+      "lng": 14.889676,
+      "prices": {
+        "95": null,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "8213"
+    },
+    {
+      "pk": 2263,
+      "franchise": 5,
+      "name": "SHELL ŠENČUR",
+      "address": "POSLOVNA CONA 12A",
+      "lat": 46.245779,
+      "lng": 14.410096,
+      "prices": {
+        "95": null,
+        "dizel": 1.523,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24 ur - črpalka brez osebja",
+      "zip_code": "4208"
     }
   ],
   "position": null
