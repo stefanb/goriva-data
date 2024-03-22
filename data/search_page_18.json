@@ -1,92 +1,8 @@
 {
-  "count": 550,
+  "count": 546,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
-    {
-      "pk": 2324,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVIS d.o.o.",
-      "address": "Ljubljanska cesta 62",
-      "lat": 45.96802,
-      "lng": 14.66103,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": 1.711,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "VSAK DAN 5,30 do 22,30",
-      "zip_code": "1290"
-    },
-    {
-      "pk": 2332,
-      "franchise": 4,
-      "name": "BS MOL RAVNE",
-      "address": "Dobja vas 18b",
-      "lat": 46.544943013174425,
-      "lng": 14.939777713626901,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": 0.847,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - PET 05:00-23:00\r\nSOB 06:00-23:00\r\nNED IN PRAZNIKI 07:00-22:00",
-      "zip_code": "2390"
-    },
-    {
-      "pk": 2334,
-      "franchise": 5,
-      "name": "ROGAŠKA SLATINA",
-      "address": "Tržišče 12 b",
-      "lat": 46.308,
-      "lng": 15.5665,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek - Sobota 6:00 - 22:00\r\n\r\nNedelja 8:00 - 20:00",
-      "zip_code": "3250"
-    },
-    {
-      "pk": 2335,
-      "franchise": 5,
-      "name": "ŠMARJE PRI JELŠAH",
-      "address": "Celjska cesta 55",
-      "lat": 46.22878,
-      "lng": 15.504,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon\tdo Sob \r\n06:00 - 21:00\r\nNed\t\r\n08:00 - 20:00",
-      "zip_code": "3240"
-    },
     {
       "pk": 2336,
       "franchise": 5,
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2360,
+      "franchise": 5,
+      "name": "Shell Lokev",
+      "address": "Lokev 1a",
+      "lat": 45.66133077329971,
+      "lng": 13.919418145832134,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6219"
+    },
+    {
+      "pk": 2362,
+      "franchise": 5,
+      "name": "Shell MARIBOR PTUJSKA ZAHOD",
+      "address": "Ptujska cesta 104",
+      "lat": 46.535127602458296,
+      "lng": 15.661573380820581,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2363,
+      "franchise": 5,
+      "name": "Shell Trbovlje",
+      "address": "Vodenska cesta 28 A",
+      "lat": 46.14297981487424,
+      "lng": 15.036054161327268,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1420"
+    },
+    {
+      "pk": 2314,
+      "franchise": 22,
+      "name": "BS DEMOL",
+      "address": "Mislinjska Dobrava 49",
+      "lat": 46.459512,
+      "lng": 15.137156,
+      "prices": {
+        "95": 1.536,
+        "dizel": 1.651,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
+      "zip_code": "2383"
     }
   ],
   "position": null

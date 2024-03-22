@@ -1,5 +1,5 @@
 {
-  "count": 550,
+  "count": 546,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "previous": null,
   "results": [
@@ -361,27 +361,6 @@
       "zip_code": "6310"
     },
     {
-      "pk": 799,
-      "franchise": 2,
-      "name": "BS MOL IZOLA SEVER",
-      "address": "Prešernova 2a",
-      "lat": 45.537905,
-      "lng": 13.668631,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 800,
       "franchise": 2,
       "name": "BS MOL KAMNIK",
@@ -446,7 +425,7 @@
     },
     {
       "pk": 807,
-      "franchise": 2,
+      "franchise": 4,
       "name": "BS MOL KOPER ŠMARSKA",
       "address": "Šmarska c. 4a",
       "lat": 45.530207,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "8270"
+    },
+    {
+      "pk": 811,
+      "franchise": 4,
+      "name": "BS MOL KRVAVI POTOK",
+      "address": "Krvavi potok 1",
+      "lat": 45.61885,
+      "lng": 13.910126,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.795,
+        "avtoplin-lpg": 0.847,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6240"
     }
   ],
   "position": null

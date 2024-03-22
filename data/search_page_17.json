@@ -1,92 +1,8 @@
 {
-  "count": 550,
+  "count": 546,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
-    {
-      "pk": 2284,
-      "franchise": 4,
-      "name": "BS MOL HOTIZA",
-      "address": "Ložič 1",
-      "lat": 46.551502,
-      "lng": 16.344579,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-18:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2285,
-      "franchise": 4,
-      "name": "BS MOL LENART",
-      "address": "Kraigherjeva ulica 19",
-      "lat": 46.579295,
-      "lng": 15.834392,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-21:00\r\nsobota 07:00-21:00\r\nnedelja 08:00-20:00\r\nprazniki 08:00-20:00",
-      "zip_code": "2230"
-    },
-    {
-      "pk": 2286,
-      "franchise": 4,
-      "name": "BS MOL RADLJE OB DRAVI",
-      "address": "Mariborska cesta 60",
-      "lat": 46.612815,
-      "lng": 15.232126,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": 0.848,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
-      "zip_code": "2360"
-    },
-    {
-      "pk": 2287,
-      "franchise": 4,
-      "name": "BS MOL LAŠKO",
-      "address": "Celjska cesta 2",
-      "lat": 46.162431,
-      "lng": 15.23171,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.795,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
-      "zip_code": "3270"
-    },
     {
       "pk": 2288,
       "franchise": 13,
@@ -527,6 +443,90 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 06:00-21:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2324,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVIS d.o.o.",
+      "address": "Ljubljanska cesta 62",
+      "lat": 45.96802,
+      "lng": 14.66103,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": 1.711,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "VSAK DAN 5,30 do 22,30",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 2332,
+      "franchise": 4,
+      "name": "BS MOL RAVNE",
+      "address": "Dobja vas 18b",
+      "lat": 46.544943013174425,
+      "lng": 14.939777713626901,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.795,
+        "avtoplin-lpg": 0.847,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 05:00-23:00\r\nSOB 06:00-23:00\r\nNED IN PRAZNIKI 07:00-22:00",
+      "zip_code": "2390"
+    },
+    {
+      "pk": 2334,
+      "franchise": 5,
+      "name": "ROGAŠKA SLATINA",
+      "address": "Tržišče 12 b",
+      "lat": 46.308,
+      "lng": 15.5665,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek - Sobota 6:00 - 22:00\r\n\r\nNedelja 8:00 - 20:00",
+      "zip_code": "3250"
+    },
+    {
+      "pk": 2335,
+      "franchise": 5,
+      "name": "ŠMARJE PRI JELŠAH",
+      "address": "Celjska cesta 55",
+      "lat": 46.22878,
+      "lng": 15.504,
+      "prices": {
+        "95": 1.491,
+        "dizel": 1.523,
+        "98": null,
+        "100": 1.789,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon\tdo Sob \r\n06:00 - 21:00\r\nNed\t\r\n08:00 - 20:00",
+      "zip_code": "3240"
     }
   ],
   "position": null

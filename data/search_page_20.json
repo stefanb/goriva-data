@@ -1,92 +1,8 @@
 {
-  "count": 550,
+  "count": 546,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
-    {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.74,
-        "dizel": 1.745,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.931,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
-    },
-    {
-      "pk": 2059,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA AC - BARJE SEVER",
-      "address": "CESTA DVEH CESARJEV 71",
-      "lat": 46.029136,
-      "lng": 14.481739,
-      "prices": {
-        "95": 1.74,
-        "dizel": 1.745,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.931,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2060,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA AC - BARJE JUG",
-      "address": "CESTA DVEH CESARJEV 73",
-      "lat": 46.028806,
-      "lng": 14.478422,
-      "prices": {
-        "95": 1.74,
-        "dizel": 1.745,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.931,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2088,
-      "franchise": 1,
-      "name": "PETROL LOM AC - ZAHOD",
-      "address": "NOTRANJSKA CESTA 75",
-      "lat": 45.898796,
-      "lng": 14.254887,
-      "prices": {
-        "95": 1.74,
-        "dizel": 1.745,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.931,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Koper",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
     {
       "pk": 2089,
       "franchise": 1,
@@ -509,7 +425,7 @@
     },
     {
       "pk": 781,
-      "franchise": 2,
+      "franchise": 4,
       "name": "BS MOL DRAVSKO POLJE JUG",
       "address": "Gerečja vas 1h",
       "lat": 46.428962,
@@ -527,6 +443,90 @@
       "direction": "Zagreb",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "2288"
+    },
+    {
+      "pk": 782,
+      "franchise": 4,
+      "name": "BS MOL DRAVSKO POLJE SEVER",
+      "address": "Gerečja vas 1g",
+      "lat": 46.428104,
+      "lng": 15.796613,
+      "prices": {
+        "95": 1.742,
+        "dizel": 1.747,
+        "98": null,
+        "100": 1.884,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": 0.848,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2288"
+    },
+    {
+      "pk": 790,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI JUG",
+      "address": "Partizanska c. 98",
+      "lat": 45.704437,
+      "lng": 13.846496,
+      "prices": {
+        "95": 1.742,
+        "dizel": 1.744,
+        "98": null,
+        "100": 1.898,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 791,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI SEVER",
+      "address": "Partizanska c. 130",
+      "lat": 45.70492,
+      "lng": 13.84554,
+      "prices": {
+        "95": 1.742,
+        "dizel": 1.744,
+        "98": null,
+        "100": 1.898,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Benetke",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 793,
+      "franchise": 4,
+      "name": "BS MOL GRABONOŠ",
+      "address": "Grabonoš 4c",
+      "lat": 46.584129,
+      "lng": 16.008947,
+      "prices": {
+        "95": 1.742,
+        "dizel": 1.744,
+        "98": null,
+        "100": 1.898,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Lenti",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9244"
     }
   ],
   "position": null

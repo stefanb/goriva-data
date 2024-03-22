@@ -1,95 +1,11 @@
 {
-  "count": 550,
+  "count": 546,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2360,
-      "franchise": 5,
-      "name": "Shell Lokev",
-      "address": "Lokev 1a",
-      "lat": 45.66133077329971,
-      "lng": 13.919418145832134,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6219"
-    },
-    {
-      "pk": 2362,
-      "franchise": 5,
-      "name": "Shell MARIBOR PTUJSKA ZAHOD",
-      "address": "Ptujska cesta 104",
-      "lat": 46.535127602458296,
-      "lng": 15.661573380820581,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2363,
-      "franchise": 5,
-      "name": "Shell Trbovlje",
-      "address": "Vodenska cesta 28 A",
-      "lat": 46.14297981487424,
-      "lng": 15.036054161327268,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1420"
-    },
-    {
-      "pk": 2314,
-      "franchise": 22,
-      "name": "BS DEMOL",
-      "address": "Mislinjska Dobrava 49",
-      "lat": 46.459512,
-      "lng": 15.137156,
-      "prices": {
-        "95": 1.536,
-        "dizel": 1.651,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
-      "zip_code": "2383"
-    },
-    {
       "pk": 804,
-      "franchise": 2,
+      "franchise": 4,
       "name": "BS MOL KOPER BONIFIKA",
       "address": "Istrska cesta 14",
       "lat": 45.5404,
@@ -131,7 +47,7 @@
     },
     {
       "pk": 864,
-      "franchise": 2,
+      "franchise": 4,
       "name": "BS MOL ŠKOFIJE ZAHOD",
       "address": "Sp.Škofije 256a",
       "lat": 45.579851,
@@ -527,6 +443,90 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "6210"
+    },
+    {
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 1.931,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
+    },
+    {
+      "pk": 2059,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA AC - BARJE SEVER",
+      "address": "CESTA DVEH CESARJEV 71",
+      "lat": 46.029136,
+      "lng": 14.481739,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 1.931,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2060,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA AC - BARJE JUG",
+      "address": "CESTA DVEH CESARJEV 73",
+      "lat": 46.028806,
+      "lng": 14.478422,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 1.931,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2088,
+      "franchise": 1,
+      "name": "PETROL LOM AC - ZAHOD",
+      "address": "NOTRANJSKA CESTA 75",
+      "lat": 45.898796,
+      "lng": 14.254887,
+      "prices": {
+        "95": 1.74,
+        "dizel": 1.745,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 1.931,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Koper",
+      "open_hours": "NON-STOP",
+      "zip_code": "1370"
     }
   ],
   "position": null
