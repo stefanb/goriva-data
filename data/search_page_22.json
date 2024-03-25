@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2269,
+      "franchise": 10,
+      "name": "Butan plin - črpalka avtoplina v Ljubljani",
+      "address": "Verovškova ulica 70",
+      "lat": 46.080815,
+      "lng": 14.501862,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.842,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON – PET:               7.45 – 18.00\r\nSOB:                         7.45 – 13.00\r\nNED IN PRAZNIKI:    zaprto",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2270,
+      "franchise": 10,
+      "name": "Butan plin - črpalka avtoplina v Izoli",
+      "address": "Polje 6a",
+      "lat": 45.537987,
+      "lng": 13.670166,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.842,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-PET:             8.00 – 16.00\r\nSOB:                     zaprto\r\nNED, PRAZNIKI:   zaprto",
+      "zip_code": "6310"
+    },
+    {
       "pk": 2273,
       "franchise": 11,
       "name": "ECO OIL MARIBOR",
@@ -12,7 +54,7 @@
       "lng": 15.6574563,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -33,7 +75,7 @@
       "lng": 16.3199527,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -54,7 +96,7 @@
       "lng": 13.855647,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -75,7 +117,7 @@
       "lng": 14.659423828125,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -96,7 +138,7 @@
       "lng": 13.8604755401611,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -159,7 +201,7 @@
       "lng": 13.6284418,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -222,12 +264,12 @@
       "lng": 14.16884039205976,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.17
+        "KOEL": 1.172
       },
       "distance": null,
       "direction": "",
@@ -306,7 +348,7 @@
       "lng": 14.07077407836914,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -369,7 +411,7 @@
       "lng": 15.65166,
       "prices": {
         "95": null,
-        "dizel": 1.523,
+        "dizel": 1.527,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -401,48 +443,6 @@
       "direction": "",
       "open_hours": "PONEDELJEK- PETEK 7:00-17:00\r\nSOBOTA: 7:30-12:00\r\nNEDELJA& PRAZNIKI: ZAPRTO",
       "zip_code": "8000"
-    },
-    {
-      "pk": 2357,
-      "franchise": 5,
-      "name": "Shell TEPANJE",
-      "address": "Tepanje 4b",
-      "lat": 46.34088409645317,
-      "lng": 15.469610360423939,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3210"
-    },
-    {
-      "pk": 2361,
-      "franchise": 5,
-      "name": "Shell KOMENDA",
-      "address": "Potok pri Komendi 8",
-      "lat": 46.20581146877878,
-      "lng": 14.523937545251142,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1218"
     }
   ],
   "position": null
