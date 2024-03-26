@@ -67,27 +67,6 @@
       "zip_code": "6250"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.491,
-        "dizel": 1.523,
-        "98": 1.761,
-        "100": 1.761,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6240"
+    },
+    {
+      "pk": 809,
+      "franchise": 2,
+      "name": "BS MOL KRANJ PRIMSKOVO",
+      "address": "Cesta Staneta Žagarja 53c",
+      "lat": 46.24277,
+      "lng": 14.371453,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.527,
+        "98": null,
+        "100": 1.818,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4000"
     }
   ],
   "position": null

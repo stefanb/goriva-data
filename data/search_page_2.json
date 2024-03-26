@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 809,
-      "franchise": 2,
-      "name": "BS MOL KRANJ PRIMSKOVO",
-      "address": "Cesta Staneta Žagarja 53c",
-      "lat": 46.24277,
-      "lng": 14.371453,
-      "prices": {
-        "95": 1.519,
-        "dizel": 1.527,
-        "98": null,
-        "100": 1.818,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4000"
-    },
-    {
       "pk": 810,
       "franchise": 2,
       "name": "BS MOL KRŠKO",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 851,
+      "franchise": 2,
+      "name": "BS MOL SENOVO",
+      "address": "Titova ulica 101c",
+      "lat": 46.02489,
+      "lng": 15.47797,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.527,
+        "98": null,
+        "100": 1.818,
+        "dizel-premium": 1.797,
+        "avtoplin-lpg": null,
+        "KOEL": 0.664
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "8281"
     }
   ],
   "position": null
