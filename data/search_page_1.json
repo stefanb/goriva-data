@@ -1,5 +1,5 @@
 {
-  "count": 550,
+  "count": 548,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "previous": null,
   "results": [
@@ -26,7 +26,7 @@
     },
     {
       "pk": 797,
-      "franchise": 2,
+      "franchise": 4,
       "name": "BS MOL ILIRSKA BISTRICA",
       "address": "Bazoviška 45",
       "lat": 45.559604,
@@ -107,27 +107,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 766,
-      "franchise": 2,
-      "name": "BS MOL AJŠEVICA",
-      "address": "Loke 40",
-      "lat": 45.95337,
-      "lng": 13.69157,
-      "prices": {
-        "95": 1.519,
-        "dizel": 1.527,
-        "98": null,
-        "100": 1.818,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ned-Čet 06:00-22:00; Pet-Sob 06:00-24:00",
-      "zip_code": "5000"
     },
     {
       "pk": 769,
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "8270"
+    },
+    {
+      "pk": 811,
+      "franchise": 4,
+      "name": "BS MOL KRVAVI POTOK",
+      "address": "Krvavi potok 1",
+      "lat": 45.61885,
+      "lng": 13.910126,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.527,
+        "98": null,
+        "100": 1.818,
+        "dizel-premium": 1.797,
+        "avtoplin-lpg": 0.847,
+        "KOEL": 1.172
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
+      "zip_code": "6240"
     }
   ],
   "position": null

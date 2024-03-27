@@ -1,50 +1,8 @@
 {
-  "count": 550,
+  "count": 548,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
-    {
-      "pk": 2088,
-      "franchise": 1,
-      "name": "PETROL LOM AC - ZAHOD",
-      "address": "NOTRANJSKA CESTA 75",
-      "lat": 45.898796,
-      "lng": 14.254887,
-      "prices": {
-        "95": 1.768,
-        "dizel": 1.75,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 1.933,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Koper",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
-      "pk": 2089,
-      "franchise": 1,
-      "name": "PETROL LOM AC - VZHOD",
-      "address": "NOTRANJSKA CESTA 77",
-      "lat": 45.89814,
-      "lng": 14.256533,
-      "prices": {
-        "95": 1.768,
-        "dizel": 1.75,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 1.933,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
     {
       "pk": 2095,
       "franchise": 1,
@@ -527,6 +485,48 @@
       "direction": "Benetke",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6210"
+    },
+    {
+      "pk": 793,
+      "franchise": 4,
+      "name": "BS MOL GRABONOŠ",
+      "address": "Grabonoš 4c",
+      "lat": 46.584129,
+      "lng": 16.008947,
+      "prices": {
+        "95": 1.769,
+        "dizel": 1.748,
+        "98": null,
+        "100": 1.938,
+        "dizel-premium": 1.927,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Lenti",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9244"
+    },
+    {
+      "pk": 796,
+      "franchise": 2,
+      "name": "BS MOL GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.769,
+        "dizel": 1.748,
+        "98": null,
+        "100": 1.938,
+        "dizel-premium": 1.927,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1290"
     }
   ],
   "position": null
