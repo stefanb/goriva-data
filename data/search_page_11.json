@@ -403,27 +403,6 @@
       "zip_code": "1354"
     },
     {
-      "pk": 2128,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - ČRNUČE, ŠTAJERSKA",
-      "address": "ŠTAJERSKA CESTA 10",
-      "lat": 46.10584664,
-      "lng": 14.5451953,
-      "prices": {
-        "95": 1.519,
-        "dizel": 1.527,
-        "98": null,
-        "100": 1.818,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1231"
-    },
-    {
       "pk": 2129,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - LETALIŠKA",
@@ -527,6 +506,27 @@
       "direction": "Ljubljana -> Maribor",
       "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "1230"
+    },
+    {
+      "pk": 2134,
+      "franchise": 1,
+      "name": "PETROL ŽEJE PRI KOMENDI",
+      "address": "POD LIPAMI 3",
+      "lat": 46.19219144,
+      "lng": 14.52190652,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.527,
+        "98": null,
+        "100": 1.818,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "1218"
     }
   ],
   "position": null

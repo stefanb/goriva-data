@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2339,
-      "franchise": 5,
-      "name": "Žalec",
-      "address": "Mala Pirešica 22",
-      "lat": 46.266973,
-      "lng": 15.189107,
-      "prices": {
-        "95": 1.519,
-        "dizel": 1.527,
-        "98": null,
-        "100": 1.849,
-        "dizel-premium": 1.909,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "0-24",
-      "zip_code": "3301"
-    },
-    {
       "pk": 2340,
       "franchise": 5,
       "name": "KOZINA",
@@ -527,6 +506,27 @@
       "direction": "Portorož",
       "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 863,
+      "franchise": 4,
+      "name": "BS MOL ŠKOFIJE VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 1.593,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.868,
+        "dizel-premium": 1.847,
+        "avtoplin-lpg": 0.847,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
     }
   ],
   "position": null
