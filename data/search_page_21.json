@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 791,
-      "franchise": 2,
-      "name": "BS MOL FERNETIČI SEVER",
-      "address": "Partizanska c. 130",
-      "lat": 45.70492,
-      "lng": 13.84554,
-      "prices": {
-        "95": 1.792,
-        "dizel": 1.763,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": 1.935,
-        "avtoplin-lpg": 0.877,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Benetke",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 793,
       "franchise": 4,
       "name": "BS MOL GRABONOŠ",
@@ -275,6 +254,27 @@
       "direction": "smer Maribor",
       "open_hours": "pon - ned 00:00 - 24:00",
       "zip_code": "2230"
+    },
+    {
+      "pk": 2352,
+      "franchise": 5,
+      "name": "Koper Bertoki",
+      "address": "Cesta med vinogradi 52",
+      "lat": 45.55542689115159,
+      "lng": 13.78089458948286,
+      "prices": {
+        "95": 1.799,
+        "dizel": 1.764,
+        "98": null,
+        "100": 1.969,
+        "dizel-premium": 1.999,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
     },
     {
       "pk": 784,
