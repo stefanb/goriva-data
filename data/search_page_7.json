@@ -4,48 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1979,
-      "franchise": 1,
-      "name": "PETROL VUČJA VAS",
-      "address": "BUČEČOVCI 4B",
-      "lat": 46.590862,
-      "lng": 16.107841,
-      "prices": {
-        "95": 1.542,
-        "dizel": 1.542,
-        "98": null,
-        "100": 1.835,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.18
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-19:00",
-      "zip_code": "9242"
-    },
-    {
-      "pk": 1980,
-      "franchise": 1,
-      "name": "PETROL DORNBERK",
-      "address": "DRAGA 18A",
-      "lat": 45.88507011,
-      "lng": 13.73292985,
-      "prices": {
-        "95": 1.542,
-        "dizel": 1.542,
-        "98": null,
-        "100": 1.835,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.18
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "5294"
-    },
-    {
       "pk": 1981,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - GRČNA",
@@ -527,6 +485,48 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "6310"
+    },
+    {
+      "pk": 2006,
+      "franchise": 1,
+      "name": "PETROL HRPELJE",
+      "address": "REŠKA CESTA 51",
+      "lat": 45.604489,
+      "lng": 13.949959,
+      "prices": {
+        "95": 1.542,
+        "dizel": 1.542,
+        "98": null,
+        "100": 1.835,
+        "dizel-premium": 1.814,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6240"
+    },
+    {
+      "pk": 2007,
+      "franchise": 1,
+      "name": "PETROL ŠTALONI",
+      "address": "KOZARNO 1B",
+      "lat": 46.00171653,
+      "lng": 13.51782499,
+      "prices": {
+        "95": 1.542,
+        "dizel": 1.542,
+        "98": null,
+        "100": 1.835,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": 1.18
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "5212"
     }
   ],
   "position": null
