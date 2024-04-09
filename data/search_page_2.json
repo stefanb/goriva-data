@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 806,
-      "franchise": 2,
-      "name": "BS MOL KOPER ANKARANSKA",
-      "address": "Ankaranska c. 5d",
-      "lat": 45.545957,
-      "lng": 13.742681,
-      "prices": {
-        "95": 1.542,
-        "dizel": 1.542,
-        "98": null,
-        "100": 1.835,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
-      "zip_code": "6000"
-    },
-    {
       "pk": 807,
       "franchise": 4,
       "name": "BS MOL KOPER ŠMARSKA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6230"
+    },
+    {
+      "pk": 846,
+      "franchise": 2,
+      "name": "BS MOL RAKEK",
+      "address": "Partizanska 73a",
+      "lat": 45.808113,
+      "lng": 14.329101,
+      "prices": {
+        "95": 1.542,
+        "dizel": 1.542,
+        "98": null,
+        "100": 1.835,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.18
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1381"
     }
   ],
   "position": null
