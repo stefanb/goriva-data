@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2338,
+      "franchise": 5,
+      "name": "Murska Sobota Lendavska",
+      "address": "Lendavska ulica 75",
+      "lat": 46.667481,
+      "lng": 16.176773,
+      "prices": {
+        "95": 1.542,
+        "dizel": 1.542,
+        "98": null,
+        "100": 1.872,
+        "dizel-premium": 1.924,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h Nedelja: 8-20h",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2339,
       "franchise": 5,
       "name": "Žalec",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2365,
-      "franchise": 5,
-      "name": "Shell MARIBOR BOHOVA",
-      "address": "Tržaška cesta 83",
-      "lat": 46.51807271424088,
-      "lng": 15.651544379912487,
-      "prices": {
-        "95": 1.542,
-        "dizel": 1.542,
-        "98": null,
-        "100": 1.872,
-        "dizel-premium": 1.924,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
     }
   ],
   "position": null
