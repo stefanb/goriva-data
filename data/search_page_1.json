@@ -382,27 +382,6 @@
       "zip_code": "4270"
     },
     {
-      "pk": 2313,
-      "franchise": 14,
-      "name": "West Oil BS Zavrč",
-      "address": "Zavrč 8c",
-      "lat": 46.3896077,
-      "lng": 16.05135585,
-      "prices": {
-        "95": 1.542,
-        "dizel": 1.542,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.18
-      },
-      "distance": null,
-      "direction": "PTUJ",
-      "open_hours": "PON. - PET. 8.00 -18.00\r\nSOB. 8.00 -1600\r\nNEDELJE IN PRAZNIKI - ZAPRTO",
-      "zip_code": "2283"
-    },
-    {
       "pk": 769,
       "franchise": 2,
       "name": "BS MOL BRESTOVICA",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "1262"
+    },
+    {
+      "pk": 780,
+      "franchise": 2,
+      "name": "BS MOL DRAVOGRAD",
+      "address": "Koroška c. 49",
+      "lat": 46.59033,
+      "lng": 15.01542,
+      "prices": {
+        "95": 1.56,
+        "dizel": 1.527,
+        "98": null,
+        "100": 1.853,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.17
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-20:00; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2370"
     }
   ],
   "position": null
