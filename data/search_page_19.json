@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2371,
+      "franchise": 5,
+      "name": "AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.953170561531195,
+      "lng": 13.691872647114305,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "5000"
+    },
+    {
       "pk": 2372,
       "franchise": 5,
       "name": "ZG. POLSKAVA",
@@ -107,27 +128,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1381"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.527,
-        "98": 1.852,
-        "100": 1.852,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2313,
