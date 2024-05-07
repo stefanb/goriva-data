@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 777,
-      "franchise": 4,
-      "name": "BS MOL DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.791,
-        "dizel": 1.705,
-        "98": null,
-        "100": 1.958,
-        "dizel-premium": 1.885,
-        "avtoplin-lpg": 0.877,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
       "pk": 778,
       "franchise": 2,
       "name": "BS MOL DOBRENJE ZAHOD",
@@ -380,6 +359,27 @@
       "direction": "smer Maribor",
       "open_hours": "pon - ned 00:00 - 24:00",
       "zip_code": "2230"
+    },
+    {
+      "pk": 2352,
+      "franchise": 5,
+      "name": "Koper Bertoki",
+      "address": "Cesta med vinogradi 52",
+      "lat": 45.55542689115159,
+      "lng": 13.78089458948286,
+      "prices": {
+        "95": 1.799,
+        "dizel": 1.699,
+        "98": null,
+        "100": 1.969,
+        "dizel-premium": 1.999,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
     },
     {
       "pk": 784,
