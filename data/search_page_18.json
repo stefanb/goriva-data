@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2345,
+      "franchise": 5,
+      "name": "DRNOVO",
+      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
+      "lat": 45.92022102331869,
+      "lng": 15.47376189244999,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": 1.869,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
+      "zip_code": "8273"
+    },
+    {
+      "pk": 2346,
+      "franchise": 5,
+      "name": "Celje Mariborska",
+      "address": "Mariborska 128",
+      "lat": 46.24423316065561,
+      "lng": 15.278462363239953,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": 1.924,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2347,
       "franchise": 5,
       "name": "PRESTRANEK",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "5000"
-    },
-    {
-      "pk": 2372,
-      "franchise": 5,
-      "name": "ZG. POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43088480445796,
-      "lng": 15.627126931204163,
-      "prices": {
-        "95": 1.541,
-        "dizel": 1.484,
-        "98": null,
-        "100": 1.839,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2314"
-    },
-    {
-      "pk": 2078,
-      "franchise": 1,
-      "name": "PETROL JESENICE - MARŠALA TITA",
-      "address": "CESTA MARŠALA TITA 113",
-      "lat": 46.44194598,
-      "lng": 14.03643803,
-      "prices": {
-        "95": 1.542,
-        "dizel": 1.484,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.127
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "4270"
     }
   ],
   "position": null
