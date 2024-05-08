@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 778,
-      "franchise": 2,
-      "name": "BS MOL DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.791,
-        "dizel": 1.705,
-        "98": null,
-        "100": 1.958,
-        "dizel-premium": 1.885,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
       "pk": 781,
       "franchise": 4,
       "name": "BS MOL DRAVSKO POLJE JUG",
@@ -506,6 +485,27 @@
       "direction": "",
       "open_hours": "zaprto zaradi obnove predvidoma do 23.6.2024",
       "zip_code": "3331"
+    },
+    {
+      "pk": 2224,
+      "franchise": 1,
+      "name": "PETROL LOŠKI POTOK",
+      "address": "MALI LOG 2B",
+      "lat": 45.717099,
+      "lng": 14.58622,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Predvidoma do 20.05. obratuje brez prodaje goriv zaradi prenove.\r\n-------------------------------------------------------------------------\r\nvsak delavnik 12:00-16:00\r\nsobote 08:00-12:00",
+      "zip_code": "1318"
     },
     {
       "pk": 2258,

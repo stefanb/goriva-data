@@ -4,27 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2343,
-      "franchise": 5,
-      "name": "NOVO MESTO",
-      "address": "Mirnopeška 4, 8000 Novo Mesto",
-      "lat": 45.821327325964894,
-      "lng": 15.150560521690572,
-      "prices": {
-        "95": 1.541,
-        "dizel": 1.484,
-        "98": null,
-        "100": 1.839,
-        "dizel-premium": 1.869,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": "8000"
-    },
-    {
       "pk": 2344,
       "franchise": 5,
       "name": "ARCLIN",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6320"
+    },
+    {
+      "pk": 2370,
+      "franchise": 5,
+      "name": "STOJNCI",
+      "address": "Stojnci 24",
+      "lat": 46.38048175449777,
+      "lng": 15.972530744906699,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2281"
     }
   ],
   "position": null
