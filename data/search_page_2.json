@@ -17,7 +17,7 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "Koper",
@@ -101,7 +101,7 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -248,7 +248,7 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "Koper",
@@ -290,7 +290,7 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -311,7 +311,7 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -395,7 +395,7 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -422,6 +422,27 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6230"
+    },
+    {
+      "pk": 846,
+      "franchise": 4,
+      "name": "BS MOL RAKEK",
+      "address": "Partizanska 73a",
+      "lat": 45.808113,
+      "lng": 14.329101,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.838,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.127
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1381"
     },
     {
       "pk": 849,
@@ -458,7 +479,7 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -500,33 +521,12 @@
         "100": 1.838,
         "dizel-premium": 1.758,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6210"
-    },
-    {
-      "pk": 854,
-      "franchise": 4,
-      "name": "BS MOL SLOVENSKA BISTRICA ŽOLGARJEVA",
-      "address": "Žolgarjeva ulica 16",
-      "lat": 46.385322,
-      "lng": 15.571972,
-      "prices": {
-        "95": 1.541,
-        "dizel": 1.484,
-        "98": null,
-        "100": 1.838,
-        "dizel-premium": 1.758,
-        "avtoplin-lpg": null,
-        "KOEL": 1.127
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2310"
     }
   ],
   "position": null

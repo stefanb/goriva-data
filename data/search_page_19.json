@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2370,
+      "franchise": 5,
+      "name": "STOJNCI",
+      "address": "Stojnci 24",
+      "lat": 46.38048175449777,
+      "lng": 15.972530744906699,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2281"
+    },
+    {
       "pk": 2371,
       "franchise": 5,
       "name": "AJŠEVICA",
@@ -67,27 +88,6 @@
       "zip_code": "2342"
     },
     {
-      "pk": 846,
-      "franchise": 4,
-      "name": "BS MOL RAKEK",
-      "address": "Partizanska 73a",
-      "lat": 45.808113,
-      "lng": 14.329101,
-      "prices": {
-        "95": 1.56,
-        "dizel": 1.527,
-        "98": null,
-        "100": 1.853,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.17
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "1381"
-    },
-    {
       "pk": 804,
       "franchise": 4,
       "name": "BS MOL KOPER BONIFIKA",
@@ -101,7 +101,7 @@
         "100": 1.888,
         "dizel-premium": 1.808,
         "avtoplin-lpg": 0.827,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "Portorož",
@@ -122,7 +122,7 @@
         "100": 1.888,
         "dizel-premium": 1.808,
         "avtoplin-lpg": 0.827,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "Trst",
@@ -143,7 +143,7 @@
         "100": 1.888,
         "dizel-premium": 1.808,
         "avtoplin-lpg": null,
-        "KOEL": 1.127
+        "KOEL": null
       },
       "distance": null,
       "direction": "Koper",

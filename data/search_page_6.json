@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 1958,
+      "franchise": 1,
+      "name": "PETROL KANAL OB SOČI",
+      "address": "KIDRIČEVA CESTA 10A",
+      "lat": 46.08786527,
+      "lng": 13.63259475,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.837,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.127
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 17:30-20:00",
+      "zip_code": "5213"
+    },
+    {
       "pk": 1959,
       "franchise": 1,
       "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-16:00",
       "zip_code": "5274"
-    },
-    {
-      "pk": 1988,
-      "franchise": 1,
-      "name": "PETROL DESKLE",
-      "address": "SREBRNIČEVA ULICA 4",
-      "lat": 46.05406598,
-      "lng": 13.61904093,
-      "prices": {
-        "95": 1.541,
-        "dizel": 1.484,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.127
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "5210"
     }
   ],
   "position": null
