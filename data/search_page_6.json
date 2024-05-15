@@ -46,27 +46,6 @@
       "zip_code": "5290"
     },
     {
-      "pk": 1960,
-      "franchise": 1,
-      "name": "PETROL MIREN",
-      "address": "MIREN 13D",
-      "lat": 45.898043,
-      "lng": 13.608726,
-      "prices": {
-        "95": 1.541,
-        "dizel": 1.484,
-        "98": null,
-        "100": 1.837,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5291"
-    },
-    {
       "pk": 1961,
       "franchise": 1,
       "name": "PETROL LJUTOMER",
@@ -527,6 +506,27 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "5230"
+    },
+    {
+      "pk": 1987,
+      "franchise": 1,
+      "name": "PETROL ČRNI VRH",
+      "address": "ČRNI VRH 121",
+      "lat": 45.92556913,
+      "lng": 14.05336933,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.127
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-16:00",
+      "zip_code": "5274"
     }
   ],
   "position": null
