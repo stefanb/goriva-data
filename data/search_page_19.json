@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2369,
+      "franchise": 5,
+      "name": "LUCIJA VZHOD",
+      "address": "Vinjole 29b",
+      "lat": 45.50086689761921,
+      "lng": 13.610492852317408,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6320"
+    },
+    {
       "pk": 2370,
       "franchise": 5,
       "name": "STOJNCI",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Fernetiči -> Ljublja",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.79,
-        "dizel": 1.706,
-        "98": null,
-        "100": 1.958,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "6210"
     }
