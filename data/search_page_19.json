@@ -67,6 +67,27 @@
       "zip_code": "2314"
     },
     {
+      "pk": 2374,
+      "franchise": 4,
+      "name": "BS MOL LJUTOMER",
+      "address": "Kolodvorska 7a",
+      "lat": 46.5289,
+      "lng": 16.19006,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.838,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.127
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
+      "zip_code": "9240"
+    },
+    {
       "pk": 2327,
       "franchise": 15,
       "name": "DISCONT OiL - BS Bezena",
@@ -504,27 +525,6 @@
       },
       "distance": null,
       "direction": "Fernetiči -> Ljublja",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.79,
-        "dizel": 1.706,
-        "98": null,
-        "100": 1.958,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.869,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "6210"
     }
