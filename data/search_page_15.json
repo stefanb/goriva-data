@@ -109,6 +109,27 @@
       "zip_code": "1336"
     },
     {
+      "pk": 2224,
+      "franchise": 1,
+      "name": "PETROL LOŠKI POTOK",
+      "address": "MALI LOG 2B",
+      "lat": 45.717099,
+      "lng": 14.58622,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.127
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Predvidoma do 20.05. obratuje brez prodaje goriv zaradi prenove.\r\n-------------------------------------------------------------------------\r\nvsak delavnik 12:00-16:00\r\nsobote 08:00-12:00",
+      "zip_code": "1318"
+    },
+    {
       "pk": 2225,
       "franchise": 1,
       "name": "PETROL NOVO MESTO - TOPLIŠKA",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8342"
-    },
-    {
-      "pk": 2249,
-      "franchise": 3,
-      "name": "BS MAXEN MEŽICA",
-      "address": "Mariborska cesta bš",
-      "lat": 46.5236096,
-      "lng": 14.8536976,
-      "prices": {
-        "95": 1.541,
-        "dizel": 1.484,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2392"
     }
   ],
   "position": null

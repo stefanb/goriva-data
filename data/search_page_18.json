@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2342,
+      "franchise": 5,
+      "name": "Senožeti",
+      "address": "Senožeti 93, 1262 Senožeti",
+      "lat": 46.088862059954124,
+      "lng": 14.716871893530739,
+      "prices": {
+        "95": 1.541,
+        "dizel": 1.484,
+        "98": null,
+        "100": 1.839,
+        "dizel-premium": 1.869,
+        "avtoplin-lpg": null,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": ""
+    },
+    {
       "pk": 2343,
       "franchise": 5,
       "name": "NOVO MESTO",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2310"
-    },
-    {
-      "pk": 2369,
-      "franchise": 5,
-      "name": "LUCIJA VZHOD",
-      "address": "Vinjole 29b",
-      "lat": 45.50086689761921,
-      "lng": 13.610492852317408,
-      "prices": {
-        "95": 1.541,
-        "dizel": 1.484,
-        "98": null,
-        "100": 1.839,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6320"
     }
   ],
   "position": null
