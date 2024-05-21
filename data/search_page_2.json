@@ -4,6 +4,27 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 815,
+      "franchise": 4,
+      "name": "BS MOL LITIJA",
+      "address": "Zasavska c. 1",
+      "lat": 46.058713,
+      "lng": 14.832858,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.462,
+        "98": null,
+        "100": 1.755,
+        "dizel-premium": 1.734,
+        "avtoplin-lpg": null,
+        "KOEL": 1.103
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1270"
+    },
+    {
       "pk": 816,
       "franchise": 4,
       "name": "BS MOL LJUBLJANA LETALIŠKA",
@@ -17,7 +38,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -164,7 +185,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "Koper",
@@ -227,7 +248,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -311,7 +332,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -395,7 +416,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -416,7 +437,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -437,7 +458,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -458,7 +479,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -479,7 +500,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -500,33 +521,12 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": 0.827,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "Novo Mesto",
       "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
       "zip_code": "8274"
-    },
-    {
-      "pk": 857,
-      "franchise": 4,
-      "name": "BS MOL SPODNJA IDRIJA",
-      "address": "Vojkova ulica 24",
-      "lat": 46.01699,
-      "lng": 14.0288,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.734,
-        "avtoplin-lpg": null,
-        "KOEL": 1.103
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "5280"
     }
   ],
   "position": null

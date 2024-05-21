@@ -4,6 +4,27 @@
   "previous": null,
   "results": [
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.494,
+        "dizel": 1.439,
+        "98": 1.739,
+        "100": 1.739,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.769,
+        "KOEL": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 769,
       "franchise": 2,
       "name": "BS MOL BRESTOVICA",
@@ -227,7 +248,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -290,7 +311,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -332,7 +353,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -374,7 +395,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -395,7 +416,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "",
@@ -437,7 +458,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "Trst",
@@ -458,7 +479,7 @@
         "100": 1.755,
         "dizel-premium": 1.734,
         "avtoplin-lpg": null,
-        "KOEL": 1.103
+        "KOEL": null
       },
       "distance": null,
       "direction": "Koper",
@@ -506,27 +527,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "9231"
-    },
-    {
-      "pk": 815,
-      "franchise": 4,
-      "name": "BS MOL LITIJA",
-      "address": "Zasavska c. 1",
-      "lat": 46.058713,
-      "lng": 14.832858,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.734,
-        "avtoplin-lpg": null,
-        "KOEL": 1.103
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1270"
     }
   ],
   "position": null
