@@ -4,6 +4,48 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2304,
+      "franchise": 19,
+      "name": "Bencinski servis Velika Pirešica",
+      "address": "Velika Pirešica 60",
+      "lat": 46.28633117675781,
+      "lng": 15.176063537597656,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.462,
+        "98": 1.711,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.103
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.00",
+      "zip_code": "3310"
+    },
+    {
+      "pk": 2305,
+      "franchise": 19,
+      "name": "Bencinski servis Škofja Loka",
+      "address": "Grenc 57",
+      "lat": 46.1730598,
+      "lng": 14.3212867,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.462,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.79,
+        "KOEL": 1.103
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.00",
+      "zip_code": "4220"
+    },
+    {
       "pk": 2306,
       "franchise": 19,
       "name": "Bencinski servis Juršinci",
@@ -485,48 +527,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6210"
-    },
-    {
-      "pk": 2351,
-      "franchise": 5,
-      "name": "Shell Celje Kidričeva",
-      "address": "Kidričeva ulica 40",
-      "lat": 46.234018307787046,
-      "lng": 15.296215827340855,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": 1.839,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2353,
-      "franchise": 5,
-      "name": "Kočevje Reška",
-      "address": "Reška cesta 25a",
-      "lat": 45.63286356949685,
-      "lng": 14.864140348800042,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.495,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1330"
     }
   ],
   "position": null
