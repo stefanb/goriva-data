@@ -4,28 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 782,
-      "franchise": 4,
-      "name": "BS MOL DRAVSKO POLJE SEVER",
-      "address": "Gerečja vas 1g",
-      "lat": 46.428104,
-      "lng": 15.796613,
-      "prices": {
-        "95": 1.745,
-        "dizel": 1.683,
-        "98": null,
-        "100": 1.875,
-        "dizel-premium": 1.811,
-        "avtoplin-lpg": 0.857,
-        "KOEL": null,
-        "hvo": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2288"
-    },
-    {
       "pk": 790,
       "franchise": 4,
       "name": "BS MOL FERNETIČI JUG",
@@ -442,6 +420,28 @@
       "direction": "",
       "open_hours": "začasno zaprto (v prenovi)",
       "zip_code": "5270"
+    },
+    {
+      "pk": 2062,
+      "franchise": 1,
+      "name": "PETROL DOMŽALE - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 2",
+      "lat": 46.13555764,
+      "lng": 14.58035495,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Lokacija trenutno zaprta zaradi prenove.\r\n-------------------------\r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "1230"
     },
     {
       "pk": 2078,
