@@ -4,6 +4,52 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2353,
+      "franchise": 5,
+      "name": "Kočevje Reška",
+      "address": "Reška cesta 25a",
+      "lat": 45.63286356949685,
+      "lng": 14.864140348800042,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.767,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1330"
+    },
+    {
+      "pk": 2354,
+      "franchise": 5,
+      "name": "SHEL CELJE AERO",
+      "address": "Dečkova cesta 39",
+      "lat": 46.24061678625168,
+      "lng": 15.256515119602888,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.767,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2355,
       "franchise": 5,
       "name": "POSTOJNA TRŽAŠKA",
@@ -485,52 +531,6 @@
       "direction": "",
       "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
       "zip_code": "2211"
-    },
-    {
-      "pk": 2297,
-      "franchise": 16,
-      "name": "Agas Maribor",
-      "address": "Perhavčeva ulica 15",
-      "lat": 46.525107,
-      "lng": 15.667885,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": 1.103,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "Maribor Center",
-      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": 1.103,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
-      "zip_code": "2310"
     },
     {
       "pk": 2373,
