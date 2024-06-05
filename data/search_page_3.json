@@ -4,6 +4,29 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 857,
+      "franchise": 4,
+      "name": "BS MOL SPODNJA IDRIJA",
+      "address": "Vojkova ulica 24",
+      "lat": 46.01699,
+      "lng": 14.0288,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.74,
+        "dizel-premium": 1.685,
+        "avtoplin-lpg": null,
+        "KOEL": 1.099,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "5280"
+    },
+    {
       "pk": 858,
       "franchise": 2,
       "name": "BS MOL SPODNJI DUPLEK",
@@ -132,7 +155,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -178,7 +201,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -211,6 +234,29 @@
       "zip_code": "3320"
     },
     {
+      "pk": 872,
+      "franchise": 2,
+      "name": "BS MOL VIPOLŽE",
+      "address": "Vipolže 6b",
+      "lat": 45.966782,
+      "lng": 13.540767,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.74,
+        "dizel-premium": 1.685,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "5212"
+    },
+    {
       "pk": 873,
       "franchise": 4,
       "name": "BS MOL VIR DOMŽALE",
@@ -224,7 +270,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -293,7 +339,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -316,7 +362,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -339,7 +385,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -362,7 +408,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -385,7 +431,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -408,7 +454,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -431,7 +477,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -454,7 +500,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": 0.827,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -500,7 +546,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -523,7 +569,7 @@
         "100": 1.74,
         "dizel-premium": 1.685,
         "avtoplin-lpg": null,
-        "KOEL": 1.099,
+        "KOEL": null,
         "hvo": null,
         "cng": null
       },
@@ -531,52 +577,6 @@
       "direction": "",
       "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA  07:00 - 22:00\r\nPRAZNIKI 08:00 - 20:00",
       "zip_code": "2311"
-    },
-    {
-      "pk": 1567,
-      "franchise": 4,
-      "name": "BS MOL SELNICA OB DRAVI",
-      "address": "MARIBORSKA CESTA 10 C",
-      "lat": 46.5523428,
-      "lng": 15.4977882,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": 1.74,
-        "dizel-premium": 1.685,
-        "avtoplin-lpg": null,
-        "KOEL": 1.099,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
-      "pk": 1571,
-      "franchise": 4,
-      "name": "BS MOL DRAMLJE",
-      "address": "LAZE PRI DRAMLJAH 6B",
-      "lat": 46.260293,
-      "lng": 15.3918165,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": 1.74,
-        "dizel-premium": 1.685,
-        "avtoplin-lpg": 0.827,
-        "KOEL": 1.099,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "3222"
     }
   ],
   "position": null

@@ -4,6 +4,52 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2052,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRNOVO",
+      "address": "RIHARJEVA ULICA 31",
+      "lat": 46.03925962,
+      "lng": 14.50003317,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.74,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 15:30-20:00\r\nsobote 11:00-13:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2053,
+      "franchise": 1,
+      "name": "PETROL DOBROVA",
+      "address": "POLHOGRAJSKA CESTA 12",
+      "lat": 46.0520304,
+      "lng": 14.42151956,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.099,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-13:00",
+      "zip_code": "1356"
+    },
+    {
       "pk": 2054,
       "franchise": 1,
       "name": "PETROL PODPEČ",
@@ -531,52 +577,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
       "zip_code": "4220"
-    },
-    {
-      "pk": 2082,
-      "franchise": 1,
-      "name": "PETROL KAMNIK - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 10A",
-      "lat": 46.21205029,
-      "lng": 14.59993502,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": 1.74,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.099,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "1241"
-    },
-    {
-      "pk": 2083,
-      "franchise": 1,
-      "name": "PETROL RADOVLJICA - GORENJSKA",
-      "address": "GORENJSKA CESTA 41A",
-      "lat": 46.34844567,
-      "lng": 14.16883456,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.829,
-        "KOEL": 1.099,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 16:30-20:00",
-      "zip_code": "4240"
     }
   ],
   "position": null

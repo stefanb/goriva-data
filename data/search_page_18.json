@@ -4,6 +4,52 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2349,
+      "franchise": 5,
+      "name": "Shell Sezana",
+      "address": "Partizanska cesta 69A",
+      "lat": 45.70519088779502,
+      "lng": 13.861015699133779,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.767,
+        "dizel-premium": 1.839,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 2351,
+      "franchise": 5,
+      "name": "Shell Celje Kidričeva",
+      "address": "Kidričeva ulica 40",
+      "lat": 46.234018307787046,
+      "lng": 15.296215827340855,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.767,
+        "dizel-premium": 1.839,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2353,
       "franchise": 5,
       "name": "Kočevje Reška",
@@ -462,52 +508,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2314"
-    },
-    {
-      "pk": 769,
-      "franchise": 2,
-      "name": "BS MOL BRESTOVICA",
-      "address": "Brestovica 116b",
-      "lat": 45.81302,
-      "lng": 13.62228,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
-    },
-    {
-      "pk": 872,
-      "franchise": 2,
-      "name": "BS MOL VIPOLŽE",
-      "address": "Vipolže 6b",
-      "lat": 45.966782,
-      "lng": 13.540767,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.755,
-        "dizel-premium": 1.684,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-21:00",
-      "zip_code": "5212"
     },
     {
       "pk": 2268,
