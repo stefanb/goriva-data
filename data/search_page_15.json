@@ -4,6 +4,75 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2359,
+      "franchise": 5,
+      "name": "Shell MARIBOR V",
+      "address": "Maribor Ptujska 2",
+      "lat": 46.522438503045684,
+      "lng": 15.679910715884338,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.455,
+        "98": null,
+        "100": 1.739,
+        "dizel-premium": 1.829,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2360,
+      "franchise": 5,
+      "name": "Shell Lokev",
+      "address": "Lokev 1a",
+      "lat": 45.66133077329971,
+      "lng": 13.919418145832134,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.455,
+        "98": null,
+        "100": 1.739,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6219"
+    },
+    {
+      "pk": 2361,
+      "franchise": 5,
+      "name": "Shell KOMENDA",
+      "address": "Potok pri Komendi 8",
+      "lat": 46.20581146877878,
+      "lng": 14.523937545251142,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.455,
+        "98": null,
+        "100": 1.739,
+        "dizel-premium": 1.829,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1218"
+    },
+    {
       "pk": 2362,
       "franchise": 5,
       "name": "Shell MARIBOR PTUJSKA ZAHOD",
@@ -508,75 +577,6 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
       "zip_code": "6000"
-    },
-    {
-      "pk": 808,
-      "franchise": 4,
-      "name": "BS MOL KOZINA",
-      "address": "Mestni trg 7",
-      "lat": 45.60807,
-      "lng": 13.93501,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": 1.74,
-        "dizel-premium": 1.685,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6240"
-    },
-    {
-      "pk": 809,
-      "franchise": 4,
-      "name": "BS MOL KRANJ PRIMSKOVO",
-      "address": "Cesta Staneta Žagarja 53c",
-      "lat": 46.24277,
-      "lng": 14.371453,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": 1.74,
-        "dizel-premium": 1.685,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4000"
-    },
-    {
-      "pk": 811,
-      "franchise": 4,
-      "name": "BS MOL KRVAVI POTOK",
-      "address": "Krvavi potok 1",
-      "lat": 45.61885,
-      "lng": 13.910126,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": 1.74,
-        "dizel-premium": 1.685,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
-      "zip_code": "6240"
     }
   ],
   "position": null
