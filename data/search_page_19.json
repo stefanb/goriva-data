@@ -4,29 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2350,
-      "franchise": 5,
-      "name": "Shell Koper Semedela",
-      "address": "Istrska cesta 53",
-      "lat": 45.5389688698564,
-      "lng": 13.728621313111132,
-      "prices": {
-        "95": 1.546,
-        "dizel": 1.529,
-        "98": null,
-        "100": 1.926,
-        "dizel-premium": 1.879,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6000"
-    },
-    {
       "pk": 2352,
       "franchise": 5,
       "name": "Koper Bertoki",
@@ -577,6 +554,29 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2088,
+      "franchise": 1,
+      "name": "PETROL LOM AC - ZAHOD",
+      "address": "NOTRANJSKA CESTA 75",
+      "lat": 45.898796,
+      "lng": 14.254887,
+      "prices": {
+        "95": 1.694,
+        "dizel": 1.677,
+        "98": null,
+        "100": 1.842,
+        "dizel-premium": 1.798,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Koper",
+      "open_hours": "NON-STOP",
+      "zip_code": "1370"
     }
   ],
   "position": null

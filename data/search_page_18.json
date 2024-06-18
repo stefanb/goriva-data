@@ -4,6 +4,29 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 1576,
+      "franchise": 4,
+      "name": "BS MOL POBREŽJE MARIBOR",
+      "address": "ULICA VELJKA VLAHOVIČA 8",
+      "lat": 46.546333,
+      "lng": 15.674833,
+      "prices": {
+        "95": 1.473,
+        "dizel": 1.463,
+        "98": null,
+        "100": 1.74,
+        "dizel-premium": 1.685,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 1579,
       "franchise": 4,
       "name": "BS MOL ŠENTILJ",
@@ -395,52 +418,6 @@
       "zip_code": "3270"
     },
     {
-      "pk": 2297,
-      "franchise": 16,
-      "name": "Agas Maribor",
-      "address": "Perhavčeva ulica 15",
-      "lat": 46.525107,
-      "lng": 15.667885,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": 1.099,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "Maribor Center",
-      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.473,
-        "dizel": 1.463,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": 1.099,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2313,
       "franchise": 14,
       "name": "West Oil BS Zavrč",
@@ -577,6 +554,29 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
+    },
+    {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "Shell Koper Semedela",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.546,
+        "dizel": 1.529,
+        "98": null,
+        "100": 1.926,
+        "dizel-premium": 1.879,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
     }
   ],
   "position": null
