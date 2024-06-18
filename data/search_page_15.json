@@ -4,6 +4,29 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2357,
+      "franchise": 5,
+      "name": "Shell TEPANJE",
+      "address": "Tepanje 4b",
+      "lat": 46.34088409645317,
+      "lng": 15.469610360423939,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.455,
+        "98": null,
+        "100": 1.739,
+        "dizel-premium": 1.924,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3210"
+    },
+    {
       "pk": 2358,
       "franchise": 5,
       "name": "Shell Brezovica",
@@ -347,29 +370,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2314"
-    },
-    {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.439,
-        "98": null,
-        "100": 1.709,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
     },
     {
       "pk": 769,

@@ -4,6 +4,29 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2316,
+      "franchise": 23,
+      "name": "BS Žihlava",
+      "address": "Žihlava 15",
+      "lat": 46.55,
+      "lng": 16.0396,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.455,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "Gornja Radgona - Ljutomer",
+      "open_hours": "ponedeljek: 6.00 - 20.00\r\ntorek:          6.00 - 20.00\r\nsreda:          6.00 - 20.00\r\nčetrtek:        6.00 - 20.00\r\npetek:          6.00 - 20.00\r\nsobota:        6.00 - 20.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9244"
+    },
+    {
       "pk": 2317,
       "franchise": 23,
       "name": "BS Lemerje",
@@ -554,29 +577,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2234"
-    },
-    {
-      "pk": 2357,
-      "franchise": 5,
-      "name": "Shell TEPANJE",
-      "address": "Tepanje 4b",
-      "lat": 46.34088409645317,
-      "lng": 15.469610360423939,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.455,
-        "98": null,
-        "100": 1.739,
-        "dizel-premium": 1.924,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3210"
     }
   ],
   "position": null

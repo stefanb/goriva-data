@@ -4,6 +4,29 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2189,
+      "franchise": 1,
+      "name": "PETROL GORNJI GRAD",
+      "address": "SPODNJI TRG 34",
+      "lat": 46.29907149,
+      "lng": 14.81925704,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.455,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.089,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "3342"
+    },
+    {
       "pk": 2190,
       "franchise": 1,
       "name": "PETROL CELJE - LANOVŽ",
@@ -554,29 +577,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3204"
-    },
-    {
-      "pk": 2220,
-      "franchise": 1,
-      "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
-      "address": "LJUBLJANSKA CESTA 69A",
-      "lat": 45.64870304,
-      "lng": 14.85374303,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.455,
-        "98": null,
-        "100": 1.721,
-        "dizel-premium": 1.672,
-        "avtoplin-lpg": 0.829,
-        "KOEL": 1.089,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "1330"
     }
   ],
   "position": null
