@@ -4,6 +4,52 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 791,
+      "franchise": 4,
+      "name": "BS MOL FERNETIČI SEVER",
+      "address": "Partizanska c. 130",
+      "lat": 45.70492,
+      "lng": 13.84554,
+      "prices": {
+        "95": 1.695,
+        "dizel": 1.679,
+        "98": null,
+        "100": 1.841,
+        "dizel-premium": 1.798,
+        "avtoplin-lpg": 0.857,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "Benetke",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 793,
+      "franchise": 4,
+      "name": "BS MOL GRABONOŠ",
+      "address": "Grabonoš 4c",
+      "lat": 46.584129,
+      "lng": 16.008947,
+      "prices": {
+        "95": 1.695,
+        "dizel": 1.679,
+        "98": null,
+        "100": 1.841,
+        "dizel-premium": 1.798,
+        "avtoplin-lpg": 0.857,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "Lenti",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9244"
+    },
+    {
       "pk": 796,
       "franchise": 4,
       "name": "BS MOL GROSUPLJE CIKAVA",
@@ -395,29 +441,6 @@
       "zip_code": "5270"
     },
     {
-      "pk": 2062,
-      "franchise": 1,
-      "name": "PETROL DOMŽALE - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 2",
-      "lat": 46.13555764,
-      "lng": 14.58035495,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Lokacija trenutno zaprta zaradi prenove.\r\n-------------------------\r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-12:00",
-      "zip_code": "1230"
-    },
-    {
       "pk": 2078,
       "franchise": 1,
       "name": "PETROL JESENICE - MARŠALA TITA",
@@ -462,29 +485,6 @@
       "direction": "",
       "open_hours": "Trenutno zaprta lokacija. \r\n--------------------------------------------------------------\r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
       "zip_code": "4220"
-    },
-    {
-      "pk": 2124,
-      "franchise": 1,
-      "name": "PETROL BOROVNICA",
-      "address": "LJUBLJANSKA CESTA 10",
-      "lat": 45.92154962,
-      "lng": 14.3602911,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno ni možno točiti goriva. (danes 18.6 do 13 ure)\r\n\r\nvsak delavnik 06:30-20:30\r\nsobote 06:30-20:30\r\nnedelje in prazniki 12:00-15:00",
-      "zip_code": "1353"
     },
     {
       "pk": 2205,
