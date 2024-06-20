@@ -4,29 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 791,
-      "franchise": 4,
-      "name": "BS MOL FERNETIČI SEVER",
-      "address": "Partizanska c. 130",
-      "lat": 45.70492,
-      "lng": 13.84554,
-      "prices": {
-        "95": 1.695,
-        "dizel": 1.679,
-        "98": null,
-        "100": 1.841,
-        "dizel-premium": 1.798,
-        "avtoplin-lpg": 0.857,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "Benetke",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 793,
       "franchise": 4,
       "name": "BS MOL GRABONOŠ",
@@ -416,6 +393,29 @@
       "direction": "",
       "open_hours": "Začasno zaprto.\r\n----------------------------------------------------------------------------\r\nvsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2310"
+    },
+    {
+      "pk": 1928,
+      "franchise": 1,
+      "name": "PETROL SOLKAN",
+      "address": "CESTA IX. KORPUSA 67",
+      "lat": 45.96778633,
+      "lng": 13.64164681,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Lokacija trenutno zaprta. \r\n------------------------------------------------------------------------\r\nvsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5250"
     },
     {
       "pk": 1982,

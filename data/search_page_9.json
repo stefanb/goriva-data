@@ -4,29 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2052,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRNOVO",
-      "address": "RIHARJEVA ULICA 31",
-      "lat": 46.03925962,
-      "lng": 14.50003317,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.455,
-        "98": null,
-        "100": 1.721,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 15:30-20:00\r\nsobote 11:00-13:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2053,
       "franchise": 1,
       "name": "PETROL DOBROVA",
@@ -577,6 +554,29 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 08:00-16:00",
       "zip_code": "4207"
+    },
+    {
+      "pk": 2082,
+      "franchise": 1,
+      "name": "PETROL KAMNIK - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 10A",
+      "lat": 46.21205029,
+      "lng": 14.59993502,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.455,
+        "98": null,
+        "100": 1.721,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.089,
+        "hvo": null,
+        "cng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:30",
+      "zip_code": "1241"
     }
   ],
   "position": null
