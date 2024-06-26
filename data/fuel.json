@@ -2,46 +2,61 @@
   {
     "pk": 1,
     "code": "95",
-    "name": "NMB-95"
+    "name": "NMB-95",
+    "long_name": "95-oktanski motorni bencin"
   },
   {
     "pk": 2,
     "code": "dizel",
-    "name": "Dizel"
+    "name": "Dizel",
+    "long_name": "Standardno dizelsko gorivo"
   },
   {
     "pk": 3,
     "code": "98",
-    "name": "NMB-98"
+    "name": "NMB-98",
+    "long_name": "98-oktanski motorni bencin"
   },
   {
     "pk": 4,
     "code": "100",
-    "name": "NMB-100"
+    "name": "NMB-100",
+    "long_name": "100-oktanski motorni bencin"
   },
   {
     "pk": 5,
     "code": "dizel-premium",
-    "name": "Dizel Premium"
+    "name": "Dizel Premium",
+    "long_name": "Premium dizelsko gorivo"
   },
   {
     "pk": 6,
     "code": "avtoplin-lpg",
-    "name": "Avtoplin LPG"
+    "name": "LPG",
+    "long_name": "Avtoplin"
   },
   {
     "pk": 7,
     "code": "KOEL",
-    "name": "Ekstra lahko kurilno olje"
+    "name": "ELKO",
+    "long_name": "Ekstra lahko kurilno olje"
   },
   {
     "pk": 8,
     "code": "hvo",
-    "name": "HVO"
+    "name": "HVO",
+    "long_name": "Sintetično bio-dizelsko gorivo"
   },
   {
     "pk": 9,
     "code": "cng",
-    "name": "CNG"
+    "name": "CNG",
+    "long_name": "Stisnjen zemeljski plin"
+  },
+  {
+    "pk": 10,
+    "code": "lng",
+    "name": "LNG",
+    "long_name": "Utekočinjen zemeljski plin"
   }
 ]
