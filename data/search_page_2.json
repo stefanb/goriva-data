@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 809,
-      "franchise": 4,
-      "name": "BS MOL KRANJ PRIMSKOVO",
-      "address": "Cesta Staneta Žagarja 53c",
-      "lat": 46.24277,
-      "lng": 14.371453,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.507,
-        "98": null,
-        "100": 1.751,
-        "dizel-premium": 1.731,
-        "avtoplin-lpg": null,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4000"
-    },
-    {
-      "pk": 810,
-      "franchise": 2,
-      "name": "BS MOL KRŠKO",
-      "address": "C.Krških žrtev 131a",
-      "lat": 45.94429,
-      "lng": 15.48733,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.507,
-        "98": null,
-        "100": 1.751,
-        "dizel-premium": 1.731,
-        "avtoplin-lpg": null,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "8270"
-    },
-    {
       "pk": 811,
       "franchise": 4,
       "name": "BS MOL KRVAVI POTOK",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 851,
+      "franchise": 4,
+      "name": "BS MOL SENOVO",
+      "address": "Titova ulica 101c",
+      "lat": 46.02489,
+      "lng": 15.47797,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": 1.751,
+        "dizel-premium": 1.731,
+        "avtoplin-lpg": null,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "8281"
+    },
+    {
+      "pk": 852,
+      "franchise": 4,
+      "name": "BS MOL SENOŽEČE",
+      "address": "Senožeče 10a",
+      "lat": 45.72321,
+      "lng": 14.04572,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": 1.751,
+        "dizel-premium": 1.731,
+        "avtoplin-lpg": null,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
+      "zip_code": "6224"
     }
   ],
   "position": null

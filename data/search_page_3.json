@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 851,
-      "franchise": 4,
-      "name": "BS MOL SENOVO",
-      "address": "Titova ulica 101c",
-      "lat": 46.02489,
-      "lng": 15.47797,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.507,
-        "98": null,
-        "100": 1.751,
-        "dizel-premium": 1.731,
-        "avtoplin-lpg": null,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
-      "zip_code": "8281"
-    },
-    {
-      "pk": 852,
-      "franchise": 4,
-      "name": "BS MOL SENOŽEČE",
-      "address": "Senožeče 10a",
-      "lat": 45.72321,
-      "lng": 14.04572,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.507,
-        "98": null,
-        "100": 1.751,
-        "dizel-premium": 1.731,
-        "avtoplin-lpg": null,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-18:00; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz 08:00-20:00",
-      "zip_code": "6224"
-    },
-    {
       "pk": 853,
       "franchise": 4,
       "name": "BS MOL SEŽANA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "1370"
+    },
+    {
+      "pk": 1557,
+      "franchise": 4,
+      "name": "BS MOL CELJE, MARIBORSKA",
+      "address": "MARIBORSKA CESTA 111",
+      "lat": 46.2451779,
+      "lng": 15.2776158,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": 1.751,
+        "dizel-premium": 1.731,
+        "avtoplin-lpg": null,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - NED 00:00-24:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 1560,
+      "franchise": 4,
+      "name": "BS MOL ROŽNA DOLINA",
+      "address": "ULICA ANGELA BESEDNJAKA 8A",
+      "lat": 45.9404582,
+      "lng": 13.6399226,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": 1.751,
+        "dizel-premium": 1.731,
+        "avtoplin-lpg": 0.827,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "5000"
     }
   ],
   "position": null

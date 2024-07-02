@@ -52,54 +52,6 @@
       "zip_code": "1386"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.455,
-        "98": null,
-        "100": 1.721,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.089,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.455,
-        "98": 1.721,
-        "100": 1.721,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.089,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2373,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA Lendavska",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6240"
+    },
+    {
+      "pk": 809,
+      "franchise": 4,
+      "name": "BS MOL KRANJ PRIMSKOVO",
+      "address": "Cesta Staneta Žagarja 53c",
+      "lat": 46.24277,
+      "lng": 14.371453,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": 1.751,
+        "dizel-premium": 1.731,
+        "avtoplin-lpg": null,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4000"
+    },
+    {
+      "pk": 810,
+      "franchise": 2,
+      "name": "BS MOL KRŠKO",
+      "address": "C.Krških žrtev 131a",
+      "lat": 45.94429,
+      "lng": 15.48733,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": 1.751,
+        "dizel-premium": 1.731,
+        "avtoplin-lpg": null,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "8270"
     }
   ],
   "position": null
