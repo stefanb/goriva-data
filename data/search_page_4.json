@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 1555,
-      "franchise": 4,
-      "name": "BS MOL RIBNICA",
-      "address": "MERHARJEVA ULICA 13",
-      "lat": 45.738688,
-      "lng": 14.733154,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.507,
-        "98": null,
-        "100": 1.751,
-        "dizel-premium": 1.731,
-        "avtoplin-lpg": null,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - sob. 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "1310"
-    },
-    {
-      "pk": 1556,
-      "franchise": 4,
-      "name": "BS MOL LOGATEC",
-      "address": "TRŽAŠKA 74A",
-      "lat": 45.9166669,
-      "lng": 14.218824,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.507,
-        "98": null,
-        "100": 1.751,
-        "dizel-premium": 1.731,
-        "avtoplin-lpg": null,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon - sob 05:00 - 23:00\r\nnedelja in prazniki 08:00 - 20:00",
-      "zip_code": "1370"
-    },
-    {
       "pk": 1557,
       "franchise": 4,
       "name": "BS MOL CELJE, MARIBORSKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2310"
+    },
+    {
+      "pk": 1927,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - GOSPOSVETSKA SEVER",
+      "address": "GOSPOSVETSKA CESTA 92",
+      "lat": 46.56386643,
+      "lng": 15.62682805,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1929,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PARTIZANSKA",
+      "address": "PARTIZANSKA CESTA 58",
+      "lat": 46.56486151,
+      "lng": 15.65925818,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.507,
+        "98": null,
+        "100": 1.751,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2000"
     }
   ],
   "position": null
