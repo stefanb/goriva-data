@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 791,
-      "franchise": 4,
-      "name": "BS MOL FERNETIČI SEVER",
-      "address": "Partizanska c. 130",
-      "lat": 45.70492,
-      "lng": 13.84554,
-      "prices": {
-        "95": 1.729,
-        "dizel": 1.731,
-        "98": null,
-        "100": 1.921,
-        "dizel-premium": 1.904,
-        "avtoplin-lpg": 0.857,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Benetke",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 793,
-      "franchise": 4,
-      "name": "BS MOL GRABONOŠ",
-      "address": "Grabonoš 4c",
-      "lat": 46.584129,
-      "lng": 16.008947,
-      "prices": {
-        "95": 1.729,
-        "dizel": 1.731,
-        "98": null,
-        "100": 1.871,
-        "dizel-premium": 1.854,
-        "avtoplin-lpg": 0.857,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Lenti",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "9244"
-    },
-    {
       "pk": 796,
       "franchise": 4,
       "name": "BS MOL GROSUPLJE CIKAVA",
@@ -436,6 +388,30 @@
       "zip_code": "5250"
     },
     {
+      "pk": 1935,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER PRI GORICI - PADLIH BORCEV",
+      "address": "ULICA PADLIH BORCEV 2",
+      "lat": 45.92923326,
+      "lng": 13.64146317,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Lokacija trenutno zaprta.",
+      "zip_code": "5290"
+    },
+    {
       "pk": 1982,
       "franchise": 1,
       "name": "PETROL AJDOVŠČINA - GORIŠKA",
@@ -506,6 +482,30 @@
       "direction": "",
       "open_hours": "Trenutno zaprta lokacija. \r\n--------------------------------------------------------------\r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
       "zip_code": "4220"
+    },
+    {
+      "pk": 2113,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
+      "address": "CESTA STANETA ŽAGARJA 53B",
+      "lat": 46.24371235,
+      "lng": 14.36955351,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Lokacija trenutno zaprta.",
+      "zip_code": "4000"
     },
     {
       "pk": 2205,
