@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2374,
+      "franchise": 4,
+      "name": "BS MOL LJUTOMER",
+      "address": "Kolodvorska 7a",
+      "lat": 46.5289,
+      "lng": 16.19006,
+      "prices": {
+        "95": 1.514,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.728,
+        "avtoplin-lpg": null,
+        "KOEL": 1.146,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
+      "zip_code": "9240"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -578,30 +602,6 @@
       "direction": "smer Murska Sobota",
       "open_hours": "pon. - ned. 00:00 - 24:00",
       "zip_code": "9220"
-    },
-    {
-      "pk": 1568,
-      "franchise": 4,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.739,
-        "dizel": 1.729,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": 1.901,
-        "avtoplin-lpg": 0.917,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "pon - ned 00:00 - 24:00",
-      "zip_code": "2230"
     }
   ],
   "position": null

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 1568,
+      "franchise": 4,
+      "name": "BS MOL LORMANJE",
+      "address": "LORMANJE 22D",
+      "lat": 46.566917,
+      "lng": 15.8255,
+      "prices": {
+        "95": 1.739,
+        "dizel": 1.729,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": 1.901,
+        "avtoplin-lpg": 0.917,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "smer Maribor",
+      "open_hours": "pon - ned 00:00 - 24:00",
+      "zip_code": "2230"
+    },
+    {
       "pk": 1923,
       "franchise": 1,
       "name": "PETROL ŠENTILJ AC - ZAHOD",
@@ -562,30 +586,6 @@
       "address": "GASILSKA CESTA 55",
       "lat": 46.22788,
       "lng": 14.419719,
-      "prices": {
-        "95": 1.762,
-        "dizel": 1.75,
-        "98": null,
-        "100": 1.9,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.919,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
-      "pk": 2101,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - VZHOD",
-      "address": "GASILSKA CESTA 51",
-      "lat": 46.22679,
-      "lng": 14.424885,
       "prices": {
         "95": 1.762,
         "dizel": 1.75,
