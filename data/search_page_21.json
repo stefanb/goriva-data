@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2100,
+      "franchise": 1,
+      "name": "PETROL VOKLO AC - ZAHOD",
+      "address": "GASILSKA CESTA 55",
+      "lat": 46.22788,
+      "lng": 14.419719,
+      "prices": {
+        "95": 1.782,
+        "dizel": 1.77,
+        "98": null,
+        "100": 1.92,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.919,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4208"
+    },
+    {
       "pk": 2101,
       "franchise": 1,
       "name": "PETROL VOKLO AC - VZHOD",
@@ -506,30 +530,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4270"
-    },
-    {
-      "pk": 2113,
-      "franchise": 1,
-      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
-      "address": "CESTA STANETA ŽAGARJA 53B",
-      "lat": 46.24371235,
-      "lng": 14.36955351,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Lokacija trenutno zaprta.",
-      "zip_code": "4000"
     },
     {
       "pk": 2208,

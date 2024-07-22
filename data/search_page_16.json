@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2251,
+      "franchise": 3,
+      "name": "BS MAXEN ŽUŽEMBERK",
+      "address": "Grajski trg bš",
+      "lat": 45.8333056,
+      "lng": 14.9274912,
+      "prices": {
+        "95": 1.514,
+        "dizel": 1.528,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8360"
+    },
+    {
       "pk": 2252,
       "franchise": 3,
       "name": "BS MAXEN VELENJE",
@@ -578,30 +602,6 @@
       "direction": "Maribor Center",
       "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.514,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": 1.136,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
-      "zip_code": "2310"
     }
   ],
   "position": null
