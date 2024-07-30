@@ -76,30 +76,6 @@
       "zip_code": "1000"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.479,
-        "dizel": 1.507,
-        "98": null,
-        "100": 1.751,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -602,6 +578,30 @@
       "direction": "Trst",
       "open_hours": "Okt-Maj: Pon-Sob 07:00-21:00, Ned/Praz. zaprto; Jun-Sep: Pon-Ned 06:00-22:00",
       "zip_code": "6240"
+    },
+    {
+      "pk": 812,
+      "franchise": 4,
+      "name": "BS MOL LAZARET",
+      "address": "Jadranska c. 1",
+      "lat": 45.59283,
+      "lng": 13.72411,
+      "prices": {
+        "95": 1.514,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.728,
+        "avtoplin-lpg": null,
+        "KOEL": 1.146,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Maj: Pon-Ned 07:00-21:00; Jun-Sep: Pon-Ned 07:00-22:00",
+      "zip_code": "6280"
     }
   ],
   "position": null

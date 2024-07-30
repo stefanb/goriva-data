@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 855,
-      "franchise": 4,
-      "name": "BS MOL SLOVENSKE KONJICE",
-      "address": "Liptovska 36a",
-      "lat": 46.34068,
-      "lng": 15.41675,
-      "prices": {
-        "95": 1.514,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.779,
-        "dizel-premium": 1.728,
-        "avtoplin-lpg": null,
-        "KOEL": 1.146,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3210"
-    },
-    {
       "pk": 856,
       "franchise": 4,
       "name": "BS MOL SMEDNIK",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 1563,
+      "franchise": 4,
+      "name": "BS MOL GORNJA RADGONA",
+      "address": "LJUTOMERSKA CESTA 12",
+      "lat": 46.6699694,
+      "lng": 15.9961534,
+      "prices": {
+        "95": 1.514,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.728,
+        "avtoplin-lpg": null,
+        "KOEL": 1.146,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": ""
     }
   ],
   "position": null
