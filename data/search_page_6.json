@@ -436,6 +436,30 @@
       "zip_code": "5000"
     },
     {
+      "pk": 1982,
+      "franchise": 1,
+      "name": "PETROL AJDOVŠČINA - GORIŠKA",
+      "address": "GORIŠKA CESTA 29",
+      "lat": 45.88663093,
+      "lng": 13.89897002,
+      "prices": {
+        "95": 1.514,
+        "dizel": 1.528,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.146,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "začasno zaprto (v prenovi)",
+      "zip_code": "5270"
+    },
+    {
       "pk": 1983,
       "franchise": 1,
       "name": "PETROL GOLO BRDO V BRDIH",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "5210"
-    },
-    {
-      "pk": 1989,
-      "franchise": 1,
-      "name": "PETROL TOLMIN",
-      "address": "TRG MARŠALA TITA 18",
-      "lat": 46.18282816,
-      "lng": 13.73383929,
-      "prices": {
-        "95": 1.514,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.146,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "5220"
     }
   ],
   "position": null
