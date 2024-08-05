@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2089,
+      "franchise": 1,
+      "name": "PETROL LOM AC - VZHOD",
+      "address": "NOTRANJSKA CESTA 77",
+      "lat": 45.89814,
+      "lng": 14.256533,
+      "prices": {
+        "95": 1.763,
+        "dizel": 1.75,
+        "98": null,
+        "100": 1.885,
+        "dizel-premium": 1.843,
+        "avtoplin-lpg": 0.919,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "1370"
+    },
+    {
       "pk": 2095,
       "franchise": 1,
       "name": "PETROL HRUŠICA AC - JUG",
@@ -554,30 +578,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4270"
-    },
-    {
-      "pk": 2213,
-      "franchise": 1,
-      "name": "PETROL OTIŠKI VRH",
-      "address": "OTIŠKI VRH 25C",
-      "lat": 46.572637,
-      "lng": 15.025052,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Lokacija trenutno zaprta zaradi prenove. \r\n---------------------------\r\nvsak delavnik 06:00-16:00\r\nsobote 07:30-11:00",
-      "zip_code": "2373"
     },
     {
       "pk": 2258,
