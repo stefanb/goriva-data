@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2371,
-      "franchise": 5,
-      "name": "AJŠEVICA",
-      "address": "Loke 40",
-      "lat": 45.953170561531195,
-      "lng": 13.691872647114305,
-      "prices": {
-        "95": 1.514,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.809,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "5000"
-    },
-    {
       "pk": 2372,
       "franchise": 5,
       "name": "ZG. POLSKAVA",
@@ -600,6 +576,30 @@
       },
       "distance": null,
       "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 848,
+      "franchise": 4,
+      "name": "BS MOL RAVBARKOMANDA ZAHOD",
+      "address": "Javorniška pot 7a",
+      "lat": 45.78536414,
+      "lng": 14.22271237,
+      "prices": {
+        "95": 1.762,
+        "dizel": 1.749,
+        "98": null,
+        "100": 1.886,
+        "dizel-premium": 1.851,
+        "avtoplin-lpg": 0.959,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
     }
