@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2347,
+      "franchise": 5,
+      "name": "PRESTRANEK",
+      "address": "Reška cesta 18B",
+      "lat": 45.728174292934355,
+      "lng": 14.187886149162168,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.89,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Summer (01.06.2023 to 30.9.2023): Mon-Sun 6:00-22:00 .Winter (01.10 to 31.5): Mon-Sat 6:00-22:00 ,Sun and holidays 9:00-20:00.",
+      "zip_code": "6258"
+    },
+    {
       "pk": 2348,
       "franchise": 5,
       "name": "Murska Sobota Bakovska",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "pon-ned; od 06:00 - 22:00\r\nprazniki; od 6:00 - 22:00",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2374,
-      "franchise": 4,
-      "name": "BS MOL LJUTOMER",
-      "address": "Kolodvorska 7a",
-      "lat": 46.5289,
-      "lng": 16.19006,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.519,
-        "98": null,
-        "100": 1.731,
-        "dizel-premium": 1.707,
-        "avtoplin-lpg": null,
-        "KOEL": 1.125,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
-      "zip_code": "9240"
     }
   ],
   "position": null
