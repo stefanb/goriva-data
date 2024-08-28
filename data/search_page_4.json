@@ -532,6 +532,30 @@
       "zip_code": "5250"
     },
     {
+      "pk": 1929,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PARTIZANSKA",
+      "address": "PARTIZANSKA CESTA 58",
+      "lat": 46.56486151,
+      "lng": 15.65925818,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.725,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.125,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Lokacija trenutno zaprta.\r\n\r\nvsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 1930,
       "franchise": 1,
       "name": "PETROL MARIBOR - PTUJSKA 111",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-16:00",
       "zip_code": "2342"
-    },
-    {
-      "pk": 1932,
-      "franchise": 1,
-      "name": "PETROL PRAGERSKO",
-      "address": "PTUJSKA CESTA 20",
-      "lat": 46.39511839,
-      "lng": 15.65879604,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.519,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.125,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
-      "zip_code": "2331"
     }
   ],
   "position": null

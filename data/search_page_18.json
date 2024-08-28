@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2346,
+      "franchise": 5,
+      "name": "Celje Mariborska",
+      "address": "Mariborska 128",
+      "lat": 46.24423316065561,
+      "lng": 15.278462363239953,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2347,
       "franchise": 5,
       "name": "PRESTRANEK",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2314"
-    },
-    {
-      "pk": 2373,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA Lendavska",
-      "address": "Lendavska 60d",
-      "lat": 46.66673,
-      "lng": 16.17698,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.519,
-        "98": null,
-        "100": 1.731,
-        "dizel-premium": 1.707,
-        "avtoplin-lpg": null,
-        "KOEL": 1.125,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-ned; od 06:00 - 22:00\r\nprazniki; od 6:00 - 22:00",
-      "zip_code": "9000"
     }
   ],
   "position": null

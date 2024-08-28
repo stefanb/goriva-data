@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2095,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - JUG",
+      "address": "SPODNJI PLAVŽ 24A",
+      "lat": 46.440467,
+      "lng": 14.026493,
+      "prices": {
+        "95": 1.735,
+        "dizel": 1.729,
+        "98": null,
+        "100": 1.846,
+        "dizel-premium": 1.823,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
       "pk": 2096,
       "franchise": 1,
       "name": "PETROL HRUŠICA AC - SEVER",
@@ -505,30 +529,6 @@
       "distance": null,
       "direction": "Maribor -> Ljubljana",
       "open_hours": "Lokacija trenutno zaprta.\r\nNON-STOP",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1929,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PARTIZANSKA",
-      "address": "PARTIZANSKA CESTA 58",
-      "lat": 46.56486151,
-      "lng": 15.65925818,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Lokacija trenutno zaprta.\r\n\r\nvsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2000"
     },
     {
