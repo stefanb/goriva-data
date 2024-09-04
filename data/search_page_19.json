@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2372,
-      "franchise": 5,
-      "name": "ZG. POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43088480445796,
-      "lng": 15.627126931204163,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.519,
-        "98": null,
-        "100": 1.779,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2314"
-    },
-    {
       "pk": 2373,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA Lendavska",
@@ -74,30 +50,6 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
       "zip_code": "9240"
-    },
-    {
-      "pk": 1942,
-      "franchise": 1,
-      "name": "PETROL SELNICA OB DRAVI",
-      "address": "MARIBORSKA CESTA 46",
-      "lat": 46.54934191,
-      "lng": 15.4860149,
-      "prices": {
-        "95": 1.514,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.76,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.146,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2352"
     },
     {
       "pk": 804,
@@ -602,6 +554,54 @@
       "direction": "Ljubljana",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
+    },
+    {
+      "pk": 848,
+      "franchise": 4,
+      "name": "BS MOL RAVBARKOMANDA ZAHOD",
+      "address": "Javorniška pot 7a",
+      "lat": 45.78536414,
+      "lng": 14.22271237,
+      "prices": {
+        "95": 1.734,
+        "dizel": 1.728,
+        "98": null,
+        "100": 1.851,
+        "dizel-premium": 1.829,
+        "avtoplin-lpg": 0.959,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 861,
+      "franchise": 4,
+      "name": "BS MOL ŠEMPAS",
+      "address": "Šempas 160b",
+      "lat": 45.917693,
+      "lng": 13.721916,
+      "prices": {
+        "95": 1.734,
+        "dizel": 1.728,
+        "98": null,
+        "100": 1.851,
+        "dizel-premium": 1.829,
+        "avtoplin-lpg": 0.959,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Nova Gorica",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5261"
     }
   ],
   "position": null
