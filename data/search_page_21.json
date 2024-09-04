@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2096,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - SEVER",
+      "address": "SPODNJI PLAVŽ 24B",
+      "lat": 46.440937,
+      "lng": 14.028828,
+      "prices": {
+        "95": 1.735,
+        "dizel": 1.729,
+        "98": null,
+        "100": 1.846,
+        "dizel-premium": 1.823,
+        "avtoplin-lpg": 0.949,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Karavan",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
       "pk": 2100,
       "franchise": 1,
       "name": "PETROL VOKLO AC - ZAHOD",
@@ -530,30 +554,6 @@
       "direction": "",
       "open_hours": "Trenutno zaprto.\r\n\r\nvsak delavnik 07:00-21:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "6210"
-    },
-    {
-      "pk": 2077,
-      "franchise": 1,
-      "name": "PETROL KRANJ - ZLATO POLJE VZHOD",
-      "address": "KOROŠKA CESTA 18A",
-      "lat": 46.24951232,
-      "lng": 14.3478394,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Lokacija trenutno zaprta.\r\n\r\nvsak delavnik 06:00-18:00\r\nsobote 09:00-13:00\r\nnedelje in prazniki 09:00-13:00",
-      "zip_code": "4000"
     },
     {
       "pk": 2078,
