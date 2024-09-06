@@ -412,30 +412,6 @@
       "zip_code": "2230"
     },
     {
-      "pk": 1952,
-      "franchise": 1,
-      "name": "PETROL ROŽNA DOLINA",
-      "address": "VIPAVSKA CESTA 3A",
-      "lat": 45.942191,
-      "lng": 13.638451,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.519,
-        "98": null,
-        "100": 1.725,
-        "dizel-premium": 1.696,
-        "avtoplin-lpg": 0.919,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5000"
-    },
-    {
       "pk": 1953,
       "franchise": 1,
       "name": "PETROL ČRNCI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 1960,
+      "franchise": 1,
+      "name": "PETROL MIREN",
+      "address": "MIREN 13D",
+      "lat": 45.898043,
+      "lng": 13.608726,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.725,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5291"
     }
   ],
   "position": null
