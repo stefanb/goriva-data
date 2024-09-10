@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 1548,
+      "franchise": 4,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
+      "prices": {
+        "95": 1.475,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": 1.695,
+        "avtoplin-lpg": null,
+        "KOEL": 1.125,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
+    },
+    {
       "pk": 1552,
       "franchise": 4,
       "name": "BS MOL KOČEVJE",
@@ -577,30 +601,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1924,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PTUJSKA 136",
-      "address": "PTUJSKA CESTA 136",
-      "lat": 46.53249876,
-      "lng": 15.66655604,
-      "prices": {
-        "95": 1.475,
-        "dizel": 1.519,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.125,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 11:30-16:00\r\nsobote 11:30-15:00",
       "zip_code": "2000"
     }
   ],

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2287,
+      "franchise": 4,
+      "name": "BS MOL LAŠKO",
+      "address": "Celjska cesta 2",
+      "lat": 46.162431,
+      "lng": 15.23171,
+      "prices": {
+        "95": 1.475,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": 1.695,
+        "avtoplin-lpg": null,
+        "KOEL": 1.125,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
+      "zip_code": "3270"
+    },
+    {
       "pk": 2302,
       "franchise": 19,
       "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
       "zip_code": "8273"
-    },
-    {
-      "pk": 2346,
-      "franchise": 5,
-      "name": "Celje Mariborska",
-      "address": "Mariborska 128",
-      "lat": 46.24423316065561,
-      "lng": 15.278462363239953,
-      "prices": {
-        "95": 1.475,
-        "dizel": 1.519,
-        "98": null,
-        "100": 1.769,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3000"
     }
   ],
   "position": null

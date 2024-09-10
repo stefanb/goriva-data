@@ -244,6 +244,30 @@
       "zip_code": "2310"
     },
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.676,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.769,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2313,
       "franchise": 14,
       "name": "West Oil BS Zavrč",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6310"
-    },
-    {
-      "pk": 800,
-      "franchise": 4,
-      "name": "BS MOL KAMNIK",
-      "address": "Perovo 32",
-      "lat": 46.208865,
-      "lng": 14.606844,
-      "prices": {
-        "95": 1.475,
-        "dizel": 1.519,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": 1.695,
-        "avtoplin-lpg": null,
-        "KOEL": 1.125,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "1240"
     }
   ],
   "position": null
