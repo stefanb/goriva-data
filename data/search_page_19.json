@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2372,
+      "franchise": 5,
+      "name": "ZG. POLSKAVA",
+      "address": "Bukovec 1b",
+      "lat": 46.43088480445796,
+      "lng": 15.627126931204163,
+      "prices": {
+        "95": 1.475,
+        "dizel": 1.519,
+        "98": null,
+        "100": 1.769,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2314"
+    },
+    {
       "pk": 2373,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA Lendavska",
@@ -578,30 +602,6 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
-    },
-    {
-      "pk": 861,
-      "franchise": 4,
-      "name": "BS MOL ŠEMPAS",
-      "address": "Šempas 160b",
-      "lat": 45.917693,
-      "lng": 13.721916,
-      "prices": {
-        "95": 1.723,
-        "dizel": 1.728,
-        "98": null,
-        "100": 1.819,
-        "dizel-premium": 1.822,
-        "avtoplin-lpg": 0.967,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Nova Gorica",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5261"
     }
   ],
   "position": null

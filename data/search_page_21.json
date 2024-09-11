@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2096,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - SEVER",
+      "address": "SPODNJI PLAVŽ 24B",
+      "lat": 46.440937,
+      "lng": 14.028828,
+      "prices": {
+        "95": 1.724,
+        "dizel": 1.729,
+        "98": null,
+        "100": 1.817,
+        "dizel-premium": 1.82,
+        "avtoplin-lpg": 0.969,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Karavan",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
       "pk": 2100,
       "franchise": 1,
       "name": "PETROL VOKLO AC - ZAHOD",
@@ -458,30 +482,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
-    },
-    {
-      "pk": 1921,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 36",
-      "address": "TRŽAŠKA CESTA 36",
-      "lat": 46.53769944,
-      "lng": 15.64633113,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "Lokacija trenutno zaprta.\r\nNON-STOP",
-      "zip_code": "2000"
     },
     {
       "pk": 1942,
