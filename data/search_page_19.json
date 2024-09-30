@@ -1,32 +1,8 @@
 {
-  "count": 553,
+  "count": 552,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
-    {
-      "pk": 2373,
-      "franchise": 4,
-      "name": "BS MOL MURSKA SOBOTA Lendavska",
-      "address": "Lendavska 60d",
-      "lat": 46.66673,
-      "lng": 16.17698,
-      "prices": {
-        "95": 1.457,
-        "dizel": 1.485,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.659,
-        "avtoplin-lpg": null,
-        "KOEL": 1.092,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-ned; od 06:00 - 22:00\r\nprazniki; od 6:00 - 22:00",
-      "zip_code": "9000"
-    },
     {
       "pk": 2374,
       "franchise": 4,
@@ -602,6 +578,30 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
+    },
+    {
+      "pk": 861,
+      "franchise": 4,
+      "name": "BS MOL ŠEMPAS",
+      "address": "Šempas 160b",
+      "lat": 45.917693,
+      "lng": 13.721916,
+      "prices": {
+        "95": 1.698,
+        "dizel": 1.694,
+        "98": null,
+        "100": 1.781,
+        "dizel-premium": 1.789,
+        "avtoplin-lpg": 0.967,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Nova Gorica",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5261"
     }
   ],
   "position": null

@@ -1,5 +1,5 @@
 {
-  "count": 553,
+  "count": 552,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
@@ -508,30 +508,6 @@
       "zip_code": "8210"
     },
     {
-      "pk": 2325,
-      "franchise": 12,
-      "name": "Avtočrpalka Kozina, INA Slovenija",
-      "address": "Kolodvorska ulica 18",
-      "lat": 45.600152572030176,
-      "lng": 13.932618123578347,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.81,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6240"
-    },
-    {
       "pk": 2326,
       "franchise": 30,
       "name": "Ka olje d.o.o.",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "PON - PET: 7.30 - 15.30\r\n\r\nOb sobotah, nedeljah in praznikih zaprto.",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2330,
+      "franchise": 31,
+      "name": "",
+      "address": "Plinarniška 1",
+      "lat": 46.24061,
+      "lng": 15.2898,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.79,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET: 7,30 - 15.30\r\n\r\nOb sobotah, nedeljah in praznikih zaprto.",
+      "zip_code": "3000"
     }
   ],
   "position": null

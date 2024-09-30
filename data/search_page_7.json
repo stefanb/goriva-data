@@ -1,32 +1,8 @@
 {
-  "count": 553,
+  "count": 552,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
-    {
-      "pk": 1982,
-      "franchise": 1,
-      "name": "PETROL AJDOVŠČINA - GORIŠKA",
-      "address": "GORIŠKA CESTA 29",
-      "lat": 45.88663093,
-      "lng": 13.89897002,
-      "prices": {
-        "95": 1.457,
-        "dizel": 1.485,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.092,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Delavnik 06:00 - 20:00, Sobota 06:00 - 20:00, Nedelja in praznik 08:00 -19:00",
-      "zip_code": "5270"
-    },
     {
       "pk": 1983,
       "franchise": 1,
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 08:00-11:30",
       "zip_code": "2250"
+    },
+    {
+      "pk": 2012,
+      "franchise": 1,
+      "name": "PETROL HAJDOŠE",
+      "address": "HAJDOŠE 43D",
+      "lat": 46.42559375,
+      "lng": 15.82734335,
+      "prices": {
+        "95": 1.457,
+        "dizel": 1.485,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.092,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
+      "zip_code": "2288"
     }
   ],
   "position": null
