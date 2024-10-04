@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 861,
+      "franchise": 4,
+      "name": "BS MOL ŠEMPAS",
+      "address": "Šempas 160b",
+      "lat": 45.917693,
+      "lng": 13.721916,
+      "prices": {
+        "95": 1.698,
+        "dizel": 1.694,
+        "98": null,
+        "100": 1.781,
+        "dizel-premium": 1.789,
+        "avtoplin-lpg": 0.967,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Nova Gorica",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5261"
+    },
+    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -576,30 +600,6 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2096,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - SEVER",
-      "address": "SPODNJI PLAVŽ 24B",
-      "lat": 46.440937,
-      "lng": 14.028828,
-      "prices": {
-        "95": 1.705,
-        "dizel": 1.695,
-        "98": null,
-        "100": 1.78,
-        "dizel-premium": 1.787,
-        "avtoplin-lpg": 0.999,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Karavan",
       "open_hours": "NON-STOP",
       "zip_code": "4270"
     }
