@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 789,
-      "franchise": 4,
-      "name": "BS MOL FERNETIČI",
-      "address": "Partizanska c. 151",
-      "lat": 45.701768,
-      "lng": 13.841505,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.726,
-        "dizel-premium": 1.702,
-        "avtoplin-lpg": 0.937,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Sežana",
-      "open_hours": "Pon-Ned 07:00-22:00",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 794,
-      "franchise": 4,
-      "name": "BS MOL GRAČIŠČE",
-      "address": "Gračišče 4a",
-      "lat": 45.501301,
-      "lng": 13.873635,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.696,
-        "dizel-premium": 1.672,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6272"
-    },
-    {
       "pk": 797,
       "franchise": 4,
       "name": "BS MOL ILIRSKA BISTRICA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz. zaprto; Apr-Sep: Pon-Sob 07:00-20:00, Ned/Praz. zaprto",
       "zip_code": "1385"
+    },
+    {
+      "pk": 835,
+      "franchise": 4,
+      "name": "BS MOL NOVO MESTO LEVIČNIKOVA",
+      "address": "Levičnikova c. 4",
+      "lat": 45.804054,
+      "lng": 15.181842,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.696,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-23:00 (S,N,praz 6-22)",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 836,
+      "franchise": 4,
+      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
+      "address": "Ljubljanska cesta 11",
+      "lat": 45.8139,
+      "lng": 15.153116666666667,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.696,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 6:00-22:00",
+      "zip_code": "8000"
     }
   ],
   "position": null

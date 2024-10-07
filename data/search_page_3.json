@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 835,
-      "franchise": 4,
-      "name": "BS MOL NOVO MESTO LEVIČNIKOVA",
-      "address": "Levičnikova c. 4",
-      "lat": 45.804054,
-      "lng": 15.181842,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.696,
-        "dizel-premium": 1.672,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-23:00 (S,N,praz 6-22)",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 836,
-      "franchise": 4,
-      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
-      "address": "Ljubljanska cesta 11",
-      "lat": 45.8139,
-      "lng": 15.153116666666667,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.696,
-        "dizel-premium": 1.672,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 6:00-22:00",
-      "zip_code": "8000"
-    },
-    {
       "pk": 838,
       "franchise": 4,
       "name": "BS MOL ORMOŽ",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "3320"
+    },
+    {
+      "pk": 872,
+      "franchise": 4,
+      "name": "BS MOL VIPOLŽE",
+      "address": "Vipolže 6b",
+      "lat": 45.966782,
+      "lng": 13.540767,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.696,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-21:00",
+      "zip_code": "5212"
+    },
+    {
+      "pk": 873,
+      "franchise": 4,
+      "name": "BS MOL VIR DOMŽALE",
+      "address": "Šaranovičeva c. 10a",
+      "lat": 46.147666,
+      "lng": 14.60635,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.696,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1230"
     }
   ],
   "position": null
