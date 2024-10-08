@@ -268,30 +268,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.457,
-        "dizel": 1.485,
-        "98": 1.659,
-        "100": 1.659,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.092,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6310"
+    },
+    {
+      "pk": 800,
+      "franchise": 4,
+      "name": "BS MOL KAMNIK",
+      "address": "Perovo 32",
+      "lat": 46.208865,
+      "lng": 14.606844,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.696,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "1240"
     }
   ],
   "position": null

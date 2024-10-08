@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2041,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
-      "address": "TRŽAŠKA CESTA 131A",
-      "lat": 46.03869769,
-      "lng": 14.47088774,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.697,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2042,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ZALOŠKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
       "zip_code": "4290"
+    },
+    {
+      "pk": 2070,
+      "franchise": 1,
+      "name": "PETROL ZAGORJE OB SAVI",
+      "address": "CESTA ZMAGE 51B",
+      "lat": 46.1272492,
+      "lng": 14.99353794,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.697,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "1410"
     }
   ],
   "position": null

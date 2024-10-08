@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1922,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - MLINSKA",
-      "address": "MLINSKA ULICA 33",
-      "lat": 46.5573545,
-      "lng": 15.65508386,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1924,
       "franchise": 1,
       "name": "PETROL MARIBOR - PTUJSKA 136",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "5280"
+    },
+    {
+      "pk": 1951,
+      "franchise": 1,
+      "name": "PETROL LENART",
+      "address": "KRAIGHERJEVA ULICA 40",
+      "lat": 46.58401138,
+      "lng": 15.84030408,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.697,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.966,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "2230"
     }
   ],
   "position": null
