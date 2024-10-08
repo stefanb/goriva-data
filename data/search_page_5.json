@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1925,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - VALVASORJEVA",
-      "address": "VALVASORJEVA ULICA 51",
-      "lat": 46.555036,
-      "lng": 15.633782,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1926,
       "franchise": 1,
       "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA ZAHOD",
@@ -600,8 +576,32 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Trenutno zaprto.\r\nNON-STOP",
+      "open_hours": "NON-STOP",
       "zip_code": "5000"
+    },
+    {
+      "pk": 1953,
+      "franchise": 1,
+      "name": "PETROL ČRNCI",
+      "address": "ČRNCI 47A",
+      "lat": 46.69630599,
+      "lng": 15.88782207,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9253"
     }
   ],
   "position": null

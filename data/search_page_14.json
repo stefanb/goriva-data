@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2186,
-      "franchise": 1,
-      "name": "PETROL ROGAŠKA SLATINA",
-      "address": "SPODNJE NEGONJE 27A",
-      "lat": 46.25266116,
-      "lng": 15.61686431,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.697,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-17:00",
-      "zip_code": "3250"
-    },
-    {
       "pk": 2187,
       "franchise": 1,
       "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "2366"
+    },
+    {
+      "pk": 2213,
+      "franchise": 1,
+      "name": "PETROL OTIŠKI VRH",
+      "address": "OTIŠKI VRH 25C",
+      "lat": 46.572637,
+      "lng": 15.025052,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Delavnik 00:00-06:00 B, ,06:00-18:00,18:00-24:00 B, Sobota 00:00-07:00 B,07:00-11:00,11:30-13:00,13:00-24:00 B",
+      "zip_code": "2373"
     }
   ],
   "position": null

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": 1.095,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2302,
       "franchise": 19,
       "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
       "zip_code": "8273"
+    },
+    {
+      "pk": 2346,
+      "franchise": 5,
+      "name": "Celje Mariborska",
+      "address": "Mariborska 128",
+      "lat": 46.24423316065561,
+      "lng": 15.278462363239953,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.768,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
     }
   ],
   "position": null
