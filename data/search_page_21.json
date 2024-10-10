@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2100,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - ZAHOD",
-      "address": "GASILSKA CESTA 55",
-      "lat": 46.22788,
-      "lng": 14.419719,
-      "prices": {
-        "95": 1.718,
-        "dizel": 1.709,
-        "98": null,
-        "100": 1.818,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.979,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
       "pk": 2101,
       "franchise": 1,
       "name": "PETROL VOKLO AC - VZHOD",
@@ -458,6 +434,30 @@
       "direction": "",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 1923,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ AC - ZAHOD",
+      "address": "CESTA 2. JULIJA 19",
+      "lat": 46.68509786,
+      "lng": 15.64986497,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto. \r\nNON-STOP",
+      "zip_code": "2212"
     },
     {
       "pk": 1931,
