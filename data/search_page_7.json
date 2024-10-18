@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1981,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - GRČNA",
+      "address": "VOJKOVA CESTA 68",
+      "lat": 45.95320889,
+      "lng": 13.65237464,
+      "prices": {
+        "95": 1.469,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.697,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 1982,
       "franchise": 1,
       "name": "PETROL AJDOVŠČINA - GORIŠKA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2270"
-    },
-    {
-      "pk": 2011,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 25",
-      "address": "ORMOŠKA CESTA 25",
-      "lat": 46.41703099,
-      "lng": 15.8826979,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.499,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 08:00-11:30",
-      "zip_code": "2250"
     }
   ],
   "position": null
