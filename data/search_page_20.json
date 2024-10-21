@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 848,
-      "franchise": 4,
-      "name": "BS MOL RAVBARKOMANDA ZAHOD",
-      "address": "Javorniška pot 7a",
-      "lat": 45.78536414,
-      "lng": 14.22271237,
-      "prices": {
-        "95": 1.715,
-        "dizel": 1.708,
-        "98": null,
-        "100": 1.817,
-        "dizel-premium": 1.798,
-        "avtoplin-lpg": 0.967,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6230"
-    },
-    {
       "pk": 861,
       "franchise": 4,
       "name": "BS MOL ŠEMPAS",
@@ -600,6 +576,30 @@
       },
       "distance": null,
       "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
+      "pk": 2096,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - SEVER",
+      "address": "SPODNJI PLAVŽ 24B",
+      "lat": 46.440937,
+      "lng": 14.028828,
+      "prices": {
+        "95": 1.718,
+        "dizel": 1.709,
+        "98": null,
+        "100": 1.818,
+        "dizel-premium": 1.8,
+        "avtoplin-lpg": 0.979,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Karavan",
       "open_hours": "NON-STOP",
       "zip_code": "4270"
     }
