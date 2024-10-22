@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2097,
-      "franchise": 1,
-      "name": "PETROL ROVTE",
-      "address": "ROVTE 20C",
-      "lat": 45.96963904,
-      "lng": 14.14181044,
-      "prices": {
-        "95": 1.51,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.127,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 14:00-18:00\r\nsobote 08:30-12:00",
-      "zip_code": "1373"
-    },
-    {
-      "pk": 2098,
-      "franchise": 1,
-      "name": "PETROL IVANČNA GORICA",
-      "address": "VODOTUČINE 14",
-      "lat": 45.935276,
-      "lng": 14.804536,
-      "prices": {
-        "95": 1.51,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.748,
-        "dizel-premium": 1.696,
-        "avtoplin-lpg": 0.949,
-        "KOEL": 1.127,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "1295"
-    },
-    {
       "pk": 2099,
       "franchise": 1,
       "name": "PETROL ŠENČUR",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "1292"
+    },
+    {
+      "pk": 2126,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 65",
+      "address": "CESTA STANETA ŽAGARJA 65",
+      "lat": 46.241822,
+      "lng": 14.375238,
+      "prices": {
+        "95": 1.51,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.748,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.949,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Kranj",
+      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 21:00-24:00\r\nnedelje in prazniki 21:00-24:00",
+      "zip_code": "4000"
+    },
+    {
+      "pk": 2127,
+      "franchise": 1,
+      "name": "PETROL HORJUL",
+      "address": "VRHNIŠKA CESTA 11",
+      "lat": 46.02135318,
+      "lng": 14.30128011,
+      "prices": {
+        "95": 1.51,
+        "dizel": 1.528,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.127,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:00-12:00",
+      "zip_code": "1354"
     }
   ],
   "position": null
