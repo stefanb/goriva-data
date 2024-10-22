@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2287,
-      "franchise": 4,
-      "name": "BS MOL LAŠKO",
-      "address": "Celjska cesta 2",
-      "lat": 46.162431,
-      "lng": 15.23171,
-      "prices": {
-        "95": 1.51,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.747,
-        "dizel-premium": 1.698,
-        "avtoplin-lpg": null,
-        "KOEL": 1.127,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
-      "zip_code": "3270"
-    },
-    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -218,6 +194,30 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.51,
+        "dizel": 1.528,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.127,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
       "pk": 2316,
