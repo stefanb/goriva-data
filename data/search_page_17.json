@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2287,
-      "franchise": 4,
-      "name": "BS MOL LAŠKO",
-      "address": "Celjska cesta 2",
-      "lat": 46.162431,
-      "lng": 15.23171,
-      "prices": {
-        "95": 1.51,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.747,
-        "dizel-premium": 1.698,
-        "avtoplin-lpg": null,
-        "KOEL": 1.127,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
-      "zip_code": "3270"
-    },
-    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
       "zip_code": "8000"
+    },
+    {
+      "pk": 2344,
+      "franchise": 5,
+      "name": "ARCLIN",
+      "address": "3211 Arclin – Škofja Vas, Arclin 101",
+      "lat": 46.27879929325074,
+      "lng": 15.300271376669105,
+      "prices": {
+        "95": 1.51,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.809,
+        "dizel-premium": 1.907,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
+      "zip_code": "3211"
     }
   ],
   "position": null
