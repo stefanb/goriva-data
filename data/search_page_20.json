@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 861,
-      "franchise": 4,
-      "name": "BS MOL ŠEMPAS",
-      "address": "Šempas 160b",
-      "lat": 45.917693,
-      "lng": 13.721916,
-      "prices": {
-        "95": 1.757,
-        "dizel": 1.737,
-        "98": null,
-        "100": 1.868,
-        "dizel-premium": 1.827,
-        "avtoplin-lpg": 0.967,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Nova Gorica",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "5261"
-    },
-    {
       "pk": 1559,
       "franchise": 4,
       "name": "BS MOL PINCE",
@@ -602,6 +578,30 @@
       "direction": "Ljubljana -> Karavan",
       "open_hours": "NON-STOP",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2100,
+      "franchise": 1,
+      "name": "PETROL VOKLO AC - ZAHOD",
+      "address": "GASILSKA CESTA 55",
+      "lat": 46.22788,
+      "lng": 14.419719,
+      "prices": {
+        "95": 1.758,
+        "dizel": 1.738,
+        "98": null,
+        "100": 1.869,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.979,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4208"
     }
   ],
   "position": null
