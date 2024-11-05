@@ -244,30 +244,6 @@
       "zip_code": "8222"
     },
     {
-      "pk": 2230,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - SEVER",
-      "address": "ZAGRAD PRI OTOČCU 110",
-      "lat": 45.841967,
-      "lng": 15.216726,
-      "prices": {
-        "95": 1.735,
-        "dizel": 1.728,
-        "98": null,
-        "100": 1.852,
-        "dizel-premium": 1.811,
-        "avtoplin-lpg": 0.979,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto.\r\nNON-STOP",
-      "zip_code": "8222"
-    },
-    {
       "pk": 2231,
       "franchise": 1,
       "name": "PETROL DUL AC - JUG",
@@ -578,6 +554,30 @@
       "direction": "",
       "open_hours": "Trenutno zaprto. \r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:30-18:00",
       "zip_code": "3214"
+    },
+    {
+      "pk": 2230,
+      "franchise": 1,
+      "name": "PETROL STARINE AC - SEVER",
+      "address": "ZAGRAD PRI OTOČCU 110",
+      "lat": 45.841967,
+      "lng": 15.216726,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto.\r\nNON-STOP",
+      "zip_code": "8222"
     },
     {
       "pk": 2258,
