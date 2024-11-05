@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2349,
+      "franchise": 5,
+      "name": "Shell Sezana",
+      "address": "Partizanska cesta 69A",
+      "lat": 45.70519088779502,
+      "lng": 13.861015699133779,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": 1.785,
+        "dizel-premium": 1.758,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 2351,
+      "franchise": 5,
+      "name": "Shell Celje Kidričeva",
+      "address": "Kidričeva ulica 40",
+      "lat": 46.234018307787046,
+      "lng": 15.296215827340855,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": 1.785,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2353,
       "franchise": 5,
       "name": "Kočevje Reška",
@@ -554,54 +602,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2327,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Bezena",
-      "address": "Bezena 99",
-      "lat": 46.5499175582367,
-      "lng": 15.538353293954877,
-      "prices": {
-        "95": 1.509,
-        "dizel": 1.527,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
-      "zip_code": "2342"
-    },
-    {
-      "pk": 1994,
-      "franchise": 1,
-      "name": "PETROL JAGODJE - JUG",
-      "address": "JAGODJE 10",
-      "lat": 45.52451738,
-      "lng": 13.6508096,
-      "prices": {
-        "95": 1.51,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.748,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.949,
-        "KOEL": 1.127,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "6310"
     }
   ],
   "position": null
