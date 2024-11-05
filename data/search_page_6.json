@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
+      "pk": 1951,
+      "franchise": 1,
+      "name": "PETROL LENART",
+      "address": "KRAIGHERJEVA ULICA 40",
+      "lat": 46.58401138,
+      "lng": 15.84030408,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": 1.731,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.949,
+        "KOEL": 1.115,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "2230"
+    },
+    {
       "pk": 1952,
       "franchise": 1,
       "name": "PETROL ROŽNA DOLINA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:30-18:00\r\nsobote 07:30-13:00",
       "zip_code": "9263"
-    },
-    {
-      "pk": 1979,
-      "franchise": 1,
-      "name": "PETROL VUČJA VAS",
-      "address": "BUČEČOVCI 4B",
-      "lat": 46.590862,
-      "lng": 16.107841,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.518,
-        "98": null,
-        "100": 1.731,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9242"
     }
   ],
   "position": null

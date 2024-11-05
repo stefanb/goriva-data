@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 841,
+      "franchise": 4,
+      "name": "BS MOL PORTOROŽ",
+      "address": "Fizine 17",
+      "lat": 45.515177,
+      "lng": 13.580759,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": 1.731,
+        "dizel-premium": 1.686,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Ned 06:00-22:00; Jun-Sep: Pon-Čet 06:00-22:00, Pet-Ned 06:00-24:00",
+      "zip_code": "6320"
+    },
+    {
       "pk": 842,
       "franchise": 4,
       "name": "BS MOL POSTOJNA TITOVA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
       "zip_code": "2325"
-    },
-    {
-      "pk": 1552,
-      "franchise": 4,
-      "name": "BS MOL KOČEVJE",
-      "address": "LJUBLJANSKA CESTA 40",
-      "lat": 45.6488405,
-      "lng": 14.8544269,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.518,
-        "98": null,
-        "100": 1.731,
-        "dizel-premium": 1.686,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
-      "zip_code": "1330"
     }
   ],
   "position": null
