@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 1553,
+      "franchise": 4,
+      "name": "BS MOL SLOVENSKA BISTRICA",
+      "address": "LJUBLJANSKA CESTA 91",
+      "lat": 46.38245,
+      "lng": 15.563571,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": 1.731,
+        "dizel-premium": 1.686,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 1554,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA",
@@ -577,30 +601,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 08:00-18:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1925,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - VALVASORJEVA",
-      "address": "VALVASORJEVA ULICA 51",
-      "lat": 46.555036,
-      "lng": 15.633782,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.518,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "2000"
     }
   ],
