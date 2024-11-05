@@ -52,30 +52,6 @@
       "zip_code": "9240"
     },
     {
-      "pk": 1994,
-      "franchise": 1,
-      "name": "PETROL JAGODJE - JUG",
-      "address": "JAGODJE 10",
-      "lat": 45.52451738,
-      "lng": 13.6508096,
-      "prices": {
-        "95": 1.51,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.748,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.949,
-        "KOEL": 1.127,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 804,
       "franchise": 4,
       "name": "BS MOL KOPER BONIFIKA",
@@ -602,6 +578,30 @@
       "direction": "Nova Gorica",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5261"
+    },
+    {
+      "pk": 1559,
+      "franchise": 4,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.733,
+        "dizel": 1.727,
+        "98": null,
+        "100": 1.902,
+        "dizel-premium": 1.862,
+        "avtoplin-lpg": 0.967,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "9220"
     }
   ],
   "position": null
