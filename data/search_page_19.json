@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2372,
+      "franchise": 5,
+      "name": "ZG. POLSKAVA",
+      "address": "Bukovec 1b",
+      "lat": 46.43088480445796,
+      "lng": 15.627126931204163,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": 1.785,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2314"
+    },
+    {
       "pk": 2373,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA Lendavska",
@@ -578,30 +602,6 @@
       "direction": "Nova Gorica",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "5261"
-    },
-    {
-      "pk": 1559,
-      "franchise": 4,
-      "name": "BS MOL PINCE",
-      "address": "LENDAVSKA CESTA 44 A",
-      "lat": 46.522006,
-      "lng": 16.51979,
-      "prices": {
-        "95": 1.733,
-        "dizel": 1.727,
-        "98": null,
-        "100": 1.902,
-        "dizel-premium": 1.862,
-        "avtoplin-lpg": 0.967,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "smer Murska Sobota",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "9220"
     }
   ],
   "position": null

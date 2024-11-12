@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2345,
+      "franchise": 5,
+      "name": "DRNOVO",
+      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
+      "lat": 45.92022102331869,
+      "lng": 15.47376189244999,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": 1.785,
+        "dizel-premium": 1.897,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
+      "zip_code": "8273"
+    },
+    {
       "pk": 2346,
       "franchise": 5,
       "name": "Celje Mariborska",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "5000"
-    },
-    {
-      "pk": 2372,
-      "franchise": 5,
-      "name": "ZG. POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43088480445796,
-      "lng": 15.627126931204163,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.518,
-        "98": null,
-        "100": 1.785,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2314"
     }
   ],
   "position": null
