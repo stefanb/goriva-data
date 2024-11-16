@@ -508,6 +508,30 @@
       "zip_code": "3000"
     },
     {
+      "pk": 2181,
+      "franchise": 1,
+      "name": "PETROL ZREČE",
+      "address": "KOVAŠKA CESTA 29A",
+      "lat": 46.37183166,
+      "lng": 15.39050014,
+      "prices": {
+        "95": 1.486,
+        "dizel": 1.518,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.115,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto. \r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:30-18:00",
+      "zip_code": "3214"
+    },
+    {
       "pk": 2182,
       "franchise": 1,
       "name": "PETROL BISTRICA OB SOTLI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
       "zip_code": "3335"
-    },
-    {
-      "pk": 2185,
-      "franchise": 1,
-      "name": "PETROL PLANINA",
-      "address": "PLANINA PRI SEVNICI 65H",
-      "lat": 46.09842192,
-      "lng": 15.39765344,
-      "prices": {
-        "95": 1.486,
-        "dizel": 1.518,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.115,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 12:00-14:00",
-      "zip_code": "3225"
     }
   ],
   "position": null
