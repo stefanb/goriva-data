@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2100,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - ZAHOD",
-      "address": "GASILSKA CESTA 55",
-      "lat": 46.22788,
-      "lng": 14.419719,
-      "prices": {
-        "95": 1.731,
-        "dizel": 1.752,
-        "98": null,
-        "100": 1.845,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.959,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4208"
-    },
-    {
       "pk": 2101,
       "franchise": 1,
       "name": "PETROL VOKLO AC - VZHOD",
@@ -530,6 +506,30 @@
       "direction": "",
       "open_hours": "Trenutno zaprto. \r\nvsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6310"
+    },
+    {
+      "pk": 2007,
+      "franchise": 1,
+      "name": "PETROL ŠTALONI",
+      "address": "KOZARNO 1B",
+      "lat": 46.00171653,
+      "lng": 13.51782499,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto. \r\nvsak delavnik 07:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "5212"
     },
     {
       "pk": 2016,
