@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 1931,
+      "franchise": 1,
+      "name": "PETROL RUŠE",
+      "address": "INDUSTRIJSKA ULICA 4",
+      "lat": 46.54026886,
+      "lng": 15.51724169,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.542,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-16:00",
+      "zip_code": "2342"
+    },
+    {
       "pk": 1932,
       "franchise": 1,
       "name": "PETROL PRAGERSKO",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 17:30-19:00",
       "zip_code": "5213"
-    },
-    {
-      "pk": 1959,
-      "franchise": 1,
-      "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
-      "address": "CESTA PREKOMORSKIH BRIGAD 64A",
-      "lat": 45.93235392,
-      "lng": 13.63826623,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.542,
-        "98": null,
-        "100": 1.724,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "5290"
     }
   ],
   "position": null
