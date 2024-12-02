@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 1930,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PTUJSKA 111",
+      "address": "PTUJSKA CESTA 111",
+      "lat": 46.53248364,
+      "lng": 15.66759889,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.542,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 1931,
       "franchise": 1,
       "name": "PETROL RUŠE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "5222"
-    },
-    {
-      "pk": 1958,
-      "franchise": 1,
-      "name": "PETROL KANAL OB SOČI",
-      "address": "KIDRIČEVA CESTA 10A",
-      "lat": 46.08786527,
-      "lng": 13.63259475,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.542,
-        "98": null,
-        "100": 1.724,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.137,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 13:30-17:00\r\nsobote 13:30-17:00",
-      "zip_code": "5213"
     }
   ],
   "position": null

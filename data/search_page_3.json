@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 853,
+      "franchise": 4,
+      "name": "BS MOL SEŽANA",
+      "address": "Partizanska 63a",
+      "lat": 45.705649,
+      "lng": 13.863156,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.542,
+        "98": null,
+        "100": 1.725,
+        "dizel-premium": 1.71,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6210"
+    },
+    {
       "pk": 854,
       "franchise": 4,
       "name": "BS MOL SLOVENSKA BISTRICA ŽOLGARJEVA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "PON - NED 00:00-24:00",
       "zip_code": "3000"
-    },
-    {
-      "pk": 1560,
-      "franchise": 4,
-      "name": "BS MOL ROŽNA DOLINA",
-      "address": "ULICA ANGELA BESEDNJAKA 8A",
-      "lat": 45.9404582,
-      "lng": 13.6399226,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.542,
-        "98": null,
-        "100": 1.725,
-        "dizel-premium": 1.71,
-        "avtoplin-lpg": 0.927,
-        "KOEL": 1.137,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon. - ned. 00:00 - 24:00",
-      "zip_code": "5000"
     }
   ],
   "position": null

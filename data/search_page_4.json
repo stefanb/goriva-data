@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 1560,
+      "franchise": 4,
+      "name": "BS MOL ROŽNA DOLINA",
+      "address": "ULICA ANGELA BESEDNJAKA 8A",
+      "lat": 45.9404582,
+      "lng": 13.6399226,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.542,
+        "98": null,
+        "100": 1.725,
+        "dizel-premium": 1.71,
+        "avtoplin-lpg": 0.927,
+        "KOEL": 1.137,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - ned. 00:00 - 24:00",
+      "zip_code": "5000"
+    },
+    {
       "pk": 1561,
       "franchise": 4,
       "name": "BS MOL RADVANJE MARIBOR",
@@ -577,30 +601,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "Lokacija trenutno zaprta.\r\n\r\nvsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1930,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PTUJSKA 111",
-      "address": "PTUJSKA CESTA 111",
-      "lat": 46.53248364,
-      "lng": 15.66759889,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.542,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.137,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 08:00-15:00",
       "zip_code": "2000"
     }
   ],

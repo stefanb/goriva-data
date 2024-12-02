@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1986,
+      "franchise": 1,
+      "name": "PETROL BOVEC",
+      "address": "DVOR 44",
+      "lat": 46.33279417,
+      "lng": 13.54135681,
+      "prices": {
+        "95": 1.482,
+        "dizel": 1.542,
+        "98": null,
+        "100": 1.724,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.137,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
+      "zip_code": "5230"
+    },
+    {
       "pk": 1987,
       "franchise": 1,
       "name": "PETROL ČRNI VRH",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Trenutno zaprto.\r\nNON-STOP",
       "zip_code": "5270"
-    },
-    {
-      "pk": 2017,
-      "franchise": 1,
-      "name": "PETROL DOLGA VAS",
-      "address": "GLAVNA ULICA 200",
-      "lat": 46.59372345,
-      "lng": 16.46019878,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.542,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.137,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "9220"
     }
   ],
   "position": null
