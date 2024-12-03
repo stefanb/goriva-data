@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2001,
-      "franchise": 1,
-      "name": "PETROL VIPAVA",
-      "address": "GORIŠKA CESTA 41",
-      "lat": 45.8488706,
-      "lng": 13.95468545,
-      "prices": {
-        "95": 1.493,
-        "dizel": 1.561,
-        "98": null,
-        "100": 1.72,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5271"
-    },
-    {
       "pk": 2002,
       "franchise": 1,
       "name": "PETROL AJŠEVICA",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "Ljubljana -> Kranj",
       "open_hours": "NON-STOP",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2037,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - RAKOVNIK",
+      "address": "DOLENJSKA CESTA 136A",
+      "lat": 46.03323598,
+      "lng": 14.52693479,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": null,
+        "100": 1.72,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "1000"
     }
   ],

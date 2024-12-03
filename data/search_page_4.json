@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 870,
-      "franchise": 4,
-      "name": "BS MOL VELENJE PARTIZANSKA",
-      "address": "Partizanska c. 15a",
-      "lat": 46.359472,
-      "lng": 15.099174,
-      "prices": {
-        "95": 1.493,
-        "dizel": 1.561,
-        "98": null,
-        "100": 1.718,
-        "dizel-premium": 1.729,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:30-22:30",
-      "zip_code": "3320"
-    },
-    {
       "pk": 871,
       "franchise": 4,
       "name": "BS MOL VELENJE SELO",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1587,
+      "franchise": 4,
+      "name": "BS MOL LETUŠ",
+      "address": "LETUŠ 11 D",
+      "lat": 46.311732,
+      "lng": 15.026208,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": null,
+        "100": 1.718,
+        "dizel-premium": 1.729,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - PET 06:00 - 21:00\r\nSOBOTA 07:00 - 21:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3327"
     }
   ],
   "position": null

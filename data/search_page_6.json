@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1942,
-      "franchise": 1,
-      "name": "PETROL SELNICA OB DRAVI",
-      "address": "MARIBORSKA CESTA 46",
-      "lat": 46.54934191,
-      "lng": 15.4860149,
-      "prices": {
-        "95": 1.493,
-        "dizel": 1.561,
-        "98": null,
-        "100": 1.72,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "2352"
-    },
-    {
       "pk": 1943,
       "franchise": 1,
       "name": "PETROL MARIBOR - NA POLJANAH",
@@ -602,6 +578,30 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "9233"
+    },
+    {
+      "pk": 1970,
+      "franchise": 1,
+      "name": "PETROL GORNJA RADGONA - MELE",
+      "address": "LJUTOMERSKA CESTA 36",
+      "lat": 46.66198841,
+      "lng": 16.01446177,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": null,
+        "100": 1.72,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.929,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "9250"
     }
   ],
   "position": null

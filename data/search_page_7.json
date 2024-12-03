@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1970,
-      "franchise": 1,
-      "name": "PETROL GORNJA RADGONA - MELE",
-      "address": "LJUTOMERSKA CESTA 36",
-      "lat": 46.66198841,
-      "lng": 16.01446177,
-      "prices": {
-        "95": 1.493,
-        "dizel": 1.561,
-        "98": null,
-        "100": 1.72,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.929,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "9250"
-    },
-    {
       "pk": 1971,
       "franchise": 1,
       "name": "PETROL MARTJANCI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "5282"
+    },
+    {
+      "pk": 2001,
+      "franchise": 1,
+      "name": "PETROL VIPAVA",
+      "address": "GORIŠKA CESTA 41",
+      "lat": 45.8488706,
+      "lng": 13.95468545,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": null,
+        "100": 1.72,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5271"
     }
   ],
   "position": null
