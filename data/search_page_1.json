@@ -4,30 +4,6 @@
   "previous": null,
   "results": [
     {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.469,
-        "dizel": 1.519,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.86,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2288,
       "franchise": 4,
       "name": "BS MOL PAY&GO TRŽIČ",
@@ -244,6 +220,30 @@
       "zip_code": "2283"
     },
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.539,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.86,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2327,
       "franchise": 15,
       "name": "DISCONT OiL - BS Bezena",
@@ -290,30 +290,6 @@
       "direction": "",
       "open_hours": "Trenutno zaprto\r\nvsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "2310"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.482,
-        "dizel": 1.542,
-        "98": 1.724,
-        "100": 1.724,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.137,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2181,
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
       "zip_code": "6272"
+    },
+    {
+      "pk": 797,
+      "franchise": 4,
+      "name": "BS MOL ILIRSKA BISTRICA",
+      "address": "Bazoviška 45",
+      "lat": 45.559604,
+      "lng": 14.244346,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": null,
+        "100": 1.718,
+        "dizel-premium": 1.729,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
+      "zip_code": "6250"
     }
   ],
   "position": null
