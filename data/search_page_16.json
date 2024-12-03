@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2240,
-      "franchise": 3,
-      "name": "BS MAXEN GORNJA RADGONA",
-      "address": "Ljutomerska cesta bš",
-      "lat": 46.6636544,
-      "lng": 16.0091968,
-      "prices": {
-        "95": 1.493,
-        "dizel": 1.561,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9250"
-    },
-    {
       "pk": 2241,
       "franchise": 3,
       "name": "BS MAXEN BENEDIKT",
@@ -458,6 +434,30 @@
       "direction": "",
       "open_hours": "24 ur - črpalka z osebjem",
       "zip_code": "2313"
+    },
+    {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": 1.72,
+        "100": 1.72,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
     },
     {
       "pk": 2271,
