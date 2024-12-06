@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 839,
-      "franchise": 4,
-      "name": "BS MOL PESEK",
-      "address": "Krvavi potok 25",
-      "lat": 45.620425,
-      "lng": 13.906935,
-      "prices": {
-        "95": 1.493,
-        "dizel": 1.561,
-        "98": null,
-        "100": 1.718,
-        "dizel-premium": 1.729,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Kozina",
-      "open_hours": "Okt-Mar: Sob-Čet 07:00-22:00, Pet 07:00-22:00; Apr-Maj: Ned-Čet 07:00-22:00, Pet-Sob 07:00-22:00; Jun-Sep: Pon-Ned 06:00-22:00",
-      "zip_code": "6240"
-    },
-    {
       "pk": 840,
       "franchise": 4,
       "name": "BS MOL PODGRAD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 875,
+      "franchise": 4,
+      "name": "BS MOL ZAGRADEC",
+      "address": "Zagradec 34",
+      "lat": 45.85943,
+      "lng": 14.83524,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": null,
+        "100": 1.718,
+        "dizel-premium": 1.729,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1303"
     }
   ],
   "position": null

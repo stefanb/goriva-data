@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2006,
-      "franchise": 1,
-      "name": "PETROL HRPELJE",
-      "address": "REŠKA CESTA 51",
-      "lat": 45.604489,
-      "lng": 13.949959,
-      "prices": {
-        "95": 1.493,
-        "dizel": 1.561,
-        "98": null,
-        "100": 1.72,
-        "dizel-premium": 1.729,
-        "avtoplin-lpg": 0.929,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "6240"
-    },
-    {
       "pk": 2010,
       "franchise": 1,
       "name": "PETROL ORMOŽ",
@@ -242,6 +218,30 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2231"
+    },
+    {
+      "pk": 2021,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKA BISTRICA - LJUBLJANSKA KROŽIŠČE",
+      "address": "LJUBLJANSKA CESTA 45",
+      "lat": 46.387184,
+      "lng": 15.569006,
+      "prices": {
+        "95": 1.493,
+        "dizel": 1.561,
+        "98": null,
+        "100": 1.72,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.929,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto\r\nvsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "2310"
     },
     {
       "pk": 2022,
