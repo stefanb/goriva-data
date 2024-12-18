@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2286,
+      "franchise": 4,
+      "name": "BS MOL RADLJE OB DRAVI",
+      "address": "Mariborska cesta 60",
+      "lat": 46.612815,
+      "lng": 15.232126,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.708,
+        "dizel-premium": 1.698,
+        "avtoplin-lpg": 0.907,
+        "KOEL": 1.138,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
+      "zip_code": "2360"
+    },
+    {
       "pk": 2287,
       "franchise": 4,
       "name": "BS MOL LAŠKO",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
       "zip_code": ""
-    },
-    {
-      "pk": 2343,
-      "franchise": 5,
-      "name": "SHELL NOVO MESTO",
-      "address": "Mirnopeška 4, 8000 Novo Mesto",
-      "lat": 45.821327325964894,
-      "lng": 15.150560521690572,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.786,
-        "dizel-premium": 1.879,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": "8000"
     }
   ],
   "position": null

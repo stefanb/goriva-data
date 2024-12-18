@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2370,
+      "franchise": 5,
+      "name": "SHELL STOJNCI",
+      "address": "Stojnci 24",
+      "lat": 46.38048175449777,
+      "lng": 15.972530744906699,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.786,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2281"
+    },
+    {
       "pk": 2371,
       "franchise": 5,
       "name": "SHELL AJŠEVICA",
@@ -98,30 +122,6 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
       "zip_code": "9240"
-    },
-    {
-      "pk": 2327,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Bezena",
-      "address": "Bezena 99",
-      "lat": 46.5499175582367,
-      "lng": 15.538353293954877,
-      "prices": {
-        "95": 1.492,
-        "dizel": 1.559,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
-      "zip_code": "2342"
     },
     {
       "pk": 2296,

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2154,
+      "franchise": 1,
+      "name": "PETROL VINICA",
+      "address": "VINICA 61",
+      "lat": 45.45963416,
+      "lng": 15.2553875,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.544,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.138,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 06:00-20:00",
+      "zip_code": "8344"
+    },
+    {
       "pk": 2155,
       "franchise": 1,
       "name": "PETROL METLIKA - CESTA XV BRIGADE JUG",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-16:00\r\nsobote 08:00-12:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3256"
-    },
-    {
-      "pk": 2183,
-      "franchise": 1,
-      "name": "PETROL PONIKVA",
-      "address": "PONIKVA 36A",
-      "lat": 46.25437076,
-      "lng": 15.44383892,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.544,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "3232"
     }
   ],
   "position": null
