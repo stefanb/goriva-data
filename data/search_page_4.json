@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 814,
-      "franchise": 4,
-      "name": "BS MOL LIPOVCI",
-      "address": "Lipovci 243b",
-      "lat": 46.625125,
-      "lng": 16.214332,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.554,
-        "98": null,
-        "100": 1.714,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": null,
-        "KOEL": 1.153,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "9231"
-    },
-    {
-      "pk": 815,
-      "franchise": 4,
-      "name": "BS MOL LITIJA",
-      "address": "Zasavska c. 1",
-      "lat": 46.058713,
-      "lng": 14.832858,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.554,
-        "98": null,
-        "100": 1.714,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": null,
-        "KOEL": 1.153,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
-      "zip_code": "1270"
-    },
-    {
       "pk": 816,
       "franchise": 4,
       "name": "BS MOL LJUBLJANA LETALIŠKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "3210"
+    },
+    {
+      "pk": 856,
+      "franchise": 4,
+      "name": "BS MOL SMEDNIK",
+      "address": "Smednik 12a",
+      "lat": 45.90773,
+      "lng": 15.37137,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.554,
+        "98": null,
+        "100": 1.714,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": 0.907,
+        "KOEL": 1.153,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Novo Mesto",
+      "open_hours": "Okt-Maj: Pon-Ned 6:00-22:00; Jun-Sep: Pon-Ned 6:00-24:00",
+      "zip_code": "8274"
+    },
+    {
+      "pk": 857,
+      "franchise": 4,
+      "name": "BS MOL SPODNJA IDRIJA",
+      "address": "Vojkova ulica 24",
+      "lat": 46.01699,
+      "lng": 14.0288,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.554,
+        "98": null,
+        "100": 1.714,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": null,
+        "KOEL": 1.153,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
+      "zip_code": "5280"
     }
   ],
   "position": null

@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 2371,
-      "franchise": 5,
-      "name": "SHELL AJŠEVICA",
-      "address": "Loke 40",
-      "lat": 45.953170561531195,
-      "lng": 13.691872647114305,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.786,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "5000"
-    },
-    {
-      "pk": 2372,
-      "franchise": 5,
-      "name": "SHELL ZG. POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43088480445796,
-      "lng": 15.627126931204163,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.786,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2314"
-    },
-    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "4248"
+    },
+    {
+      "pk": 814,
+      "franchise": 4,
+      "name": "BS MOL LIPOVCI",
+      "address": "Lipovci 243b",
+      "lat": 46.625125,
+      "lng": 16.214332,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.554,
+        "98": null,
+        "100": 1.714,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": null,
+        "KOEL": 1.153,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "9231"
+    },
+    {
+      "pk": 815,
+      "franchise": 4,
+      "name": "BS MOL LITIJA",
+      "address": "Zasavska c. 1",
+      "lat": 46.058713,
+      "lng": 14.832858,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.554,
+        "98": null,
+        "100": 1.714,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": null,
+        "KOEL": 1.153,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 05:00-22:00, Ned/Praz 07:00-22:00",
+      "zip_code": "1270"
     }
   ],
   "position": null
