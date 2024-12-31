@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 854,
-      "franchise": 4,
-      "name": "BS MOL SLOVENSKA BISTRICA ŽOLGARJEVA",
-      "address": "Žolgarjeva ulica 16",
-      "lat": 46.385322,
-      "lng": 15.571972,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.554,
-        "98": null,
-        "100": 1.714,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": null,
-        "KOEL": 1.153,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2310"
-    },
-    {
-      "pk": 855,
-      "franchise": 4,
-      "name": "BS MOL SLOVENSKE KONJICE",
-      "address": "Liptovska 36a",
-      "lat": 46.34068,
-      "lng": 15.41675,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.554,
-        "98": null,
-        "100": 1.714,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": null,
-        "KOEL": 1.153,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "3210"
-    },
-    {
       "pk": 856,
       "franchise": 4,
       "name": "BS MOL SMEDNIK",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "pon. - ned. 00:00 - 24:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 1561,
+      "franchise": 4,
+      "name": "BS MOL RADVANJE MARIBOR",
+      "address": "STRELIŠKA CESTA 16/A",
+      "lat": 46.5360559,
+      "lng": 15.6202679,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.554,
+        "98": null,
+        "100": 1.714,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": 0.907,
+        "KOEL": 1.153,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon. - sob. 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1563,
+      "franchise": 4,
+      "name": "BS MOL GORNJA RADGONA",
+      "address": "LJUTOMERSKA CESTA 12",
+      "lat": 46.6699694,
+      "lng": 15.9961534,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.554,
+        "98": null,
+        "100": 1.714,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": null,
+        "KOEL": 1.153,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon - sob 06:00 - 22:00\r\nnedelja in prazniki 08:00 - 20:00",
+      "zip_code": ""
     }
   ],
   "position": null
