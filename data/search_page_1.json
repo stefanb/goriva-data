@@ -220,6 +220,30 @@
       "zip_code": "6250"
     },
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.479,
+        "dizel": 1.529,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.79,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2181,
       "franchise": 1,
       "name": "PETROL ZREČE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
       "zip_code": "8273"
-    },
-    {
-      "pk": 2346,
-      "franchise": 5,
-      "name": "SHELL CELJE MARIBORSKA",
-      "address": "Mariborska 128",
-      "lat": 46.24423316065561,
-      "lng": 15.278462363239953,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.544,
-        "98": null,
-        "100": 1.786,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3000"
     }
   ],
   "position": null
