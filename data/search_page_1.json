@@ -364,30 +364,6 @@
       "zip_code": "2256"
     },
     {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.544,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.138,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
-    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6240"
+    },
+    {
+      "pk": 2341,
+      "franchise": 5,
+      "name": "SHELL LJUTOMER",
+      "address": "Kolodvorska ulica 2A",
+      "lat": 46.52613423254767,
+      "lng": 16.193609363823846,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.786,
+        "dizel-premium": 1.799,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
+      "zip_code": "9240"
     }
   ],
   "position": null
