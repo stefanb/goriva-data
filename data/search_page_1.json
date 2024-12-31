@@ -292,30 +292,6 @@
       "zip_code": "2313"
     },
     {
-      "pk": 2306,
-      "franchise": 33,
-      "name": "Bencinski servis Stella",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.49,
-        "dizel": 1.544,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.138,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
       "pk": 2334,
       "franchise": 5,
       "name": "SHELL ROGAŠKA SLATINA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
       "zip_code": "8273"
+    },
+    {
+      "pk": 2346,
+      "franchise": 5,
+      "name": "SHELL CELJE MARIBORSKA",
+      "address": "Mariborska 128",
+      "lat": 46.24423316065561,
+      "lng": 15.278462363239953,
+      "prices": {
+        "95": 1.49,
+        "dizel": 1.544,
+        "98": null,
+        "100": 1.786,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
     }
   ],
   "position": null

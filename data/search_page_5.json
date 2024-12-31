@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 858,
-      "franchise": 4,
-      "name": "BS MOL SPODNJI DUPLEK",
-      "address": "C. 4.julija 69",
-      "lat": 46.501143,
-      "lng": 15.751535,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.554,
-        "98": null,
-        "100": 1.714,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": null,
-        "KOEL": 1.153,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
-      "zip_code": "2241"
-    },
-    {
       "pk": 859,
       "franchise": 4,
       "name": "BS MOL STARI TRG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 1571,
+      "franchise": 4,
+      "name": "BS MOL DRAMLJE",
+      "address": "LAZE PRI DRAMLJAH 6B",
+      "lat": 46.260293,
+      "lng": 15.3918165,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.554,
+        "98": null,
+        "100": 1.714,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": 0.907,
+        "KOEL": 1.153,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON-SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "3222"
     }
   ],
   "position": null
