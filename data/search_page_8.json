@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2001,
-      "franchise": 1,
-      "name": "PETROL VIPAVA",
-      "address": "GORIŠKA CESTA 41",
-      "lat": 45.8488706,
-      "lng": 13.95468545,
-      "prices": {
-        "95": 1.523,
-        "dizel": 1.581,
-        "98": null,
-        "100": 1.742,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.18,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5271"
-    },
-    {
-      "pk": 2002,
-      "franchise": 1,
-      "name": "PETROL AJŠEVICA",
-      "address": "AJŠEVICA 19",
-      "lat": 45.9530272,
-      "lng": 13.69107053,
-      "prices": {
-        "95": 1.523,
-        "dizel": 1.581,
-        "98": null,
-        "100": 1.742,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.909,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5000"
-    },
-    {
       "pk": 2003,
       "franchise": 1,
       "name": "PETROL CERKNICA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2035,
+      "franchise": 1,
+      "name": "PETROL IZOLA MANDRAČ",
+      "address": "VELIKI TRG 0N",
+      "lat": 45.538539,
+      "lng": 13.65634,
+      "prices": {
+        "95": 1.523,
+        "dizel": 1.581,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-14:00\r\nsobote 08:00-14:00\r\nnedelje in prazniki 08:00-14:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 2036,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - CELOVŠKA 226",
+      "address": "CELOVŠKA CESTA 226",
+      "lat": 46.081849,
+      "lng": 14.479525,
+      "prices": {
+        "95": 1.523,
+        "dizel": 1.581,
+        "98": null,
+        "100": 1.742,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Kranj",
+      "open_hours": "NON-STOP",
+      "zip_code": "1000"
     }
   ],
   "position": null
