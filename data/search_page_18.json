@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2341,
-      "franchise": 5,
-      "name": "SHELL LJUTOMER",
-      "address": "Kolodvorska ulica 2A",
-      "lat": 46.52613423254767,
-      "lng": 16.193609363823846,
-      "prices": {
-        "95": 1.523,
-        "dizel": 1.581,
-        "98": null,
-        "100": 1.819,
-        "dizel-premium": 1.829,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
-      "zip_code": "9240"
-    },
-    {
       "pk": 2342,
       "franchise": 5,
       "name": "SHELL SENOŽETI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "1332"
+    },
+    {
+      "pk": 2368,
+      "franchise": 5,
+      "name": "SHELL SLOVENSKE KONJICE",
+      "address": "Liptovska cesta 32B",
+      "lat": 46.34011896303725,
+      "lng": 15.418721900923186,
+      "prices": {
+        "95": 1.523,
+        "dizel": 1.581,
+        "98": null,
+        "100": 1.819,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2310"
     }
   ],
   "position": null
