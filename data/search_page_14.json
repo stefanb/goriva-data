@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2180,
+      "franchise": 1,
+      "name": "PETROL CELJE - POLULE",
+      "address": "CESTA V LAŠKO 4A",
+      "lat": 46.21772911,
+      "lng": 15.26310535,
+      "prices": {
+        "95": 1.523,
+        "dizel": 1.581,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.18,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-14:00",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2182,
       "franchise": 1,
       "name": "PETROL BISTRICA OB SOTLI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2390"
-    },
-    {
-      "pk": 2208,
-      "franchise": 1,
-      "name": "PETROL ŽERJAV",
-      "address": "ŽERJAV 3A",
-      "lat": 46.48491258,
-      "lng": 14.86992734,
-      "prices": {
-        "95": 1.523,
-        "dizel": 1.581,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.18,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 18:00-24:00\r\nsobote 15:00-24:00",
-      "zip_code": "2393"
     }
   ],
   "position": null

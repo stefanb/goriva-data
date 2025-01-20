@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2368,
+      "franchise": 5,
+      "name": "SHELL SLOVENSKE KONJICE",
+      "address": "Liptovska cesta 32B",
+      "lat": 46.34011896303725,
+      "lng": 15.418721900923186,
+      "prices": {
+        "95": 1.523,
+        "dizel": 1.581,
+        "98": null,
+        "100": 1.819,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2310"
+    },
+    {
       "pk": 2369,
       "franchise": 5,
       "name": "SHELL LUCIJA VZHOD",
@@ -576,30 +600,6 @@
       },
       "distance": null,
       "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "4240"
-    },
-    {
-      "pk": 845,
-      "franchise": 4,
-      "name": "BS MOL RADOVLJICA SEVER",
-      "address": "Ljubljanska cesta 71",
-      "lat": 46.33934,
-      "lng": 14.19201,
-      "prices": {
-        "95": 1.769,
-        "dizel": 1.789,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": 1.883,
-        "avtoplin-lpg": 0.937,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Jesenice",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "4240"
     }

@@ -340,6 +340,30 @@
       "zip_code": "5243"
     },
     {
+      "pk": 1992,
+      "franchise": 1,
+      "name": "PETROL LIPICA",
+      "address": "LIPICA 26",
+      "lat": 45.6554886,
+      "lng": 13.88112209,
+      "prices": {
+        "95": 1.523,
+        "dizel": 1.581,
+        "98": null,
+        "100": 1.742,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.909,
+        "KOEL": 1.18,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto.\r\n\r\nvsak delavnik 07:00-21:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6210"
+    },
+    {
       "pk": 1993,
       "franchise": 1,
       "name": "PETROL SEŽANA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-24:00\r\nsobote 05:00-24:00\r\nnedelje in prazniki 05:00-24:00",
       "zip_code": "6000"
-    },
-    {
-      "pk": 2005,
-      "franchise": 1,
-      "name": "PETROL IZOLA, INDUSTRIJSKA",
-      "address": "INDUSTRIJSKA CESTA 9B",
-      "lat": 45.535631,
-      "lng": 13.671735,
-      "prices": {
-        "95": 1.523,
-        "dizel": 1.581,
-        "98": null,
-        "100": 1.742,
-        "dizel-premium": 1.756,
-        "avtoplin-lpg": 0.909,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "6310"
     }
   ],
   "position": null
