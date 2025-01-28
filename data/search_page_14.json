@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2177,
-      "franchise": 1,
-      "name": "PETROL VITANJE",
-      "address": "DOLIŠKA CESTA 24",
-      "lat": 46.38539537,
-      "lng": 15.29788765,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.218,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-16:00\r\nsobote 11:00-12:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3205"
-    },
-    {
       "pk": 2178,
       "franchise": 1,
       "name": "PETROL CELJE - KIDRIČEVA JUG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 20:00-24:00\r\nsobote 20:00-24:00\r\nnedelje in prazniki 19:00-24:00",
       "zip_code": "3331"
+    },
+    {
+      "pk": 2206,
+      "franchise": 1,
+      "name": "PETROL DRAVOGRAD",
+      "address": "MARIBORSKA CESTA 50",
+      "lat": 46.59116716,
+      "lng": 15.02966432,
+      "prices": {
+        "95": 1.55,
+        "dizel": 1.619,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.218,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "2370"
     }
   ],
   "position": null
