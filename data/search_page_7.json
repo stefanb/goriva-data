@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1973,
-      "franchise": 1,
-      "name": "PETROL GODOVIČ",
-      "address": "GODOVIČ 2B",
-      "lat": 45.95665729,
-      "lng": 14.09433635,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.218,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 17:30-19:00\r\nsobote 17:30-19:00",
-      "zip_code": "5275"
-    },
-    {
-      "pk": 1974,
-      "franchise": 1,
-      "name": "PETROL CANKOVA",
-      "address": "CANKOVA 35",
-      "lat": 46.71906544,
-      "lng": 16.02095244,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.218,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-13:00",
-      "zip_code": "9261"
-    },
-    {
       "pk": 1975,
       "franchise": 1,
       "name": "PETROL KUZMA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 2003,
+      "franchise": 1,
+      "name": "PETROL CERKNICA",
+      "address": "CESTA 4. MAJA 3A",
+      "lat": 45.78853568,
+      "lng": 14.36984285,
+      "prices": {
+        "95": 1.55,
+        "dizel": 1.619,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.909,
+        "KOEL": 1.218,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1380"
+    },
+    {
+      "pk": 2004,
+      "franchise": 1,
+      "name": "PETROL KOPER - ŠMARSKA",
+      "address": "ŠMARSKA CESTA 5F",
+      "lat": 45.53250448,
+      "lng": 13.73568232,
+      "prices": {
+        "95": 1.55,
+        "dizel": 1.619,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.795,
+        "avtoplin-lpg": 0.909,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-24:00\r\nsobote 05:00-24:00\r\nnedelje in prazniki 05:00-24:00",
+      "zip_code": "6000"
     }
   ],
   "position": null
