@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2204,
-      "franchise": 1,
-      "name": "PETROL CELJE - CITY CENTER",
-      "address": "BEŽIGRAJSKA CESTA 1",
-      "lat": 46.24034,
-      "lng": 15.278699,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:30-21:00\r\nsobote 07:00-21:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2205,
-      "franchise": 1,
-      "name": "PETROL NAZARJE",
-      "address": "SAVINJSKA CESTA 11",
-      "lat": 46.322491,
-      "lng": 14.950163,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.218,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 20:00-24:00\r\nsobote 20:00-24:00\r\nnedelje in prazniki 19:00-24:00",
-      "zip_code": "3331"
-    },
-    {
       "pk": 2206,
       "franchise": 1,
       "name": "PETROL DRAVOGRAD",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\npon. - ned. 00:00 - 24:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2235,
+      "franchise": 4,
+      "name": "BS MOL KRANJ",
+      "address": "Ulica Boštjana Hladnika 4",
+      "lat": 46.230565,
+      "lng": 14.369373,
+      "prices": {
+        "95": 1.55,
+        "dizel": 1.619,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.796,
+        "avtoplin-lpg": 0.907,
+        "KOEL": 1.218,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "4000"
+    },
+    {
+      "pk": 2236,
+      "franchise": 4,
+      "name": "BS MOL PTUJ ORMOŠKA",
+      "address": "Ormoška cesta 32",
+      "lat": 46.41600383,
+      "lng": 15.88503332,
+      "prices": {
+        "95": 1.55,
+        "dizel": 1.619,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.796,
+        "avtoplin-lpg": 0.907,
+        "KOEL": 1.218,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2250"
     }
   ],
   "position": null
