@@ -113,7 +113,7 @@
         "100": 1.778,
         "dizel-premium": 1.796,
         "avtoplin-lpg": null,
-        "KOEL": 1.218,
+        "KOEL": null,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -146,30 +146,6 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
       "zip_code": "9240"
-    },
-    {
-      "pk": 2350,
-      "franchise": 5,
-      "name": "SHELL KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.5389688698564,
-      "lng": 13.728621313111132,
-      "prices": {
-        "95": 1.59,
-        "dizel": 1.669,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6000"
     },
     {
       "pk": 2352,
@@ -209,7 +185,7 @@
         "100": 1.828,
         "dizel-premium": 1.846,
         "avtoplin-lpg": 0.907,
-        "KOEL": 1.218,
+        "KOEL": null,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -257,7 +233,7 @@
         "100": 1.828,
         "dizel-premium": 1.846,
         "avtoplin-lpg": null,
-        "KOEL": 1.218,
+        "KOEL": null,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -266,6 +242,30 @@
       "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6281"
+    },
+    {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "SHELL KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.599,
+        "dizel": 1.669,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
     },
     {
       "pk": 777,
@@ -377,7 +377,7 @@
         "100": 1.898,
         "dizel-premium": 1.929,
         "avtoplin-lpg": null,
-        "KOEL": 1.125,
+        "KOEL": null,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -401,7 +401,7 @@
         "100": 1.898,
         "dizel-premium": 1.929,
         "avtoplin-lpg": 0.937,
-        "KOEL": 1.125,
+        "KOEL": null,
         "hvo": null,
         "cng": null,
         "lng": null
