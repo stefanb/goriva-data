@@ -508,30 +508,6 @@
       "zip_code": "6000"
     },
     {
-      "pk": 2035,
-      "franchise": 1,
-      "name": "PETROL IZOLA MANDRAČ",
-      "address": "VELIKI TRG 0N",
-      "lat": 45.538539,
-      "lng": 13.65634,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-14:00\r\nsobote 08:00-14:00\r\nnedelje in prazniki 08:00-14:00",
-      "zip_code": "6310"
-    },
-    {
       "pk": 2036,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - CELOVŠKA 226",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 06:30-20:00\r\nsobote 07:00-13:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2039,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 130",
+      "address": "DUNAJSKA CESTA 130",
+      "lat": 46.078052,
+      "lng": 14.512668,
+      "prices": {
+        "95": 1.55,
+        "dizel": 1.619,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
       "zip_code": "1000"
     }
   ],
