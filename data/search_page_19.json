@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2374,
+      "franchise": 4,
+      "name": "BS MOL LJUTOMER",
+      "address": "Kolodvorska 7a",
+      "lat": 46.5289,
+      "lng": 16.19006,
+      "prices": {
+        "95": 1.535,
+        "dizel": 1.586,
+        "98": null,
+        "100": 1.758,
+        "dizel-premium": 1.72,
+        "avtoplin-lpg": null,
+        "KOEL": 1.184,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
+      "zip_code": "9240"
+    },
+    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -74,30 +98,6 @@
       "direction": "",
       "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": 1.778,
-        "100": 1.778,
-        "dizel-premium": 1.619,
-        "avtoplin-lpg": null,
-        "KOEL": 1.218,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2315,

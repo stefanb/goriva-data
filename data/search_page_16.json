@@ -388,6 +388,30 @@
       "zip_code": "2313"
     },
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.535,
+        "dizel": 1.586,
+        "98": 1.778,
+        "100": 1.756,
+        "dizel-premium": 1.619,
+        "avtoplin-lpg": null,
+        "KOEL": 1.184,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2271,
       "franchise": 4,
       "name": "BS MOL MARIBOR STUDENCI",
@@ -578,30 +602,6 @@
       "direction": "Maribor Center",
       "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2299,
-      "franchise": 16,
-      "name": "Agas Slovenska Bistrica",
-      "address": "Žolgarjeva ulica 25",
-      "lat": 46.385204,
-      "lng": 15.576529,
-      "prices": {
-        "95": 1.535,
-        "dizel": 1.586,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": 1.174,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Izvoz Slovenska Bistrica jug",
-      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
-      "zip_code": "2310"
     }
   ],
   "position": null
