@@ -244,6 +244,30 @@
       "zip_code": "6250"
     },
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.566,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.79,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "1240"
-    },
-    {
-      "pk": 802,
-      "franchise": 4,
-      "name": "BS MOL KOMEN",
-      "address": "Komen 119a",
-      "lat": 45.816868,
-      "lng": 13.745429,
-      "prices": {
-        "95": 1.535,
-        "dizel": 1.586,
-        "98": null,
-        "100": 1.758,
-        "dizel-premium": 1.72,
-        "avtoplin-lpg": null,
-        "KOEL": 1.184,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
     }
   ],
   "position": null
