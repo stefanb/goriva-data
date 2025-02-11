@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2373,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA Lendavska",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": 1.535,
+        "dizel": 1.586,
+        "98": null,
+        "100": 1.758,
+        "dizel-premium": 1.72,
+        "avtoplin-lpg": null,
+        "KOEL": 1.184,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-ned; od 06:00 - 22:00\r\nprazniki; od 6:00 - 22:00",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2374,
       "franchise": 4,
       "name": "BS MOL LJUTOMER",
@@ -74,30 +98,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.55,
-        "dizel": 1.619,
-        "98": 1.712,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.218,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
     },
     {
       "pk": 2315,
