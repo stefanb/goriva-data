@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2095,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - JUG",
+      "address": "SPODNJI PLAVŽ 24A",
+      "lat": 46.440467,
+      "lng": 14.026493,
+      "prices": {
+        "95": 1.784,
+        "dizel": 1.797,
+        "98": null,
+        "100": 1.876,
+        "dizel-premium": 1.887,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
       "pk": 2096,
       "franchise": 1,
       "name": "PETROL HRUŠICA AC - SEVER",
@@ -528,32 +552,8 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Trenutno zaprto. \r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4270"
-    },
-    {
-      "pk": 2181,
-      "franchise": 1,
-      "name": "PETROL ZREČE",
-      "address": "KOVAŠKA CESTA 29A",
-      "lat": 46.37183166,
-      "lng": 15.39050014,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto. \r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:30-18:00",
-      "zip_code": "3214"
     },
     {
       "pk": 2186,

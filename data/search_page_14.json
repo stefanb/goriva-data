@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2182,
+      "franchise": 1,
+      "name": "PETROL BISTRICA OB SOTLI",
+      "address": "HRASTJE OB BISTRICI 1A",
+      "lat": 46.0620292,
+      "lng": 15.6554536,
+      "prices": {
+        "95": 1.535,
+        "dizel": 1.586,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.184,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00 - 12:00, 12:30 - 16:00\r\nsobote 08:00 - 10:00, 10:30-12:00\r\nnedelje in prazniki 08:30 - 12:00",
+      "zip_code": "3256"
+    },
+    {
       "pk": 2183,
       "franchise": 1,
       "name": "PETROL PONIKVA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00",
       "zip_code": "2380"
-    },
-    {
-      "pk": 2210,
-      "franchise": 1,
-      "name": "PETROL PREVALJE",
-      "address": "PERZONALI 49",
-      "lat": 46.54278188,
-      "lng": 14.90387241,
-      "prices": {
-        "95": 1.535,
-        "dizel": 1.586,
-        "98": null,
-        "100": 1.756,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.184,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "2391"
     }
   ],
   "position": null

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2241,
+      "franchise": 3,
+      "name": "BS MAXEN BENEDIKT",
+      "address": "Radgonska cesta bš",
+      "lat": 46.6088,
+      "lng": 15.893144,
+      "prices": {
+        "95": 1.535,
+        "dizel": 1.586,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2234"
+    },
+    {
       "pk": 2242,
       "franchise": 3,
       "name": "BS MAXEN ČRNOMELJ",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-21:00\r\nsobota 07:00-21:00\r\nnedelja 08:00-20:00\r\nprazniki 08:00-20:00",
       "zip_code": "2230"
-    },
-    {
-      "pk": 2286,
-      "franchise": 4,
-      "name": "BS MOL RADLJE OB DRAVI",
-      "address": "Mariborska cesta 60",
-      "lat": 46.612815,
-      "lng": 15.232126,
-      "prices": {
-        "95": 1.535,
-        "dizel": 1.586,
-        "98": null,
-        "100": 1.758,
-        "dizel-premium": 1.758,
-        "avtoplin-lpg": 0.907,
-        "KOEL": 1.184,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon-pet 06:00-21:00\r\nsobota 06:00-21:00\r\nnedelja 07:00-19:00\r\nprazniki 07:00-19:00",
-      "zip_code": "2360"
     }
   ],
   "position": null
