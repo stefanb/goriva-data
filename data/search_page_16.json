@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2236,
-      "franchise": 4,
-      "name": "BS MOL PTUJ ORMOŠKA",
-      "address": "Ormoška cesta 32",
-      "lat": 46.41600383,
-      "lng": 15.88503332,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": 1.761,
-        "dizel-premium": 1.771,
-        "avtoplin-lpg": 0.907,
-        "KOEL": 1.198,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "2250"
-    },
-    {
-      "pk": 2237,
-      "franchise": 3,
-      "name": "BS MAXEN TRŽIČ",
-      "address": "Cesta Ste Marie aux Mines bš",
-      "lat": 46.3583296,
-      "lng": 14.2978288,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4290"
-    },
-    {
       "pk": 2238,
       "franchise": 3,
       "name": "BS MAXEN KOPER",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 06:00-21:00",
       "zip_code": "4260"
+    },
+    {
+      "pk": 2283,
+      "franchise": 4,
+      "name": "BS MOL ŠALOVCI",
+      "address": "Šalovci 168",
+      "lat": 46.821993,
+      "lng": 16.278851,
+      "prices": {
+        "95": 1.538,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": 1.771,
+        "avtoplin-lpg": null,
+        "KOEL": 1.198,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-19:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
+      "zip_code": "9204"
+    },
+    {
+      "pk": 2284,
+      "franchise": 4,
+      "name": "BS MOL HOTIZA",
+      "address": "Ložič 1",
+      "lat": 46.551502,
+      "lng": 16.344579,
+      "prices": {
+        "95": 1.538,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.761,
+        "dizel-premium": 1.771,
+        "avtoplin-lpg": null,
+        "KOEL": 1.198,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "pon-pet 06:00-19:00\r\nsobota 07:00-18:00\r\nnedelja 08:00-16:00\r\nprazniki 08:00-16:00",
+      "zip_code": "9220"
     }
   ],
   "position": null

@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2062,
-      "franchise": 1,
-      "name": "PETROL DOMŽALE - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 2",
-      "lat": 46.13555764,
-      "lng": 14.58035495,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": 1.758,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.198,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00",
-      "zip_code": "1230"
-    },
-    {
-      "pk": 2063,
-      "franchise": 1,
-      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
-      "address": "KOROŠKA CESTA 53B",
-      "lat": 46.247434,
-      "lng": 14.349614,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": 1.758,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "4000"
-    },
-    {
       "pk": 2064,
       "franchise": 1,
       "name": "PETROL LITIJA - LJUBLJANSKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon, Tor, Čet, Pet 09:00 - 12:00; 12:30-16:00\r\nSre 09:00 - 12:00; 12:30 - 18:00\r\nSobote 08:00 - 10:00, 10:30-13:00",
       "zip_code": "1223"
+    },
+    {
+      "pk": 2091,
+      "franchise": 1,
+      "name": "PETROL BOHINJSKA BISTRICA",
+      "address": "SAVSKA CESTA 22",
+      "lat": 46.27794883,
+      "lng": 13.9514971,
+      "prices": {
+        "95": 1.538,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.758,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.198,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07.00-13:00, 13:50-20:00",
+      "zip_code": "4264"
+    },
+    {
+      "pk": 2092,
+      "franchise": 1,
+      "name": "PETROL TRZIN",
+      "address": "LJUBLJANSKA CESTA 50",
+      "lat": 46.123204,
+      "lng": 14.553637,
+      "prices": {
+        "95": 1.538,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.758,
+        "dizel-premium": 1.774,
+        "avtoplin-lpg": 0.909,
+        "KOEL": 1.198,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 21:00-24:00\r\nsobote 21:00-24:00\r\nnedelje in prazniki 19:00-24:00",
+      "zip_code": "1236"
     }
   ],
   "position": null
