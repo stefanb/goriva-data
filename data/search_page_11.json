@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2094,
-      "franchise": 1,
-      "name": "PETROL HRASTNIK",
-      "address": "PODKRAJ 77B",
-      "lat": 46.11937061,
-      "lng": 15.08074191,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": 1.758,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.909,
-        "KOEL": 1.198,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1430"
-    },
-    {
       "pk": 2097,
       "franchise": 1,
       "name": "PETROL ROVTE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:30-20:30\r\nsobote 06:30-20:30\r\nnedelje in prazniki 08:00-11:30, 12:00-15:00",
       "zip_code": "1353"
+    },
+    {
+      "pk": 2125,
+      "franchise": 1,
+      "name": "PETROL IG",
+      "address": "LJUBLJANSKA CESTA 69",
+      "lat": 45.96267202,
+      "lng": 14.53000724,
+      "prices": {
+        "95": 1.538,
+        "dizel": 1.598,
+        "98": null,
+        "100": 1.758,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.198,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "1292"
     }
   ],
   "position": null

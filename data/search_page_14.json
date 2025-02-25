@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2179,
-      "franchise": 1,
-      "name": "PETROL KOZJE",
-      "address": "KOZJE 23",
-      "lat": 46.07309408,
-      "lng": 15.55856381,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.198,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-17:00\r\nsobote 12:00-16:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3260"
-    },
-    {
       "pk": 2180,
       "franchise": 1,
       "name": "PETROL CELJE - POLULE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "2390"
+    },
+    {
+      "pk": 2208,
+      "franchise": 1,
+      "name": "PETROL ŽERJAV",
+      "address": "ŽERJAV 3A",
+      "lat": 46.48491258,
+      "lng": 14.86992734,
+      "prices": {
+        "95": 1.538,
+        "dizel": 1.598,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.198,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 18:00-24:00\r\nsobote 15:00-24:00",
+      "zip_code": "2393"
     }
   ],
   "position": null
