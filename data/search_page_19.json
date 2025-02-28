@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2369,
-      "franchise": 5,
-      "name": "SHELL LUCIJA VZHOD",
-      "address": "Vinjole 29b",
-      "lat": 45.50086689761921,
-      "lng": 13.610492852317408,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": 1.769,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6320"
-    },
-    {
       "pk": 2370,
       "franchise": 5,
       "name": "SHELL STOJNCI",
@@ -600,6 +576,30 @@
       },
       "distance": null,
       "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 848,
+      "franchise": 4,
+      "name": "BS MOL RAVBARKOMANDA ZAHOD",
+      "address": "Javorniška pot 7a",
+      "lat": 45.78536414,
+      "lng": 14.22271237,
+      "prices": {
+        "95": 1.784,
+        "dizel": 1.807,
+        "98": null,
+        "100": null,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": 0.937,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6230"
     }
