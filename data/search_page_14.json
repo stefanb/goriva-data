@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2184,
+      "franchise": 1,
+      "name": "PETROL SOLČAVA",
+      "address": "SOLČAVA 12A",
+      "lat": 46.419206,
+      "lng": 14.69457786,
+      "prices": {
+        "95": 1.481,
+        "dizel": 1.55,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.145,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 11:30-15:00\r\nsobote 11:30-13:00",
+      "zip_code": "3335"
+    },
+    {
       "pk": 2185,
       "franchise": 1,
       "name": "PETROL PLANINA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "2382"
-    },
-    {
-      "pk": 2212,
-      "franchise": 1,
-      "name": "PETROL MUTA",
-      "address": "KOROŠKA CESTA 18",
-      "lat": 46.60459809,
-      "lng": 15.1642458,
-      "prices": {
-        "95": 1.481,
-        "dizel": 1.55,
-        "98": null,
-        "100": 1.707,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.899,
-        "KOEL": 1.145,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "2366"
     }
   ],
   "position": null
