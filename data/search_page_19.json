@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2372,
+      "franchise": 5,
+      "name": "SHELL ZG. POLSKAVA",
+      "address": "Bukovec 1b",
+      "lat": 46.43088480445796,
+      "lng": 15.627126931204163,
+      "prices": {
+        "95": 1.481,
+        "dizel": 1.55,
+        "98": null,
+        "100": 1.719,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2314"
+    },
+    {
       "pk": 2373,
       "franchise": 4,
       "name": "BS MOL MURSKA SOBOTA Lendavska",
@@ -218,30 +242,6 @@
       "direction": "",
       "open_hours": "Pondeljek-Petek\r\n06.00-21.00\r\n\r\nSobota \r\n07.00-20.00\r\n\r\nNedelja\r\n07.00-13.00\r\n\r\ndemol.mislinja@gmail.com",
       "zip_code": "2383"
-    },
-    {
-      "pk": 2306,
-      "franchise": 33,
-      "name": "Bencinski servis Stella",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.198,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
     },
     {
       "pk": 777,
