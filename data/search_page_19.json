@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "SHELL KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.529,
+        "dizel": 1.599,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
+    },
+    {
       "pk": 2352,
       "franchise": 5,
       "name": "SHELL KOPER BERTOKI",
@@ -218,30 +242,6 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
       "zip_code": "2256"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.538,
-        "dizel": 1.598,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.198,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 777,
