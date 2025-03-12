@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2371,
+      "franchise": 5,
+      "name": "SHELL AJŠEVICA",
+      "address": "Loke 40",
+      "lat": 45.953170561531195,
+      "lng": 13.691872647114305,
+      "prices": {
+        "95": 1.481,
+        "dizel": 1.55,
+        "98": null,
+        "100": 1.719,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "5000"
+    },
+    {
       "pk": 2372,
       "franchise": 5,
       "name": "SHELL ZG. POLSKAVA",
@@ -74,30 +98,6 @@
       "direction": "",
       "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
       "zip_code": "9240"
-    },
-    {
-      "pk": 2350,
-      "franchise": 5,
-      "name": "SHELL KOPER SEMEDELA",
-      "address": "Istrska cesta 53",
-      "lat": 45.5389688698564,
-      "lng": 13.728621313111132,
-      "prices": {
-        "95": 1.529,
-        "dizel": 1.599,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6000"
     },
     {
       "pk": 2352,
