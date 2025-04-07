@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2348,
-      "franchise": 5,
-      "name": "SHELL MURSKA SOBOTA Bakovska",
-      "address": "Bakovska 31 A",
-      "lat": 46.64580322249098,
-      "lng": 16.16815983270674,
-      "prices": {
-        "95": 1.468,
-        "dizel": 1.513,
-        "98": null,
-        "100": 1.719,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "9000"
-    },
-    {
       "pk": 2349,
       "franchise": 5,
       "name": "SHELL SEZANA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "pon-ned; od 06:00 - 22:00\r\nprazniki; od 6:00 - 22:00",
       "zip_code": "9000"
+    },
+    {
+      "pk": 2374,
+      "franchise": 4,
+      "name": "BS MOL LJUTOMER",
+      "address": "Kolodvorska 7a",
+      "lat": 46.5289,
+      "lng": 16.19006,
+      "prices": {
+        "95": 1.468,
+        "dizel": 1.513,
+        "98": null,
+        "100": 1.712,
+        "dizel-premium": 1.698,
+        "avtoplin-lpg": null,
+        "KOEL": 1.105,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00-22:00\r\nNEDELJA in PRAZNIKI 7:00-21:00",
+      "zip_code": "9240"
     }
   ],
   "position": null

@@ -100,30 +100,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 1957,
-      "franchise": 1,
-      "name": "PETROL KOBARID",
-      "address": "GORIŠKA CESTA 8",
-      "lat": 46.2417162,
-      "lng": 13.58250354,
-      "prices": {
-        "95": 1.468,
-        "dizel": 1.513,
-        "98": null,
-        "100": 1.71,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.899,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "5222"
-    },
-    {
       "pk": 1958,
       "franchise": 1,
       "name": "PETROL KANAL OB SOČI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "5294"
+    },
+    {
+      "pk": 1981,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - GRČNA",
+      "address": "VOJKOVA CESTA 68",
+      "lat": 45.95320889,
+      "lng": 13.65237464,
+      "prices": {
+        "95": 1.468,
+        "dizel": 1.513,
+        "98": null,
+        "100": 1.71,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5000"
     }
   ],
   "position": null
