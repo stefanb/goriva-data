@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 794,
-      "franchise": 4,
-      "name": "BS MOL GRAČIŠČE",
-      "address": "Gračišče 4a",
-      "lat": 45.501301,
-      "lng": 13.873635,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.524,
-        "98": null,
-        "100": 1.732,
-        "dizel-premium": 1.698,
-        "avtoplin-lpg": null,
-        "KOEL": 1.114,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6272"
-    },
-    {
-      "pk": 797,
-      "franchise": 4,
-      "name": "BS MOL ILIRSKA BISTRICA",
-      "address": "Bazoviška 45",
-      "lat": 45.559604,
-      "lng": 14.244346,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.524,
-        "98": null,
-        "100": 1.732,
-        "dizel-premium": 1.698,
-        "avtoplin-lpg": null,
-        "KOEL": 1.114,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
-      "zip_code": "6250"
-    },
-    {
       "pk": 798,
       "franchise": 4,
       "name": "BS MOL IZOLA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-23:00 (S,N,praz 6-22)",
       "zip_code": "8000"
+    },
+    {
+      "pk": 836,
+      "franchise": 4,
+      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
+      "address": "Ljubljanska cesta 11",
+      "lat": 45.8139,
+      "lng": 15.153116666666667,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.524,
+        "98": null,
+        "100": 1.732,
+        "dizel-premium": 1.698,
+        "avtoplin-lpg": null,
+        "KOEL": 1.114,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 6:00-22:00",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 838,
+      "franchise": 4,
+      "name": "BS MOL ORMOŽ",
+      "address": "Hardek 44d",
+      "lat": 46.409754,
+      "lng": 16.160733,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.524,
+        "98": null,
+        "100": 1.732,
+        "dizel-premium": 1.698,
+        "avtoplin-lpg": null,
+        "KOEL": 1.114,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:30-22:00",
+      "zip_code": "2270"
     }
   ],
   "position": null
