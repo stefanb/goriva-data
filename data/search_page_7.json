@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1979,
-      "franchise": 1,
-      "name": "PETROL VUČJA VAS",
-      "address": "BUČEČOVCI 4B",
-      "lat": 46.590862,
-      "lng": 16.107841,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.524,
-        "98": null,
-        "100": 1.73,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.114,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Pince",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9242"
-    },
-    {
       "pk": 1980,
       "franchise": 1,
       "name": "PETROL DORNBERK",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "6310"
+    },
+    {
+      "pk": 2006,
+      "franchise": 1,
+      "name": "PETROL HRPELJE",
+      "address": "REŠKA CESTA 51",
+      "lat": 45.604489,
+      "lng": 13.949959,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.524,
+        "98": null,
+        "100": 1.73,
+        "dizel-premium": 1.689,
+        "avtoplin-lpg": 0.899,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6240"
     }
   ],
   "position": null
