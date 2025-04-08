@@ -52,30 +52,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.468,
-        "dizel": 1.513,
-        "98": 1.71,
-        "100": 1.17,
-        "dizel-premium": 1.598,
-        "avtoplin-lpg": null,
-        "KOEL": 1.105,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2315,
       "franchise": 21,
       "name": "Bencinski servis STRANICE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
       "zip_code": "6250"
+    },
+    {
+      "pk": 798,
+      "franchise": 4,
+      "name": "BS MOL IZOLA",
+      "address": "Prešernova cesta 1a",
+      "lat": 45.53687,
+      "lng": 13.66795,
+      "prices": {
+        "95": 1.495,
+        "dizel": 1.524,
+        "98": null,
+        "100": 1.732,
+        "dizel-premium": 1.698,
+        "avtoplin-lpg": null,
+        "KOEL": 1.114,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6310"
     }
   ],
   "position": null
