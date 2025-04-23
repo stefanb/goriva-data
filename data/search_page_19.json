@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 863,
+      "franchise": 4,
+      "name": "BS MOL ŠKOFIJE VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 1.467,
+        "dizel": 1.493,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": 0.858,
+        "KOEL": 1.036,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
+    },
+    {
+      "pk": 864,
+      "franchise": 4,
+      "name": "BS MOL ŠKOFIJE ZAHOD",
+      "address": "Sp.Škofije 256a",
+      "lat": 45.579851,
+      "lng": 13.796288,
+      "prices": {
+        "95": 1.467,
+        "dizel": 1.493,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": 1.668,
+        "avtoplin-lpg": null,
+        "KOEL": 1.036,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6281"
+    },
+    {
       "pk": 2352,
       "franchise": 5,
       "name": "SHELL KOPER BERTOKI",
@@ -74,54 +122,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.524,
-        "98": null,
-        "100": 1.73,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.114,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.495,
-        "dizel": 1.524,
-        "98": 1.73,
-        "100": 1.73,
-        "dizel-premium": 1.598,
-        "avtoplin-lpg": null,
-        "KOEL": 1.114,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2327,

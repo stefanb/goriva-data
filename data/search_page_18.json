@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "SHELL KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.417,
+        "dizel": 1.443,
+        "98": null,
+        "100": 1.739,
+        "dizel-premium": 1.699,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 2351,
+      "franchise": 5,
+      "name": "SHELL CELJE KIDRIČEVA",
+      "address": "Kidričeva ulica 40",
+      "lat": 46.234018307787046,
+      "lng": 15.296215827340855,
+      "prices": {
+        "95": 1.417,
+        "dizel": 1.443,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.619,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2353,
       "franchise": 5,
       "name": "SHELL KOCEVJE RESKA",
@@ -554,54 +602,6 @@
       "direction": "Portorož",
       "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
       "zip_code": "6000"
-    },
-    {
-      "pk": 863,
-      "franchise": 4,
-      "name": "BS MOL ŠKOFIJE VZHOD",
-      "address": "Sp.Škofije 260",
-      "lat": 45.580603,
-      "lng": 13.797535,
-      "prices": {
-        "95": 1.467,
-        "dizel": 1.493,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": 0.858,
-        "KOEL": 1.036,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
-      "zip_code": "6281"
-    },
-    {
-      "pk": 864,
-      "franchise": 4,
-      "name": "BS MOL ŠKOFIJE ZAHOD",
-      "address": "Sp.Škofije 256a",
-      "lat": 45.579851,
-      "lng": 13.796288,
-      "prices": {
-        "95": 1.467,
-        "dizel": 1.493,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": null,
-        "KOEL": 1.036,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6281"
     }
   ],
   "position": null
