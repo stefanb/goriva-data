@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 804,
-      "franchise": 4,
-      "name": "BS MOL KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.467,
-        "dizel": 1.493,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": 1.668,
-        "avtoplin-lpg": 0.858,
-        "KOEL": 1.036,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 863,
       "franchise": 4,
       "name": "BS MOL ŠKOFIJE VZHOD",
@@ -602,6 +578,30 @@
       "direction": "smer Maribor",
       "open_hours": "pon - ned 00:00 - 24:00",
       "zip_code": "2230"
+    },
+    {
+      "pk": 1923,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ AC - ZAHOD",
+      "address": "CESTA 2. JULIJA 19",
+      "lat": 46.68509786,
+      "lng": 15.64986497,
+      "prices": {
+        "95": 1.666,
+        "dizel": 1.653,
+        "98": null,
+        "100": 1.765,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.889,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "2212"
     }
   ],
   "position": null

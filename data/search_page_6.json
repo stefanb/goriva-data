@@ -100,30 +100,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 1958,
-      "franchise": 1,
-      "name": "PETROL KANAL OB SOČI",
-      "address": "KIDRIČEVA CESTA 10A",
-      "lat": 46.08786527,
-      "lng": 13.63259475,
-      "prices": {
-        "95": 1.417,
-        "dizel": 1.443,
-        "98": null,
-        "100": 1.644,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.036,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 13:30-17:00\r\nsobote 13:30-17:00",
-      "zip_code": "5213"
-    },
-    {
       "pk": 1959,
       "franchise": 1,
       "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 1982,
+      "franchise": 1,
+      "name": "PETROL AJDOVŠČINA - GORIŠKA",
+      "address": "GORIŠKA CESTA 29",
+      "lat": 45.88663093,
+      "lng": 13.89897002,
+      "prices": {
+        "95": 1.417,
+        "dizel": 1.443,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.036,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5270"
     }
   ],
   "position": null
