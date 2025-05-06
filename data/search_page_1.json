@@ -220,30 +220,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.417,
-        "dizel": 1.443,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.036,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
-    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
       "zip_code": "6223"
+    },
+    {
+      "pk": 806,
+      "franchise": 4,
+      "name": "BS MOL KOPER ANKARANSKA",
+      "address": "Ankaranska c. 5d",
+      "lat": 45.545957,
+      "lng": 13.742681,
+      "prices": {
+        "95": 1.418,
+        "dizel": 1.44,
+        "98": null,
+        "100": 1.646,
+        "dizel-premium": 1.615,
+        "avtoplin-lpg": null,
+        "KOEL": 1.034,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-22:00, Ned/Praz. 8-20",
+      "zip_code": "6000"
     }
   ],
   "position": null

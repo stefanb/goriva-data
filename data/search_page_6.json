@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1952,
-      "franchise": 1,
-      "name": "PETROL ROŽNA DOLINA",
-      "address": "VIPAVSKA CESTA 3A",
-      "lat": 45.942191,
-      "lng": 13.638451,
-      "prices": {
-        "95": 1.418,
-        "dizel": 1.44,
-        "98": null,
-        "100": 1.643,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5000"
-    },
-    {
       "pk": 1953,
       "franchise": 1,
       "name": "PETROL ČRNCI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 1982,
+      "franchise": 1,
+      "name": "PETROL AJDOVŠČINA - GORIŠKA",
+      "address": "GORIŠKA CESTA 29",
+      "lat": 45.88663093,
+      "lng": 13.89897002,
+      "prices": {
+        "95": 1.418,
+        "dizel": 1.44,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.034,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "5270"
     }
   ],
   "position": null
