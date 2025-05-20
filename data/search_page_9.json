@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2040,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 44",
-      "address": "TRŽAŠKA CESTA 44",
-      "lat": 46.04443147,
-      "lng": 14.48517761,
-      "prices": {
-        "95": 1.434,
-        "dizel": 1.445,
-        "98": null,
-        "100": 1.66,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.043,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-13:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2041,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
-      "address": "TRŽAŠKA CESTA 131A",
-      "lat": 46.03869769,
-      "lng": 14.47088774,
-      "prices": {
-        "95": 1.434,
-        "dizel": 1.445,
-        "98": null,
-        "100": 1.66,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:30-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2042,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ZALOŠKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:30\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "4240"
+    },
+    {
+      "pk": 2067,
+      "franchise": 1,
+      "name": "PETROL TRBOVLJE - TRG REVOLUCIJE",
+      "address": "TRG REVOLUCIJE 8A",
+      "lat": 46.14637991,
+      "lng": 15.04055907,
+      "prices": {
+        "95": 1.434,
+        "dizel": 1.445,
+        "98": null,
+        "100": 1.66,
+        "dizel-premium": 1.618,
+        "avtoplin-lpg": null,
+        "KOEL": 1.043,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1420"
+    },
+    {
+      "pk": 2068,
+      "franchise": 1,
+      "name": "PETROL TRŽIČ - VZHOD",
+      "address": "CESTA STE MARIE AUX MINES 13A",
+      "lat": 46.35376615,
+      "lng": 14.2930683,
+      "prices": {
+        "95": 1.434,
+        "dizel": 1.445,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
+      "zip_code": "4290"
     }
   ],
   "position": null
