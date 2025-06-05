@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2141,
-      "franchise": 1,
-      "name": "PETROL ČATEŽ AC - JUG",
-      "address": "RIMSKA CESTA 11",
-      "lat": 45.891904,
-      "lng": 15.597607,
-      "prices": {
-        "95": 1.685,
-        "dizel": 1.65,
-        "98": null,
-        "100": 1.784,
-        "dizel-premium": 1.739,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8250"
-    },
-    {
       "pk": 2162,
       "franchise": 1,
       "name": "PETROL OBREŽJE AC - VZHOD",
@@ -410,6 +386,30 @@
       "direction": "",
       "open_hours": "Trenutno zaprto.\r\nvsak delavnik 13:30-17:00\r\nsobote 13:30-17:00",
       "zip_code": "5213"
+    },
+    {
+      "pk": 2014,
+      "franchise": 1,
+      "name": "PETROL PTUJ - ORMOŠKA 26/B",
+      "address": "ORMOŠKA CESTA 26B",
+      "lat": 46.41676013,
+      "lng": 15.88049476,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto\r\nNON-STOP",
+      "zip_code": "2250"
     },
     {
       "pk": 2035,
