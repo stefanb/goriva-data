@@ -244,6 +244,30 @@
       "zip_code": "2000"
     },
     {
+      "pk": 2327,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Bezena",
+      "address": "Bezena 99",
+      "lat": 46.5499175582367,
+      "lng": 15.538353293954877,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.439,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
+      "zip_code": "2342"
+    },
+    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Pon-Ned 05:00-22:00",
       "zip_code": "1240"
-    },
-    {
-      "pk": 802,
-      "franchise": 4,
-      "name": "BS MOL KOMEN",
-      "address": "Komen 119a",
-      "lat": 45.816868,
-      "lng": 13.745429,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.44,
-        "98": null,
-        "100": 1.667,
-        "dizel-premium": 1.614,
-        "avtoplin-lpg": null,
-        "KOEL": 1.037,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Ned 07:00-19:00; Apr-Sep: Pon-Ned 07:00-20:00",
-      "zip_code": "6223"
     }
   ],
   "position": null
