@@ -532,6 +532,30 @@
       "zip_code": "3225"
     },
     {
+      "pk": 2186,
+      "franchise": 1,
+      "name": "PETROL ROGAŠKA SLATINA",
+      "address": "SPODNJE NEGONJE 27A",
+      "lat": 46.25266116,
+      "lng": 15.61686431,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.44,
+        "98": null,
+        "100": 1.663,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.037,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto.\r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-17:00",
+      "zip_code": "3250"
+    },
+    {
       "pk": 2187,
       "franchise": 1,
       "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "3270"
-    },
-    {
-      "pk": 2189,
-      "franchise": 1,
-      "name": "PETROL GORNJI GRAD",
-      "address": "SPODNJI TRG 34",
-      "lat": 46.29907149,
-      "lng": 14.81925704,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.44,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.037,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3342"
     }
   ],
   "position": null

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "SHELL KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.44,
+        "98": null,
+        "100": 1.699,
+        "dizel-premium": 1.669,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
+    },
+    {
       "pk": 2351,
       "franchise": 5,
       "name": "SHELL CELJE KIDRIČEVA",
@@ -578,30 +602,6 @@
       "direction": "PTUJ",
       "open_hours": "PON. - PET. 8.00 -18.00\r\nSOB. 8.00 -1600\r\nNEDELJE IN PRAZNIKI - ZAPRTO",
       "zip_code": "2283"
-    },
-    {
-      "pk": 804,
-      "franchise": 4,
-      "name": "BS MOL KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.487,
-        "dizel": 1.49,
-        "98": null,
-        "100": 1.717,
-        "dizel-premium": 1.664,
-        "avtoplin-lpg": 0.822,
-        "KOEL": 1.037,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "Pon-Ned 00:00-24:00; avtopralnica: Pon-Ned 07:00-21:00",
-      "zip_code": "6000"
     }
   ],
   "position": null
