@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 777,
-      "franchise": 4,
-      "name": "BS MOL DOBRENJE VZHOD",
-      "address": "Sp.Dobrenje 41a",
-      "lat": 46.605931,
-      "lng": 15.663342,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.791,
-        "dizel-premium": 1.762,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Gradec",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 778,
-      "franchise": 4,
-      "name": "BS MOL DOBRENJE ZAHOD",
-      "address": "Sp.Dobrenje 41d",
-      "lat": 46.609699,
-      "lng": 15.662384,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.791,
-        "dizel-premium": 1.762,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "2211"
-    },
-    {
       "pk": 779,
       "franchise": 4,
       "name": "BS MOL DOL PRI LJUBLJANI",
@@ -602,6 +554,54 @@
       "direction": "Koper",
       "open_hours": "Okt-Mar: Pon-Ned 07:00-20:00; Apr-Maj: Pon-Ned 07:00-21:00; Jun-Sep: Pon-Ned 07:00-22:00",
       "zip_code": "6280"
+    },
+    {
+      "pk": 813,
+      "franchise": 4,
+      "name": "BS MOL LESCE",
+      "address": "Hraška c. 17",
+      "lat": 46.365369,
+      "lng": 14.16032,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "4248"
+    },
+    {
+      "pk": 814,
+      "franchise": 4,
+      "name": "BS MOL LIPOVCI",
+      "address": "Lipovci 243b",
+      "lat": 46.625125,
+      "lng": 16.214332,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "9231"
     }
   ],
   "position": null

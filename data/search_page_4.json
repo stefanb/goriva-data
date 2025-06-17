@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 847,
-      "franchise": 4,
-      "name": "BS MOL RAVBARKOMANDA VZHOD",
-      "address": "Javorniška pot 9a",
-      "lat": 45.78312588,
-      "lng": 14.22304178,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.791,
-        "dizel-premium": 1.762,
-        "avtoplin-lpg": 0.852,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6230"
-    },
-    {
-      "pk": 848,
-      "franchise": 4,
-      "name": "BS MOL RAVBARKOMANDA ZAHOD",
-      "address": "Javorniška pot 7a",
-      "lat": 45.78536414,
-      "lng": 14.22271237,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.791,
-        "dizel-premium": 1.762,
-        "avtoplin-lpg": 0.852,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6230"
-    },
-    {
       "pk": 849,
       "franchise": 4,
       "name": "BS MOL ROŽNA DOLINA SEVER",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 875,
+      "franchise": 4,
+      "name": "BS MOL ZAGRADEC",
+      "address": "Zagradec 34",
+      "lat": 45.85943,
+      "lng": 14.83524,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1303"
+    },
+    {
+      "pk": 1548,
+      "franchise": 4,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 05:00 - 23:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "2325"
     }
   ],
   "position": null

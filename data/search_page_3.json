@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 813,
-      "franchise": 4,
-      "name": "BS MOL LESCE",
-      "address": "Hraška c. 17",
-      "lat": 46.365369,
-      "lng": 14.16032,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.632,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "4248"
-    },
-    {
-      "pk": 814,
-      "franchise": 4,
-      "name": "BS MOL LIPOVCI",
-      "address": "Lipovci 243b",
-      "lat": 46.625125,
-      "lng": 16.214332,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.632,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 05:00-22:00",
-      "zip_code": "9231"
-    },
-    {
       "pk": 815,
       "franchise": 4,
       "name": "BS MOL LITIJA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1381"
+    },
+    {
+      "pk": 847,
+      "franchise": 4,
+      "name": "BS MOL RAVBARKOMANDA VZHOD",
+      "address": "Javorniška pot 9a",
+      "lat": 45.78312588,
+      "lng": 14.22304178,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.762,
+        "avtoplin-lpg": 0.852,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 848,
+      "franchise": 4,
+      "name": "BS MOL RAVBARKOMANDA ZAHOD",
+      "address": "Javorniška pot 7a",
+      "lat": 45.78536414,
+      "lng": 14.22271237,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.762,
+        "avtoplin-lpg": 0.852,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "6230"
     }
   ],
   "position": null

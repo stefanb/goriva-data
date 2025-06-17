@@ -412,54 +412,6 @@
       "zip_code": "3214"
     },
     {
-      "pk": 2316,
-      "franchise": 23,
-      "name": "BS Žihlava",
-      "address": "Žihlava 15",
-      "lat": 46.55,
-      "lng": 16.0396,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.44,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Gornja Radgona - Ljutomer",
-      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.44,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
-      "zip_code": "9201"
-    },
-    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-20:00, Ned/Praz. zaprto; Jun-Sep: Pon-Sob 06:00-21:00, Ned/Praz. 9-18",
       "zip_code": "6215"
+    },
+    {
+      "pk": 777,
+      "franchise": 4,
+      "name": "BS MOL DOBRENJE VZHOD",
+      "address": "Sp.Dobrenje 41a",
+      "lat": 46.605931,
+      "lng": 15.663342,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.762,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Gradec",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
+    },
+    {
+      "pk": 778,
+      "franchise": 4,
+      "name": "BS MOL DOBRENJE ZAHOD",
+      "address": "Sp.Dobrenje 41d",
+      "lat": 46.609699,
+      "lng": 15.662384,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.762,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "2211"
     }
   ],
   "position": null
