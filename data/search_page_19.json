@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2271,
-      "franchise": 4,
-      "name": "BS MOL MARIBOR STUDENCI",
-      "address": "Ulica heroja Šercerja 60",
-      "lat": 46.548645,
-      "lng": 15.620617,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.632,
-        "avtoplin-lpg": 0.822,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "Pon-Pet 05:00-22:00; Sob, Ned, Praz. 06:00-22:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2272,
-      "franchise": 1,
-      "name": "PETROL BLED - SELIŠKA",
-      "address": "SELIŠKA CESTA 4C",
-      "lat": 46.370163,
-      "lng": 14.116395,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.67,
-        "dizel-premium": 1.632,
-        "avtoplin-lpg": 0.824,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "4260"
-    },
-    {
       "pk": 2283,
       "franchise": 4,
       "name": "BS MOL ŠALOVCI",
@@ -170,6 +122,54 @@
       "direction": "",
       "open_hours": "pon-pet 06:00-20:00\r\nsobota 06:00-20:00\r\nnedelja 07:00-15:00\r\nprazniki 07:00-15:00",
       "zip_code": "3270"
+    },
+    {
+      "pk": 2297,
+      "franchise": 16,
+      "name": "Agas Maribor",
+      "address": "Perhavčeva ulica 15",
+      "lat": 46.525107,
+      "lng": 15.667885,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.769,
+        "KOEL": 1.047,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor Center",
+      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 2299,
+      "franchise": 16,
+      "name": "Agas Slovenska Bistrica",
+      "address": "Žolgarjeva ulica 25",
+      "lat": 46.385204,
+      "lng": 15.576529,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.769,
+        "KOEL": 1.047,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Izvoz Slovenska Bistrica jug",
+      "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
+      "zip_code": "2310"
     },
     {
       "pk": 2302,

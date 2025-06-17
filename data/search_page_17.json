@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2209,
-      "franchise": 1,
-      "name": "PETROL SLOVENJ GRADEC - FRANCETOVA",
-      "address": "FRANCETOVA CESTA 21",
-      "lat": 46.51479276,
-      "lng": 15.08272833,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00",
-      "zip_code": "2380"
-    },
-    {
-      "pk": 2210,
-      "franchise": 1,
-      "name": "PETROL PREVALJE",
-      "address": "PERZONALI 49",
-      "lat": 46.54278188,
-      "lng": 14.90387241,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.67,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "2391"
-    },
-    {
-      "pk": 2211,
-      "franchise": 1,
-      "name": "PETROL MISLINJA",
-      "address": "ŠENTLENART 18",
-      "lat": 46.44319582,
-      "lng": 15.19195307,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "2382"
-    },
-    {
       "pk": 2212,
       "franchise": 1,
       "name": "PETROL MUTA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\npon. - ned. 00:00 - 24:00",
       "zip_code": "2000"
+    },
+    {
+      "pk": 2235,
+      "franchise": 4,
+      "name": "BS MOL KRANJ",
+      "address": "Ulica Boštjana Hladnika 4",
+      "lat": 46.230565,
+      "lng": 14.369373,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": 0.822,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "PON - SOB 06:00 - 22:00\r\nNEDELJA IN PRAZNIKI 08:00 - 20:00",
+      "zip_code": "4000"
+    },
+    {
+      "pk": 2236,
+      "franchise": 4,
+      "name": "BS MOL PTUJ ORMOŠKA",
+      "address": "Ormoška cesta 32",
+      "lat": 46.41600383,
+      "lng": 15.88503332,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": 0.822,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "2250"
+    },
+    {
+      "pk": 2237,
+      "franchise": 3,
+      "name": "BS MAXEN TRŽIČ",
+      "address": "Cesta Ste Marie aux Mines bš",
+      "lat": 46.3583296,
+      "lng": 14.2978288,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "4290"
     }
   ],
   "position": null
