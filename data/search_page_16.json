@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2183,
-      "franchise": 1,
-      "name": "PETROL PONIKVA",
-      "address": "PONIKVA 36A",
-      "lat": 46.25437076,
-      "lng": 15.44383892,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "3232"
-    },
-    {
       "pk": 2184,
       "franchise": 1,
       "name": "PETROL SOLČAVA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
       "zip_code": "2390"
+    },
+    {
+      "pk": 2208,
+      "franchise": 1,
+      "name": "PETROL ŽERJAV",
+      "address": "ŽERJAV 3A",
+      "lat": 46.48491258,
+      "lng": 14.86992734,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 18:00-24:00\r\nsobote 15:00-24:00",
+      "zip_code": "2393"
     }
   ],
   "position": null

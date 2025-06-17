@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1921,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 36",
-      "address": "TRŽAŠKA CESTA 36",
-      "lat": 46.53769944,
-      "lng": 15.64633113,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.67,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1922,
       "franchise": 1,
       "name": "PETROL MARIBOR - MLINSKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "2212"
+    },
+    {
+      "pk": 1946,
+      "franchise": 1,
+      "name": "PETROL SREDIŠČE OB DRAVI",
+      "address": "SLOVENSKA CESTA 91A",
+      "lat": 46.394433,
+      "lng": 16.277736,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 07:00-12:00",
+      "zip_code": "2277"
     }
   ],
   "position": null

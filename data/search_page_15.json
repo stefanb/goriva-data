@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2158,
-      "franchise": 1,
-      "name": "PETROL ČRNOMELJ - KOČEVJE",
-      "address": "KOČEVJE 22B",
-      "lat": 45.56606773,
-      "lng": 15.17772212,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.824,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 06:00-22:00",
-      "zip_code": "8340"
-    },
-    {
       "pk": 2159,
       "franchise": 1,
       "name": "PETROL DOBOVA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 08:00 - 12:30;  13:00-16:00\r\nsobote 08:00-12:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3256"
+    },
+    {
+      "pk": 2183,
+      "franchise": 1,
+      "name": "PETROL PONIKVA",
+      "address": "PONIKVA 36A",
+      "lat": 46.25437076,
+      "lng": 15.44383892,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "3232"
     }
   ],
   "position": null
