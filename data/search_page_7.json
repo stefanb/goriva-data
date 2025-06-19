@@ -148,6 +148,30 @@
       "zip_code": "2000"
     },
     {
+      "pk": 1957,
+      "franchise": 1,
+      "name": "PETROL KOBARID",
+      "address": "GORIŠKA CESTA 8",
+      "lat": 46.2417162,
+      "lng": 13.58250354,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.67,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.824,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
+      "zip_code": "5222"
+    },
+    {
       "pk": 1959,
       "franchise": 1,
       "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "9244"
-    },
-    {
-      "pk": 1977,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - AC ZAHOD",
-      "address": "NA POLJU 24",
-      "lat": 46.532935,
-      "lng": 15.699297,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.791,
-        "dizel-premium": 1.758,
-        "avtoplin-lpg": 0.854,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Ljubljana",
-      "open_hours": "NON-STOP",
-      "zip_code": "2000"
     }
   ],
   "position": null
