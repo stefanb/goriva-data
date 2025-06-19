@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2340,
-      "franchise": 5,
-      "name": "SHELL KOZINA",
-      "address": "Bazoviška cesta 18",
-      "lat": 45.60911603335073,
-      "lng": 13.93361083463169,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.679,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6240"
-    },
-    {
       "pk": 2341,
       "franchise": 5,
       "name": "SHELL LJUTOMER",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6310"
+    },
+    {
+      "pk": 2365,
+      "franchise": 5,
+      "name": "SHELL MARIBOR BOHOVA",
+      "address": "Tržaška cesta 83",
+      "lat": 46.51807271424088,
+      "lng": 15.651544379912487,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.679,
+        "dizel-premium": 1.639,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2000"
     }
   ],
   "position": null

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2365,
-      "franchise": 5,
-      "name": "SHELL MARIBOR BOHOVA",
-      "address": "Tržaška cesta 83",
-      "lat": 46.51807271424088,
-      "lng": 15.651544379912487,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.679,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2366,
       "franchise": 5,
       "name": "SHELL GEDEROVCI",
@@ -410,6 +386,30 @@
       "direction": "",
       "open_hours": "Trenutno zaprto.\r\nvsak delavnik 13:30-17:00\r\nsobote 13:30-17:00",
       "zip_code": "5213"
+    },
+    {
+      "pk": 1983,
+      "franchise": 1,
+      "name": "PETROL GOLO BRDO V BRDIH",
+      "address": "GOLO BRDO 10B",
+      "lat": 46.054382,
+      "lng": 13.497999,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto. \r\nvsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 12:45-20:00",
+      "zip_code": "5212"
     },
     {
       "pk": 2014,

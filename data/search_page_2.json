@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 789,
-      "franchise": 4,
-      "name": "BS MOL FERNETIČI",
-      "address": "Partizanska c. 151",
-      "lat": 45.701768,
-      "lng": 13.841505,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.632,
-        "avtoplin-lpg": 0.822,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Sežana",
-      "open_hours": "Pon-Ned 07:00-22:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 790,
       "franchise": 4,
       "name": "BS MOL FERNETIČI JUG",
@@ -586,6 +562,30 @@
       "address": "Zaloška 158",
       "lat": 46.05628,
       "lng": 14.562775,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 820,
+      "franchise": 4,
+      "name": "BS MOL LJUBLJANA ZALOŠKA SEVER",
+      "address": "Zaloška 157",
+      "lat": 46.056444,
+      "lng": 14.55814,
       "prices": {
         "95": 1.445,
         "dizel": 1.458,
