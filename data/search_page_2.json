@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 790,
-      "franchise": 4,
-      "name": "BS MOL FERNETIČI JUG",
-      "address": "Partizanska c. 98",
-      "lat": 45.704437,
-      "lng": 13.846496,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.791,
-        "dizel-premium": 1.762,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "6210"
-    },
-    {
       "pk": 791,
       "franchise": 4,
       "name": "BS MOL FERNETIČI SEVER",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "1000"
+    },
+    {
+      "pk": 823,
+      "franchise": 4,
+      "name": "BS MOL LOPATA JUG",
+      "address": "Lopata 80",
+      "lat": 46.261718,
+      "lng": 15.22071,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.762,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "3000"
     }
   ],
   "position": null

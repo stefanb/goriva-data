@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1927,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - GOSPOSVETSKA SEVER",
-      "address": "GOSPOSVETSKA CESTA 92",
-      "lat": 46.56386643,
-      "lng": 15.62682805,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1928,
       "franchise": 1,
       "name": "PETROL SOLKAN",
@@ -122,30 +98,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
       "zip_code": "2342"
-    },
-    {
-      "pk": 1932,
-      "franchise": 1,
-      "name": "PETROL PRAGERSKO",
-      "address": "PTUJSKA CESTA 20",
-      "lat": 46.39511839,
-      "lng": 15.65879604,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto.\r\nvsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "2331"
     },
     {
       "pk": 1933,
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "2230"
+    },
+    {
+      "pk": 1952,
+      "franchise": 1,
+      "name": "PETROL ROŽNA DOLINA",
+      "address": "VIPAVSKA CESTA 3A",
+      "lat": 45.942191,
+      "lng": 13.638451,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.67,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": 0.824,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5000"
+    },
+    {
+      "pk": 1953,
+      "franchise": 1,
+      "name": "PETROL ČRNCI",
+      "address": "ČRNCI 47A",
+      "lat": 46.69630599,
+      "lng": 15.88782207,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-19:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:00-12:00",
+      "zip_code": "9253"
     }
   ],
   "position": null

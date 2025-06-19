@@ -244,30 +244,6 @@
       "zip_code": "2342"
     },
     {
-      "pk": 2068,
-      "franchise": 1,
-      "name": "PETROL TRŽIČ - VZHOD",
-      "address": "CESTA STE MARIE AUX MINES 13A",
-      "lat": 46.35376615,
-      "lng": 14.2930683,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.44,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "4290"
-    },
-    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "Sežana",
       "open_hours": "Pon-Ned 07:00-22:00",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 790,
+      "franchise": 4,
+      "name": "BS MOL FERNETIČI JUG",
+      "address": "Partizanska c. 98",
+      "lat": 45.704437,
+      "lng": 13.846496,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.762,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6210"
     }
   ],
