@@ -24,7 +24,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 13:00-22:00\r\nsobote 13:00-22:00\r\nnedelje in prazniki 13:00-22:00",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "6240"
     },
     {
@@ -48,7 +48,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 13:00-22:00\r\nsobote 13:00-22:00\r\nnedelje in prazniki 13:00-22:00",
+      "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "5212"
     },
     {
@@ -194,6 +194,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:00-11:30",
       "zip_code": "2322"
+    },
+    {
+      "pk": 2014,
+      "franchise": 1,
+      "name": "PETROL PTUJ - ORMOŠKA 26/B",
+      "address": "ORMOŠKA CESTA 26B",
+      "lat": 46.41676013,
+      "lng": 15.88049476,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.67,
+        "dizel-premium": 1.632,
+        "avtoplin-lpg": 0.824,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto\r\nNON-STOP",
+      "zip_code": "2250"
     },
     {
       "pk": 2015,
@@ -576,30 +600,6 @@
       },
       "distance": null,
       "direction": "Fernetiči -> Ljublja",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.791,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.854,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "6210"
     }

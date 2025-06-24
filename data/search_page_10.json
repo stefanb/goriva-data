@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 2031,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - SEVER",
+      "address": "POVIR 96",
+      "lat": 45.703632,
+      "lng": 13.941688,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.854,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "6210"
+    },
+    {
       "pk": 2032,
       "franchise": 1,
       "name": "PETROL VIPAVA AC - SEVER",
@@ -48,7 +72,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 13:00-22:00\r\nsobote 13:00-22:00\r\nnedelje in prazniki 13:00-22:00",
+      "open_hours": "vsak delavnik 05:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6257"
     },
     {
@@ -72,7 +96,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 13:00-22:00\r\nsobote 13:00-22:00\r\nnedelje in prazniki 13:00-22:00",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
       "zip_code": "6000"
     },
     {
@@ -577,30 +601,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 13:00-22:00\r\nsobote 13:00-22:00\r\nnedelje in prazniki 13:00-22:00",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2057,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
-      "address": "DOLENJSKA CESTA 242F",
-      "lat": 46.01990756,
-      "lng": 14.54219888,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
       "zip_code": "1000"
     }
   ],

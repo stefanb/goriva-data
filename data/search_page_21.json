@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2368,
+      "franchise": 5,
+      "name": "SHELL SLOVENSKE KONJICE",
+      "address": "Liptovska cesta 32B",
+      "lat": 46.34011896303725,
+      "lng": 15.418721900923186,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.679,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2310"
+    },
+    {
       "pk": 2369,
       "franchise": 5,
       "name": "SHELL LUCIJA VZHOD",
@@ -362,30 +386,6 @@
       "direction": "",
       "open_hours": "Trenutno zaprto. \r\nvsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 12:45-20:00",
       "zip_code": "5212"
-    },
-    {
-      "pk": 2014,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 26/B",
-      "address": "ORMOŠKA CESTA 26B",
-      "lat": 46.41676013,
-      "lng": 15.88049476,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto\r\nNON-STOP",
-      "zip_code": "2250"
     },
     {
       "pk": 2035,
