@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2137,
+      "franchise": 1,
+      "name": "PETROL ŽIRI",
+      "address": "JOBSTOVA CESTA 35",
+      "lat": 46.043743,
+      "lng": 14.10785,
+      "prices": {
+        "95": 1.445,
+        "dizel": 1.458,
+        "98": null,
+        "100": 1.67,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
+      "zip_code": "4226"
+    },
+    {
       "pk": 2138,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8261"
-    },
-    {
-      "pk": 2163,
-      "franchise": 1,
-      "name": "PETROL BREŽICE - TOVARNIŠKA",
-      "address": "TOVARNIŠKA CESTA 2",
-      "lat": 45.91870681,
-      "lng": 15.59341049,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": 1.67,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "8250"
     }
   ],
   "position": null
