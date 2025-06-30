@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1951,
-      "franchise": 1,
-      "name": "PETROL LENART",
-      "address": "KRAIGHERJEVA ULICA 40",
-      "lat": 46.58401138,
-      "lng": 15.84030408,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.824,
-        "KOEL": 1.097,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "2230"
-    },
-    {
       "pk": 1952,
       "franchise": 1,
       "name": "PETROL ROŽNA DOLINA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "9244"
+    },
+    {
+      "pk": 1977,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - AC ZAHOD",
+      "address": "NA POLJU 24",
+      "lat": 46.532935,
+      "lng": 15.699297,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.818,
+        "dizel-premium": 1.801,
+        "avtoplin-lpg": 0.854,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "2000"
     }
   ],
   "position": null
