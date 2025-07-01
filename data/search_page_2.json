@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 793,
-      "franchise": 4,
-      "name": "BS MOL GRABONOŠ",
-      "address": "Grabonoš 4c",
-      "lat": 46.584129,
-      "lng": 16.008947,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.817,
-        "dizel-premium": 1.802,
-        "avtoplin-lpg": 0.852,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Lenti",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "9244"
-    },
-    {
       "pk": 794,
       "franchise": 4,
       "name": "BS MOL GRAČIŠČE",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "Okt-Maj: na klic ; Jun-Sep: Pon-Ned 09:00-19:00 (zaprto od 13:00-14:00)",
+      "zip_code": "6320"
+    },
+    {
+      "pk": 826,
+      "franchise": 4,
+      "name": "BS MOL LUCIJA",
+      "address": "Seča 188 a",
+      "lat": 45.50043,
+      "lng": 13.61022,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6320"
     }
   ],

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2007,
-      "franchise": 1,
-      "name": "PETROL ŠTALONI",
-      "address": "KOZARNO 1B",
-      "lat": 46.00171653,
-      "lng": 13.51782499,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.824,
-        "KOEL": 1.097,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "5212"
-    },
-    {
       "pk": 2008,
       "franchise": 1,
       "name": "PETROL ŠEMPAS AC - JUG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "6210"
+    },
+    {
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.818,
+        "dizel-premium": 1.801,
+        "avtoplin-lpg": 0.854,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "5271"
     }
   ],
   "position": null
