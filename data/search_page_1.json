@@ -76,54 +76,6 @@
       "zip_code": "4280"
     },
     {
-      "pk": 2086,
-      "franchise": 1,
-      "name": "PETROL NAKLO",
-      "address": "KRANJSKA CESTA 4",
-      "lat": 46.27058563,
-      "lng": 14.31367281,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
-      "zip_code": "4202"
-    },
-    {
-      "pk": 2184,
-      "franchise": 1,
-      "name": "PETROL SOLČAVA",
-      "address": "SOLČAVA 12A",
-      "lat": 46.419206,
-      "lng": 14.69457786,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto\r\nvsak delavnik 13:00-16:00\r\nsobote 11:30-13:00",
-      "zip_code": "3335"
-    },
-    {
       "pk": 2223,
       "franchise": 1,
       "name": "PETROL PETRINA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
       "zip_code": "6272"
+    },
+    {
+      "pk": 796,
+      "franchise": 4,
+      "name": "BS MOL GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.817,
+        "dizel-premium": 1.802,
+        "avtoplin-lpg": 0.852,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 797,
+      "franchise": 4,
+      "name": "BS MOL ILIRSKA BISTRICA",
+      "address": "Bazoviška 45",
+      "lat": 45.559604,
+      "lng": 14.244346,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
+      "zip_code": "6250"
     }
   ],
   "position": null
