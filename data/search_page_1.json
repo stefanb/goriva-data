@@ -28,54 +28,6 @@
       "zip_code": "2342"
     },
     {
-      "pk": 1987,
-      "franchise": 1,
-      "name": "PETROL ČRNI VRH",
-      "address": "ČRNI VRH 121",
-      "lat": 45.92556913,
-      "lng": 14.05336933,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "pon, tor, čet, pet  07:00 - 12:00, 12:30-17:00\r\nsre  07:00 - 12:00, 12:30-18:00\r\nsobote 08:00 - 12:00, 12:30-16:00",
-      "zip_code": "5274"
-    },
-    {
-      "pk": 2085,
-      "franchise": 1,
-      "name": "PETROL PODKOREN",
-      "address": "PODKOREN 1A",
-      "lat": 46.4896618,
-      "lng": 13.76471293,
-      "prices": {
-        "95": 1.445,
-        "dizel": 1.458,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:00-14:00",
-      "zip_code": "4280"
-    },
-    {
       "pk": 2223,
       "franchise": 1,
       "name": "PETROL PETRINA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Sep-Jun: Pon-Ned 05:00-22:00; Jul-Avg: Pon-Ned 00:00-24:00",
       "zip_code": "6250"
+    },
+    {
+      "pk": 798,
+      "franchise": 4,
+      "name": "BS MOL IZOLA",
+      "address": "Prešernova cesta 1a",
+      "lat": 45.53687,
+      "lng": 13.66795,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.674,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 06:00-22:00",
+      "zip_code": "6310"
+    },
+    {
+      "pk": 800,
+      "franchise": 4,
+      "name": "BS MOL KAMNIK",
+      "address": "Perovo 32",
+      "lat": 46.208865,
+      "lng": 14.606844,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": 1.672,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Ned 05:00-22:00",
+      "zip_code": "1240"
     }
   ],
   "position": null

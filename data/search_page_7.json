@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1960,
-      "franchise": 1,
-      "name": "PETROL MIREN",
-      "address": "MIREN 13D",
-      "lat": 45.898043,
-      "lng": 13.608726,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "5291"
-    },
-    {
-      "pk": 1961,
-      "franchise": 1,
-      "name": "PETROL LJUTOMER",
-      "address": "PREŠERNOVA ULICA 19",
-      "lat": 46.52201409,
-      "lng": 16.19426906,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.097,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-19:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9240"
-    },
-    {
       "pk": 1962,
       "franchise": 1,
       "name": "PETROL LENDAVA",
@@ -266,30 +218,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "9250"
-    },
-    {
-      "pk": 1971,
-      "franchise": 1,
-      "name": "PETROL MARTJANCI",
-      "address": "MARTJANCI 83B",
-      "lat": 46.68760198,
-      "lng": 16.19649434,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.498,
-        "98": null,
-        "100": 1.698,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.097,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "9221"
     },
     {
       "pk": 1972,
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "5000"
+    },
+    {
+      "pk": 1985,
+      "franchise": 1,
+      "name": "PETROL ŠEMPAS",
+      "address": "ŠEMPAS 161A",
+      "lat": 45.93039187,
+      "lng": 13.73978149,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 17:30-19:00\r\nsobote 17:30-19:00\r\nnedelje in prazniki 12:30-15:00",
+      "zip_code": "5261"
+    },
+    {
+      "pk": 1986,
+      "franchise": 1,
+      "name": "PETROL BOVEC",
+      "address": "DVOR 44",
+      "lat": 46.33279417,
+      "lng": 13.54135681,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "5230"
+    },
+    {
+      "pk": 1988,
+      "franchise": 1,
+      "name": "PETROL DESKLE",
+      "address": "SREBRNIČEVA ULICA 4",
+      "lat": 46.05406598,
+      "lng": 13.61904093,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.498,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.097,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5210"
     }
   ],
   "position": null
