@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2353,
+      "franchise": 5,
+      "name": "SHELL KOCEVJE RESKA",
+      "address": "Reška cesta 25a",
+      "lat": 45.63286356949685,
+      "lng": 14.864140348800042,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1330"
+    },
+    {
+      "pk": 2354,
+      "franchise": 5,
+      "name": "SHELL CELJE AERO",
+      "address": "Dečkova cesta 39",
+      "lat": 46.24061678625168,
+      "lng": 15.256515119602888,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2355,
       "franchise": 5,
       "name": "SHELL POSTOJNA TRŽAŠKA",
@@ -554,54 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.498,
-        "98": 1.698,
-        "100": 1.698,
-        "dizel-premium": 1.598,
-        "avtoplin-lpg": null,
-        "KOEL": 1.097,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 2308,
-      "franchise": 19,
-      "name": "Tankomat Grosuplje",
-      "address": "Ljubljanska cesta 66",
-      "lat": 45.96573257446289,
-      "lng": 14.659423828125,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.487,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "neprenehoma 24/7",
-      "zip_code": "1290"
     }
   ],
   "position": null
