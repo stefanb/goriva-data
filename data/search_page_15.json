@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2175,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - ZAHOD",
+      "address": "SPODNJE GRUŠOVJE 10C",
+      "lat": 46.348824,
+      "lng": 15.487582,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.777,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
+    },
+    {
+      "pk": 2176,
+      "franchise": 1,
+      "name": "PETROL TEPANJE AC - VZHOD",
+      "address": "SPODNJE GRUŠOVJE 10B",
+      "lat": 46.347484,
+      "lng": 15.48757,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.777,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Maribor",
+      "open_hours": "NON-STOP",
+      "zip_code": "3210"
+    },
+    {
       "pk": 2177,
       "franchise": 1,
       "name": "PETROL VITANJE",
@@ -170,6 +218,30 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "3232"
+    },
+    {
+      "pk": 2184,
+      "franchise": 1,
+      "name": "PETROL SOLČAVA",
+      "address": "SOLČAVA 12A",
+      "lat": 46.419206,
+      "lng": 14.69457786,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.087,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto\r\nvsak delavnik 13:00-16:00\r\nsobote 11:30-13:00",
+      "zip_code": "3335"
     },
     {
       "pk": 2185,
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2200,
-      "franchise": 1,
-      "name": "PETROL CELJE - KIDRIČEVA SEVER",
-      "address": "KIDRIČEVA ULICA 21",
-      "lat": 46.23557589,
-      "lng": 15.27676905,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2201,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - JUG",
-      "address": "ZALOKE 16",
-      "lat": 45.908304,
-      "lng": 15.400616,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.777,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8274"
-    },
-    {
-      "pk": 2202,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - SEVER",
-      "address": "ZALOKE 15",
-      "lat": 45.909601,
-      "lng": 15.400316,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.777,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "8274"
     }
   ],
   "position": null

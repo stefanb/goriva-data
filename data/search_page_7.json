@@ -532,6 +532,30 @@
       "zip_code": "5230"
     },
     {
+      "pk": 1987,
+      "franchise": 1,
+      "name": "PETROL ČRNI VRH",
+      "address": "ČRNI VRH 121",
+      "lat": 45.92556913,
+      "lng": 14.05336933,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.087,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprt\r\npon, tor, čet, pet  07:00 - 12:00, 12:30-17:00\r\nsre  07:00 - 12:00, 12:30-18:00\r\nsobote 08:00 - 12:00, 12:30-16:00",
+      "zip_code": "5274"
+    },
+    {
       "pk": 1988,
       "franchise": 1,
       "name": "PETROL DESKLE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "5220"
-    },
-    {
-      "pk": 1990,
-      "franchise": 1,
-      "name": "PETROL KOPER, SERMIN",
-      "address": "SERMIN 7D",
-      "lat": 45.55178982,
-      "lng": 13.76037054,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "6000"
     }
   ],
   "position": null

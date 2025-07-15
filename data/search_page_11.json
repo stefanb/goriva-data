@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2067,
+      "franchise": 1,
+      "name": "PETROL TRBOVLJE - TRG REVOLUCIJE",
+      "address": "TRG REVOLUCIJE 8A",
+      "lat": 46.14637991,
+      "lng": 15.04055907,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": 1.664,
+        "avtoplin-lpg": null,
+        "KOEL": 1.087,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "1420"
+    },
+    {
       "pk": 2069,
       "franchise": 1,
       "name": "PETROL VRHNIKA - LJUBLJANSKA ZAHOD",
@@ -340,6 +364,30 @@
       "zip_code": "4000"
     },
     {
+      "pk": 2085,
+      "franchise": 1,
+      "name": "PETROL PODKOREN",
+      "address": "PODKOREN 1A",
+      "lat": 46.4896618,
+      "lng": 13.76471293,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto\r\nvsak delavnik 8:00 - 11:30; 12:00-14:00",
+      "zip_code": "4280"
+    },
+    {
       "pk": 2087,
       "franchise": 1,
       "name": "PETROL MORAVČE",
@@ -554,54 +602,6 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "4270"
-    },
-    {
-      "pk": 2096,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - SEVER",
-      "address": "SPODNJI PLAVŽ 24B",
-      "lat": 46.440937,
-      "lng": 14.028828,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.777,
-        "dizel-premium": 1.79,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Karavan",
-      "open_hours": "NON-STOP",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2098,
-      "franchise": 1,
-      "name": "PETROL IVANČNA GORICA",
-      "address": "VODOTUČINE 14",
-      "lat": 45.935276,
-      "lng": 14.804536,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": 1.664,
-        "avtoplin-lpg": 0.849,
-        "KOEL": 1.087,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-22:00",
-      "zip_code": "1295"
     }
   ],
   "position": null
