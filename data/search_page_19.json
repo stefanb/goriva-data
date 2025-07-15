@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2306,
+      "franchise": 33,
+      "name": "Bencinski servis Stella",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.087,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
+    },
+    {
       "pk": 2307,
       "franchise": 19,
       "name": "Bencinski servis Sodražica",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2352,
-      "franchise": 5,
-      "name": "SHELL KOPER BERTOKI",
-      "address": "Cesta med vinogradi 52",
-      "lat": 45.55542689115159,
-      "lng": 13.78089458948286,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6000"
     }
   ],
   "position": null
