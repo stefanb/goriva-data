@@ -412,6 +412,30 @@
       "zip_code": "4280"
     },
     {
+      "pk": 2086,
+      "franchise": 1,
+      "name": "PETROL NAKLO",
+      "address": "KRANJSKA CESTA 4",
+      "lat": 46.27058563,
+      "lng": 14.31367281,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.087,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto\r\nvsak delavnik 06:00-20:00\r\nsobote 07:00-14:00",
+      "zip_code": "4202"
+    },
+    {
       "pk": 2087,
       "franchise": 1,
       "name": "PETROL MORAVČE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-21:00",
       "zip_code": "4220"
-    },
-    {
-      "pk": 2094,
-      "franchise": 1,
-      "name": "PETROL HRASTNIK",
-      "address": "PODKRAJ 77B",
-      "lat": 46.11937061,
-      "lng": 15.08074191,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": 1.087,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 08:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "1430"
     }
   ],
   "position": null
