@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2122,
-      "franchise": 1,
-      "name": "PETROL ŠKOFJA LOKA - KIDRIČEVA JUG",
-      "address": "KIDRIČEVA CESTA 8",
-      "lat": 46.16681875,
-      "lng": 14.31398429,
-      "prices": {
-        "95": 1.437,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.087,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 21:00-24:00",
-      "zip_code": "4220"
-    },
-    {
       "pk": 2123,
       "franchise": 1,
       "name": "PETROL LUKOVICA AC - JUG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:30-15:00\r\nnedelje in prazniki 08:00-11:30",
       "zip_code": "8340"
+    },
+    {
+      "pk": 2148,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - SEIDLOVA",
+      "address": "SEIDLOVA CESTA 50",
+      "lat": 45.81283786,
+      "lng": 15.17472988,
+      "prices": {
+        "95": 1.437,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.087,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 08:00-18:00\r\nnedelje in prazniki 08:00-15:00",
+      "zip_code": "8000"
     }
   ],
   "position": null
