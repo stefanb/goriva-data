@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1962,
-      "franchise": 1,
-      "name": "PETROL LENDAVA",
-      "address": "KOLODVORSKA ULICA 8A",
-      "lat": 46.55996722,
-      "lng": 16.44790177,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.492,
-        "98": null,
-        "100": 1.653,
-        "dizel-premium": 1.67,
-        "avtoplin-lpg": 0.849,
-        "KOEL": 1.093,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9220"
-    },
-    {
       "pk": 1963,
       "franchise": 1,
       "name": "PETROL ROGAŠOVCI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5210"
+    },
+    {
+      "pk": 1989,
+      "franchise": 1,
+      "name": "PETROL TOLMIN",
+      "address": "TRG MARŠALA TITA 18",
+      "lat": 46.18282816,
+      "lng": 13.73383929,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.492,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.093,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
+      "zip_code": "5220"
     }
   ],
   "position": null

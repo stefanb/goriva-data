@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1989,
-      "franchise": 1,
-      "name": "PETROL TOLMIN",
-      "address": "TRG MARŠALA TITA 18",
-      "lat": 46.18282816,
-      "lng": 13.73383929,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.492,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.093,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "5220"
-    },
-    {
       "pk": 1990,
       "franchise": 1,
       "name": "PETROL KOPER, SERMIN",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "Trenutno zaprto\r\nNON-STOP",
+      "zip_code": "2250"
+    },
+    {
+      "pk": 2015,
+      "franchise": 1,
+      "name": "PETROL PTUJ - OSOJNIKOVA",
+      "address": "OSOJNIKOVA CESTA 10",
+      "lat": 46.42711936,
+      "lng": 15.8836554,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.492,
+        "98": null,
+        "100": 1.653,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.093,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
       "zip_code": "2250"
     }
   ],
