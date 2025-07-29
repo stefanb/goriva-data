@@ -196,6 +196,30 @@
       "zip_code": "9250"
     },
     {
+      "pk": 1971,
+      "franchise": 1,
+      "name": "PETROL MARTJANCI",
+      "address": "MARTJANCI 83B",
+      "lat": 46.68760198,
+      "lng": 16.19649434,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.492,
+        "98": null,
+        "100": 1.653,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.093,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Trenutno zaprto\r\nvsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
+      "zip_code": "9221"
+    },
+    {
       "pk": 1972,
       "franchise": 1,
       "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5210"
-    },
-    {
-      "pk": 1989,
-      "franchise": 1,
-      "name": "PETROL TOLMIN",
-      "address": "TRG MARŠALA TITA 18",
-      "lat": 46.18282816,
-      "lng": 13.73383929,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.492,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.093,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-21:00",
-      "zip_code": "5220"
     }
   ],
   "position": null

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2095,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - JUG",
+      "address": "SPODNJI PLAVŽ 24A",
+      "lat": 46.440467,
+      "lng": 14.026493,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.492,
+        "98": null,
+        "100": 1.774,
+        "dizel-premium": 1.796,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4270"
+    },
+    {
       "pk": 2096,
       "franchise": 1,
       "name": "PETROL HRUŠICA AC - SEVER",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 21:00-24:00",
       "zip_code": "4220"
-    },
-    {
-      "pk": 2123,
-      "franchise": 1,
-      "name": "PETROL LUKOVICA AC - JUG",
-      "address": "KOSESKEGA CESTA 1",
-      "lat": 46.166803,
-      "lng": 14.693314,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.492,
-        "98": null,
-        "100": 1.774,
-        "dizel-premium": 1.796,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "NON-STOP",
-      "zip_code": "1225"
     }
   ],
   "position": null
