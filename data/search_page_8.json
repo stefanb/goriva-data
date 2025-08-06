@@ -52,6 +52,30 @@
       "zip_code": "6000"
     },
     {
+      "pk": 1991,
+      "franchise": 1,
+      "name": "PETROL PODBRDO",
+      "address": "PODBRDO 60C",
+      "lat": 46.206127,
+      "lng": 13.959792,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.492,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.093,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 08:00-16:00\r\nsobote 08:00-15:00",
+      "zip_code": "5243"
+    },
+    {
       "pk": 1992,
       "franchise": 1,
       "name": "PETROL LIPICA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-18:00\r\nsobote 07:00-15:00\r\nnedelje in prazniki 08:00-11:30",
       "zip_code": "2322"
-    },
-    {
-      "pk": 2014,
-      "franchise": 1,
-      "name": "PETROL PTUJ - ORMOŠKA 26/B",
-      "address": "ORMOŠKA CESTA 26B",
-      "lat": 46.41676013,
-      "lng": 15.88049476,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.492,
-        "98": null,
-        "100": 1.653,
-        "dizel-premium": 1.67,
-        "avtoplin-lpg": 0.849,
-        "KOEL": 1.093,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "2250"
     }
   ],
   "position": null
