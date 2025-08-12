@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.928,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.766,
-        "avtoplin-lpg": 0.928,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "NON-STOP",
-      "zip_code": "5271"
-    },
-    {
       "pk": 2033,
       "franchise": 1,
       "name": "PETROL PIVKA",
@@ -601,6 +553,54 @@
       "distance": null,
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-19:00",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2058,
+      "franchise": 1,
+      "name": "PETROL ZADVOR",
+      "address": "CESTA II. GRUPE ODREDOV 48",
+      "lat": 46.03588324,
+      "lng": 14.59614121,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:00-14:00",
+      "zip_code": "1261"
+    },
+    {
+      "pk": 2059,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA AC - BARJE SEVER",
+      "address": "CESTA DVEH CESARJEV 71",
+      "lat": 46.029136,
+      "lng": 14.481739,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.766,
+        "avtoplin-lpg": 0.928,
+        "KOEL": null,
+        "hvo": 2.382,
+        "cng": 1.27,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
       "zip_code": "1000"
     }
   ],

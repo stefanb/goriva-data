@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2165,
-      "franchise": 1,
-      "name": "PETROL VELENJE - ŠALEŠKA",
-      "address": "ŠALEŠKA CESTA 9",
-      "lat": 46.3602501,
-      "lng": 15.12373353,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 07:00-18:00\r\nnedelje in prazniki 08:00-16:00",
-      "zip_code": "3320"
-    },
-    {
-      "pk": 2166,
-      "franchise": 1,
-      "name": "PETROL VRANSKO",
-      "address": "VRANSKO 74A",
-      "lat": 46.24594145,
-      "lng": 14.95996662,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-19:00\r\nnedelje in prazniki 08:00-19:00",
-      "zip_code": "3305"
-    },
-    {
       "pk": 2167,
       "franchise": 1,
       "name": "PETROL CELJE - LJUBLJANSKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 12:30-18:00\r\nnedelje in prazniki 08:30-12:00",
       "zip_code": "3342"
+    },
+    {
+      "pk": 2190,
+      "franchise": 1,
+      "name": "PETROL CELJE - LANOVŽ",
+      "address": "IPAVČEVA ULICA 19",
+      "lat": 46.23718054,
+      "lng": 15.25657342,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 2191,
+      "franchise": 1,
+      "name": "PETROL ŠOŠTANJ",
+      "address": "AŠKERČEVA CESTA 7",
+      "lat": 46.37530944,
+      "lng": 15.04892524,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "3325"
     }
   ],
   "position": null
