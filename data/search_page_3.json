@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 828,
-      "franchise": 4,
-      "name": "BS MOL LUKOVICA",
-      "address": "Koseskega cesta 4",
-      "lat": 46.16606,
-      "lng": 14.6896,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.779,
-        "dizel-premium": 1.767,
-        "avtoplin-lpg": 0.877,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1225"
-    },
-    {
-      "pk": 832,
-      "franchise": 4,
-      "name": "BS MOL MARINA KOPER",
-      "address": "Kopališko nabrežje 5",
-      "lat": 45.55049,
-      "lng": 13.72786,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Okt-Maj: Pon-Sob 08:00-16:00, Ned/Praz 09:00-12:00 in 15:00-20:00; Apr-Sep: Pon-Sob 08:00-20:00, Ned/Praz 09:00-12:00 in 15:00-20:00",
-      "zip_code": "6000"
-    },
-    {
       "pk": 834,
       "franchise": 4,
       "name": "BS MOL NOVA VAS",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
       "zip_code": "2241"
+    },
+    {
+      "pk": 859,
+      "franchise": 4,
+      "name": "BS MOL STARI TRG",
+      "address": "C.Notranjskega odreda 5",
+      "lat": 45.715829,
+      "lng": 14.470974,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.639,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Okt-Mar: Pon-Pet 07:00-20:00, Sob 07:00-15:00, Ned 07:00-13:00, Praz. Zaprto; Apr-Sep: Pon-Sob 07:00-20:00, Ned 07:00-13:00, Praz. zaprto",
+      "zip_code": "1386"
+    },
+    {
+      "pk": 861,
+      "franchise": 4,
+      "name": "BS MOL ŠEMPAS",
+      "address": "Šempas 160b",
+      "lat": 45.917693,
+      "lng": 13.721916,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.767,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Nova Gorica",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "5261"
     }
   ],
   "position": null

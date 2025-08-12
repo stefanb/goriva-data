@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1983,
-      "franchise": 1,
-      "name": "PETROL GOLO BRDO V BRDIH",
-      "address": "GOLO BRDO 10B",
-      "lat": 46.054382,
-      "lng": 13.497999,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 17:30-20:00\r\nsobote 17:30-20:00\r\nnedelje in prazniki 12:45-20:00",
-      "zip_code": "5212"
-    },
-    {
-      "pk": 1985,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS",
-      "address": "ŠEMPAS 161A",
-      "lat": 45.93039187,
-      "lng": 13.73978149,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 17:30-19:00\r\nsobote 17:30-19:00\r\nnedelje in prazniki 12:30-15:00",
-      "zip_code": "5261"
-    },
-    {
       "pk": 1986,
       "franchise": 1,
       "name": "PETROL BOVEC",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "5261"
+    },
+    {
+      "pk": 2009,
+      "franchise": 1,
+      "name": "PETROL KOZINA AC - VZHOD",
+      "address": "BAZOVIŠKA CESTA 23A",
+      "lat": 45.60515,
+      "lng": 13.928699,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.778,
+        "dizel-premium": 1.766,
+        "avtoplin-lpg": 0.928,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
+      "open_hours": "NON-STOP",
+      "zip_code": "6240"
+    },
+    {
+      "pk": 2010,
+      "franchise": 1,
+      "name": "PETROL ORMOŽ",
+      "address": "KOLODVORSKA CESTA 5",
+      "lat": 46.40764081,
+      "lng": 16.15117853,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "2270"
     }
   ],
   "position": null

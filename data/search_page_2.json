@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 794,
-      "franchise": 4,
-      "name": "BS MOL GRAČIŠČE",
-      "address": "Gračišče 4a",
-      "lat": 45.501301,
-      "lng": 13.873635,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Okt-Mar: Pon-Sob 07:00-19:00, Ned/Praz 08:00-19:00; Apr-Maj: Pon-Ned 07:00-20:00; Jun-Sep: Pon-Ned 07:00-21:00",
-      "zip_code": "6272"
-    },
-    {
-      "pk": 796,
-      "franchise": 4,
-      "name": "BS MOL GROSUPLJE CIKAVA",
-      "address": "Ljubljanska cesta 129",
-      "lat": 45.9730555555556,
-      "lng": 14.625555555555556,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.779,
-        "dizel-premium": 1.767,
-        "avtoplin-lpg": 0.877,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Grosuplje",
-      "open_hours": "Pon-Ned 00:00-24:00",
-      "zip_code": "1290"
-    },
-    {
       "pk": 797,
       "franchise": 4,
       "name": "BS MOL ILIRSKA BISTRICA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Pon-Ned 06:00-22:00",
       "zip_code": "6320"
+    },
+    {
+      "pk": 828,
+      "franchise": 4,
+      "name": "BS MOL LUKOVICA",
+      "address": "Koseskega cesta 4",
+      "lat": 46.16606,
+      "lng": 14.6896,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.767,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "1225"
+    },
+    {
+      "pk": 832,
+      "franchise": 4,
+      "name": "BS MOL MARINA KOPER",
+      "address": "Kopališko nabrežje 5",
+      "lat": 45.55049,
+      "lng": 13.72786,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.639,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Okt-Maj: Pon-Sob 08:00-16:00, Ned/Praz 09:00-12:00 in 15:00-20:00; Apr-Sep: Pon-Sob 08:00-20:00, Ned/Praz 09:00-12:00 in 15:00-20:00",
+      "zip_code": "6000"
     }
   ],
   "position": null
