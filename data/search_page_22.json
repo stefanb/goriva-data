@@ -1,5 +1,5 @@
 {
-  "count": 552,
+  "count": 551,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
@@ -242,30 +242,6 @@
       "direction": "",
       "open_hours": "24 ur - črpalka brez osebja",
       "zip_code": "2313"
-    },
-    {
-      "pk": 2269,
-      "franchise": 10,
-      "name": "Butan plin - črpalka avtoplina v Ljubljani",
-      "address": "Verovškova ulica 70",
-      "lat": 46.080815,
-      "lng": 14.501862,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.838,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "PON – PET:               7.45 – 18.00\r\nSOB:                         7.45 – 13.00\r\nNED IN PRAZNIKI:    zaprto",
-      "zip_code": "1000"
     },
     {
       "pk": 2270,
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "PON - PET: 7,30 - 15.30\r\n\r\nOb sobotah, nedeljah in praznikih zaprto.",
       "zip_code": "3000"
+    },
+    {
+      "pk": 2331,
+      "franchise": 11,
+      "name": "ECO OIL FRAM",
+      "address": "TURNERJEVA ULICA",
+      "lat": 46.451048,
+      "lng": 15.65166,
+      "prices": {
+        "95": null,
+        "dizel": 1.465,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2313"
     }
   ],
   "position": null
