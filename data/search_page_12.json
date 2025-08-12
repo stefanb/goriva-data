@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2088,
-      "franchise": 1,
-      "name": "PETROL LOM AC - ZAHOD",
-      "address": "NOTRANJSKA CESTA 75",
-      "lat": 45.898796,
-      "lng": 14.254887,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.778,
-        "dizel-premium": 1.766,
-        "avtoplin-lpg": 0.928,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Koper",
-      "open_hours": "NON-STOP",
-      "zip_code": "1370"
-    },
-    {
       "pk": 2089,
       "franchise": 1,
       "name": "PETROL LOM AC - VZHOD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-14:00",
       "zip_code": "4000"
+    },
+    {
+      "pk": 2114,
+      "franchise": 1,
+      "name": "PETROL LESCE",
+      "address": "HRAŠKA CESTA 13A",
+      "lat": 46.36782569,
+      "lng": 14.15376274,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 07:00-22:00\r\nnedelje in prazniki 08:00-22:00",
+      "zip_code": "4248"
     }
   ],
   "position": null

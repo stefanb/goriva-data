@@ -100,30 +100,6 @@
       "zip_code": "1231"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.492,
-        "98": null,
-        "100": 1.653,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.093,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek-petek\r\n6:00-17:00\r\n\r\nSobota, nedelja, prazniki\r\nZaprto",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2268,
       "franchise": 9,
       "name": "BS Pesniška vrata",
@@ -602,6 +578,30 @@
       "direction": "Benetke",
       "open_hours": "Pon-Ned 00:00-24:00",
       "zip_code": "6210"
+    },
+    {
+      "pk": 793,
+      "franchise": 4,
+      "name": "BS MOL GRABONOŠ",
+      "address": "Grabonoš 4c",
+      "lat": 46.584129,
+      "lng": 16.008947,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.767,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Lenti",
+      "open_hours": "Pon-Ned 00:00-24:00",
+      "zip_code": "9244"
     }
   ],
   "position": null

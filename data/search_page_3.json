@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 826,
-      "franchise": 4,
-      "name": "BS MOL LUCIJA",
-      "address": "Seča 188 a",
-      "lat": 45.50043,
-      "lng": 13.61022,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon-Ned 06:00-22:00",
-      "zip_code": "6320"
-    },
-    {
       "pk": 828,
       "franchise": 4,
       "name": "BS MOL LUKOVICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Okt-Maj: Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00; Jun-Sep: Pon-Sob 06:00-22:00, Ned/Praz 07:00-21:00",
       "zip_code": "5280"
+    },
+    {
+      "pk": 858,
+      "franchise": 4,
+      "name": "BS MOL SPODNJI DUPLEK",
+      "address": "C. 4.julija 69",
+      "lat": 46.501143,
+      "lng": 15.751535,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.639,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-20:00",
+      "zip_code": "2241"
     }
   ],
   "position": null
