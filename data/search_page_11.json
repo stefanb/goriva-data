@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2064,
+      "franchise": 1,
+      "name": "PETROL LITIJA - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 8",
+      "lat": 46.05721177,
+      "lng": 14.82416328,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.657,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.063,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 16:00-24:00\r\nsobote 13:00-24:00",
+      "zip_code": "1270"
+    },
+    {
       "pk": 2065,
       "franchise": 1,
       "name": "PETROL LOGATEC",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 13:50-20:00",
       "zip_code": "4264"
-    },
-    {
-      "pk": 2092,
-      "franchise": 1,
-      "name": "PETROL TRZIN",
-      "address": "LJUBLJANSKA CESTA 50",
-      "lat": 46.123204,
-      "lng": 14.553637,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.657,
-        "dizel-premium": 1.64,
-        "avtoplin-lpg": 0.888,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 21:00-24:00\r\nsobote 21:00-24:00\r\nnedelje in prazniki 19:00-24:00",
-      "zip_code": "1236"
     }
   ],
   "position": null
