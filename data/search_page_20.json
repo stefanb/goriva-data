@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2342,
-      "franchise": 5,
-      "name": "SHELL SENOŽETI",
-      "address": "Senožeti 93, 1262 Senožeti",
-      "lat": 46.088862059954124,
-      "lng": 14.716871893530739,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.669,
-        "dizel-premium": 1.649,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": ""
-    },
-    {
-      "pk": 2343,
-      "franchise": 5,
-      "name": "SHELL NOVO MESTO",
-      "address": "Mirnopeška 4, 8000 Novo Mesto",
-      "lat": 45.821327325964894,
-      "lng": 15.150560521690572,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.669,
-        "dizel-premium": 1.649,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": "8000"
-    },
-    {
       "pk": 2344,
       "franchise": 5,
       "name": "SHELL ARCLIN",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "",
       "zip_code": ""
+    },
+    {
+      "pk": 2367,
+      "franchise": 5,
+      "name": "SHELL KOČEVJE",
+      "address": "Gornje Ložine 1A",
+      "lat": 45.68934644998123,
+      "lng": 14.799691221318923,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1332"
+    },
+    {
+      "pk": 2368,
+      "franchise": 5,
+      "name": "SHELL SLOVENSKE KONJICE",
+      "address": "Liptovska cesta 32B",
+      "lat": 46.34011896303725,
+      "lng": 15.418721900923186,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2310"
     }
   ],
   "position": null
