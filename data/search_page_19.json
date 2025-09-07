@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2291,
+      "franchise": 4,
+      "name": "BS MOL PAY&GO LJUBLJANA TOPLARNIŠKA",
+      "address": "Toplarniška ulica 4",
+      "lat": 46.056904,
+      "lng": 14.541465,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "01.09.2025 – \nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-22:00\n\n01.09.2025 – \nNedelja, Praznik\n05:00-15:00\n",
+      "zip_code": "1000"
+    },
+    {
       "pk": 2292,
       "franchise": 4,
       "name": "BS MOL PAY&GO LJUBLJANA TRŽAŠKA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
       "zip_code": "9240"
-    },
-    {
-      "pk": 2342,
-      "franchise": 5,
-      "name": "SHELL SENOŽETI",
-      "address": "Senožeti 93, 1262 Senožeti",
-      "lat": 46.088862059954124,
-      "lng": 14.716871893530739,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.669,
-        "dizel-premium": 1.649,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": ""
     }
   ],
   "position": null

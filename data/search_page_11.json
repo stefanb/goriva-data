@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2063,
+      "franchise": 1,
+      "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
+      "address": "KOROŠKA CESTA 53B",
+      "lat": 46.247434,
+      "lng": 14.349614,
+      "prices": {
+        "95": 1.443,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.656,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2064,
       "franchise": 1,
       "name": "PETROL LITIJA - LJUBLJANSKA",
@@ -578,30 +602,6 @@
       "direction": "Koper -> Ljubljana",
       "open_hours": "NON-STOP",
       "zip_code": "1370"
-    },
-    {
-      "pk": 2090,
-      "franchise": 1,
-      "name": "PETROL BLAGOVICA",
-      "address": "BLAGOVICA 30",
-      "lat": 46.17650516,
-      "lng": 14.80743334,
-      "prices": {
-        "95": 1.443,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.656,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.063,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 12:30-18:00\r\nsobote 10:30-13:00",
-      "zip_code": "1223"
     }
   ],
   "position": null
