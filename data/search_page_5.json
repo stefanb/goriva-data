@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1564,
-      "franchise": 4,
-      "name": "BS MOL HOČE",
-      "address": "MIKLAVŠKA CESTA 80",
-      "lat": 46.5005164,
-      "lng": 15.6550055,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.661,
-        "avtoplin-lpg": null,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek\n05:00-22:00\n\nTorek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja\n07:00-22:00\n\nPraznik\n08:00-20:00\n",
-      "zip_code": "2311"
-    },
-    {
-      "pk": 1567,
-      "franchise": 4,
-      "name": "BS MOL SELNICA OB DRAVI",
-      "address": "MARIBORSKA CESTA 10 C",
-      "lat": 46.5523428,
-      "lng": 15.4977882,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.661,
-        "avtoplin-lpg": null,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": ""
-    },
-    {
       "pk": 1568,
       "franchise": 4,
       "name": "BS MOL LORMANJE",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 07:00-18:00",
       "zip_code": "2342"
+    },
+    {
+      "pk": 1932,
+      "franchise": 1,
+      "name": "PETROL PRAGERSKO",
+      "address": "PTUJSKA CESTA 20",
+      "lat": 46.39511839,
+      "lng": 15.65879604,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.085,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:30-12:00",
+      "zip_code": "2331"
+    },
+    {
+      "pk": 1933,
+      "franchise": 1,
+      "name": "PETROL RAČE",
+      "address": "LJUBLJANSKA CESTA 22",
+      "lat": 46.45289915,
+      "lng": 15.67336264,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.085,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-13:00",
+      "zip_code": "2327"
     }
   ],
   "position": null

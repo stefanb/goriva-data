@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1957,
-      "franchise": 1,
-      "name": "PETROL KOBARID",
-      "address": "GORIŠKA CESTA 8",
-      "lat": 46.2417162,
-      "lng": 13.58250354,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.672,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.888,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 22:00-24:00\r\nsobote 22:00-24:00\r\nnedelje in prazniki 22:00-24:00",
-      "zip_code": "5222"
-    },
-    {
-      "pk": 1958,
-      "franchise": 1,
-      "name": "PETROL KANAL OB SOČI",
-      "address": "KIDRIČEVA CESTA 10A",
-      "lat": 46.08786527,
-      "lng": 13.63259475,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.672,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 17:30-20:00",
-      "zip_code": "5213"
-    },
-    {
       "pk": 1959,
       "franchise": 1,
       "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "5270"
+    },
+    {
+      "pk": 1983,
+      "franchise": 1,
+      "name": "PETROL GOLO BRDO V BRDIH",
+      "address": "GOLO BRDO 10B",
+      "lat": 46.054382,
+      "lng": 13.497999,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 17:30-20:00\r\nsobote 17:30-20:00\r\nnedelje in prazniki 12:45-20:00",
+      "zip_code": "5212"
+    },
+    {
+      "pk": 1984,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
+      "address": "VOJKOVA CESTA 52",
+      "lat": 45.96223076,
+      "lng": 13.64898236,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.672,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
+      "zip_code": "5000"
     }
   ],
   "position": null
