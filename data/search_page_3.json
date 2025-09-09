@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 835,
-      "franchise": 4,
-      "name": "BS MOL NOVO MESTO LEVIČNIKOVA",
-      "address": "Levičnikova c. 4",
-      "lat": 45.804054,
-      "lng": 15.181842,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.661,
-        "avtoplin-lpg": null,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 836,
-      "franchise": 4,
-      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
-      "address": "Ljubljanska cesta 11",
-      "lat": 45.8139,
-      "lng": 15.153116666666667,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.674,
-        "dizel-premium": 1.661,
-        "avtoplin-lpg": null,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "8000"
-    },
-    {
       "pk": 837,
       "franchise": 4,
       "name": "BS MOL OBREŽJE JUG",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "3230"
+    },
+    {
+      "pk": 863,
+      "franchise": 4,
+      "name": "BS MOL ŠKOFIJE VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.724,
+        "dizel-premium": 1.711,
+        "avtoplin-lpg": 0.885,
+        "KOEL": 1.085,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Pon-Sob 06:00-21:00, Ned/Praz 07:00-21:00",
+      "zip_code": "6281"
+    },
+    {
+      "pk": 864,
+      "franchise": 4,
+      "name": "BS MOL ŠKOFIJE ZAHOD",
+      "address": "Sp.Škofije 256a",
+      "lat": 45.579851,
+      "lng": 13.796288,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.724,
+        "dizel-premium": 1.711,
+        "avtoplin-lpg": null,
+        "KOEL": 1.085,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "6281"
     }
   ],
   "position": null

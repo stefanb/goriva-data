@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1934,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 10",
-      "address": "TRŽAŠKA CESTA 10",
-      "lat": 46.54123587,
-      "lng": 15.64785997,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1935,
-      "franchise": 1,
-      "name": "PETROL ŠEMPETER PRI GORICI - PADLIH BORCEV",
-      "address": "ULICA PADLIH BORCEV 2",
-      "lat": 45.92923326,
-      "lng": 13.64146317,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.672,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik  08:00 - 12:00; 12:30-16:00",
-      "zip_code": "5290"
-    },
-    {
       "pk": 1936,
       "franchise": 1,
       "name": "PETROL ŠENTILJ - MARIBORSKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 17:30-20:00",
       "zip_code": "5213"
+    },
+    {
+      "pk": 1959,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
+      "address": "CESTA PREKOMORSKIH BRIGAD 64A",
+      "lat": 45.93235392,
+      "lng": 13.63826623,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.672,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-18:00",
+      "zip_code": "5290"
+    },
+    {
+      "pk": 1960,
+      "franchise": 1,
+      "name": "PETROL MIREN",
+      "address": "MIREN 13D",
+      "lat": 45.898043,
+      "lng": 13.608726,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.672,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-21:00\r\nsobote 07:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "5291"
     }
   ],
   "position": null
