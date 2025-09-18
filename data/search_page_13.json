@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2118,
+      "franchise": 1,
+      "name": "PETROL GABROVKA",
+      "address": "KLANEC PRI GABROVKI 12",
+      "lat": 45.995845,
+      "lng": 14.976083,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "NON-STOP",
+      "zip_code": "1274"
+    },
+    {
       "pk": 2119,
       "franchise": 1,
       "name": "PETROL GROSUPLJE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-19:00",
       "zip_code": "8250"
-    },
-    {
-      "pk": 2144,
-      "franchise": 1,
-      "name": "PETROL BOŠTANJ PRI SEVNICI",
-      "address": "BOŠTANJ 60A",
-      "lat": 46.01439267,
-      "lng": 15.28799203,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": 1.672,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.888,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
-      "zip_code": "8294"
     }
   ],
   "position": null

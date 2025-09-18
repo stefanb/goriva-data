@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2367,
+      "franchise": 5,
+      "name": "SHELL KOČEVJE",
+      "address": "Gornje Ložine 1A",
+      "lat": 45.68934644998123,
+      "lng": 14.799691221318923,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.487,
+        "98": null,
+        "100": 1.689,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1332"
+    },
+    {
       "pk": 2368,
       "franchise": 5,
       "name": "SHELL SLOVENSKE KONJICE",
@@ -506,30 +530,6 @@
       "direction": "",
       "open_hours": "Trenutno zaprto.\r\nvsak delavnik 14:00-18:00\r\nsobote 08:30-12:00",
       "zip_code": "1373"
-    },
-    {
-      "pk": 2105,
-      "franchise": 1,
-      "name": "PETROL JESENICE - KOROŠKA BELA",
-      "address": "CESTA BORISA KIDRIČA 50",
-      "lat": 46.42262407,
-      "lng": 14.10274656,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto.\r\nvsak delavnik 16:30-19:00\r\nsobote 09:30-13:00",
-      "zip_code": "4270"
     },
     {
       "pk": 2114,
