@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2219,
-      "franchise": 1,
-      "name": "PETROL DOBRNA",
-      "address": "PRISTOVA 21",
-      "lat": 46.32717529,
-      "lng": 15.22104794,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.091,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-17:00\r\nnedelje in prazniki 08:30-12:00",
-      "zip_code": "3204"
-    },
-    {
       "pk": 2220,
       "franchise": 1,
       "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "9220"
+    },
+    {
+      "pk": 2245,
+      "franchise": 3,
+      "name": "BS MAXEN SELNICA OB DRAVI",
+      "address": "Spodnja Selnica bš",
+      "lat": 46.5546048,
+      "lng": 15.5078896,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.491,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2352"
     }
   ],
   "position": null

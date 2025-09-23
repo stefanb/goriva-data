@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 864,
-      "franchise": 4,
-      "name": "BS MOL ŠKOFIJE ZAHOD",
-      "address": "Sp.Škofije 256a",
-      "lat": 45.579851,
-      "lng": 13.796288,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": 1.729,
-        "dizel-premium": 1.715,
-        "avtoplin-lpg": null,
-        "KOEL": 1.091,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Januar / Februar / Marec / April / Maj / Oktober / November / December\n06:00-22:00\n\nJunij / Julij / Avgust / September\n06:00-23:59\n",
-      "zip_code": "6281"
-    },
-    {
       "pk": 865,
       "franchise": 4,
       "name": "BS MOL ŠKOFJA LOKA",
@@ -602,6 +578,30 @@
       "direction": "smer Maribor",
       "open_hours": "00:00-23:59\n",
       "zip_code": "2230"
+    },
+    {
+      "pk": 1571,
+      "franchise": 4,
+      "name": "BS MOL DRAMLJE",
+      "address": "LAZE PRI DRAMLJAH 6B",
+      "lat": 46.260293,
+      "lng": 15.3918165,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.491,
+        "98": null,
+        "100": 1.679,
+        "dizel-premium": 1.665,
+        "avtoplin-lpg": 0.885,
+        "KOEL": 1.091,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek\n04:00-22:00\n\nTorek, Sreda, Četrtek, Petek\n05:00-22:00\n\nNedelja, Praznik\n08:00-22:00\n",
+      "zip_code": "3222"
     }
   ],
   "position": null

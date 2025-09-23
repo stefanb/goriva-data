@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2117,
-      "franchise": 1,
-      "name": "PETROL JESENICE - CESTA ŽELEZARJEV",
-      "address": "CESTA ŽELEZARJEV 7B",
-      "lat": 46.43218809,
-      "lng": 14.06315786,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": 1.677,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:30-23:00\r\nsobote 06:00-23:00\r\nnedelje in prazniki 06:00-23:00",
-      "zip_code": "4270"
-    },
-    {
       "pk": 2118,
       "franchise": 1,
       "name": "PETROL GABROVKA",
@@ -264,7 +240,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:00-12:00",
+      "open_hours": "vsak delavnik 06:00-16:00\r\nsobote 07:00-14:00",
       "zip_code": "1354"
     },
     {
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "8250"
+    },
+    {
+      "pk": 2142,
+      "franchise": 1,
+      "name": "PETROL BIZELJSKO",
+      "address": "BIZELJSKA CESTA 70",
+      "lat": 46.01420273,
+      "lng": 15.69312736,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.491,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.091,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 07:00-19:00\r\nsobote 12:00-15:00\r\nnedelje in prazniki 08:00-11:30",
+      "zip_code": "8259"
     }
   ],
   "position": null
