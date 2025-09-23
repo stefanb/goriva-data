@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2291,
-      "franchise": 4,
-      "name": "BS MOL PAY&GO LJUBLJANA TOPLARNIŠKA",
-      "address": "Toplarniška ulica 4",
-      "lat": 46.056904,
-      "lng": 14.541465,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "01.09.2025 – \nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-22:00\n\n01.09.2025 – \nNedelja, Praznik\n05:00-15:00\n",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2292,
       "franchise": 4,
       "name": "BS MOL PAY&GO LJUBLJANA TRŽAŠKA",
@@ -266,6 +242,30 @@
       "direction": "",
       "open_hours": "6.00-22.00",
       "zip_code": "4220"
+    },
+    {
+      "pk": 2306,
+      "franchise": 33,
+      "name": "Bencinski servis Stella",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.491,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.091,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
     },
     {
       "pk": 2307,

@@ -52,30 +52,6 @@
       "zip_code": "2000"
     },
     {
-      "pk": 2306,
-      "franchise": 33,
-      "name": "Bencinski servis Stella",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.487,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.085,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
       "pk": 769,
       "franchise": 4,
       "name": "BS MOL BRESTOVICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "05:00-22:00\n",
       "zip_code": "1240"
+    },
+    {
+      "pk": 802,
+      "franchise": 4,
+      "name": "BS MOL KOMEN",
+      "address": "Komen 119a",
+      "lat": 45.816868,
+      "lng": 13.745429,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.491,
+        "98": null,
+        "100": 1.679,
+        "dizel-premium": 1.665,
+        "avtoplin-lpg": null,
+        "KOEL": 1.091,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
+      "zip_code": "6223"
     }
   ],
   "position": null

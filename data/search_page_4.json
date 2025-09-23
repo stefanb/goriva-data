@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 865,
-      "franchise": 4,
-      "name": "BS MOL ŠKOFJA LOKA",
-      "address": "Kidričeva 23a",
-      "lat": 46.168842,
-      "lng": 14.31952,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": 1.679,
-        "dizel-premium": 1.665,
-        "avtoplin-lpg": null,
-        "KOEL": 1.091,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "4220"
-    },
-    {
       "pk": 866,
       "franchise": 4,
       "name": "BS MOL ŠMARJE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek\n04:00-22:00\n\nTorek, Sreda, Četrtek, Petek\n05:00-22:00\n\nNedelja, Praznik\n08:00-22:00\n",
       "zip_code": "3222"
+    },
+    {
+      "pk": 1572,
+      "franchise": 4,
+      "name": "BS MOL MESTINJE",
+      "address": "MESTINJE 2A",
+      "lat": 46.2343558,
+      "lng": 15.5634657,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.491,
+        "98": null,
+        "100": 1.679,
+        "dizel-premium": 1.665,
+        "avtoplin-lpg": null,
+        "KOEL": 1.091,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "3241"
     }
   ],
   "position": null

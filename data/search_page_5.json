@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1572,
-      "franchise": 4,
-      "name": "BS MOL MESTINJE",
-      "address": "MESTINJE 2A",
-      "lat": 46.2343558,
-      "lng": 15.5634657,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": 1.679,
-        "dizel-premium": 1.665,
-        "avtoplin-lpg": null,
-        "KOEL": 1.091,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "3241"
-    },
-    {
       "pk": 1575,
       "franchise": 4,
       "name": "BS MOL OTIŠKI VRH",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 07:00-20:00\r\nsobote 07:00-20:00",
       "zip_code": "5290"
+    },
+    {
+      "pk": 1936,
+      "franchise": 1,
+      "name": "PETROL ŠENTILJ - MARIBORSKA",
+      "address": "MARIBORSKA CESTA 49",
+      "lat": 46.67188025,
+      "lng": 15.66080301,
+      "prices": {
+        "95": 1.465,
+        "dizel": 1.491,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.091,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 07:00-18:00",
+      "zip_code": "2212"
     }
   ],
   "position": null
