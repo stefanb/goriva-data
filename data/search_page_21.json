@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2372,
+      "franchise": 5,
+      "name": "SHELL ZG. POLSKAVA",
+      "address": "Bukovec 1b",
+      "lat": 46.43088480445796,
+      "lng": 15.627126931204163,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.679,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2314"
+    },
+    {
+      "pk": 2373,
+      "franchise": 4,
+      "name": "BS MOL MURSKA SOBOTA Lendavska",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.673,
+        "dizel-premium": 1.663,
+        "avtoplin-lpg": null,
+        "KOEL": 1.088,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2374,
       "franchise": 4,
       "name": "BS MOL LJUTOMER",
@@ -170,54 +218,6 @@
       "direction": "",
       "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
       "zip_code": "3214"
-    },
-    {
-      "pk": 2316,
-      "franchise": 23,
-      "name": "BS Žihlava",
-      "address": "Žihlava 15",
-      "lat": 46.55,
-      "lng": 16.0396,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Gornja Radgona - Ljutomer",
-      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.465,
-        "dizel": 1.491,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
-      "zip_code": "9201"
     },
     {
       "pk": 2328,
