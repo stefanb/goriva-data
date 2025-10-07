@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2294,
+      "franchise": 4,
+      "name": "BS MOL PAY&GO POSTOJNA",
+      "address": "Industrijska cesta 4",
+      "lat": 45.769831,
+      "lng": 14.197979,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 2295,
+      "franchise": 4,
+      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
+      "address": "Vilharjeva cesta 58",
+      "lat": 45.576279,
+      "lng": 14.23011,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6250"
+    },
+    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -170,6 +218,30 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.088,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
       "pk": 2316,
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
       "zip_code": "8000"
-    },
-    {
-      "pk": 2344,
-      "franchise": 5,
-      "name": "SHELL ARCLIN",
-      "address": "3211 Arclin – Škofja Vas, Arclin 101",
-      "lat": 46.27879929325074,
-      "lng": 15.300271376669105,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.679,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
-      "zip_code": "3211"
-    },
-    {
-      "pk": 2345,
-      "franchise": 5,
-      "name": "SHELL DRNOVO",
-      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
-      "lat": 45.92022102331869,
-      "lng": 15.47376189244999,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.679,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
-      "zip_code": "8273"
-    },
-    {
-      "pk": 2346,
-      "franchise": 5,
-      "name": "SHELL CELJE MARIBORSKA",
-      "address": "Mariborska 128",
-      "lat": 46.24423316065561,
-      "lng": 15.278462363239953,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.679,
-        "dizel-premium": 1.679,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3000"
     }
   ],
   "position": null
