@@ -196,30 +196,6 @@
       "zip_code": "9221"
     },
     {
-      "pk": 1972,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
-      "address": "TIŠINSKA ULICA 29D",
-      "lat": 46.651421,
-      "lng": 16.14565,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.668,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.888,
-        "KOEL": 1.088,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "9000"
-    },
-    {
       "pk": 1973,
       "franchise": 1,
       "name": "PETROL GODOVIČ",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "5220"
+    },
+    {
+      "pk": 1990,
+      "franchise": 1,
+      "name": "PETROL KOPER, SERMIN",
+      "address": "SERMIN 7D",
+      "lat": 45.55178982,
+      "lng": 13.76037054,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.668,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "6000"
     }
   ],
   "position": null
