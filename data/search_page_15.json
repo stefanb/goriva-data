@@ -388,30 +388,6 @@
       "zip_code": "3250"
     },
     {
-      "pk": 2187,
-      "franchise": 1,
-      "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
-      "address": "RIMSKA CESTA 106",
-      "lat": 46.25830238,
-      "lng": 15.11406404,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.668,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.088,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto. \r\nvsak delavnik 05:30-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3311"
-    },
-    {
       "pk": 2188,
       "franchise": 1,
       "name": "PETROL LAŠKO",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-20:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "3240"
+    },
+    {
+      "pk": 2196,
+      "franchise": 1,
+      "name": "PETROL ROGATEC",
+      "address": "CELJSKA CESTA 43",
+      "lat": 46.226069,
+      "lng": 15.693021,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.668,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.088,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-17:00",
+      "zip_code": "3252"
     }
   ],
   "position": null
