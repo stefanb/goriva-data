@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2366,
+      "franchise": 5,
+      "name": "SHELL GEDEROVCI",
+      "address": "Gederovci 17a",
+      "lat": 46.679179385276846,
+      "lng": 16.056043959027516,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.679,
+        "dizel-premium": 1.669,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 2367,
       "franchise": 5,
       "name": "SHELL KOČEVJE",
@@ -554,30 +578,6 @@
       "direction": "",
       "open_hours": "Zaprto.",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2068,
-      "franchise": 1,
-      "name": "PETROL TRŽIČ - VZHOD",
-      "address": "CESTA STE MARIE AUX MINES 13A",
-      "lat": 46.35376615,
-      "lng": 14.2930683,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Trenutno zaprto.\r\nvsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-19:30",
-      "zip_code": "4290"
     },
     {
       "pk": 2084,
