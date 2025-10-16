@@ -292,30 +292,6 @@
       "zip_code": "8295"
     },
     {
-      "pk": 2158,
-      "franchise": 1,
-      "name": "PETROL ČRNOMELJ - KOČEVJE",
-      "address": "KOČEVJE 22B",
-      "lat": 45.56606773,
-      "lng": 15.17772212,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": 1.088,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "8340"
-    },
-    {
       "pk": 2159,
       "franchise": 1,
       "name": "PETROL DOBOVA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-19:00",
       "zip_code": "3330"
+    },
+    {
+      "pk": 2171,
+      "franchise": 1,
+      "name": "PETROL VOJNIK",
+      "address": "CELJSKA CESTA 35A",
+      "lat": 46.28580502,
+      "lng": 15.30428269,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.668,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.088,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "3212"
     }
   ],
   "position": null

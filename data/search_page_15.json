@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2171,
-      "franchise": 1,
-      "name": "PETROL VOJNIK",
-      "address": "CELJSKA CESTA 35A",
-      "lat": 46.28580502,
-      "lng": 15.30428269,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.668,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.088,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-21:00",
-      "zip_code": "3212"
-    },
-    {
       "pk": 2172,
       "franchise": 1,
       "name": "PETROL VELENJE - CELJSKA ZAHOD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-17:00",
       "zip_code": "3252"
+    },
+    {
+      "pk": 2197,
+      "franchise": 1,
+      "name": "PETROL ŽALEC",
+      "address": "GOTOVELJSKA CESTA 10",
+      "lat": 46.256248,
+      "lng": 15.156901,
+      "prices": {
+        "95": 1.459,
+        "dizel": 1.489,
+        "98": null,
+        "100": 1.668,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 05:00-23:00\r\nsobote 06:00-22:00\r\nnedelje in prazniki 07:00-21:00",
+      "zip_code": "3310"
     }
   ],
   "position": null
