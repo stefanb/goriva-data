@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1964,
+      "franchise": 1,
+      "name": "PETROL DOLNJI LAKOŠ",
+      "address": "GLAVNA ULICA 3",
+      "lat": 46.55372124,
+      "lng": 16.44233518,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-20:00",
+      "zip_code": "9220"
+    },
+    {
       "pk": 1965,
       "franchise": 1,
       "name": "PETROL RADENCI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 08:00-20:00",
       "zip_code": "6000"
-    },
-    {
-      "pk": 1991,
-      "franchise": 1,
-      "name": "PETROL PODBRDO",
-      "address": "PODBRDO 60C",
-      "lat": 46.206127,
-      "lng": 13.959792,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 08:00-16:00\r\nsobote 08:00-15:00",
-      "zip_code": "5243"
     }
   ],
   "position": null

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
+      "pk": 838,
+      "franchise": 4,
+      "name": "BS MOL ORMOŽ",
+      "address": "Hardek 44d",
+      "lat": 46.409754,
+      "lng": 16.160733,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.649,
+        "dizel-premium": 1.634,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "2270"
+    },
+    {
       "pk": 839,
       "franchise": 4,
       "name": "BS MOL PESEK",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "4220"
-    },
-    {
-      "pk": 866,
-      "franchise": 4,
-      "name": "BS MOL ŠMARJE",
-      "address": "Srgaši 42a",
-      "lat": 45.510467,
-      "lng": 13.707064,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.649,
-        "dizel-premium": 1.634,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nJanuar / Februar / Marec / Oktober / November / December\nNedelja, Praznik\n07:00-20:00\n\nApril / Maj\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nApril / Maj\nNedelja, Praznik\n07:00-21:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nJunij / Julij / Avgust / September\nNedelja, Praznik\n07:00-22:00\n",
-      "zip_code": "6274"
     }
   ],
   "position": null

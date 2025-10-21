@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2174,
+      "franchise": 1,
+      "name": "PETROL PODČETRTEK",
+      "address": "ZDRAVILIŠKA CESTA 27",
+      "lat": 46.15162206,
+      "lng": 15.59945055,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.645,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-21:00\r\nsobote 07:00-19:00\r\nnedelje in prazniki 08:00-19:00",
+      "zip_code": "3254"
+    },
+    {
       "pk": 2175,
       "franchise": 1,
       "name": "PETROL TEPANJE AC - ZAHOD",
@@ -577,30 +601,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "NON-STOP",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2200,
-      "franchise": 1,
-      "name": "PETROL CELJE - KIDRIČEVA SEVER",
-      "address": "KIDRIČEVA ULICA 21",
-      "lat": 46.23557589,
-      "lng": 15.27676905,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.645,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 05:00-21:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 08:00-18:00",
       "zip_code": "3000"
     }
   ],
