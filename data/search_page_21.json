@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2369,
+      "franchise": 5,
+      "name": "SHELL LUCIJA VZHOD",
+      "address": "Vinjole 29b",
+      "lat": 45.50086689761921,
+      "lng": 13.610492852317408,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6320"
+    },
+    {
       "pk": 2370,
       "franchise": 5,
       "name": "SHELL STOJNCI",
@@ -122,30 +146,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "9240"
-    },
-    {
-      "pk": 2027,
-      "franchise": 1,
-      "name": "PETROL PINCE AC - JUG",
-      "address": "PINCE-MAROF 55",
-      "lat": 46.521752,
-      "lng": 16.51791,
-      "prices": {
-        "95": 1.459,
-        "dizel": 1.489,
-        "98": null,
-        "100": 1.789,
-        "dizel-premium": 1.788,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "NON-STOP",
-      "zip_code": "9220"
     },
     {
       "pk": 2104,
