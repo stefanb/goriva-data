@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 2344,
-      "franchise": 5,
-      "name": "SHELL ARCLIN",
-      "address": "3211 Arclin – Škofja Vas, Arclin 101",
-      "lat": 46.27879929325074,
-      "lng": 15.300271376669105,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
-      "zip_code": "3211"
-    },
-    {
       "pk": 2345,
       "franchise": 5,
       "name": "SHELL DRNOVO",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2310"
+    },
+    {
+      "pk": 2369,
+      "franchise": 5,
+      "name": "SHELL LUCIJA VZHOD",
+      "address": "Vinjole 29b",
+      "lat": 45.50086689761921,
+      "lng": 13.610492852317408,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6320"
     }
   ],
   "position": null

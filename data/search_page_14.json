@@ -388,30 +388,6 @@
       "zip_code": "8250"
     },
     {
-      "pk": 2164,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKE  KONJICE",
-      "address": "LIPTOVSKA ULICA 4",
-      "lat": 46.34170285,
-      "lng": 15.43100146,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.645,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "vsak delavnik 06:00-22:00\r\nsobote 06:00-21:00\r\nnedelje in prazniki 07:00-20:00",
-      "zip_code": "3210"
-    },
-    {
       "pk": 2165,
       "franchise": 1,
       "name": "PETROL VELENJE - ŠALEŠKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "NON-STOP",
       "zip_code": "3320"
+    },
+    {
+      "pk": 2173,
+      "franchise": 1,
+      "name": "PETROL ŠENTRUPERT",
+      "address": "ŠENTRUPERT 6B",
+      "lat": 46.250078,
+      "lng": 15.075261,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "vsak delavnik 06:00-20:00\r\nsobote 06:00-20:00\r\nnedelje in prazniki 07:00-20:00",
+      "zip_code": "3303"
     }
   ],
   "position": null
