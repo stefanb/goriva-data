@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1963,
+      "franchise": 1,
+      "name": "PETROL ROGAŠOVCI",
+      "address": "SVETI JURIJ 7A",
+      "lat": 46.798925,
+      "lng": 16.03618722,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
+      "zip_code": "9262"
+    },
+    {
       "pk": 1964,
       "franchise": 1,
       "name": "PETROL DOLNJI LAKOŠ",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "5220"
-    },
-    {
-      "pk": 1990,
-      "franchise": 1,
-      "name": "PETROL KOPER, SERMIN",
-      "address": "SERMIN 7D",
-      "lat": 45.55178982,
-      "lng": 13.76037054,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.645,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "6000"
     }
   ],
   "position": null

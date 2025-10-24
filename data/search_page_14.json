@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2145,
+      "franchise": 1,
+      "name": "PETROL OTOČEC - JUG",
+      "address": "GRAJSKA CESTA 6",
+      "lat": 45.83957835,
+      "lng": 15.23583099,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.645,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:30-20:00\n\nSobota\n07:00-18:00\n\nNedelja, Praznik\n08:00-11:30, 12:00-17:00\n",
+      "zip_code": "8222"
+    },
+    {
       "pk": 2146,
       "franchise": 1,
       "name": "PETROL ČRNOMELJ - BELOKRANJSKA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "3320"
-    },
-    {
-      "pk": 2173,
-      "franchise": 1,
-      "name": "PETROL ŠENTRUPERT",
-      "address": "ŠENTRUPERT 6B",
-      "lat": 46.250078,
-      "lng": 15.075261,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "3303"
     }
   ],
   "position": null
