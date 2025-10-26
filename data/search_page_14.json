@@ -52,6 +52,30 @@
       "zip_code": "8340"
     },
     {
+      "pk": 2147,
+      "franchise": 1,
+      "name": "PETROL TREBNJE - POD GRADOM",
+      "address": "CESTA VILME BUKOVEC 2",
+      "lat": 45.90473997,
+      "lng": 15.00357364,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.645,
+        "dizel-premium": 1.631,
+        "avtoplin-lpg": 0.859,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 08. november 2025",
+      "zip_code": "8210"
+    },
+    {
       "pk": 2148,
       "franchise": 1,
       "name": "PETROL NOVO MESTO - SEIDLOVA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "3212"
-    },
-    {
-      "pk": 2172,
-      "franchise": 1,
-      "name": "PETROL VELENJE - CELJSKA ZAHOD",
-      "address": "CELJSKA CESTA 2",
-      "lat": 46.35625568,
-      "lng": 15.11475697,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.645,
-        "dizel-premium": 1.631,
-        "avtoplin-lpg": 0.859,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "3320"
     }
   ],
   "position": null

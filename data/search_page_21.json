@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2368,
+      "franchise": 5,
+      "name": "SHELL SLOVENSKE KONJICE",
+      "address": "Liptovska cesta 32B",
+      "lat": 46.34011896303725,
+      "lng": 15.418721900923186,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2310"
+    },
+    {
       "pk": 2369,
       "franchise": 5,
       "name": "SHELL LUCIJA VZHOD",
@@ -554,30 +578,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 08. november 2025",
       "zip_code": "4280"
-    },
-    {
-      "pk": 2147,
-      "franchise": 1,
-      "name": "PETROL TREBNJE - POD GRADOM",
-      "address": "CESTA VILME BUKOVEC 2",
-      "lat": 45.90473997,
-      "lng": 15.00357364,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 08. november 2025",
-      "zip_code": "8210"
     },
     {
       "pk": 2158,

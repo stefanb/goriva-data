@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2172,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA ZAHOD",
+      "address": "CELJSKA CESTA 2",
+      "lat": 46.35625568,
+      "lng": 15.11475697,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.645,
+        "dizel-premium": 1.631,
+        "avtoplin-lpg": 0.859,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "3320"
+    },
+    {
       "pk": 2173,
       "franchise": 1,
       "name": "PETROL ŠENTRUPERT",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-23:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "3310"
-    },
-    {
-      "pk": 2198,
-      "franchise": 1,
-      "name": "PETROL PODPLAT",
-      "address": "PODPLAT 9",
-      "lat": 46.244853,
-      "lng": 15.575872,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.645,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-18:00\n",
-      "zip_code": "3241"
     }
   ],
   "position": null
