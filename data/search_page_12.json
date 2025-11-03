@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
+      "pk": 2092,
+      "franchise": 1,
+      "name": "PETROL TRZIN",
+      "address": "LJUBLJANSKA CESTA 50",
+      "lat": 46.123204,
+      "lng": 14.553637,
+      "prices": {
+        "95": 1.438,
+        "dizel": 1.46,
+        "98": null,
+        "100": 1.645,
+        "dizel-premium": 1.631,
+        "avtoplin-lpg": 0.859,
+        "KOEL": 1.057,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-21:00, 21:00-00:00\n\nSobota\n00:00-07:00, 07:00-21:00, 21:00-00:00\n\nNedelja, Praznik\n00:00-07:00, 07:00-19:00, 19:00-00:00\n",
+      "zip_code": "1236"
+    },
+    {
       "pk": 2093,
       "franchise": 1,
       "name": "PETROL BRODE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "00:00-00:00\n",
       "zip_code": "1274"
-    },
-    {
-      "pk": 2119,
-      "franchise": 1,
-      "name": "PETROL GROSUPLJE",
-      "address": "LJUBLJANSKA CESTA 16A",
-      "lat": 45.958264,
-      "lng": 14.657955,
-      "prices": {
-        "95": 1.438,
-        "dizel": 1.46,
-        "98": null,
-        "100": 1.645,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.859,
-        "KOEL": 1.057,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "1290"
     }
   ],
   "position": null
