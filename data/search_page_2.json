@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 793,
-      "franchise": 4,
-      "name": "BS MOL GRABONOŠ",
-      "address": "Grabonoš 4c",
-      "lat": 46.584129,
-      "lng": 16.008947,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.779,
-        "dizel-premium": 1.797,
-        "avtoplin-lpg": 0.887,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Lenti",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 794,
-      "franchise": 4,
-      "name": "BS MOL GRAČIŠČE",
-      "address": "Gračišče 4a",
-      "lat": 45.501301,
-      "lng": 13.873635,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.662,
-        "dizel-premium": 1.673,
-        "avtoplin-lpg": null,
-        "KOEL": 1.096,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nJanuar / Februar / Marec / Oktober / November / December\nNedelja, Praznik\n08:00-20:00\n\nApril / Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nApril / Maj / Junij / Julij / Avgust / September\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "6272"
-    },
-    {
       "pk": 796,
       "franchise": 4,
       "name": "BS MOL GROSUPLJE CIKAVA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / April / Oktober / November / December\n08:00-14:00\n\nMaj / Junij / Julij / Avgust / September\n09:00-19:00\n",
       "zip_code": "6320"
+    },
+    {
+      "pk": 826,
+      "franchise": 4,
+      "name": "BS MOL LUCIJA",
+      "address": "Seča 188 a",
+      "lat": 45.50043,
+      "lng": 13.61022,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.662,
+        "dizel-premium": 1.673,
+        "avtoplin-lpg": null,
+        "KOEL": 1.096,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "6320"
+    },
+    {
+      "pk": 828,
+      "franchise": 4,
+      "name": "BS MOL LUKOVICA",
+      "address": "Koseskega cesta 4",
+      "lat": 46.16606,
+      "lng": 14.6896,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.797,
+        "avtoplin-lpg": 0.887,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1225"
     }
   ],
   "position": null
