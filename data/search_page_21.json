@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2367,
+      "franchise": 5,
+      "name": "SHELL KOČEVJE",
+      "address": "Gornje Ložine 1A",
+      "lat": 45.68934644998123,
+      "lng": 14.799691221318923,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1332"
+    },
+    {
       "pk": 2368,
       "franchise": 5,
       "name": "SHELL SLOVENSKE KONJICE",
@@ -410,30 +434,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 19. november 2025",
       "zip_code": "2000"
-    },
-    {
-      "pk": 1928,
-      "franchise": 1,
-      "name": "PETROL SOLKAN",
-      "address": "CESTA IX. KORPUSA 67",
-      "lat": 45.96778633,
-      "lng": 13.64164681,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 19. november 2025",
-      "zip_code": "5250"
     },
     {
       "pk": 1962,
