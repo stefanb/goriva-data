@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2293,
-      "franchise": 4,
-      "name": "BS MOL PAY&GO IVANČNA GORICA",
-      "address": "Cesta 2. grupe odredov 4",
-      "lat": 45.936326,
-      "lng": 14.805261,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1295"
-    },
-    {
-      "pk": 2294,
-      "franchise": 4,
-      "name": "BS MOL PAY&GO POSTOJNA",
-      "address": "Industrijska cesta 4",
-      "lat": 45.769831,
-      "lng": 14.197979,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6230"
-    },
-    {
       "pk": 2295,
       "franchise": 4,
       "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
       "zip_code": "9240"
+    },
+    {
+      "pk": 2342,
+      "franchise": 5,
+      "name": "SHELL SENOŽETI",
+      "address": "Senožeti 93, 1262 Senožeti",
+      "lat": 46.088862059954124,
+      "lng": 14.716871893530739,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": ""
+    },
+    {
+      "pk": 2343,
+      "franchise": 5,
+      "name": "SHELL NOVO MESTO",
+      "address": "Mirnopeška 4, 8000 Novo Mesto",
+      "lat": 45.821327325964894,
+      "lng": 15.150560521690572,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": "8000"
     }
   ],
   "position": null
