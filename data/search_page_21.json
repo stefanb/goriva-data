@@ -1,5 +1,5 @@
 {
-  "count": 551,
+  "count": 552,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=22&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
@@ -146,6 +146,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "9240"
+    },
+    {
+      "pk": 2378,
+      "franchise": 1,
+      "name": "PETROL ARNOVSKI GOZD",
+      "address": "MALA PIREŠICA 23",
+      "lat": 46.26910159,
+      "lng": 15.18931474,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.658,
+        "dizel-premium": 1.67,
+        "avtoplin-lpg": 0.819,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "3301"
     },
     {
       "pk": 2308,
@@ -384,7 +408,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "2000"
     },
     {
@@ -408,7 +432,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "9220"
     },
     {
@@ -432,7 +456,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "9000"
     },
     {
@@ -480,7 +504,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "4000"
     },
     {
@@ -528,7 +552,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "4280"
     },
     {
@@ -552,7 +576,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "8361"
     },
     {
@@ -576,32 +600,8 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "8340"
-    },
-    {
-      "pk": 2163,
-      "franchise": 1,
-      "name": "PETROL BREŽICE - TOVARNIŠKA",
-      "address": "TOVARNIŠKA CESTA 2",
-      "lat": 45.91870681,
-      "lng": 15.59341049,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
-      "zip_code": "8250"
     }
   ],
   "position": null

@@ -1,8 +1,32 @@
 {
-  "count": 551,
+  "count": 552,
   "next": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=23&position=&radius=",
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
+    {
+      "pk": 2163,
+      "franchise": 1,
+      "name": "PETROL BREŽICE - TOVARNIŠKA",
+      "address": "TOVARNIŠKA CESTA 2",
+      "lat": 45.91870681,
+      "lng": 15.59341049,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 26. november 2025",
+      "zip_code": "8250"
+    },
     {
       "pk": 2164,
       "franchise": 1,
@@ -24,7 +48,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "3210"
     },
     {
@@ -48,7 +72,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 25. november 2025",
+      "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "3311"
     },
     {
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "PON - PET: 7,30 - 15.30\r\n\r\nOb sobotah, nedeljah in praznikih zaprto.",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2331,
-      "franchise": 11,
-      "name": "ECO OIL FRAM",
-      "address": "TURNERJEVA ULICA",
-      "lat": 46.451048,
-      "lng": 15.65166,
-      "prices": {
-        "95": null,
-        "dizel": 1.499,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2313"
     }
   ],
   "position": null
