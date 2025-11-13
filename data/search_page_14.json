@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2144,
-      "franchise": 1,
-      "name": "PETROL BOŠTANJ PRI SEVNICI",
-      "address": "BOŠTANJ 60A",
-      "lat": 46.01439267,
-      "lng": 15.28799203,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.658,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.819,
-        "KOEL": 1.096,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 26. november 2025",
-      "zip_code": "8294"
-    },
-    {
       "pk": 2145,
       "franchise": 1,
       "name": "PETROL OTOČEC - JUG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "3320"
+    },
+    {
+      "pk": 2173,
+      "franchise": 1,
+      "name": "PETROL ŠENTRUPERT",
+      "address": "ŠENTRUPERT 6B",
+      "lat": 46.250078,
+      "lng": 15.075261,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.096,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-19:00\n",
+      "zip_code": "3303"
     }
   ],
   "position": null

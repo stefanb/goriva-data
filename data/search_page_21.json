@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2369,
-      "franchise": 5,
-      "name": "SHELL LUCIJA VZHOD",
-      "address": "Vinjole 29b",
-      "lat": 45.50086689761921,
-      "lng": 13.610492852317408,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.669,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6320"
-    },
-    {
       "pk": 2370,
       "franchise": 5,
       "name": "SHELL STOJNCI",
@@ -554,6 +530,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 26. november 2025",
       "zip_code": "4280"
+    },
+    {
+      "pk": 2144,
+      "franchise": 1,
+      "name": "PETROL BOŠTANJ PRI SEVNICI",
+      "address": "BOŠTANJ 60A",
+      "lat": 46.01439267,
+      "lng": 15.28799203,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 26. november 2025",
+      "zip_code": "8294"
     },
     {
       "pk": 2153,
