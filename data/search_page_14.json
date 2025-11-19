@@ -412,6 +412,30 @@
       "zip_code": "8250"
     },
     {
+      "pk": 2164,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKE  KONJICE",
+      "address": "LIPTOVSKA ULICA 4",
+      "lat": 46.34170285,
+      "lng": 15.43100146,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.672,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.819,
+        "KOEL": 1.096,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-19:00\n",
+      "zip_code": "3210"
+    },
+    {
       "pk": 2165,
       "franchise": 1,
       "name": "PETROL VELENJE - ŠALEŠKA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
       "zip_code": "3212"
-    },
-    {
-      "pk": 2172,
-      "franchise": 1,
-      "name": "PETROL VELENJE - CELJSKA ZAHOD",
-      "address": "CELJSKA CESTA 2",
-      "lat": 46.35625568,
-      "lng": 15.11475697,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.672,
-        "dizel-premium": 1.656,
-        "avtoplin-lpg": 0.819,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "3320"
     }
   ],
   "position": null
