@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2145,
-      "franchise": 1,
-      "name": "PETROL OTOČEC - JUG",
-      "address": "GRAJSKA CESTA 6",
-      "lat": 45.83957835,
-      "lng": 15.23583099,
-      "prices": {
-        "95": 1.455,
-        "dizel": 1.499,
-        "98": null,
-        "100": 1.672,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.096,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:30-20:00\n\nSobota\n07:00-18:00\n\nNedelja, Praznik\n08:00-11:30, 12:00-17:00\n",
-      "zip_code": "8222"
-    },
-    {
       "pk": 2146,
       "franchise": 1,
       "name": "PETROL ČRNOMELJ - BELOKRANJSKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
       "zip_code": "3212"
+    },
+    {
+      "pk": 2172,
+      "franchise": 1,
+      "name": "PETROL VELENJE - CELJSKA ZAHOD",
+      "address": "CELJSKA CESTA 2",
+      "lat": 46.35625568,
+      "lng": 15.11475697,
+      "prices": {
+        "95": 1.455,
+        "dizel": 1.499,
+        "98": null,
+        "100": 1.672,
+        "dizel-premium": 1.656,
+        "avtoplin-lpg": 0.819,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "3320"
     }
   ],
   "position": null
