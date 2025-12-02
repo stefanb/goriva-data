@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2302,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVISI d.o.o. PE BREZOVICA",
+      "address": "Tržaška cesta 358",
+      "lat": 46.026026,
+      "lng": 14.4284534,
+      "prices": {
+        "95": 1.451,
+        "dizel": 1.485,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.082,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "6.00-22.30",
+      "zip_code": "1351"
+    },
+    {
       "pk": 2303,
       "franchise": 19,
       "name": "Bencinski servis Tupaliče",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2349,
-      "franchise": 5,
-      "name": "SHELL SEZANA",
-      "address": "Partizanska cesta 69A",
-      "lat": 45.70519088779502,
-      "lng": 13.861015699133779,
-      "prices": {
-        "95": 1.451,
-        "dizel": 1.485,
-        "98": null,
-        "100": 1.669,
-        "dizel-premium": 1.669,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6210"
     }
   ],
   "position": null
