@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2350,
+      "franchise": 5,
+      "name": "SHELL KOPER SEMEDELA",
+      "address": "Istrska cesta 53",
+      "lat": 45.5389688698564,
+      "lng": 13.728621313111132,
+      "prices": {
+        "95": 1.451,
+        "dizel": 1.485,
+        "98": null,
+        "100": 1.739,
+        "dizel-premium": 1.729,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 2351,
+      "franchise": 5,
+      "name": "SHELL CELJE KIDRIČEVA",
+      "address": "Kidričeva ulica 40",
+      "lat": 46.234018307787046,
+      "lng": 15.296215827340855,
+      "prices": {
+        "95": 1.451,
+        "dizel": 1.485,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.669,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2352,
       "franchise": 5,
       "name": "SHELL KOPER BERTOKI",
@@ -554,54 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "9240"
-    },
-    {
-      "pk": 2378,
-      "franchise": 1,
-      "name": "PETROL ARNOVSKI GOZD",
-      "address": "MALA PIREŠICA 23",
-      "lat": 46.26910159,
-      "lng": 15.18931474,
-      "prices": {
-        "95": 1.451,
-        "dizel": 1.485,
-        "98": null,
-        "100": 1.673,
-        "dizel-premium": 1.642,
-        "avtoplin-lpg": 0.819,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "3301"
-    },
-    {
-      "pk": 2327,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Bezena",
-      "address": "Bezena 99",
-      "lat": 46.5499175582367,
-      "lng": 15.538353293954877,
-      "prices": {
-        "95": 1.454,
-        "dizel": 1.498,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
-      "zip_code": "2342"
     }
   ],
   "position": null
