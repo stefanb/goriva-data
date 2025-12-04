@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2370,
+      "franchise": 5,
+      "name": "SHELL STOJNCI",
+      "address": "Stojnci 24",
+      "lat": 46.38048175449777,
+      "lng": 15.972530744906699,
+      "prices": {
+        "95": 1.451,
+        "dizel": 1.485,
+        "98": null,
+        "100": 1.669,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2281"
+    },
+    {
       "pk": 2371,
       "franchise": 5,
       "name": "SHELL AJŠEVICA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 17. december 2025",
       "zip_code": "1215"
-    },
-    {
-      "pk": 2144,
-      "franchise": 1,
-      "name": "PETROL BOŠTANJ PRI SEVNICI",
-      "address": "BOŠTANJ 60A",
-      "lat": 46.01439267,
-      "lng": 15.28799203,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 17. december 2025",
-      "zip_code": "8294"
     }
   ],
   "position": null
