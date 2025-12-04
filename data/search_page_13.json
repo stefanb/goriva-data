@@ -532,6 +532,30 @@
       "zip_code": "8250"
     },
     {
+      "pk": 2144,
+      "franchise": 1,
+      "name": "PETROL BOŠTANJ PRI SEVNICI",
+      "address": "BOŠTANJ 60A",
+      "lat": 46.01439267,
+      "lng": 15.28799203,
+      "prices": {
+        "95": 1.451,
+        "dizel": 1.485,
+        "98": null,
+        "100": 1.673,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.819,
+        "KOEL": 1.082,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 17. december 2025",
+      "zip_code": "8294"
+    },
+    {
       "pk": 2145,
       "franchise": 1,
       "name": "PETROL OTOČEC - JUG",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "8340"
-    },
-    {
-      "pk": 2147,
-      "franchise": 1,
-      "name": "PETROL TREBNJE - POD GRADOM",
-      "address": "CESTA VILME BUKOVEC 2",
-      "lat": 45.90473997,
-      "lng": 15.00357364,
-      "prices": {
-        "95": 1.451,
-        "dizel": 1.485,
-        "98": null,
-        "100": 1.673,
-        "dizel-premium": 1.642,
-        "avtoplin-lpg": 0.819,
-        "KOEL": 1.082,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nSobota\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nNedelja, Praznik\n00:00-06:00, 06:00-22:00, 22:00-00:00\n",
-      "zip_code": "8210"
     }
   ],
   "position": null
