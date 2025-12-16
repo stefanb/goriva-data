@@ -4,6 +4,78 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2343,
+      "franchise": 5,
+      "name": "SHELL NOVO MESTO",
+      "address": "Mirnopeška 4, 8000 Novo Mesto",
+      "lat": 45.821327325964894,
+      "lng": 15.150560521690572,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 2344,
+      "franchise": 5,
+      "name": "SHELL ARCLIN",
+      "address": "3211 Arclin – Škofja Vas, Arclin 101",
+      "lat": 46.27879929325074,
+      "lng": 15.300271376669105,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
+      "zip_code": "3211"
+    },
+    {
+      "pk": 2345,
+      "franchise": 5,
+      "name": "SHELL DRNOVO",
+      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
+      "lat": 45.92022102331869,
+      "lng": 15.47376189244999,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
+      "zip_code": "8273"
+    },
+    {
       "pk": 2346,
       "franchise": 5,
       "name": "SHELL CELJE MARIBORSKA",
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "1332"
-    },
-    {
-      "pk": 2368,
-      "franchise": 5,
-      "name": "SHELL SLOVENSKE KONJICE",
-      "address": "Liptovska cesta 32B",
-      "lat": 46.34011896303725,
-      "lng": 15.418721900923186,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.679,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2310"
-    },
-    {
-      "pk": 2369,
-      "franchise": 5,
-      "name": "SHELL LUCIJA VZHOD",
-      "address": "Vinjole 29b",
-      "lat": 45.50086689761921,
-      "lng": 13.610492852317408,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6320"
-    },
-    {
-      "pk": 2370,
-      "franchise": 5,
-      "name": "SHELL STOJNCI",
-      "address": "Stojnci 24",
-      "lat": 46.38048175449777,
-      "lng": 15.972530744906699,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.679,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2281"
     }
   ],
   "position": null

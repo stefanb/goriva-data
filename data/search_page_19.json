@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2294,
+      "franchise": 4,
+      "name": "BS MOL PAY&GO POSTOJNA",
+      "address": "Industrijska cesta 4",
+      "lat": 45.769831,
+      "lng": 14.197979,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 2295,
+      "franchise": 4,
+      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
+      "address": "Vilharjeva cesta 58",
+      "lat": 45.576279,
+      "lng": 14.23011,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6250"
+    },
+    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -146,6 +194,30 @@
       "direction": "",
       "open_hours": "6.00-22.00",
       "zip_code": "4220"
+    },
+    {
+      "pk": 2306,
+      "franchise": 33,
+      "name": "Bencinski servis Stella",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.049,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
     },
     {
       "pk": 2307,
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
       "zip_code": ""
-    },
-    {
-      "pk": 2343,
-      "franchise": 5,
-      "name": "SHELL NOVO MESTO",
-      "address": "Mirnopeška 4, 8000 Novo Mesto",
-      "lat": 45.821327325964894,
-      "lng": 15.150560521690572,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 2344,
-      "franchise": 5,
-      "name": "SHELL ARCLIN",
-      "address": "3211 Arclin – Škofja Vas, Arclin 101",
-      "lat": 46.27879929325074,
-      "lng": 15.300271376669105,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
-      "zip_code": "3211"
-    },
-    {
-      "pk": 2345,
-      "franchise": 5,
-      "name": "SHELL DRNOVO",
-      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
-      "lat": 45.92022102331869,
-      "lng": 15.47376189244999,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
-      "zip_code": "8273"
     }
   ],
   "position": null

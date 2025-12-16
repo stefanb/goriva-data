@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
+      "pk": 806,
+      "franchise": 2,
+      "name": "BS MOL KOPER ANKARANSKA",
+      "address": "Ankaranska c. 5d",
+      "lat": 45.545957,
+      "lng": 13.742681,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.654,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nJanuar / Februar / Marec / April / Maj / Oktober / November / December\nNedelja, Praznik\n08:00-20:00\n\nJunij / Julij / Avgust / September\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "6000"
+    },
+    {
       "pk": 807,
       "franchise": 2,
       "name": "BS MOL KOPER ŠMARSKA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "2270"
-    },
-    {
-      "pk": 839,
-      "franchise": 2,
-      "name": "BS MOL PESEK",
-      "address": "Krvavi potok 25",
-      "lat": 45.620425,
-      "lng": 13.906935,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Kozina",
-      "open_hours": "07:00-22:00\n",
-      "zip_code": "6240"
     }
   ],
   "position": null
