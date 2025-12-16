@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2346,
+      "franchise": 5,
+      "name": "SHELL CELJE MARIBORSKA",
+      "address": "Mariborska 128",
+      "lat": 46.24423316065561,
+      "lng": 15.278462363239953,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 2347,
+      "franchise": 5,
+      "name": "SHELL PRESTRANEK",
+      "address": "Reška cesta 18B",
+      "lat": 45.728174292934355,
+      "lng": 14.187886149162168,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Summer (01.06.2023 to 30.9.2023): Mon-Sun 6:00-22:00 .Winter (01.10 to 31.5): Mon-Sat 6:00-22:00 ,Sun and holidays 9:00-20:00.",
+      "zip_code": "6258"
+    },
+    {
       "pk": 2348,
       "franchise": 5,
       "name": "SHELL MURSKA SOBOTA Bakovska",
@@ -554,54 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2281"
-    },
-    {
-      "pk": 2371,
-      "franchise": 5,
-      "name": "SHELL AJŠEVICA",
-      "address": "Loke 40",
-      "lat": 45.953170561531195,
-      "lng": 13.691872647114305,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "5000"
-    },
-    {
-      "pk": 2372,
-      "franchise": 5,
-      "name": "SHELL ZG. POLSKAVA",
-      "address": "Bukovec 1b",
-      "lat": 46.43088480445796,
-      "lng": 15.627126931204163,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2314"
     }
   ],
   "position": null
