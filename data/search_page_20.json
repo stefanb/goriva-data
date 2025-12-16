@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2348,
+      "franchise": 5,
+      "name": "SHELL MURSKA SOBOTA Bakovska",
+      "address": "Bakovska 31 A",
+      "lat": 46.64580322249098,
+      "lng": 16.16815983270674,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2349,
+      "franchise": 5,
+      "name": "SHELL SEZANA",
+      "address": "Partizanska cesta 69A",
+      "lat": 45.70519088779502,
+      "lng": 13.861015699133779,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6210"
+    },
+    {
       "pk": 2350,
       "franchise": 5,
       "name": "SHELL KOPER SEMEDELA",
@@ -554,54 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2314"
-    },
-    {
-      "pk": 2373,
-      "franchise": 2,
-      "name": "BS MOL MURSKA SOBOTA Lendavska",
-      "address": "Lendavska 60d",
-      "lat": 46.66673,
-      "lng": 16.17698,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "9000"
-    },
-    {
-      "pk": 2374,
-      "franchise": 2,
-      "name": "BS MOL LJUTOMER",
-      "address": "Kolodvorska 7a",
-      "lat": 46.5289,
-      "lng": 16.19006,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.654,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.049,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "9240"
     }
   ],
   "position": null

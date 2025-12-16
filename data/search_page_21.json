@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2373,
+      "franchise": 2,
+      "name": "BS MOL MURSKA SOBOTA Lendavska",
+      "address": "Lendavska 60d",
+      "lat": 46.66673,
+      "lng": 16.17698,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.654,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "9000"
+    },
+    {
+      "pk": 2374,
+      "franchise": 2,
+      "name": "BS MOL LJUTOMER",
+      "address": "Kolodvorska 7a",
+      "lat": 46.5289,
+      "lng": 16.19006,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.654,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.049,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "9240"
+    },
+    {
       "pk": 2378,
       "franchise": 1,
       "name": "PETROL ARNOVSKI GOZD",
@@ -146,54 +194,6 @@
       "direction": "",
       "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
       "zip_code": "3214"
-    },
-    {
-      "pk": 2316,
-      "franchise": 23,
-      "name": "BS Žihlava",
-      "address": "Žihlava 15",
-      "lat": 46.55,
-      "lng": 16.0396,
-      "prices": {
-        "95": 1.451,
-        "dizel": 1.485,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Gornja Radgona - Ljutomer",
-      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
-      "zip_code": "9244"
-    },
-    {
-      "pk": 2317,
-      "franchise": 23,
-      "name": "BS Lemerje",
-      "address": "Lemerje 2",
-      "lat": 46.7094,
-      "lng": 16.1102,
-      "prices": {
-        "95": 1.451,
-        "dizel": 1.485,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Murska Sobota - Grad (Kuzma)",
-      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
-      "zip_code": "9201"
     },
     {
       "pk": 2327,
@@ -456,7 +456,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 28. december 2025",
+      "open_hours": "Začasno zaprto do 29. december 2025",
       "zip_code": "9220"
     },
     {
@@ -480,7 +480,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 28. december 2025",
+      "open_hours": "Začasno zaprto do 29. december 2025",
       "zip_code": "9000"
     },
     {
@@ -528,7 +528,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 28. december 2025",
+      "open_hours": "Začasno zaprto do 29. december 2025",
       "zip_code": "1000"
     },
     {
@@ -552,7 +552,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 28. december 2025",
+      "open_hours": "Začasno zaprto do 29. december 2025",
       "zip_code": "4000"
     },
     {
@@ -600,7 +600,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Začasno zaprto do 28. december 2025",
+      "open_hours": "Začasno zaprto do 29. december 2025",
       "zip_code": "1315"
     }
   ],
