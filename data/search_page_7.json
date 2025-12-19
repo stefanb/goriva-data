@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
+      "pk": 1962,
+      "franchise": 1,
+      "name": "PETROL LENDAVA",
+      "address": "KOLODVORSKA ULICA 8A",
+      "lat": 46.55996722,
+      "lng": 16.44790177,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.658,
+        "dizel-premium": 1.604,
+        "avtoplin-lpg": 0.819,
+        "KOEL": 1.049,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 01. januar 2026",
+      "zip_code": "9220"
+    },
+    {
       "pk": 1963,
       "franchise": 1,
       "name": "PETROL ROGAŠOVCI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek\n07:00-12:00, 12:30-17:00\n\nTorek\n07:00-12:00, 12:30-17:00\n\nSreda\n07:00-12:00, 12:30-18:00\n\nČetrtek\n07:00-12:00, 12:30-17:00\n\nPetek\n07:00-12:00, 12:30-17:00\n\nSobota\n08:00-12:00, 12:30-16:00\n",
       "zip_code": "5274"
-    },
-    {
-      "pk": 1988,
-      "franchise": 1,
-      "name": "PETROL DESKLE",
-      "address": "SREBRNIČEVA ULICA 4",
-      "lat": 46.05406598,
-      "lng": 13.61904093,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.049,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "5210"
     }
   ],
   "position": null
