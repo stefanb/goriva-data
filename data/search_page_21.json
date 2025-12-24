@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2364,
+      "franchise": 5,
+      "name": "SHELL IZOLA SEVER",
+      "address": "Prešernova cesta 2a",
+      "lat": 45.53789717461961,
+      "lng": 13.66872067047427,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6310"
+    },
+    {
       "pk": 2365,
       "franchise": 5,
       "name": "SHELL MARIBOR BOHOVA",
@@ -554,30 +578,6 @@
       "direction": "",
       "open_hours": "Zaprto.",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2084,
-      "franchise": 1,
-      "name": "PETROL KRANJ - STANETA ŽAGARJA 58B",
-      "address": "CESTA STANETA ŽAGARJA 58B",
-      "lat": 46.24334118,
-      "lng": 14.36914271,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 06. januar 2026",
-      "zip_code": "4000"
     },
     {
       "pk": 2097,
