@@ -4,6 +4,78 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2336,
+      "franchise": 5,
+      "name": "SHELL MIKLAVŽ",
+      "address": "Ptujska cesta 135",
+      "lat": 46.53067,
+      "lng": 15.67062,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon - Pet.:  6-22\r\nSob: 7-21 \r\nNed.: 8-20",
+      "zip_code": "2204"
+    },
+    {
+      "pk": 2337,
+      "franchise": 5,
+      "name": "SHELL LITIJA",
+      "address": "Ljubljanska cesta 10 B",
+      "lat": 46.057722042151795,
+      "lng": 14.82292837241754,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h \r\nNedelja: 8-20h",
+      "zip_code": "1270"
+    },
+    {
+      "pk": 2338,
+      "franchise": 5,
+      "name": "SHELL MURSKA SOBOTA Lendavska",
+      "address": "Lendavska ulica 75",
+      "lat": 46.667481,
+      "lng": 16.176773,
+      "prices": {
+        "95": 1.433,
+        "dizel": 1.449,
+        "98": null,
+        "100": 1.659,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h Nedelja: 8-20h",
+      "zip_code": "9000"
+    },
+    {
       "pk": 2339,
       "franchise": 5,
       "name": "SHELL ŽALEC",
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6219"
-    },
-    {
-      "pk": 2361,
-      "franchise": 5,
-      "name": "SHELL KOMENDA",
-      "address": "Potok pri Komendi 8",
-      "lat": 46.20581146877878,
-      "lng": 14.523937545251142,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1218"
-    },
-    {
-      "pk": 2362,
-      "franchise": 5,
-      "name": "SHELL MARIBOR PTUJSKA ZAHOD",
-      "address": "Ptujska cesta 104",
-      "lat": 46.535127602458296,
-      "lng": 15.661573380820581,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 2363,
-      "franchise": 5,
-      "name": "SHELL TRBOVLJE",
-      "address": "Vodenska cesta 28 A",
-      "lat": 46.14297981487424,
-      "lng": 15.036054161327268,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.449,
-        "98": null,
-        "100": 1.659,
-        "dizel-premium": 1.609,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1420"
     }
   ],
   "position": null
