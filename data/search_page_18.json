@@ -292,6 +292,30 @@
       "zip_code": "5270"
     },
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.407,
+        "98": 1.602,
+        "100": 1.602,
+        "dizel-premium": 1.449,
+        "avtoplin-lpg": null,
+        "KOEL": 1.008,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2271,
       "franchise": 2,
       "name": "BS MOL MARIBOR STUDENCI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "01.09.2025 – \nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-22:00\n\n01.09.2025 – \nNedelja, Praznik\n05:00-15:00\n",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2293,
-      "franchise": 4,
-      "name": "BS MOL PAY&GO IVANČNA GORICA",
-      "address": "Cesta 2. grupe odredov 4",
-      "lat": 45.936326,
-      "lng": 14.805261,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.407,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1295"
     }
   ],
   "position": null

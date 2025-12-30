@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2293,
+      "franchise": 4,
+      "name": "BS MOL PAY&GO IVANČNA GORICA",
+      "address": "Cesta 2. grupe odredov 4",
+      "lat": 45.936326,
+      "lng": 14.805261,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.407,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1295"
+    },
+    {
       "pk": 2294,
       "franchise": 4,
       "name": "BS MOL PAY&GO POSTOJNA",
@@ -506,30 +530,6 @@
       "direction": "",
       "open_hours": "Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nJanuar / Februar / Marec / April / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek\n06:00-18:00\n\nSobota, Nedelja, Praznik\nZaprto cel dan\n",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.433,
-        "dizel": 1.485,
-        "98": 1.658,
-        "100": 1.658,
-        "dizel-premium": 1.449,
-        "avtoplin-lpg": null,
-        "KOEL": 1.049,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
     },
     {
       "pk": 2315,
