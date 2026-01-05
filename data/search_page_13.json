@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2118,
+      "franchise": 1,
+      "name": "PETROL GABROVKA",
+      "address": "KLANEC PRI GABROVKI 12",
+      "lat": 45.995845,
+      "lng": 14.976083,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.407,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-00:00\n",
+      "zip_code": "1274"
+    },
+    {
       "pk": 2119,
       "franchise": 1,
       "name": "PETROL GROSUPLJE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-18:00\n\nSobota\n07:00-11:30, 12:00-15:00\n\nNedelja, Praznik\n08:00-11:30\n",
       "zip_code": "8259"
-    },
-    {
-      "pk": 2143,
-      "franchise": 1,
-      "name": "PETROL BREŽICE - CESTA SVOBODE",
-      "address": "CESTA SVOBODE 1",
-      "lat": 45.90080568,
-      "lng": 15.60410967,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.407,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.008,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-19:00\n",
-      "zip_code": "8250"
     }
   ],
   "position": null

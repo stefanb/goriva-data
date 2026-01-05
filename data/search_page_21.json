@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2365,
+      "franchise": 5,
+      "name": "SHELL MARIBOR BOHOVA",
+      "address": "Tržaška cesta 83",
+      "lat": 46.51807271424088,
+      "lng": 15.651544379912487,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.407,
+        "98": null,
+        "100": 1.607,
+        "dizel-premium": 1.567,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2366,
       "franchise": 5,
       "name": "SHELL GEDEROVCI",
@@ -242,30 +266,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-23:00\n\nSobota\n05:00-23:00\n\nNedelja, Praznik\n06:00-22:00\n",
       "zip_code": "3301"
-    },
-    {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.419,
-        "dizel": 1.429,
-        "98": null,
-        "100": 1.609,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.769,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
     },
     {
       "pk": 2327,
