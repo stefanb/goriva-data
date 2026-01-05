@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2220,
-      "franchise": 1,
-      "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
-      "address": "LJUBLJANSKA CESTA 69A",
-      "lat": 45.64870304,
-      "lng": 14.85374303,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.407,
-        "98": null,
-        "100": 1.602,
-        "dizel-premium": 1.565,
-        "avtoplin-lpg": 0.819,
-        "KOEL": 1.008,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-21:00\n",
-      "zip_code": "1330"
-    },
-    {
       "pk": 2221,
       "franchise": 1,
       "name": "PETROL ŽLEBIČ",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "2352"
+    },
+    {
+      "pk": 2246,
+      "franchise": 3,
+      "name": "BS MAXEN LJUBLJANA-BTC",
+      "address": "Argentinska ulica bš",
+      "lat": 46.0665824,
+      "lng": 14.5488544,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.407,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "1000"
     }
   ],
   "position": null

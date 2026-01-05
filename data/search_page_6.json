@@ -316,30 +316,6 @@
       "zip_code": "5280"
     },
     {
-      "pk": 1951,
-      "franchise": 1,
-      "name": "PETROL LENART",
-      "address": "KRAIGHERJEVA ULICA 40",
-      "lat": 46.58401138,
-      "lng": 15.84030408,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.407,
-        "98": null,
-        "100": 1.602,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.819,
-        "KOEL": 1.008,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-21:00\n",
-      "zip_code": "2230"
-    },
-    {
       "pk": 1952,
       "franchise": 1,
       "name": "PETROL ROŽNA DOLINA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "9220"
+    },
+    {
+      "pk": 1963,
+      "franchise": 1,
+      "name": "PETROL ROGAŠOVCI",
+      "address": "SVETI JURIJ 7A",
+      "lat": 46.798925,
+      "lng": 16.03618722,
+      "prices": {
+        "95": 1.381,
+        "dizel": 1.407,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.008,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
+      "zip_code": "9262"
     }
   ],
   "position": null
