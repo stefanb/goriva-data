@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1984,
-      "franchise": 1,
-      "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
-      "address": "VOJKOVA CESTA 52",
-      "lat": 45.96223076,
-      "lng": 13.64898236,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": 1.607,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n",
-      "zip_code": "5000"
-    },
-    {
-      "pk": 1985,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS",
-      "address": "ŠEMPAS 161A",
-      "lat": 45.93039187,
-      "lng": 13.73978149,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.007,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-17:00, 17:30-19:00\n\nSobota\n08:00-10:00, 10:30-17:00, 17:30-19:00\n\nNedelja, Praznik\n08:00-12:00, 12:30-15:00\n",
-      "zip_code": "5261"
-    },
-    {
-      "pk": 1986,
-      "franchise": 1,
-      "name": "PETROL BOVEC",
-      "address": "DVOR 44",
-      "lat": 46.33279417,
-      "lng": 13.54135681,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": 1.607,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.007,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-18:00\n",
-      "zip_code": "5230"
-    },
-    {
       "pk": 1987,
       "franchise": 1,
       "name": "PETROL ČRNI VRH",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "5261"
+    },
+    {
+      "pk": 2009,
+      "franchise": 1,
+      "name": "PETROL KOZINA AC - VZHOD",
+      "address": "BAZOVIŠKA CESTA 23A",
+      "lat": 45.60515,
+      "lng": 13.928699,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.728,
+        "dizel-premium": 1.689,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6240"
+    },
+    {
+      "pk": 2010,
+      "franchise": 1,
+      "name": "PETROL ORMOŽ",
+      "address": "KOLODVORSKA CESTA 5",
+      "lat": 46.40764081,
+      "lng": 16.15117853,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.607,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.007,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "2270"
+    },
+    {
+      "pk": 2011,
+      "franchise": 1,
+      "name": "PETROL PTUJ - ORMOŠKA 25",
+      "address": "ORMOŠKA CESTA 25",
+      "lat": 46.41703099,
+      "lng": 15.8826979,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.007,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-11:00, 11:30-15:00\n\nSobota\n08:00-11:30\n",
+      "zip_code": "2250"
     }
   ],
   "position": null

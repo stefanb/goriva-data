@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1932,
-      "franchise": 1,
-      "name": "PETROL PRAGERSKO",
-      "address": "PTUJSKA CESTA 20",
-      "lat": 46.39511839,
-      "lng": 15.65879604,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.007,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:30-12:00\n",
-      "zip_code": "2331"
-    },
-    {
-      "pk": 1933,
-      "franchise": 1,
-      "name": "PETROL RAČE",
-      "address": "LJUBLJANSKA CESTA 22",
-      "lat": 46.45289915,
-      "lng": 15.67336264,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.007,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-13:00\n",
-      "zip_code": "2327"
-    },
-    {
-      "pk": 1934,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 10",
-      "address": "TRŽAŠKA CESTA 10",
-      "lat": 46.54123587,
-      "lng": 15.64785997,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1935,
       "franchise": 1,
       "name": "PETROL ŠEMPETER PRI GORICI - PADLIH BORCEV",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-21:00, 21:00-00:00\n\nSobota\n00:00-07:00, 07:00-21:00, 21:00-00:00\n\nNedelja, Praznik\n00:00-08:00, 08:00-21:00, 21:00-00:00\n",
       "zip_code": "5222"
+    },
+    {
+      "pk": 1958,
+      "franchise": 1,
+      "name": "PETROL KANAL OB SOČI",
+      "address": "KIDRIČEVA CESTA 10A",
+      "lat": 46.08786527,
+      "lng": 13.63259475,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.607,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.007,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n13:00-17:00, 17:30-20:00\n",
+      "zip_code": "5213"
+    },
+    {
+      "pk": 1959,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
+      "address": "CESTA PREKOMORSKIH BRIGAD 64A",
+      "lat": 45.93235392,
+      "lng": 13.63826623,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.607,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-18:00\n",
+      "zip_code": "5290"
+    },
+    {
+      "pk": 1960,
+      "franchise": 1,
+      "name": "PETROL MIREN",
+      "address": "MIREN 13D",
+      "lat": 45.898043,
+      "lng": 13.608726,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.607,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "5291"
     }
   ],
   "position": null

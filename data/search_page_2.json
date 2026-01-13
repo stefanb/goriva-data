@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 797,
-      "franchise": 2,
-      "name": "BS MOL ILIRSKA BISTRICA",
-      "address": "Bazoviška 45",
-      "lat": 45.559604,
-      "lng": 14.244346,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": 1.561,
-        "avtoplin-lpg": null,
-        "KOEL": 1.007,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "01.09.2025 – 25.06.2026\n05:00-22:00\n\n26.06.2026 – 31.08.2026\n00:00-23:59\n",
-      "zip_code": "6250"
-    },
-    {
-      "pk": 798,
-      "franchise": 2,
-      "name": "BS MOL IZOLA",
-      "address": "Prešernova cesta 1a",
-      "lat": 45.53687,
-      "lng": 13.66795,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": 1.561,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "6310"
-    },
-    {
-      "pk": 800,
-      "franchise": 2,
-      "name": "BS MOL KAMNIK",
-      "address": "Perovo 32",
-      "lat": 46.208865,
-      "lng": 14.606844,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": 1.608,
-        "dizel-premium": 1.561,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "05:00-22:00\n",
-      "zip_code": "1240"
-    },
-    {
       "pk": 802,
       "franchise": 2,
       "name": "BS MOL KOMEN",
@@ -602,6 +530,78 @@
       "direction": "Koper",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n08:00-18:00\n\nNedelja, Praznik\n09:00-18:00\n",
       "zip_code": "6000"
+    },
+    {
+      "pk": 834,
+      "franchise": 2,
+      "name": "BS MOL NOVA VAS",
+      "address": "Nova vas 1a",
+      "lat": 45.773401,
+      "lng": 14.504678,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.007,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n07:00-20:00\n",
+      "zip_code": "1385"
+    },
+    {
+      "pk": 835,
+      "franchise": 2,
+      "name": "BS MOL NOVO MESTO LEVIČNIKOVA",
+      "address": "Levičnikova c. 4",
+      "lat": 45.804054,
+      "lng": 15.181842,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": 1.561,
+        "avtoplin-lpg": null,
+        "KOEL": 1.007,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 836,
+      "franchise": 2,
+      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
+      "address": "Ljubljanska cesta 11",
+      "lat": 45.8139,
+      "lng": 15.153116666666667,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.608,
+        "dizel-premium": 1.561,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "8000"
     }
   ],
   "position": null
