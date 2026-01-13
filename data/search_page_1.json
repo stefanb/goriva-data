@@ -12,7 +12,7 @@
       "lng": 15.646512,
       "prices": {
         "95": 1.369,
-        "dizel": 1.387,
+        "dizel": 1.384,
         "98": null,
         "100": 1.609,
         "dizel-premium": null,
@@ -26,30 +26,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.381,
-        "dizel": 1.407,
-        "98": null,
-        "100": 1.602,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.008,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nJanuar / Februar / Marec / April / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek\n06:00-18:00\n\nSobota, Nedelja, Praznik\nZaprto cel dan\n",
-      "zip_code": "9220"
     },
     {
       "pk": 769,
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
       "zip_code": "6223"
+    },
+    {
+      "pk": 804,
+      "franchise": 2,
+      "name": "BS MOL KOPER BONIFIKA",
+      "address": "Istrska cesta 14",
+      "lat": 45.5404,
+      "lng": 13.7263,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": 1.658,
+        "dizel-premium": 1.611,
+        "avtoplin-lpg": 0.818,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Portorož",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6000"
     }
   ],
   "position": null
