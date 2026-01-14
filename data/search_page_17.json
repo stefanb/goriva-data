@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2218,
-      "franchise": 1,
-      "name": "PETROL ŠENTJUR",
-      "address": "CESTA KOZJANSKEGA ODREDA 21A",
-      "lat": 46.21307795,
-      "lng": 15.40036462,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": 1.607,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": 1.007,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "3230"
-    },
-    {
-      "pk": 2219,
-      "franchise": 1,
-      "name": "PETROL DOBRNA",
-      "address": "PRISTOVA 21",
-      "lat": 46.32717529,
-      "lng": 15.22104794,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.007,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-17:00\n\nNedelja, Praznik\n08:30-12:00\n",
-      "zip_code": "3204"
-    },
-    {
       "pk": 2220,
       "franchise": 1,
       "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "9264"
+    },
+    {
+      "pk": 2244,
+      "franchise": 3,
+      "name": "BS MAXEN DOLNJI LAKOŠ",
+      "address": "Glavna ulica bš",
+      "lat": 46.5525523,
+      "lng": 16.430912,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 2245,
+      "franchise": 3,
+      "name": "BS MAXEN SELNICA OB DRAVI",
+      "address": "Spodnja Selnica bš",
+      "lat": 46.5546048,
+      "lng": 15.5078896,
+      "prices": {
+        "95": 1.384,
+        "dizel": 1.404,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2352"
     }
   ],
   "position": null
