@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2365,
-      "franchise": 5,
-      "name": "SHELL MARIBOR BOHOVA",
-      "address": "Tržaška cesta 83",
-      "lat": 46.51807271424088,
-      "lng": 15.651544379912487,
-      "prices": {
-        "95": 1.384,
-        "dizel": 1.404,
-        "98": null,
-        "100": 1.609,
-        "dizel-premium": 1.569,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2366,
       "franchise": 5,
       "name": "SHELL GEDEROVCI",
@@ -578,6 +554,30 @@
       "direction": "",
       "open_hours": "Zaprto.",
       "zip_code": "6310"
+    },
+    {
+      "pk": 2065,
+      "franchise": 1,
+      "name": "PETROL LOGATEC",
+      "address": "TRŽAŠKA CESTA 21",
+      "lat": 45.91699729,
+      "lng": 14.22441176,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 01. februar 2026",
+      "zip_code": "1370"
     },
     {
       "pk": 2097,
