@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 834,
-      "franchise": 2,
-      "name": "BS MOL NOVA VAS",
-      "address": "Nova vas 1a",
-      "lat": 45.773401,
-      "lng": 14.504678,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.642,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.045,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n07:00-19:00\n",
-      "zip_code": "1385"
-    },
-    {
-      "pk": 835,
-      "franchise": 2,
-      "name": "BS MOL NOVO MESTO LEVIČNIKOVA",
-      "address": "Levičnikova c. 4",
-      "lat": 45.804054,
-      "lng": 15.181842,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.642,
-        "dizel-premium": 1.598,
-        "avtoplin-lpg": null,
-        "KOEL": 1.045,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "8000"
-    },
-    {
       "pk": 836,
       "franchise": 2,
       "name": "BS MOL NOVO MESTO LJUBLJANSKA",
@@ -602,6 +554,54 @@
       "direction": "Nova Gorica",
       "open_hours": "00:00-23:59\n",
       "zip_code": "5261"
+    },
+    {
+      "pk": 862,
+      "franchise": 2,
+      "name": "BS MOL ŠENTJUR",
+      "address": "Ljubljanska c. 20a",
+      "lat": 46.214942,
+      "lng": 15.38352,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.642,
+        "dizel-premium": 1.598,
+        "avtoplin-lpg": null,
+        "KOEL": 1.045,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "3230"
+    },
+    {
+      "pk": 863,
+      "franchise": 2,
+      "name": "BS MOL ŠKOFIJE VZHOD",
+      "address": "Sp.Škofije 260",
+      "lat": 45.580603,
+      "lng": 13.797535,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.692,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.847,
+        "KOEL": 1.045,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Trst",
+      "open_hours": "Januar / Februar / Marec / April / Maj / Junij / September / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nJanuar / Februar / Marec / April / Maj / Junij / September / Oktober / November / December\nNedelja, Praznik\n07:00-21:00\n\nJulij / Avgust\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nJulij / Avgust\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "6281"
     }
   ],
   "position": null
