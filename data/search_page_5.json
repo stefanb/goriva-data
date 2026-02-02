@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
+      "pk": 1572,
+      "franchise": 2,
+      "name": "BS MOL MESTINJE",
+      "address": "MESTINJE 2A",
+      "lat": 46.2343558,
+      "lng": 15.5634657,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.642,
+        "dizel-premium": 1.598,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "3241"
+    },
+    {
       "pk": 1575,
       "franchise": 2,
       "name": "BS MOL OTIŠKI VRH",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "2000"
-    },
-    {
-      "pk": 1935,
-      "franchise": 1,
-      "name": "PETROL ŠEMPETER PRI GORICI - PADLIH BORCEV",
-      "address": "ULICA PADLIH BORCEV 2",
-      "lat": 45.92923326,
-      "lng": 13.64146317,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.441,
-        "98": null,
-        "100": 1.642,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.045,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n",
-      "zip_code": "5290"
     }
   ],
   "position": null
