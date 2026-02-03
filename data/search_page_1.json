@@ -52,30 +52,6 @@
       "zip_code": "2342"
     },
     {
-      "pk": 2290,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO MEDVODE",
-      "address": "Gorenjska cesta 12",
-      "lat": 46.136526,
-      "lng": 14.417849,
-      "prices": {
-        "95": 1.41,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1215"
-    },
-    {
       "pk": 769,
       "franchise": 2,
       "name": "BS MOL BRESTOVICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "05:00-22:00\n",
       "zip_code": "1240"
+    },
+    {
+      "pk": 802,
+      "franchise": 2,
+      "name": "BS MOL KOMEN",
+      "address": "Komen 119a",
+      "lat": 45.816868,
+      "lng": 13.745429,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.642,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
+      "zip_code": "6223"
     }
   ],
   "position": null
