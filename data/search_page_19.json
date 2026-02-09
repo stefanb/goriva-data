@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2291,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO LJUBLJANA TOPLARNIŠKA",
-      "address": "Toplarniška ulica 4",
-      "lat": 46.056904,
-      "lng": 14.541465,
-      "prices": {
-        "95": 1.411,
-        "dizel": 1.441,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "01.09.2025 – \nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-22:00\n\n01.09.2025 – \nNedelja, Praznik\n05:00-15:00\n",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2292,
       "franchise": 2,
       "name": "BS MOL PAY&GO LJUBLJANA TRŽAŠKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "0-24",
       "zip_code": "3301"
+    },
+    {
+      "pk": 2340,
+      "franchise": 5,
+      "name": "SHELL KOZINA",
+      "address": "Bazoviška cesta 18",
+      "lat": 45.60911603335073,
+      "lng": 13.93361083463169,
+      "prices": {
+        "95": 1.411,
+        "dizel": 1.441,
+        "98": null,
+        "100": 1.649,
+        "dizel-premium": 1.609,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6240"
     }
   ],
   "position": null
