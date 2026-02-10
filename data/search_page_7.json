@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1960,
-      "franchise": 1,
-      "name": "PETROL MIREN",
-      "address": "MIREN 13D",
-      "lat": 45.898043,
-      "lng": 13.608726,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.65,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "5291"
-    },
-    {
-      "pk": 1961,
-      "franchise": 1,
-      "name": "PETROL LJUTOMER",
-      "address": "PREŠERNOVA ULICA 19",
-      "lat": 46.52201409,
-      "lng": 16.19426906,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.65,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.068,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "9240"
-    },
-    {
       "pk": 1962,
       "franchise": 1,
       "name": "PETROL LENDAVA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-17:00, 17:30-19:00\n\nSobota\n08:00-10:00, 10:30-17:00, 17:30-19:00\n\nNedelja, Praznik\n08:00-12:00, 12:30-15:00\n",
       "zip_code": "5261"
+    },
+    {
+      "pk": 1986,
+      "franchise": 1,
+      "name": "PETROL BOVEC",
+      "address": "DVOR 44",
+      "lat": 46.33279417,
+      "lng": 13.54135681,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.462,
+        "98": null,
+        "100": 1.65,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.068,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-18:00\n",
+      "zip_code": "5230"
+    },
+    {
+      "pk": 1987,
+      "franchise": 1,
+      "name": "PETROL ČRNI VRH",
+      "address": "ČRNI VRH 121",
+      "lat": 45.92556913,
+      "lng": 14.05336933,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.462,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.068,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek\n07:00-12:00, 12:30-17:00\n\nTorek\n07:00-12:00, 12:30-17:00\n\nSreda\n07:00-12:00, 12:30-18:00\n\nČetrtek\n07:00-12:00, 12:30-17:00\n\nPetek\n07:00-12:00, 12:30-17:00\n\nSobota\n08:00-12:00, 12:30-16:00\n",
+      "zip_code": "5274"
     }
   ],
   "position": null

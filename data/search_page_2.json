@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 800,
-      "franchise": 2,
-      "name": "BS MOL KAMNIK",
-      "address": "Perovo 32",
-      "lat": 46.208865,
-      "lng": 14.606844,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.651,
-        "dizel-premium": 1.629,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "05:00-22:00\n",
-      "zip_code": "1240"
-    },
-    {
-      "pk": 802,
-      "franchise": 2,
-      "name": "BS MOL KOMEN",
-      "address": "Komen 119a",
-      "lat": 45.816868,
-      "lng": 13.745429,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.651,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
-      "zip_code": "6223"
-    },
-    {
       "pk": 804,
       "franchise": 2,
       "name": "BS MOL KOPER BONIFIKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "8000"
+    },
+    {
+      "pk": 836,
+      "franchise": 2,
+      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
+      "address": "Ljubljanska cesta 11",
+      "lat": 45.8139,
+      "lng": 15.153116666666667,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.462,
+        "98": null,
+        "100": 1.651,
+        "dizel-premium": 1.629,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 837,
+      "franchise": 2,
+      "name": "BS MOL OBREŽJE JUG",
+      "address": "Jesenice 36a",
+      "lat": 45.854884,
+      "lng": 15.684443,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.462,
+        "98": null,
+        "100": 1.773,
+        "dizel-premium": 1.747,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Zagreb",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "8261"
     }
   ],
   "position": null
