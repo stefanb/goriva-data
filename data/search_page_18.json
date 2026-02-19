@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2247,
-      "franchise": 3,
-      "name": "BS MAXEN METLIKA",
-      "address": "Mestni log bš",
-      "lat": 45.6406592,
-      "lng": 15.3216016,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.462,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8330"
-    },
-    {
       "pk": 2248,
       "franchise": 3,
       "name": "BS MAXEN PREDGRAD",
@@ -586,6 +562,30 @@
       "address": "Toplarniška ulica 4",
       "lat": 46.056904,
       "lng": 14.541465,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.462,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "01.09.2025 – \nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-22:00\n\n01.09.2025 – \nNedelja, Praznik\n05:00-15:00\n",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2292,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO LJUBLJANA TRŽAŠKA",
+      "address": "Tržaška 429",
+      "lat": 46.027435,
+      "lng": 14.4353,
       "prices": {
         "95": 1.421,
         "dizel": 1.462,
