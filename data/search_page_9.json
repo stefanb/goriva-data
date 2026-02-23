@@ -460,30 +460,6 @@
       "zip_code": "6210"
     },
     {
-      "pk": 2032,
-      "franchise": 1,
-      "name": "PETROL VIPAVA AC - SEVER",
-      "address": "GORIŠKA CESTA 3A",
-      "lat": 45.829264,
-      "lng": 13.958807,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.462,
-        "98": null,
-        "100": 1.771,
-        "dizel-premium": 1.98,
-        "avtoplin-lpg": 0.889,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 08. marec 2026",
-      "zip_code": "5271"
-    },
-    {
       "pk": 2033,
       "franchise": 1,
       "name": "PETROL PIVKA",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:30-20:00\n\nSobota\n07:00-13:00\n",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2039,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - DUNAJSKA 130",
+      "address": "DUNAJSKA CESTA 130",
+      "lat": 46.078052,
+      "lng": 14.512668,
+      "prices": {
+        "95": 1.421,
+        "dizel": 1.462,
+        "98": null,
+        "100": 1.65,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
       "zip_code": "1000"
     }
   ],
