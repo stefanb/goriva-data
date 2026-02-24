@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2195,
-      "franchise": 1,
-      "name": "PETROL ŠMARJE PRI JELŠAH",
-      "address": "ROGAŠKA CESTA 48",
-      "lat": 46.23164686,
-      "lng": 15.52842878,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.071,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-19:00\n\nNedelja, Praznik\n08:00-19:00\n",
-      "zip_code": "3240"
-    },
-    {
-      "pk": 2196,
-      "franchise": 1,
-      "name": "PETROL ROGATEC",
-      "address": "CELJSKA CESTA 43",
-      "lat": 46.226069,
-      "lng": 15.693021,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.071,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-17:00\n",
-      "zip_code": "3252"
-    },
-    {
       "pk": 2197,
       "franchise": 1,
       "name": "PETROL ŽALEC",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-17:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "3204"
+    },
+    {
+      "pk": 2220,
+      "franchise": 1,
+      "name": "PETROL KOČEVJE - LJUBLJANSKA ZAHOD",
+      "address": "LJUBLJANSKA CESTA 69A",
+      "lat": 45.64870304,
+      "lng": 14.85374303,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": 1.861,
+        "avtoplin-lpg": 0.849,
+        "KOEL": 1.071,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-21:00\n",
+      "zip_code": "1330"
+    },
+    {
+      "pk": 2222,
+      "franchise": 1,
+      "name": "PETROL KOČEVJE - LJUBLJANSKA VZHOD",
+      "address": "LJUBLJANSKA CESTA 44",
+      "lat": 45.64954924,
+      "lng": 14.85397187,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.071,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-20:00\n\nSobota\n07:00-12:00, 12:30-15:00\n",
+      "zip_code": "1330"
     }
   ],
   "position": null
