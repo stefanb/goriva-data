@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2062,
-      "franchise": 1,
-      "name": "PETROL DOMŽALE - LJUBLJANSKA",
-      "address": "LJUBLJANSKA CESTA 2",
-      "lat": 46.13555764,
-      "lng": 14.58035495,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.071,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n",
-      "zip_code": "1230"
-    },
-    {
       "pk": 2063,
       "franchise": 1,
       "name": "PETROL KRANJ - ZLATO POLJE ZAHOD",
@@ -600,6 +576,30 @@
       },
       "distance": null,
       "direction": "Ljubljana -> Koper",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 2089,
+      "franchise": 1,
+      "name": "PETROL LOM AC - VZHOD",
+      "address": "NOTRANJSKA CESTA 77",
+      "lat": 45.89814,
+      "lng": 14.256533,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.983,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
       "open_hours": "00:00-23:59\n",
       "zip_code": "1370"
     }

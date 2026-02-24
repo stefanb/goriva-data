@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1985,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS",
-      "address": "ŠEMPAS 161A",
-      "lat": 45.93039187,
-      "lng": 13.73978149,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.071,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-17:00, 17:30-19:00\n\nSobota\n08:00-10:00, 10:30-17:00, 17:30-19:00\n\nNedelja, Praznik\n08:00-12:00, 12:30-15:00\n",
-      "zip_code": "5261"
-    },
-    {
       "pk": 1986,
       "franchise": 1,
       "name": "PETROL BOVEC",
@@ -602,6 +578,30 @@
       "direction": "Koper -> Ljubljana",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6240"
+    },
+    {
+      "pk": 2010,
+      "franchise": 1,
+      "name": "PETROL ORMOŽ",
+      "address": "KOLODVORSKA CESTA 5",
+      "lat": 46.40764081,
+      "lng": 16.15117853,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.071,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "2270"
     }
   ],
   "position": null

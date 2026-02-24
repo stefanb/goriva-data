@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 798,
-      "franchise": 2,
-      "name": "BS MOL IZOLA",
-      "address": "Prešernova cesta 1a",
-      "lat": 45.53687,
-      "lng": 13.66795,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": 1.634,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "6310"
-    },
-    {
       "pk": 800,
       "franchise": 2,
       "name": "BS MOL KAMNIK",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n07:00-19:00\n",
       "zip_code": "1385"
+    },
+    {
+      "pk": 835,
+      "franchise": 2,
+      "name": "BS MOL NOVO MESTO LEVIČNIKOVA",
+      "address": "Levičnikova c. 4",
+      "lat": 45.804054,
+      "lng": 15.181842,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": 1.634,
+        "avtoplin-lpg": null,
+        "KOEL": 1.071,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "8000"
     }
   ],
   "position": null

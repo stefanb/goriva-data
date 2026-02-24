@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1568,
-      "franchise": 2,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.793,
-        "dizel-premium": 1.756,
-        "avtoplin-lpg": 0.877,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2230"
-    },
-    {
       "pk": 1571,
       "franchise": 2,
       "name": "BS MOL DRAMLJE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "2331"
+    },
+    {
+      "pk": 1933,
+      "franchise": 1,
+      "name": "PETROL RAČE",
+      "address": "LJUBLJANSKA CESTA 22",
+      "lat": 46.45289915,
+      "lng": 15.67336264,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.071,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-13:00\n",
+      "zip_code": "2327"
     }
   ],
   "position": null
