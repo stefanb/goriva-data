@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2191,
-      "franchise": 1,
-      "name": "PETROL ŠOŠTANJ",
-      "address": "AŠKERČEVA CESTA 7",
-      "lat": 46.37530944,
-      "lng": 15.04892524,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": 1.671,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.071,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-18:00\n",
-      "zip_code": "3325"
-    },
-    {
       "pk": 2192,
       "franchise": 1,
       "name": "PETROL RADEČE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "2380"
+    },
+    {
+      "pk": 2216,
+      "franchise": 1,
+      "name": "PETROL LOPATA AC - SEVER",
+      "address": "LOPATA 81",
+      "lat": 46.262458,
+      "lng": 15.222118,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.791,
+        "dizel-premium": 1.983,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Ljubljana",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "3000"
     }
   ],
   "position": null

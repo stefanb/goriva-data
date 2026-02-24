@@ -124,30 +124,6 @@
       "zip_code": "2256"
     },
     {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.421,
-        "dizel": 1.462,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.068,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
-    },
-    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -602,6 +578,30 @@
       "direction": "Lenti",
       "open_hours": "00:00-23:59\n",
       "zip_code": "9244"
+    },
+    {
+      "pk": 794,
+      "franchise": 2,
+      "name": "BS MOL GRAČIŠČE",
+      "address": "Gračišče 4a",
+      "lat": 45.501301,
+      "lng": 13.873635,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nJanuar / Februar / Marec / Oktober / November / December\nNedelja, Praznik\n08:00-20:00\n\nApril / Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nApril / Maj / Junij / Julij / Avgust / September\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "6272"
     }
   ],
   "position": null
