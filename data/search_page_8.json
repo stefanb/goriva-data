@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1988,
-      "franchise": 1,
-      "name": "PETROL DESKLE",
-      "address": "SREBRNIČEVA ULICA 4",
-      "lat": 46.05406598,
-      "lng": 13.61904093,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.071,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "5210"
-    },
-    {
       "pk": 1989,
       "franchise": 1,
       "name": "PETROL TOLMIN",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-19:00\n",
       "zip_code": "2288"
+    },
+    {
+      "pk": 2013,
+      "franchise": 1,
+      "name": "PETROL MAJŠPERK",
+      "address": "MAJŠPERK 55A",
+      "lat": 46.3487854,
+      "lng": 15.73672014,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.071,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-18:00\n\nSobota\n07:00-15:00\n\nNedelja, Praznik\n08:00-11:30\n",
+      "zip_code": "2322"
     }
   ],
   "position": null
