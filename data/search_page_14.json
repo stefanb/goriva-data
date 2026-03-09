@@ -436,6 +436,30 @@
       "zip_code": "8261"
     },
     {
+      "pk": 2163,
+      "franchise": 1,
+      "name": "PETROL BREŽICE - TOVARNIŠKA",
+      "address": "TOVARNIŠKA CESTA 2",
+      "lat": 45.91870681,
+      "lng": 15.59341049,
+      "prices": {
+        "95": 1.436,
+        "dizel": 1.465,
+        "98": null,
+        "100": 1.671,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.071,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 22. marec 2026",
+      "zip_code": "8250"
+    },
+    {
       "pk": 2164,
       "franchise": 1,
       "name": "PETROL SLOVENSKE  KONJICE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-19:00\n\nNedelja, Praznik\n08:00-11:30, 12:00-16:00\n",
       "zip_code": "3333"
-    },
-    {
-      "pk": 2170,
-      "franchise": 1,
-      "name": "PETROL MOZIRJE",
-      "address": "NA TRGU 55",
-      "lat": 46.34033444,
-      "lng": 14.96889829,
-      "prices": {
-        "95": 1.436,
-        "dizel": 1.465,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.071,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-19:00\n",
-      "zip_code": "3330"
     }
   ],
   "position": null
