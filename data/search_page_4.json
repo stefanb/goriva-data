@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 856,
-      "franchise": 2,
-      "name": "BS MOL SMEDNIK",
-      "address": "Smednik 12a",
-      "lat": 45.90773,
-      "lng": 15.37137,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.77,
-        "dizel-premium": 1.717,
-        "avtoplin-lpg": 0.847,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Novo Mesto",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "8274"
-    },
-    {
-      "pk": 857,
-      "franchise": 2,
-      "name": "BS MOL SPODNJA IDRIJA",
-      "address": "Vojkova ulica 24",
-      "lat": 46.01699,
-      "lng": 14.0288,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.77,
-        "dizel-premium": 1.717,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "5280"
-    },
-    {
-      "pk": 858,
-      "franchise": 2,
-      "name": "BS MOL SPODNJI DUPLEK",
-      "address": "C. 4.julija 69",
-      "lat": 46.501143,
-      "lng": 15.751535,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.77,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "2241"
-    },
-    {
       "pk": 859,
       "franchise": 2,
       "name": "BS MOL STARI TRG",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Ponedeljek\n00:00-23:00\n\nTorek, Sreda, Četrtek, Petek, Sobota\n05:00-23:00\n\nNedelja\n08:00-23:59\n\nPraznik\n08:00-20:00\n",
       "zip_code": "3000"
+    },
+    {
+      "pk": 1559,
+      "franchise": 2,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.892,
+        "dizel-premium": 1.839,
+        "avtoplin-lpg": 0.877,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 1560,
+      "franchise": 2,
+      "name": "BS MOL ROŽNA DOLINA",
+      "address": "ULICA ANGELA BESEDNJAKA 8A",
+      "lat": 45.9404582,
+      "lng": 13.6399226,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.77,
+        "dizel-premium": 1.717,
+        "avtoplin-lpg": 0.847,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "5000"
+    },
+    {
+      "pk": 1561,
+      "franchise": 2,
+      "name": "BS MOL RADVANJE MARIBOR",
+      "address": "STRELIŠKA CESTA 16/A",
+      "lat": 46.5360559,
+      "lng": 15.6202679,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.77,
+        "dizel-premium": 1.717,
+        "avtoplin-lpg": 0.847,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "2000"
     }
   ],
   "position": null
