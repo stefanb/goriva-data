@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 1983,
-      "franchise": 1,
-      "name": "PETROL GOLO BRDO V BRDIH",
-      "address": "GOLO BRDO 10B",
-      "lat": 46.054382,
-      "lng": 13.497999,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-17:00, 17:30-20:00\n\nSobota\n07:00-10:00, 10:30-17:00, 17:30-20:00\n\nNedelja, Praznik\n08:00-12:00, 12:45-20:00\n",
-      "zip_code": "5212"
-    },
-    {
       "pk": 1984,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "07:00-22:00\n",
       "zip_code": "5212"
+    },
+    {
+      "pk": 2008,
+      "franchise": 1,
+      "name": "PETROL ŠEMPAS AC - JUG",
+      "address": "ŠEMPAS 160C",
+      "lat": 45.917,
+      "lng": 13.719403,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.819,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.879,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "5261"
     }
   ],
   "position": null

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1931,
-      "franchise": 1,
-      "name": "PETROL RUŠE",
-      "address": "INDUSTRIJSKA ULICA 4",
-      "lat": 46.54026886,
-      "lng": 15.51724169,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-16:00\n",
-      "zip_code": "2342"
-    },
-    {
       "pk": 1932,
       "franchise": 1,
       "name": "PETROL PRAGERSKO",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "2000"
+    },
+    {
+      "pk": 1957,
+      "franchise": 1,
+      "name": "PETROL KOBARID",
+      "address": "GORIŠKA CESTA 8",
+      "lat": 46.2417162,
+      "lng": 13.58250354,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-21:00, 21:00-00:00\n\nSobota\n00:00-07:00, 07:00-21:00, 21:00-00:00\n\nNedelja, Praznik\n00:00-08:00, 08:00-21:00, 21:00-00:00\n",
+      "zip_code": "5222"
     }
   ],
   "position": null
