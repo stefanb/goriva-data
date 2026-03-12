@@ -292,6 +292,30 @@
       "zip_code": "9221"
     },
     {
+      "pk": 1972,
+      "franchise": 1,
+      "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
+      "address": "TIŠINSKA ULICA 29D",
+      "lat": 46.651421,
+      "lng": 16.14565,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 25. marec 2026",
+      "zip_code": "9000"
+    },
+    {
       "pk": 1973,
       "franchise": 1,
       "name": "PETROL GODOVIČ",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n",
       "zip_code": "5000"
-    },
-    {
-      "pk": 1985,
-      "franchise": 1,
-      "name": "PETROL ŠEMPAS",
-      "address": "ŠEMPAS 161A",
-      "lat": 45.93039187,
-      "lng": 13.73978149,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-17:00, 17:30-19:00\n\nSobota\n08:00-10:00, 10:30-17:00, 17:30-19:00\n\nNedelja, Praznik\n08:00-12:00, 12:30-15:00\n",
-      "zip_code": "5261"
     }
   ],
   "position": null

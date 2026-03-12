@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2244,
+      "franchise": 3,
+      "name": "BS MAXEN DOLNJI LAKOŠ",
+      "address": "Glavna ulica bš",
+      "lat": 46.5525523,
+      "lng": 16.430912,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "9220"
+    },
+    {
       "pk": 2245,
       "franchise": 3,
       "name": "BS MAXEN SELNICA OB DRAVI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "4290"
-    },
-    {
-      "pk": 2289,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO KRANJ",
-      "address": "Šuceva ulica 23 a",
-      "lat": 46.246355,
-      "lng": 14.378,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "4000"
     }
   ],
   "position": null
