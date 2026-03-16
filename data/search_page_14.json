@@ -292,30 +292,6 @@
       "zip_code": "8333"
     },
     {
-      "pk": 2152,
-      "franchise": 1,
-      "name": "PETROL ŠENTJERNEJ",
-      "address": "PRVOMAJSKA CESTA 10",
-      "lat": 45.8438361,
-      "lng": 15.34063504,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 29. marec 2026",
-      "zip_code": "8310"
-    },
-    {
       "pk": 2153,
       "franchise": 1,
       "name": "PETROL DVOR PRI ŽUŽEMBERKU",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-18:00\n\nNedelja, Praznik\n08:00-16:00\n",
       "zip_code": "3320"
+    },
+    {
+      "pk": 2166,
+      "franchise": 1,
+      "name": "PETROL VRANSKO",
+      "address": "VRANSKO 74A",
+      "lat": 46.24594145,
+      "lng": 14.95996662,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.159,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-19:00\n\nNedelja, Praznik\n08:00-19:00\n",
+      "zip_code": "3305"
     }
   ],
   "position": null

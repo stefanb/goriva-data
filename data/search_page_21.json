@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2363,
-      "franchise": 5,
-      "name": "SHELL TRBOVLJE",
-      "address": "Vodenska cesta 28 A",
-      "lat": 46.14297981487424,
-      "lng": 15.036054161327268,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.779,
-        "dizel-premium": 1.719,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1420"
-    },
-    {
       "pk": 2364,
       "franchise": 5,
       "name": "SHELL IZOLA SEVER",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Zaprto.",
       "zip_code": "1373"
+    },
+    {
+      "pk": 2152,
+      "franchise": 1,
+      "name": "PETROL ŠENTJERNEJ",
+      "address": "PRVOMAJSKA CESTA 10",
+      "lat": 45.8438361,
+      "lng": 15.34063504,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 29. marec 2026",
+      "zip_code": "8310"
     }
   ],
   "position": null
