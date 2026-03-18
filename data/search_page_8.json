@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 1984,
+      "franchise": 1,
+      "name": "PETROL NOVA GORICA - VOJKOVA ZAHOD",
+      "address": "VOJKOVA CESTA 52",
+      "lat": 45.96223076,
+      "lng": 13.64898236,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.698,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n",
+      "zip_code": "5000"
+    },
+    {
       "pk": 1985,
       "franchise": 1,
       "name": "PETROL ŠEMPAS",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "5261"
-    },
-    {
-      "pk": 2009,
-      "franchise": 1,
-      "name": "PETROL KOZINA AC - VZHOD",
-      "address": "BAZOVIŠKA CESTA 23A",
-      "lat": 45.60515,
-      "lng": 13.928699,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": null,
-        "100": 1.819,
-        "dizel-premium": 2.106,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper -> Ljubljana",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6240"
     }
   ],
   "position": null

@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2362,
+      "franchise": 5,
+      "name": "SHELL MARIBOR PTUJSKA ZAHOD",
+      "address": "Ptujska cesta 104",
+      "lat": 46.535127602458296,
+      "lng": 15.661573380820581,
+      "prices": {
+        "95": 1.466,
+        "dizel": 1.528,
+        "98": null,
+        "100": 1.779,
+        "dizel-premium": 1.719,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2363,
       "franchise": 5,
       "name": "SHELL TRBOVLJE",
@@ -458,30 +482,6 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "5290"
-    },
-    {
-      "pk": 1924,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PTUJSKA 136",
-      "address": "PTUJSKA CESTA 136",
-      "lat": 46.53249876,
-      "lng": 15.66655604,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 31. marec 2026",
-      "zip_code": "2000"
     },
     {
       "pk": 1951,
