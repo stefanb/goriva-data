@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
-      "pk": 2006,
-      "franchise": 1,
-      "name": "PETROL HRPELJE",
-      "address": "REŠKA CESTA 51",
-      "lat": 45.604489,
-      "lng": 13.949959,
-      "prices": {
-        "95": 1.581,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.8,
-        "dizel-premium": 2.16,
-        "avtoplin-lpg": 0.849,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "6240"
-    },
-    {
       "pk": 2007,
       "franchise": 1,
       "name": "PETROL ŠTALONI",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-13:00\n",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2041,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - TRŽAŠKA 131A",
+      "address": "TRŽAŠKA CESTA 131A",
+      "lat": 46.03869769,
+      "lng": 14.47088774,
+      "prices": {
+        "95": 1.581,
+        "dizel": 1.696,
+        "98": null,
+        "100": 1.8,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:30-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "1000"
     }
   ],

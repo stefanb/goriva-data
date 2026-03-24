@@ -172,30 +172,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.466,
-        "dizel": 1.528,
-        "98": 1.698,
-        "100": 1.698,
-        "dizel-premium": 1.462,
-        "avtoplin-lpg": null,
-        "KOEL": 1.159,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2313,
       "franchise": 14,
       "name": "West Oil BS Zavrč",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
       "zip_code": "6223"
+    },
+    {
+      "pk": 804,
+      "franchise": 2,
+      "name": "BS MOL KOPER BONIFIKA",
+      "address": "Istrska cesta 14",
+      "lat": 45.5404,
+      "lng": 13.7263,
+      "prices": {
+        "95": 1.581,
+        "dizel": 1.696,
+        "98": null,
+        "100": 1.928,
+        "dizel-premium": 1.935,
+        "avtoplin-lpg": 0.847,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Portorož",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6000"
     }
   ],
   "position": null
