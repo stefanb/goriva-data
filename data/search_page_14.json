@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
-      "pk": 2188,
-      "franchise": 1,
-      "name": "PETROL LAŠKO",
-      "address": "CELJSKA CESTA 40",
-      "lat": 46.16731495,
-      "lng": 15.2329947,
-      "prices": {
-        "95": 1.581,
-        "dizel": 1.696,
-        "98": null,
-        "100": 1.83,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.342,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "3270"
-    },
-    {
       "pk": 2189,
       "franchise": 1,
       "name": "PETROL GORNJI GRAD",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-18:00\n\nSobota\n07:00-18:00\n\nNedelja, Praznik\n08:00-16:00\n",
+      "zip_code": "2380"
+    },
+    {
+      "pk": 2215,
+      "franchise": 1,
+      "name": "PETROL SLOVENJ GRADEC - RONKOVA JUG",
+      "address": "RONKOVA ULICA 25",
+      "lat": 46.504186,
+      "lng": 15.090699,
+      "prices": {
+        "95": 1.581,
+        "dizel": 1.696,
+        "98": null,
+        "100": 1.83,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.342,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
       "zip_code": "2380"
     }
   ],

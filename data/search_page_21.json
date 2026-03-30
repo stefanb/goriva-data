@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2176,
-      "franchise": 1,
-      "name": "PETROL TEPANJE AC - VZHOD",
-      "address": "SPODNJE GRUŠOVJE 10B",
-      "lat": 46.347484,
-      "lng": 15.48757,
-      "prices": {
-        "95": 1.802,
-        "dizel": 1.949,
-        "98": null,
-        "100": 1.951,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.879,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "3210"
-    },
-    {
       "pk": 2201,
       "franchise": 1,
       "name": "PETROL ZALOKE AC - JUG",
@@ -506,6 +482,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 12. april 2026",
       "zip_code": "2230"
+    },
+    {
+      "pk": 1956,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PTUJSKA 188",
+      "address": "PTUJSKA CESTA 188",
+      "lat": 46.52829802,
+      "lng": 15.67244913,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 12. april 2026",
+      "zip_code": "2000"
     },
     {
       "pk": 2032,
