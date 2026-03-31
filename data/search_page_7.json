@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1972,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
-      "address": "TIŠINSKA ULICA 29D",
-      "lat": 46.651421,
-      "lng": 16.14565,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.849,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "9000"
-    },
-    {
-      "pk": 1973,
-      "franchise": 1,
-      "name": "PETROL GODOVIČ",
-      "address": "GODOVIČ 2B",
-      "lat": 45.95665729,
-      "lng": 14.09433635,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-17:00, 17:30-19:00\n\nSobota\n07:00-10:00, 10:30-17:00, 17:30-19:00\n",
-      "zip_code": "5275"
-    },
-    {
-      "pk": 1974,
-      "franchise": 1,
-      "name": "PETROL CANKOVA",
-      "address": "CANKOVA 35",
-      "lat": 46.71906544,
-      "lng": 16.02095244,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-18:00\n\nSobota\n07:00-13:00\n",
-      "zip_code": "9261"
-    },
-    {
       "pk": 1975,
       "franchise": 1,
       "name": "PETROL KUZMA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "5271"
+    },
+    {
+      "pk": 2002,
+      "franchise": 1,
+      "name": "PETROL AJŠEVICA",
+      "address": "AJŠEVICA 19",
+      "lat": 45.9530272,
+      "lng": 13.69107053,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "5000"
+    },
+    {
+      "pk": 2003,
+      "franchise": 1,
+      "name": "PETROL CERKNICA",
+      "address": "CESTA 4. MAJA 3A",
+      "lat": 45.78853568,
+      "lng": 14.36984285,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.849,
+        "KOEL": 1.456,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "1380"
+    },
+    {
+      "pk": 2004,
+      "franchise": 1,
+      "name": "PETROL KOPER - ŠMARSKA",
+      "address": "ŠMARSKA CESTA 5F",
+      "lat": 45.53250448,
+      "lng": 13.73568232,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": 2.272,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "05:00-00:00\n",
+      "zip_code": "6000"
     }
   ],
   "position": null
