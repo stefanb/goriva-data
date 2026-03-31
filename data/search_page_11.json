@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2099,
-      "franchise": 1,
-      "name": "PETROL ŠENČUR",
-      "address": "POSLOVNA CONA A 1",
-      "lat": 46.237904,
-      "lng": 14.411983,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:30-21:00\n\nSobota\n05:30-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "4208"
-    },
-    {
       "pk": 2102,
       "franchise": 1,
       "name": "PETROL TRBOVLJE - VODENSKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-19:00\n\nNedelja, Praznik\n07:00-12:00\n",
       "zip_code": "1354"
+    },
+    {
+      "pk": 2129,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - LETALIŠKA",
+      "address": "LETALIŠKA CESTA 38",
+      "lat": 46.0615,
+      "lng": 14.57315,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:30-21:00\n\nSobota\n08:00-20:00\n",
+      "zip_code": "1000"
     }
   ],
   "position": null

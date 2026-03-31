@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1975,
-      "franchise": 1,
-      "name": "PETROL KUZMA",
-      "address": "KUZMA 26B",
-      "lat": 46.834052,
-      "lng": 16.081947,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:30-18:00\n\nSobota\n07:30-13:00\n",
-      "zip_code": "9263"
-    },
-    {
       "pk": 1979,
       "franchise": 1,
       "name": "PETROL VUČJA VAS",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "05:00-00:00\n",
       "zip_code": "6000"
+    },
+    {
+      "pk": 2005,
+      "franchise": 1,
+      "name": "PETROL IZOLA, INDUSTRIJSKA",
+      "address": "INDUSTRIJSKA CESTA 9B",
+      "lat": 45.535631,
+      "lng": 13.671735,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": 2.272,
+        "avtoplin-lpg": 0.849,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "6310"
     }
   ],
   "position": null

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1947,
-      "franchise": 1,
-      "name": "PETROL NOVA GORICA - VOJKOVA VZHOD",
-      "address": "VOJKOVA CESTA 51",
-      "lat": 45.962335,
-      "lng": 13.649495,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-23:00\n",
-      "zip_code": "5000"
-    },
-    {
       "pk": 1948,
       "franchise": 1,
       "name": "PETROL MOŠKANJCI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-18:00\n\nSobota\n07:00-13:00\n",
       "zip_code": "9261"
+    },
+    {
+      "pk": 1975,
+      "franchise": 1,
+      "name": "PETROL KUZMA",
+      "address": "KUZMA 26B",
+      "lat": 46.834052,
+      "lng": 16.081947,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.456,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:30-18:00\n\nSobota\n07:30-13:00\n",
+      "zip_code": "9263"
     }
   ],
   "position": null
