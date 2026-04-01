@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1948,
-      "franchise": 1,
-      "name": "PETROL MOŠKANJCI",
-      "address": "MOŠKANJCI 1G",
-      "lat": 46.41689,
-      "lng": 15.985636,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.049,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-21:00\n",
-      "zip_code": "2272"
-    },
-    {
       "pk": 1950,
       "franchise": 1,
       "name": "PETROL IDRIJA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:30-18:00\n\nSobota\n07:30-13:00\n",
       "zip_code": "9263"
+    },
+    {
+      "pk": 1979,
+      "franchise": 1,
+      "name": "PETROL VUČJA VAS",
+      "address": "BUČEČOVCI 4B",
+      "lat": 46.590862,
+      "lng": 16.107841,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.456,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Pince",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "9242"
     }
   ],
   "position": null

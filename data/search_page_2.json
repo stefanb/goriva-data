@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 804,
-      "franchise": 2,
-      "name": "BS MOL KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": 1.962,
-        "dizel-premium": 2.046,
-        "avtoplin-lpg": 0.847,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6000"
-    },
-    {
       "pk": 806,
       "franchise": 2,
       "name": "BS MOL KOPER ANKARANSKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nApril / Maj\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nJanuar / Februar / Marec / April / Maj / Oktober / November / December\nNedelja, Praznik\n08:00-20:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nJunij / Julij / Avgust / September\nNedelja, Praznik\n07:00-22:00\n",
       "zip_code": "6244"
+    },
+    {
+      "pk": 841,
+      "franchise": 2,
+      "name": "BS MOL PORTOROŽ",
+      "address": "Fizine 17",
+      "lat": 45.515177,
+      "lng": 13.580759,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.912,
+        "dizel-premium": 1.996,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / April / Maj / Oktober / November / December\n06:00-22:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek\n06:00-22:00\n\nJunij / Julij / Avgust / September\nPetek, Sobota, Nedelja, Praznik\n06:00-23:59\n",
+      "zip_code": "6320"
     }
   ],
   "position": null
