@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2030,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - JUG",
+      "address": "POVIR 95",
+      "lat": 45.703393,
+      "lng": 13.940151,
+      "prices": {
+        "95": 1.816,
+        "dizel": 2.049,
+        "98": null,
+        "100": 1.984,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.099,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Fernetiči -> Ljublja",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6210"
+    },
+    {
       "pk": 2031,
       "franchise": 1,
       "name": "PETROL POVIR AC - SEVER",
@@ -576,30 +600,6 @@
       },
       "distance": null,
       "direction": "Ljubljana",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 791,
-      "franchise": 2,
-      "name": "BS MOL FERNETIČI SEVER",
-      "address": "Partizanska c. 130",
-      "lat": 45.70492,
-      "lng": 13.84554,
-      "prices": {
-        "95": 1.817,
-        "dizel": 2.04,
-        "98": null,
-        "100": 2.032,
-        "dizel-premium": 2.178,
-        "avtoplin-lpg": 1.098,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Benetke",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6210"
     }

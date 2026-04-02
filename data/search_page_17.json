@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2290,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO MEDVODE",
+      "address": "Gorenjska cesta 12",
+      "lat": 46.136526,
+      "lng": 14.417849,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1215"
+    },
+    {
       "pk": 2291,
       "franchise": 2,
       "name": "BS MOL PAY&GO LJUBLJANA TOPLARNIŠKA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "0-24",
       "zip_code": "3301"
-    },
-    {
-      "pk": 2340,
-      "franchise": 5,
-      "name": "SHELL KOZINA",
-      "address": "Bazoviška cesta 18",
-      "lat": 45.60911603335073,
-      "lng": 13.93361083463169,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.209,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6240"
     }
   ],
   "position": null

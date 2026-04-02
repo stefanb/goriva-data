@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 791,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI SEVER",
+      "address": "Partizanska c. 130",
+      "lat": 45.70492,
+      "lng": 13.84554,
+      "prices": {
+        "95": 1.817,
+        "dizel": 2.04,
+        "98": null,
+        "100": 2.032,
+        "dizel-premium": 2.178,
+        "avtoplin-lpg": 1.098,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Benetke",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6210"
+    },
+    {
       "pk": 796,
       "franchise": 2,
       "name": "BS MOL GROSUPLJE CIKAVA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 15. april 2026",
       "zip_code": "1370"
-    },
-    {
-      "pk": 2097,
-      "franchise": 1,
-      "name": "PETROL ROVTE",
-      "address": "ROVTE 20C",
-      "lat": 45.96963904,
-      "lng": 14.14181044,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Zaprto.",
-      "zip_code": "1373"
     }
   ],
   "position": null

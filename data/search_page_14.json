@@ -52,6 +52,30 @@
       "zip_code": "3250"
     },
     {
+      "pk": 2187,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER V SAVINJSKI DOLINI",
+      "address": "RIMSKA CESTA 106",
+      "lat": 46.25830238,
+      "lng": 15.11406404,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.456,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 15. april 2026",
+      "zip_code": "3311"
+    },
+    {
       "pk": 2188,
       "franchise": 1,
       "name": "PETROL LAŠKO",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-19:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "2382"
-    },
-    {
-      "pk": 2212,
-      "franchise": 1,
-      "name": "PETROL MUTA",
-      "address": "KOROŠKA CESTA 18",
-      "lat": 46.60459809,
-      "lng": 15.1642458,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.049,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "2366"
     }
   ],
   "position": null
