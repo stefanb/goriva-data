@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2156,
-      "franchise": 1,
-      "name": "PETROL KRŠKO - CESTA 4. JULIJA",
-      "address": "CESTA 4. JULIJA 74",
-      "lat": 45.95503319,
-      "lng": 15.4985082,
-      "prices": {
-        "95": 1.616,
-        "dizel": 1.807,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.456,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-19:30\n",
-      "zip_code": "8270"
-    },
-    {
       "pk": 2157,
       "franchise": 1,
       "name": "PETROL TRŽIŠČE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n08:00-11:00, 11:30-15:00\n\nSobota\n08:00-11:00, 11:30-13:00\n",
       "zip_code": "3335"
+    },
+    {
+      "pk": 2185,
+      "franchise": 1,
+      "name": "PETROL PLANINA",
+      "address": "PLANINA PRI SEVNICI 65H",
+      "lat": 46.09842192,
+      "lng": 15.39765344,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.456,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-11:30, 12:00-16:00\n\nSobota\n07:00-11:30, 12:00-14:00\n",
+      "zip_code": "3225"
     }
   ],
   "position": null

@@ -148,30 +148,6 @@
       "zip_code": "2383"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.581,
-        "dizel": 1.696,
-        "98": 1.698,
-        "100": 1.698,
-        "dizel-premium": 1.696,
-        "avtoplin-lpg": null,
-        "KOEL": 1.342,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2316,
       "franchise": 23,
       "name": "BS Žihlava",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "Portorož",
       "open_hours": "00:00-23:59\n",
+      "zip_code": "6000"
+    },
+    {
+      "pk": 806,
+      "franchise": 2,
+      "name": "BS MOL KOPER ANKARANSKA",
+      "address": "Ankaranska c. 5d",
+      "lat": 45.545957,
+      "lng": 13.742681,
+      "prices": {
+        "95": 1.616,
+        "dizel": 1.807,
+        "98": null,
+        "100": 1.912,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n09:00-21:00\n",
       "zip_code": "6000"
     }
   ],
