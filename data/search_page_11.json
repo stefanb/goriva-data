@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
-      "pk": 2086,
-      "franchise": 1,
-      "name": "PETROL NAKLO",
-      "address": "KRANJSKA CESTA 4",
-      "lat": 46.27058563,
-      "lng": 14.31367281,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.555,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-14:00\n",
-      "zip_code": "4202"
-    },
-    {
-      "pk": 2087,
-      "franchise": 1,
-      "name": "PETROL MORAVČE",
-      "address": "PARTIZANSKA CESTA 18",
-      "lat": 46.13700902,
-      "lng": 14.74115067,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.555,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-09:30, 09:55-16:00, 16:20-19:00\n\nSobota\n07:00-12:30, 13:00-18:00\n\nNedelja, Praznik\n08:00-11:40, 12:00-13:00\n",
-      "zip_code": "1251"
-    },
-    {
-      "pk": 2090,
-      "franchise": 1,
-      "name": "PETROL BLAGOVICA",
-      "address": "BLAGOVICA 30",
-      "lat": 46.17650516,
-      "lng": 14.80743334,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.905,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.555,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek\n09:00-12:00, 12:30-16:00\n\nTorek\n09:00-12:00, 12:30-16:00\n\nSreda\n09:00-12:00, 12:30-18:00\n\nČetrtek\n09:00-12:00, 12:30-16:00\n\nPetek\n09:00-12:00, 12:30-16:00\n\nSobota\n08:00-10:00, 10:30-13:00\n",
-      "zip_code": "1223"
-    },
-    {
       "pk": 2091,
       "franchise": 1,
       "name": "PETROL BOHINJSKA BISTRICA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n07:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "4270"
+    },
+    {
+      "pk": 2118,
+      "franchise": 1,
+      "name": "PETROL GABROVKA",
+      "address": "KLANEC PRI GABROVKI 12",
+      "lat": 45.995845,
+      "lng": 14.976083,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-00:00\n",
+      "zip_code": "1274"
+    },
+    {
+      "pk": 2119,
+      "franchise": 1,
+      "name": "PETROL GROSUPLJE",
+      "address": "LJUBLJANSKA CESTA 16A",
+      "lat": 45.958264,
+      "lng": 14.657955,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.905,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.049,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 2121,
+      "franchise": 1,
+      "name": "PETROL KAMNIK - PEROVO",
+      "address": "PEROVO 24",
+      "lat": 46.20908766,
+      "lng": 14.60717566,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.905,
+        "dizel-premium": 2.369,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "05:00-22:00\n",
+      "zip_code": "1241"
     }
   ],
   "position": null

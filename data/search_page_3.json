@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 824,
-      "franchise": 2,
-      "name": "BS MOL MARINA PORTOROŽ",
-      "address": "Seča 188",
-      "lat": 45.50526,
-      "lng": 13.59658,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Januar / Februar / Marec / April / Oktober / November / December\n08:00-14:00\n\nMaj / Junij / Julij / Avgust / September\n09:00-19:00\n",
-      "zip_code": "6320"
-    },
-    {
-      "pk": 826,
-      "franchise": 2,
-      "name": "BS MOL LUCIJA",
-      "address": "Seča 188 a",
-      "lat": 45.50043,
-      "lng": 13.61022,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.555,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "6320"
-    },
-    {
-      "pk": 832,
-      "franchise": 2,
-      "name": "BS MOL MARINA KOPER",
-      "address": "Kopališko nabrežje 5",
-      "lat": 45.55049,
-      "lng": 13.72786,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n08:00-18:00\n\nNedelja, Praznik\n09:00-18:00\n",
-      "zip_code": "6000"
-    },
-    {
       "pk": 834,
       "franchise": 2,
       "name": "BS MOL NOVA VAS",
@@ -602,6 +530,78 @@
       "direction": "Koper",
       "open_hours": "Januar / Februar / Marec / April / Maj / Oktober / November / December\n06:00-22:00\n\nJunij / Julij / Avgust / September\n06:00-23:59\n",
       "zip_code": "6281"
+    },
+    {
+      "pk": 865,
+      "franchise": 2,
+      "name": "BS MOL ŠKOFJA LOKA",
+      "address": "Kidričeva 23a",
+      "lat": 46.168842,
+      "lng": 14.31952,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.955,
+        "dizel-premium": 2.083,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "4220"
+    },
+    {
+      "pk": 866,
+      "franchise": 2,
+      "name": "BS MOL ŠMARJE",
+      "address": "Srgaši 42a",
+      "lat": 45.510467,
+      "lng": 13.707064,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.955,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nJanuar / Februar / Marec / Oktober / November / December\nNedelja, Praznik\n07:00-20:00\n\nApril / Maj\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nApril / Maj\nNedelja, Praznik\n07:00-21:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nJunij / Julij / Avgust / September\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "6274"
+    },
+    {
+      "pk": 867,
+      "franchise": 2,
+      "name": "BS MOL ŠTANJEL",
+      "address": "Štanjel 80",
+      "lat": 45.81842,
+      "lng": 13.84414,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.955,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n09:00-19:00\n\nNedelja, Praznik\n08:00-16:00\n",
+      "zip_code": "6222"
     }
   ],
   "position": null

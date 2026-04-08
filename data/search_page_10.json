@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2057,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RUDNIK ZAHOD",
-      "address": "DOLENJSKA CESTA 242F",
-      "lat": 46.01990756,
-      "lng": 14.54219888,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-19:00\n",
-      "zip_code": "1000"
-    },
-    {
-      "pk": 2058,
-      "franchise": 1,
-      "name": "PETROL ZADVOR",
-      "address": "CESTA II. GRUPE ODREDOV 48",
-      "lat": 46.03588324,
-      "lng": 14.59614121,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-11:30, 12:00-14:00\n",
-      "zip_code": "1261"
-    },
-    {
-      "pk": 2061,
-      "franchise": 1,
-      "name": "PETROL BLED - LJUBLJANSKA JUG",
-      "address": "LJUBLJANSKA CESTA 30",
-      "lat": 46.36846888,
-      "lng": 14.11723896,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.905,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.555,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "4260"
-    },
-    {
       "pk": 2062,
       "franchise": 1,
       "name": "PETROL DOMŽALE - LJUBLJANSKA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n08:00-11:30, 12:00-14:00\n",
       "zip_code": "4280"
+    },
+    {
+      "pk": 2086,
+      "franchise": 1,
+      "name": "PETROL NAKLO",
+      "address": "KRANJSKA CESTA 4",
+      "lat": 46.27058563,
+      "lng": 14.31367281,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-14:00\n",
+      "zip_code": "4202"
+    },
+    {
+      "pk": 2087,
+      "franchise": 1,
+      "name": "PETROL MORAVČE",
+      "address": "PARTIZANSKA CESTA 18",
+      "lat": 46.13700902,
+      "lng": 14.74115067,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-09:30, 09:55-16:00, 16:20-19:00\n\nSobota\n07:00-12:30, 13:00-18:00\n\nNedelja, Praznik\n08:00-11:40, 12:00-13:00\n",
+      "zip_code": "1251"
+    },
+    {
+      "pk": 2090,
+      "franchise": 1,
+      "name": "PETROL BLAGOVICA",
+      "address": "BLAGOVICA 30",
+      "lat": 46.17650516,
+      "lng": 14.80743334,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.905,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek\n09:00-12:00, 12:30-16:00\n\nTorek\n09:00-12:00, 12:30-16:00\n\nSreda\n09:00-12:00, 12:30-18:00\n\nČetrtek\n09:00-12:00, 12:30-16:00\n\nPetek\n09:00-12:00, 12:30-16:00\n\nSobota\n08:00-10:00, 10:30-13:00\n",
+      "zip_code": "1223"
     }
   ],
   "position": null

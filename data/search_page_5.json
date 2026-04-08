@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1576,
-      "franchise": 2,
-      "name": "BS MOL POBREŽJE MARIBOR",
-      "address": "ULICA VELJKA VLAHOVIČA 8",
-      "lat": 46.546333,
-      "lng": 15.674833,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": 2.083,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "2000"
-    },
-    {
-      "pk": 1579,
-      "franchise": 2,
-      "name": "BS MOL ŠENTILJ",
-      "address": "MARIBORSKA CESTA 6",
-      "lat": 46.677917,
-      "lng": 15.652583,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": 2.083,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Nedelja, Praznik\n08:00-20:00\n\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n",
-      "zip_code": ""
-    },
-    {
-      "pk": 1580,
-      "franchise": 2,
-      "name": "BS MOL PTUJ",
-      "address": "PUHOVA ULICA 18A",
-      "lat": 46.421507,
-      "lng": 15.88666,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": 2.083,
-        "avtoplin-lpg": 1.048,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-22:00\n",
-      "zip_code": "2250"
-    },
-    {
       "pk": 1581,
       "franchise": 2,
       "name": "BS MOL ZASAVJE",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-19:00\n",
       "zip_code": "2205"
+    },
+    {
+      "pk": 1938,
+      "franchise": 1,
+      "name": "PETROL POLJČANE",
+      "address": "BISTRIŠKA CESTA 93",
+      "lat": 46.309005,
+      "lng": 15.577384,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nSobota\n07:00-19:00\n\nNedelja, Praznik\n08:00-13:00\n",
+      "zip_code": "2319"
+    },
+    {
+      "pk": 1939,
+      "franchise": 1,
+      "name": "PETROL SLIVNICA ZAHOD",
+      "address": "POT K ČRPALKI 5",
+      "lat": 46.482509,
+      "lng": 15.654919,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-19:00\n",
+      "zip_code": "2312"
+    },
+    {
+      "pk": 1940,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - GOSPOSVETSKA JUG",
+      "address": "GOSPOSVETSKA CESTA 81",
+      "lat": 46.56349021,
+      "lng": 15.62652364,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nSobota\n07:00-17:00\n",
+      "zip_code": "2000"
     }
   ],
   "position": null

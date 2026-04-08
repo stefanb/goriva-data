@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 865,
-      "franchise": 2,
-      "name": "BS MOL ŠKOFJA LOKA",
-      "address": "Kidričeva 23a",
-      "lat": 46.168842,
-      "lng": 14.31952,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": 2.083,
-        "avtoplin-lpg": null,
-        "KOEL": 1.555,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "4220"
-    },
-    {
-      "pk": 866,
-      "franchise": 2,
-      "name": "BS MOL ŠMARJE",
-      "address": "Srgaši 42a",
-      "lat": 45.510467,
-      "lng": 13.707064,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nJanuar / Februar / Marec / Oktober / November / December\nNedelja, Praznik\n07:00-20:00\n\nApril / Maj\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nApril / Maj\nNedelja, Praznik\n07:00-21:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nJunij / Julij / Avgust / September\nNedelja, Praznik\n07:00-22:00\n",
-      "zip_code": "6274"
-    },
-    {
-      "pk": 867,
-      "franchise": 2,
-      "name": "BS MOL ŠTANJEL",
-      "address": "Štanjel 80",
-      "lat": 45.81842,
-      "lng": 13.84414,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.955,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n09:00-19:00\n\nNedelja, Praznik\n08:00-16:00\n",
-      "zip_code": "6222"
-    },
-    {
       "pk": 869,
       "franchise": 2,
       "name": "BS MOL TREBNJE",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "01.09.2025 – \nSobota\n06:00-23:00\n\nPonedeljek, Torek, Sreda, Četrtek, Petek\n05:00-23:00\n\nNedelja, Praznik\n07:00-22:00\n",
       "zip_code": "2373"
+    },
+    {
+      "pk": 1576,
+      "franchise": 2,
+      "name": "BS MOL POBREŽJE MARIBOR",
+      "address": "ULICA VELJKA VLAHOVIČA 8",
+      "lat": 46.546333,
+      "lng": 15.674833,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.955,
+        "dizel-premium": 2.083,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1579,
+      "franchise": 2,
+      "name": "BS MOL ŠENTILJ",
+      "address": "MARIBORSKA CESTA 6",
+      "lat": 46.677917,
+      "lng": 15.652583,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.955,
+        "dizel-premium": 2.083,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Nedelja, Praznik\n08:00-20:00\n\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n",
+      "zip_code": ""
+    },
+    {
+      "pk": 1580,
+      "franchise": 2,
+      "name": "BS MOL PTUJ",
+      "address": "PUHOVA ULICA 18A",
+      "lat": 46.421507,
+      "lng": 15.88666,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.955,
+        "dizel-premium": 2.083,
+        "avtoplin-lpg": 1.048,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-22:00\n",
+      "zip_code": "2250"
     }
   ],
   "position": null
