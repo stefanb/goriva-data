@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2067,
-      "franchise": 1,
-      "name": "PETROL TRBOVLJE - TRG REVOLUCIJE",
-      "address": "TRG REVOLUCIJE 8A",
-      "lat": 46.14637991,
-      "lng": 15.04055907,
-      "prices": {
-        "95": 1.653,
-        "dizel": 1.894,
-        "98": null,
-        "100": 1.905,
-        "dizel-premium": 2.369,
-        "avtoplin-lpg": null,
-        "KOEL": 1.555,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n07:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "1420"
-    },
-    {
       "pk": 2068,
       "franchise": 1,
       "name": "PETROL TRŽIČ - VZHOD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n08:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "1430"
+    },
+    {
+      "pk": 2098,
+      "franchise": 1,
+      "name": "PETROL IVANČNA GORICA",
+      "address": "VODOTUČINE 14",
+      "lat": 45.935276,
+      "lng": 14.804536,
+      "prices": {
+        "95": 1.653,
+        "dizel": 1.894,
+        "98": null,
+        "100": 1.905,
+        "dizel-premium": 2.369,
+        "avtoplin-lpg": 1.049,
+        "KOEL": 1.555,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:30-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "1295"
     }
   ],
   "position": null
