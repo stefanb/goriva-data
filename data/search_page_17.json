@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2288,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO TRŽIČ",
+      "address": "Cesta Ste Marie aux mines 7",
+      "lat": 46.358642,
+      "lng": 14.298618,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.822,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "4290"
+    },
+    {
+      "pk": 2289,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO KRANJ",
+      "address": "Šuceva ulica 23 a",
+      "lat": 46.246355,
+      "lng": 14.378,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.822,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2290,
       "franchise": 2,
       "name": "BS MOL PAY&GO MEDVODE",
@@ -194,6 +242,30 @@
       "direction": "Izvoz Slovenska Bistrica jug",
       "open_hours": "Pon do Pet 7:00 - 20:00\r\nSob             8:00 - 13:00",
       "zip_code": "2310"
+    },
+    {
+      "pk": 2306,
+      "franchise": 33,
+      "name": "Bencinski servis Stella",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.822,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.484,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
     },
     {
       "pk": 2315,
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
       "zip_code": ""
-    },
-    {
-      "pk": 2343,
-      "franchise": 5,
-      "name": "SHELL NOVO MESTO",
-      "address": "Mirnopeška 4, 8000 Novo Mesto",
-      "lat": 45.821327325964894,
-      "lng": 15.150560521690572,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.822,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.219,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 2344,
-      "franchise": 5,
-      "name": "SHELL ARCLIN",
-      "address": "3211 Arclin – Škofja Vas, Arclin 101",
-      "lat": 46.27879929325074,
-      "lng": 15.300271376669105,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.822,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.219,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
-      "zip_code": "3211"
-    },
-    {
-      "pk": 2345,
-      "franchise": 5,
-      "name": "SHELL DRNOVO",
-      "address": "Velika Vas pri Krškem 69, 8273 Drnovo",
-      "lat": 45.92022102331869,
-      "lng": 15.47376189244999,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.822,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.219,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-22h, Sat 6-20:30h, Sun 8-20h",
-      "zip_code": "8273"
     }
   ],
   "position": null
