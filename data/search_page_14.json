@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=13&position=&radius=",
   "results": [
     {
+      "pk": 2183,
+      "franchise": 1,
+      "name": "PETROL PONIKVA",
+      "address": "PONIKVA 36A",
+      "lat": 46.25437076,
+      "lng": 15.44383892,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.822,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-00:00\n",
+      "zip_code": "3232"
+    },
+    {
       "pk": 2184,
       "franchise": 1,
       "name": "PETROL SOLČAVA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-19:00\n",
       "zip_code": "2380"
-    },
-    {
-      "pk": 2210,
-      "franchise": 1,
-      "name": "PETROL PREVALJE",
-      "address": "PERZONALI 49",
-      "lat": 46.54278188,
-      "lng": 14.90387241,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.822,
-        "98": null,
-        "100": 1.868,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.484,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "2391"
     }
   ],
   "position": null

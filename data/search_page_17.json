@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2287,
+      "franchise": 2,
+      "name": "BS MOL LAŠKO",
+      "address": "Celjska cesta 2",
+      "lat": 46.162431,
+      "lng": 15.23171,
+      "prices": {
+        "95": 1.62,
+        "dizel": 1.822,
+        "98": null,
+        "100": 1.921,
+        "dizel-premium": 2.011,
+        "avtoplin-lpg": null,
+        "KOEL": 1.484,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-19:00\n",
+      "zip_code": "3270"
+    },
+    {
       "pk": 2288,
       "franchise": 2,
       "name": "BS MOL PAY&GO TRŽIČ",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "0-24",
       "zip_code": "3301"
-    },
-    {
-      "pk": 2340,
-      "franchise": 5,
-      "name": "SHELL KOZINA",
-      "address": "Bazoviška cesta 18",
-      "lat": 45.60911603335073,
-      "lng": 13.93361083463169,
-      "prices": {
-        "95": 1.62,
-        "dizel": 1.822,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.219,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6240"
     }
   ],
   "position": null
