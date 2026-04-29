@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 1553,
-      "franchise": 2,
-      "name": "BS MOL SLOVENSKA BISTRICA",
-      "address": "LJUBLJANSKA CESTA 91",
-      "lat": 46.38245,
-      "lng": 15.563571,
-      "prices": {
-        "95": 1.635,
-        "dizel": 1.708,
-        "98": null,
-        "100": 1.929,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": ""
-    },
-    {
       "pk": 1554,
       "franchise": 2,
       "name": "BS MOL MURSKA SOBOTA",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-19:00\n\nNedelja, Praznik\n08:00-16:00\n",
+      "zip_code": "2000"
+    },
+    {
+      "pk": 1925,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - VALVASORJEVA",
+      "address": "VALVASORJEVA ULICA 51",
+      "lat": 46.555036,
+      "lng": 15.633782,
+      "prices": {
+        "95": 1.635,
+        "dizel": 1.708,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.352,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-19:00\n",
       "zip_code": "2000"
     }
   ],
