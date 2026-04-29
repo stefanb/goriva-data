@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2289,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO KRANJ",
-      "address": "Šuceva ulica 23 a",
-      "lat": 46.246355,
-      "lng": 14.378,
-      "prices": {
-        "95": 1.635,
-        "dizel": 1.708,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "4000"
-    },
-    {
-      "pk": 2290,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO MEDVODE",
-      "address": "Gorenjska cesta 12",
-      "lat": 46.136526,
-      "lng": 14.417849,
-      "prices": {
-        "95": 1.635,
-        "dizel": 1.708,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1215"
-    },
-    {
       "pk": 2291,
       "franchise": 2,
       "name": "BS MOL PAY&GO LJUBLJANA TOPLARNIŠKA",
@@ -316,6 +268,30 @@
       "zip_code": "4220"
     },
     {
+      "pk": 2306,
+      "franchise": 33,
+      "name": "Bencinski servis Stella",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.635,
+        "dizel": 1.708,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.352,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
+    },
+    {
       "pk": 2307,
       "franchise": 19,
       "name": "Bencinski servis Sodražica",
@@ -338,6 +314,30 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.635,
+        "dizel": 1.708,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.352,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
       "pk": 2316,
