@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2287,
-      "franchise": 2,
-      "name": "BS MOL LAŠKO",
-      "address": "Celjska cesta 2",
-      "lat": 46.162431,
-      "lng": 15.23171,
-      "prices": {
-        "95": 1.635,
-        "dizel": 1.708,
-        "98": null,
-        "100": 1.929,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": 1.352,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-19:00\n",
-      "zip_code": "3270"
-    },
-    {
-      "pk": 2288,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO TRŽIČ",
-      "address": "Cesta Ste Marie aux mines 7",
-      "lat": 46.358642,
-      "lng": 14.298618,
-      "prices": {
-        "95": 1.635,
-        "dizel": 1.708,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "4290"
-    },
-    {
       "pk": 2289,
       "franchise": 2,
       "name": "BS MOL PAY&GO KRANJ",
@@ -386,6 +338,54 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2316,
+      "franchise": 23,
+      "name": "BS Žihlava",
+      "address": "Žihlava 15",
+      "lat": 46.55,
+      "lng": 16.0396,
+      "prices": {
+        "95": 1.635,
+        "dizel": 1.708,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Gornja Radgona - Ljutomer",
+      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9244"
+    },
+    {
+      "pk": 2317,
+      "franchise": 23,
+      "name": "BS Lemerje",
+      "address": "Lemerje 2",
+      "lat": 46.7094,
+      "lng": 16.1102,
+      "prices": {
+        "95": 1.635,
+        "dizel": 1.708,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Murska Sobota - Grad (Kuzma)",
+      "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
+      "zip_code": "9201"
     },
     {
       "pk": 2323,
