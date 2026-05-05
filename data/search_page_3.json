@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 841,
-      "franchise": 2,
-      "name": "BS MOL PORTOROŽ",
-      "address": "Fizine 17",
-      "lat": 45.515177,
-      "lng": 13.580759,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.961,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Januar / Februar / Marec / April / Maj / Oktober / November / December\n06:00-22:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek\n06:00-22:00\n\nJunij / Julij / Avgust / September\nPetek, Sobota, Nedelja, Praznik\n06:00-23:59\n",
-      "zip_code": "6320"
-    },
-    {
-      "pk": 842,
-      "franchise": 2,
-      "name": "BS MOL POSTOJNA TITOVA",
-      "address": "Titova c.12",
-      "lat": 45.77113,
-      "lng": 14.201277,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.961,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.38,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "6230"
-    },
-    {
-      "pk": 846,
-      "franchise": 2,
-      "name": "BS MOL RAKEK",
-      "address": "Partizanska 73a",
-      "lat": 45.808113,
-      "lng": 14.329101,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.961,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.38,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "1381"
-    },
-    {
       "pk": 849,
       "franchise": 2,
       "name": "BS MOL ROŽNA DOLINA SEVER",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "5290"
+    },
+    {
+      "pk": 875,
+      "franchise": 2,
+      "name": "BS MOL ZAGRADEC",
+      "address": "Zagradec 34",
+      "lat": 45.85943,
+      "lng": 14.83524,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.961,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.38,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-20:00\n",
+      "zip_code": "1303"
+    },
+    {
+      "pk": 1548,
+      "franchise": 2,
+      "name": "BS MOL KIDRIČEVO",
+      "address": "TOVARNIŠKA CESTA 8A",
+      "lat": 46.404094,
+      "lng": 15.799085,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.961,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Nedelja, Praznik\n08:00-20:00\n\nApril / Maj / Junij / Julij / Avgust / September / Oktober\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-23:00\n\nJanuar / Februar / Marec / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nJanuar / Februar / Marec / November / December\nSobota\n06:00-22:00\n",
+      "zip_code": "2325"
+    },
+    {
+      "pk": 1552,
+      "franchise": 2,
+      "name": "BS MOL KOČEVJE",
+      "address": "LJUBLJANSKA CESTA 40",
+      "lat": 45.6488405,
+      "lng": 14.8544269,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.961,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-23:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "1330"
     }
   ],
   "position": null

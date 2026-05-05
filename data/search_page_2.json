@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 804,
-      "franchise": 2,
-      "name": "BS MOL KOPER BONIFIKA",
-      "address": "Istrska cesta 14",
-      "lat": 45.5404,
-      "lng": 13.7263,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.999,
-        "dizel-premium": 1.975,
-        "avtoplin-lpg": 1.048,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Portorož",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 806,
-      "franchise": 2,
-      "name": "BS MOL KOPER ANKARANSKA",
-      "address": "Ankaranska c. 5d",
-      "lat": 45.545957,
-      "lng": 13.742681,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.961,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n09:00-21:00\n",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 807,
-      "franchise": 2,
-      "name": "BS MOL KOPER ŠMARSKA",
-      "address": "Šmarska c. 4a",
-      "lat": 45.530207,
-      "lng": 13.734777,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.961,
-        "dizel-premium": 1.925,
-        "avtoplin-lpg": null,
-        "KOEL": 1.38,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "6000"
-    },
-    {
       "pk": 808,
       "franchise": 2,
       "name": "BS MOL KOZINA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nApril / Maj\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nJanuar / Februar / Marec / April / Maj / Oktober / November / December\nNedelja, Praznik\n08:00-20:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nJunij / Julij / Avgust / September\nNedelja, Praznik\n07:00-22:00\n",
       "zip_code": "6244"
+    },
+    {
+      "pk": 841,
+      "franchise": 2,
+      "name": "BS MOL PORTOROŽ",
+      "address": "Fizine 17",
+      "lat": 45.515177,
+      "lng": 13.580759,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.961,
+        "dizel-premium": 1.925,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / April / Maj / Oktober / November / December\n06:00-22:00\n\nJunij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek\n06:00-22:00\n\nJunij / Julij / Avgust / September\nPetek, Sobota, Nedelja, Praznik\n06:00-23:59\n",
+      "zip_code": "6320"
+    },
+    {
+      "pk": 842,
+      "franchise": 2,
+      "name": "BS MOL POSTOJNA TITOVA",
+      "address": "Titova c.12",
+      "lat": 45.77113,
+      "lng": 14.201277,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.961,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.38,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 846,
+      "franchise": 2,
+      "name": "BS MOL RAKEK",
+      "address": "Partizanska 73a",
+      "lat": 45.808113,
+      "lng": 14.329101,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.961,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.38,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "1381"
     }
   ],
   "position": null
