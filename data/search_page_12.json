@@ -340,30 +340,6 @@
       "zip_code": "8210"
     },
     {
-      "pk": 2148,
-      "franchise": 1,
-      "name": "PETROL NOVO MESTO - SEIDLOVA",
-      "address": "SEIDLOVA CESTA 50",
-      "lat": 45.81283786,
-      "lng": 15.17472988,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.961,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.38,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 20. maj 2026",
-      "zip_code": "8000"
-    },
-    {
       "pk": 2149,
       "franchise": 1,
       "name": "PETROL BRESTANICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-12:00, 12:30-15:00\n\nNedelja, Praznik\n08:00-11:30\n",
       "zip_code": "8257"
+    },
+    {
+      "pk": 2160,
+      "franchise": 1,
+      "name": "PETROL ŠKOCJAN",
+      "address": "DOLNJA STARA VAS 50",
+      "lat": 45.89728,
+      "lng": 15.300093,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.38,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-11:30, 12:00-15:00\n\nNedelja, Praznik\n07:00-08:00, 08:30-12:00\n",
+      "zip_code": "8275"
     }
   ],
   "position": null

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2248,
-      "franchise": 3,
-      "name": "BS MAXEN PREDGRAD",
-      "address": "Paka pri Predgradu bš",
-      "lat": 45.5025792,
-      "lng": 15.0603264,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8342"
-    },
-    {
       "pk": 2249,
       "franchise": 3,
       "name": "BS MAXEN MEŽICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "1295"
+    },
+    {
+      "pk": 2294,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO POSTOJNA",
+      "address": "Industrijska cesta 4",
+      "lat": 45.769831,
+      "lng": 14.197979,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6230"
     }
   ],
   "position": null

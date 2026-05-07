@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2294,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO POSTOJNA",
-      "address": "Industrijska cesta 4",
-      "lat": 45.769831,
-      "lng": 14.197979,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6230"
-    },
-    {
       "pk": 2295,
       "franchise": 2,
       "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6240"
+    },
+    {
+      "pk": 2341,
+      "franchise": 5,
+      "name": "SHELL LJUTOMER",
+      "address": "Kolodvorska ulica 2A",
+      "lat": 46.52613423254767,
+      "lng": 16.193609363823846,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.999,
+        "dizel-premium": 2.129,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
+      "zip_code": "9240"
     }
   ],
   "position": null
