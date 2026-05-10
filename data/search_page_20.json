@@ -436,6 +436,30 @@
       "zip_code": "6210"
     },
     {
+      "pk": 2032,
+      "franchise": 1,
+      "name": "PETROL VIPAVA AC - SEVER",
+      "address": "GORIŠKA CESTA 3A",
+      "lat": 45.829264,
+      "lng": 13.958807,
+      "prices": {
+        "95": 1.855,
+        "dizel": 1.879,
+        "98": null,
+        "100": 2.102,
+        "dizel-premium": 2.339,
+        "avtoplin-lpg": 1.109,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 23. maj 2026",
+      "zip_code": "5271"
+    },
+    {
       "pk": 2059,
       "franchise": 1,
       "name": "PETROL LJUBLJANA AC - BARJE SEVER",
@@ -578,30 +602,6 @@
       "direction": "Ljubljana -> Karavan",
       "open_hours": "00:00-23:59\n",
       "zip_code": "4270"
-    },
-    {
-      "pk": 2100,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - ZAHOD",
-      "address": "GASILSKA CESTA 55",
-      "lat": 46.22788,
-      "lng": 14.419719,
-      "prices": {
-        "95": 1.855,
-        "dizel": 1.879,
-        "98": null,
-        "100": 2.102,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.109,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "4208"
     }
   ],
   "position": null
