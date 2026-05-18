@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
-      "pk": 2218,
-      "franchise": 1,
-      "name": "PETROL ŠENTJUR",
-      "address": "CESTA KOZJANSKEGA ODREDA 21A",
-      "lat": 46.21307795,
-      "lng": 15.40036462,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.971,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.029,
-        "KOEL": 1.373,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "3230"
-    },
-    {
       "pk": 2219,
       "franchise": 1,
       "name": "PETROL DOBRNA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8342"
+    },
+    {
+      "pk": 2249,
+      "franchise": 3,
+      "name": "BS MAXEN MEŽICA",
+      "address": "Mariborska cesta bš",
+      "lat": 46.5236096,
+      "lng": 14.8536976,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2392"
     }
   ],
   "position": null

@@ -196,30 +196,6 @@
       "zip_code": "3252"
     },
     {
-      "pk": 2197,
-      "franchise": 1,
-      "name": "PETROL ŽALEC",
-      "address": "GOTOVELJSKA CESTA 10",
-      "lat": 46.256248,
-      "lng": 15.156901,
-      "prices": {
-        "95": 1.683,
-        "dizel": 1.734,
-        "98": null,
-        "100": 1.971,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.029,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 31. maj 2026",
-      "zip_code": "3310"
-    },
-    {
       "pk": 2198,
       "franchise": 1,
       "name": "PETROL PODPLAT",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nSobota\n07:00-15:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "3220"
+    },
+    {
+      "pk": 2218,
+      "franchise": 1,
+      "name": "PETROL ŠENTJUR",
+      "address": "CESTA KOZJANSKEGA ODREDA 21A",
+      "lat": 46.21307795,
+      "lng": 15.40036462,
+      "prices": {
+        "95": 1.683,
+        "dizel": 1.734,
+        "98": null,
+        "100": 1.971,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.029,
+        "KOEL": 1.373,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "3230"
     }
   ],
   "position": null
