@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2295,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
-      "address": "Vilharjeva cesta 58",
-      "lat": 45.576279,
-      "lng": 14.23011,
-      "prices": {
-        "95": 1.709,
-        "dizel": 1.753,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6250"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
       "zip_code": ""
+    },
+    {
+      "pk": 2343,
+      "franchise": 5,
+      "name": "SHELL NOVO MESTO",
+      "address": "Mirnopeška 4, 8000 Novo Mesto",
+      "lat": 45.821327325964894,
+      "lng": 15.150560521690572,
+      "prices": {
+        "95": 1.709,
+        "dizel": 1.753,
+        "98": null,
+        "100": 2.019,
+        "dizel-premium": 2.139,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": "8000"
     }
   ],
   "position": null
