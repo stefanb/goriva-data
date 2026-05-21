@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2158,
+      "franchise": 1,
+      "name": "PETROL ČRNOMELJ - KOČEVJE",
+      "address": "KOČEVJE 22B",
+      "lat": 45.56606773,
+      "lng": 15.17772212,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 03. junij 2026",
+      "zip_code": "8340"
+    },
+    {
       "pk": 2197,
       "franchise": 1,
       "name": "PETROL ŽALEC",
@@ -26,30 +50,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 03. junij 2026",
       "zip_code": "3310"
-    },
-    {
-      "pk": 2203,
-      "franchise": 1,
-      "name": "PETROL LOČE",
-      "address": "SLOMŠKOVA ULICA 6",
-      "lat": 46.30051455,
-      "lng": 15.50179414,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 03. junij 2026",
-      "zip_code": "3215"
     },
     {
       "pk": 2221,
