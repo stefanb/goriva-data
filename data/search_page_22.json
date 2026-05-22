@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2148,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - SEIDLOVA",
+      "address": "SEIDLOVA CESTA 50",
+      "lat": 45.81283786,
+      "lng": 15.17472988,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 04. junij 2026",
+      "zip_code": "8000"
+    },
+    {
       "pk": 2158,
       "franchise": 1,
       "name": "PETROL ČRNOMELJ - KOČEVJE",
@@ -26,30 +50,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 04. junij 2026",
       "zip_code": "8340"
-    },
-    {
-      "pk": 2197,
-      "franchise": 1,
-      "name": "PETROL ŽALEC",
-      "address": "GOTOVELJSKA CESTA 10",
-      "lat": 46.256248,
-      "lng": 15.156901,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 04. junij 2026",
-      "zip_code": "3310"
     },
     {
       "pk": 2221,
