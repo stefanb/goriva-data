@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2367,
-      "franchise": 5,
-      "name": "SHELL KOČEVJE",
-      "address": "Gornje Ložine 1A",
-      "lat": 45.68934644998123,
-      "lng": 14.799691221318923,
-      "prices": {
-        "95": 1.709,
-        "dizel": 1.753,
-        "98": null,
-        "100": 2.019,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1332"
-    },
-    {
-      "pk": 2368,
-      "franchise": 5,
-      "name": "SHELL SLOVENSKE KONJICE",
-      "address": "Liptovska cesta 32B",
-      "lat": 46.34011896303725,
-      "lng": 15.418721900923186,
-      "prices": {
-        "95": 1.709,
-        "dizel": 1.753,
-        "98": null,
-        "100": 2.019,
-        "dizel-premium": 1.679,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2310"
-    },
-    {
       "pk": 2369,
       "franchise": 5,
       "name": "SHELL LUCIJA VZHOD",
@@ -602,6 +554,54 @@
       "direction": "Nova Gorica",
       "open_hours": "00:00-23:59\n",
       "zip_code": "5261"
+    },
+    {
+      "pk": 1559,
+      "franchise": 2,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.809,
+        "dizel": 1.853,
+        "98": null,
+        "100": 2.098,
+        "dizel-premium": 2.044,
+        "avtoplin-lpg": 1.078,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "9220"
+    },
+    {
+      "pk": 1568,
+      "franchise": 2,
+      "name": "BS MOL LORMANJE",
+      "address": "LORMANJE 22D",
+      "lat": 46.566917,
+      "lng": 15.8255,
+      "prices": {
+        "95": 1.809,
+        "dizel": 1.853,
+        "98": null,
+        "100": 2.098,
+        "dizel-premium": 2.044,
+        "avtoplin-lpg": 1.078,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "smer Maribor",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "2230"
     }
   ],
   "position": null

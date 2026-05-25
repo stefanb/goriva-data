@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2201,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - JUG",
-      "address": "ZALOKE 16",
-      "lat": 45.908304,
-      "lng": 15.400616,
-      "prices": {
-        "95": 1.882,
-        "dizel": 1.898,
-        "98": null,
-        "100": 2.146,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.089,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "8274"
-    },
-    {
-      "pk": 2202,
-      "franchise": 1,
-      "name": "PETROL ZALOKE AC - SEVER",
-      "address": "ZALOKE 15",
-      "lat": 45.909601,
-      "lng": 15.400316,
-      "prices": {
-        "95": 1.882,
-        "dizel": 1.898,
-        "98": null,
-        "100": 2.146,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.089,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "8274"
-    },
-    {
       "pk": 2216,
       "franchise": 1,
       "name": "PETROL LOPATA AC - SEVER",
@@ -304,7 +256,7 @@
         "98": null,
         "100": 2.156,
         "dizel-premium": 2.362,
-        "avtoplin-lpg": 0.879,
+        "avtoplin-lpg": null,
         "KOEL": null,
         "hvo": null,
         "cng": null,
@@ -352,7 +304,7 @@
         "98": null,
         "100": 2.156,
         "dizel-premium": 2.362,
-        "avtoplin-lpg": 0.879,
+        "avtoplin-lpg": null,
         "KOEL": null,
         "hvo": null,
         "cng": null,
@@ -552,7 +504,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Zaprto.",
+      "open_hours": "Začasno zaprto do 07. junij 2026",
       "zip_code": "6310"
     },
     {
@@ -600,8 +552,56 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "Zaprto.",
+      "open_hours": "Začasno zaprto do 07. junij 2026",
       "zip_code": "1373"
+    },
+    {
+      "pk": 2148,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - SEIDLOVA",
+      "address": "SEIDLOVA CESTA 50",
+      "lat": 45.81283786,
+      "lng": 15.17472988,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 07. junij 2026",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 2150,
+      "franchise": 1,
+      "name": "PETROL VAVTA VAS",
+      "address": "VAVTA VAS 1A",
+      "lat": 45.78222236,
+      "lng": 15.08335069,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 07. junij 2026",
+      "zip_code": "8351"
     }
   ],
   "position": null
