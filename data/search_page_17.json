@@ -4,19 +4,19 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2294,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO POSTOJNA",
-      "address": "Industrijska cesta 4",
-      "lat": 45.769831,
-      "lng": 14.197979,
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
       "prices": {
         "95": 1.714,
         "dizel": 1.753,
         "98": null,
         "100": null,
         "dizel-premium": null,
-        "avtoplin-lpg": null,
+        "avtoplin-lpg": 0.899,
         "KOEL": null,
         "hvo": null,
         "cng": null,
@@ -24,32 +24,8 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6230"
-    },
-    {
-      "pk": 2295,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
-      "address": "Vilharjeva cesta 58",
-      "lat": 45.576279,
-      "lng": 14.23011,
-      "prices": {
-        "95": 1.714,
-        "dizel": 1.753,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6250"
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
     },
     {
       "pk": 2297,
@@ -362,6 +338,30 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
+    },
+    {
+      "pk": 2327,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Bezena",
+      "address": "Bezena 99",
+      "lat": 46.5499175582367,
+      "lng": 15.538353293954877,
+      "prices": {
+        "95": 1.714,
+        "dizel": 1.734,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas: PONEDELJEK - NEDELJA: 06:00 - 22:00",
+      "zip_code": "2342"
     },
     {
       "pk": 2332,
