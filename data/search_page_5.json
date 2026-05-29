@@ -532,6 +532,30 @@
       "zip_code": "5280"
     },
     {
+      "pk": 1951,
+      "franchise": 1,
+      "name": "PETROL LENART",
+      "address": "KRAIGHERJEVA ULICA 40",
+      "lat": 46.58401138,
+      "lng": 15.84030408,
+      "prices": {
+        "95": 1.714,
+        "dizel": 1.753,
+        "98": null,
+        "100": 2.003,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.029,
+        "KOEL": 1.388,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 11. junij 2026",
+      "zip_code": "2230"
+    },
+    {
       "pk": 1952,
       "franchise": 1,
       "name": "PETROL ROŽNA DOLINA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-19:00\n\nSobota\n07:00-17:00\n\nNedelja, Praznik\n08:00-12:00\n",
       "zip_code": "9253"
-    },
-    {
-      "pk": 1954,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - POBREŽJE",
-      "address": "ČUFARJEVA CESTA 10",
-      "lat": 46.5542838,
-      "lng": 15.66939413,
-      "prices": {
-        "95": 1.714,
-        "dizel": 1.753,
-        "98": null,
-        "100": 2.003,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.388,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "2000"
     }
   ],
   "position": null
