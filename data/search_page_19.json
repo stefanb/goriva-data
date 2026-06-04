@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2366,
+      "franchise": 5,
+      "name": "SHELL GEDEROVCI",
+      "address": "Gederovci 17a",
+      "lat": 46.679179385276846,
+      "lng": 16.056043959027516,
+      "prices": {
+        "95": 1.603,
+        "dizel": 1.647,
+        "98": null,
+        "100": 1.899,
+        "dizel-premium": 2.029,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": ""
+    },
+    {
       "pk": 2367,
       "franchise": 5,
       "name": "SHELL KOČEVJE",
@@ -576,30 +600,6 @@
       },
       "distance": null,
       "direction": "Fernetiči -> Ljublja",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 2031,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - SEVER",
-      "address": "POVIR 96",
-      "lat": 45.703632,
-      "lng": 13.941688,
-      "prices": {
-        "95": 1.755,
-        "dizel": 1.772,
-        "98": null,
-        "100": 2.025,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.089,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6210"
     }
