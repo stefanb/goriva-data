@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2293,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO IVANČNA GORICA",
+      "address": "Cesta 2. grupe odredov 4",
+      "lat": 45.936326,
+      "lng": 14.805261,
+      "prices": {
+        "95": 1.603,
+        "dizel": 1.647,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1295"
+    },
+    {
       "pk": 2294,
       "franchise": 2,
       "name": "BS MOL PAY&GO POSTOJNA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "0-24",
       "zip_code": "3301"
-    },
-    {
-      "pk": 2340,
-      "franchise": 5,
-      "name": "SHELL KOZINA",
-      "address": "Bazoviška cesta 18",
-      "lat": 45.60911603335073,
-      "lng": 13.93361083463169,
-      "prices": {
-        "95": 1.603,
-        "dizel": 1.647,
-        "98": null,
-        "100": 1.899,
-        "dizel-premium": 2.029,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6240"
     }
   ],
   "position": null

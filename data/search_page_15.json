@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=14&position=&radius=",
   "results": [
     {
+      "pk": 2217,
+      "franchise": 1,
+      "name": "PETROL ŠTORE",
+      "address": "OBRTNIŠKA CESTA 2",
+      "lat": 46.224064,
+      "lng": 15.312733,
+      "prices": {
+        "95": 1.603,
+        "dizel": 1.647,
+        "98": null,
+        "100": 1.904,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.27,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nSobota\n07:00-15:00\n\nNedelja, Praznik\n08:30-12:00\n",
+      "zip_code": "3220"
+    },
+    {
       "pk": 2218,
       "franchise": 1,
       "name": "PETROL ŠENTJUR",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8330"
-    },
-    {
-      "pk": 2248,
-      "franchise": 3,
-      "name": "BS MAXEN PREDGRAD",
-      "address": "Paka pri Predgradu bš",
-      "lat": 45.5025792,
-      "lng": 15.0603264,
-      "prices": {
-        "95": 1.603,
-        "dizel": 1.647,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "8342"
     }
   ],
   "position": null
