@@ -364,30 +364,6 @@
       "zip_code": "1251"
     },
     {
-      "pk": 2090,
-      "franchise": 1,
-      "name": "PETROL BLAGOVICA",
-      "address": "BLAGOVICA 30",
-      "lat": 46.17650516,
-      "lng": 14.80743334,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.685,
-        "98": null,
-        "100": 1.902,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.312,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek\n09:00-12:00, 12:30-16:00\n\nTorek\n09:00-12:00, 12:30-16:00\n\nSreda\n09:00-12:00, 12:30-18:00\n\nČetrtek\n09:00-12:00, 12:30-16:00\n\nPetek\n09:00-12:00, 12:30-16:00\n\nSobota\n08:00-10:00, 10:30-13:00\n",
-      "zip_code": "1223"
-    },
-    {
       "pk": 2091,
       "franchise": 1,
       "name": "PETROL BOHINJSKA BISTRICA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-20:00\n",
       "zip_code": "4280"
+    },
+    {
+      "pk": 2105,
+      "franchise": 1,
+      "name": "PETROL JESENICE - KOROŠKA BELA",
+      "address": "CESTA BORISA KIDRIČA 50",
+      "lat": 46.42262407,
+      "lng": 14.10274656,
+      "prices": {
+        "95": 1.592,
+        "dizel": 1.685,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.312,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-09:00, 09:30-16:00, 16:30-19:00\n\nSobota\n07:00-09:00, 09:30-13:00\n",
+      "zip_code": "4270"
     }
   ],
   "position": null
