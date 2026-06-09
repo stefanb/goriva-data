@@ -244,6 +244,30 @@
       "zip_code": "5270"
     },
     {
+      "pk": 2268,
+      "franchise": 9,
+      "name": "BS Pesniška vrata",
+      "address": "Pesnica pri Mariboru 32e",
+      "lat": 46.601243,
+      "lng": 15.674333,
+      "prices": {
+        "95": 1.592,
+        "dizel": 1.734,
+        "98": 1.903,
+        "100": 1.903,
+        "dizel-premium": 1.685,
+        "avtoplin-lpg": null,
+        "KOEL": 1.312,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
+      "zip_code": "2211"
+    },
+    {
       "pk": 2271,
       "franchise": 2,
       "name": "BS MOL MARIBOR STUDENCI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6230"
-    },
-    {
-      "pk": 2295,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
-      "address": "Vilharjeva cesta 58",
-      "lat": 45.576279,
-      "lng": 14.23011,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.685,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6250"
     }
   ],
   "position": null
