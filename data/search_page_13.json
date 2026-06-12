@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2163,
-      "franchise": 1,
-      "name": "PETROL BREŽICE - TOVARNIŠKA",
-      "address": "TOVARNIŠKA CESTA 2",
-      "lat": 45.91870681,
-      "lng": 15.59341049,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.685,
-        "98": null,
-        "100": 1.902,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.312,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nSobota\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nNedelja, Praznik\n00:00-07:00, 07:00-21:00, 21:00-00:00\n",
-      "zip_code": "8250"
-    },
-    {
       "pk": 2164,
       "franchise": 1,
       "name": "PETROL SLOVENSKE  KONJICE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-12:00, 12:30-18:00\n\nSobota\n07:00-12:00, 12:30-18:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "3342"
+    },
+    {
+      "pk": 2190,
+      "franchise": 1,
+      "name": "PETROL CELJE - LANOVŽ",
+      "address": "IPAVČEVA ULICA 19",
+      "lat": 46.23718054,
+      "lng": 15.25657342,
+      "prices": {
+        "95": 1.592,
+        "dizel": 1.685,
+        "98": null,
+        "100": 1.902,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.312,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "3000"
     }
   ],
   "position": null

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 781,
-      "franchise": 2,
-      "name": "BS MOL DRAVSKO POLJE JUG",
-      "address": "Gerečja vas 1h",
-      "lat": 46.428962,
-      "lng": 15.794118,
-      "prices": {
-        "95": 1.748,
-        "dizel": 1.839,
-        "98": null,
-        "100": 2.048,
-        "dizel-premium": 2.025,
-        "avtoplin-lpg": 1.078,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2288"
-    },
-    {
       "pk": 782,
       "franchise": 2,
       "name": "BS MOL DRAVSKO POLJE SEVER",
@@ -578,6 +554,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 25. junij 2026",
       "zip_code": "1373"
+    },
+    {
+      "pk": 2148,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - SEIDLOVA",
+      "address": "SEIDLOVA CESTA 50",
+      "lat": 45.81283786,
+      "lng": 15.17472988,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-21:00\n\nSobota\n08:00-18:00\n\nNedelja, Praznik\n08:00-15:00\n",
+      "zip_code": "8000"
     },
     {
       "pk": 2150,
