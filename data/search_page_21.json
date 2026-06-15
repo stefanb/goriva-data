@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 781,
+      "franchise": 2,
+      "name": "BS MOL DRAVSKO POLJE JUG",
+      "address": "Gerečja vas 1h",
+      "lat": 46.428962,
+      "lng": 15.794118,
+      "prices": {
+        "95": 1.748,
+        "dizel": 1.839,
+        "98": null,
+        "100": 2.048,
+        "dizel-premium": 2.025,
+        "avtoplin-lpg": 1.078,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Zagreb",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "2288"
+    },
+    {
       "pk": 782,
       "franchise": 2,
       "name": "BS MOL DRAVSKO POLJE SEVER",
@@ -556,12 +580,12 @@
       "zip_code": "1373"
     },
     {
-      "pk": 2148,
+      "pk": 2149,
       "franchise": 1,
-      "name": "PETROL NOVO MESTO - SEIDLOVA",
-      "address": "SEIDLOVA CESTA 50",
-      "lat": 45.81283786,
-      "lng": 15.17472988,
+      "name": "PETROL BRESTANICA",
+      "address": "CESTA PRVIH BORCEV 17",
+      "lat": 45.995159,
+      "lng": 15.476035,
       "prices": {
         "95": null,
         "dizel": null,
@@ -577,31 +601,7 @@
       "distance": null,
       "direction": "",
       "open_hours": "Začasno zaprto do 28. junij 2026",
-      "zip_code": "8000"
-    },
-    {
-      "pk": 2150,
-      "franchise": 1,
-      "name": "PETROL VAVTA VAS",
-      "address": "VAVTA VAS 1A",
-      "lat": 45.78222236,
-      "lng": 15.08335069,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 28. junij 2026",
-      "zip_code": "8351"
+      "zip_code": "8280"
     }
   ],
   "position": null

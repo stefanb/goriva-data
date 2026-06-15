@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 2031,
+      "franchise": 1,
+      "name": "PETROL POVIR AC - SEVER",
+      "address": "POVIR 96",
+      "lat": 45.703632,
+      "lng": 13.941688,
+      "prices": {
+        "95": 1.744,
+        "dizel": 1.809,
+        "98": null,
+        "100": 2.023,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.994,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6210"
+    },
+    {
       "pk": 2032,
       "franchise": 1,
       "name": "PETROL VIPAVA AC - SEVER",
@@ -578,30 +602,6 @@
       "direction": "Maribor",
       "open_hours": "00:00-23:59\n",
       "zip_code": "2211"
-    },
-    {
-      "pk": 781,
-      "franchise": 2,
-      "name": "BS MOL DRAVSKO POLJE JUG",
-      "address": "Gerečja vas 1h",
-      "lat": 46.428962,
-      "lng": 15.794118,
-      "prices": {
-        "95": 1.748,
-        "dizel": 1.839,
-        "98": null,
-        "100": 2.048,
-        "dizel-premium": 2.025,
-        "avtoplin-lpg": 1.078,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Zagreb",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2288"
     }
   ],
   "position": null

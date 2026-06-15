@@ -52,6 +52,30 @@
       "zip_code": "1330"
     },
     {
+      "pk": 2221,
+      "franchise": 1,
+      "name": "PETROL ŽLEBIČ",
+      "address": "BREŽE 1B",
+      "lat": 45.76220176,
+      "lng": 14.70303872,
+      "prices": {
+        "95": 1.592,
+        "dizel": 1.685,
+        "98": null,
+        "100": 1.902,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.312,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n06:00-22:00\n",
+      "zip_code": "1310"
+    },
+    {
       "pk": 2222,
       "franchise": 1,
       "name": "PETROL KOČEVJE - LJUBLJANSKA VZHOD",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8342"
-    },
-    {
-      "pk": 2249,
-      "franchise": 3,
-      "name": "BS MAXEN MEŽICA",
-      "address": "Mariborska cesta bš",
-      "lat": 46.5236096,
-      "lng": 14.8536976,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.685,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2392"
     }
   ],
   "position": null
