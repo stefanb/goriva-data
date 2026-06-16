@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2294,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO POSTOJNA",
-      "address": "Industrijska cesta 4",
-      "lat": 45.769831,
-      "lng": 14.197979,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.718,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6230"
-    },
-    {
       "pk": 2295,
       "franchise": 2,
       "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
@@ -228,12 +204,12 @@
       "lng": 15.965107,
       "prices": {
         "95": 1.592,
-        "dizel": 1.685,
+        "dizel": 1.718,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.312,
+        "KOEL": 1.318,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -276,12 +252,12 @@
       "lng": 15.385325730057207,
       "prices": {
         "95": 1.592,
-        "dizel": 1.685,
+        "dizel": 1.718,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.312,
+        "KOEL": 1.318,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -300,7 +276,7 @@
       "lng": 16.0396,
       "prices": {
         "95": 1.592,
-        "dizel": 1.685,
+        "dizel": 1.718,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -324,7 +300,7 @@
       "lng": 16.1102,
       "prices": {
         "95": 1.592,
-        "dizel": 1.685,
+        "dizel": 1.718,
         "98": null,
         "100": null,
         "dizel-premium": null,
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
       "zip_code": "9240"
+    },
+    {
+      "pk": 2342,
+      "franchise": 5,
+      "name": "SHELL SENOŽETI",
+      "address": "Senožeti 93, 1262 Senožeti",
+      "lat": 46.088862059954124,
+      "lng": 14.716871893530739,
+      "prices": {
+        "95": 1.592,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.889,
+        "dizel-premium": 2.089,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
+      "zip_code": ""
     }
   ],
   "position": null

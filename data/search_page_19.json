@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2367,
-      "franchise": 5,
-      "name": "SHELL KOČEVJE",
-      "address": "Gornje Ložine 1A",
-      "lat": 45.68934644998123,
-      "lng": 14.799691221318923,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.889,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1332"
-    },
-    {
       "pk": 2368,
       "franchise": 5,
       "name": "SHELL SLOVENSKE KONJICE",
@@ -602,6 +578,30 @@
       "direction": "Koper",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6230"
+    },
+    {
+      "pk": 861,
+      "franchise": 2,
+      "name": "BS MOL ŠEMPAS",
+      "address": "Šempas 160b",
+      "lat": 45.917693,
+      "lng": 13.721916,
+      "prices": {
+        "95": 1.698,
+        "dizel": 1.819,
+        "98": null,
+        "100": 1.969,
+        "dizel-premium": 1.989,
+        "avtoplin-lpg": 1.078,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Nova Gorica",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "5261"
     }
   ],
   "position": null
