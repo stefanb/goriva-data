@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2096,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - SEVER",
+      "address": "SPODNJI PLAVŽ 24B",
+      "lat": 46.440937,
+      "lng": 14.028828,
+      "prices": {
+        "95": 1.726,
+        "dizel": 1.823,
+        "98": null,
+        "100": 1.989,
+        "dizel-premium": 2.192,
+        "avtoplin-lpg": 0.994,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Karavan",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "4270"
+    },
+    {
       "pk": 2100,
       "franchise": 1,
       "name": "PETROL VOKLO AC - ZAHOD",
@@ -480,7 +504,7 @@
       },
       "distance": null,
       "direction": "",
-      "open_hours": "06:00-18:00\n",
+      "open_hours": "Začasno zaprto do 29. junij 2026",
       "zip_code": "2272"
     },
     {
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 29. junij 2026",
       "zip_code": "1373"
-    },
-    {
-      "pk": 2149,
-      "franchise": 1,
-      "name": "PETROL BRESTANICA",
-      "address": "CESTA PRVIH BORCEV 17",
-      "lat": 45.995159,
-      "lng": 15.476035,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 29. junij 2026",
-      "zip_code": "8280"
     }
   ],
   "position": null

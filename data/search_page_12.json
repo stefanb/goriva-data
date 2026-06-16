@@ -340,6 +340,30 @@
       "zip_code": "8000"
     },
     {
+      "pk": 2150,
+      "franchise": 1,
+      "name": "PETROL VAVTA VAS",
+      "address": "VAVTA VAS 1A",
+      "lat": 45.78222236,
+      "lng": 15.08335069,
+      "prices": {
+        "95": 1.592,
+        "dizel": 1.718,
+        "98": null,
+        "100": 1.868,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.318,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-18:00\n\nSobota\n07:00-12:30, 13:00-18:00\n\nNedelja, Praznik\n08:00-11:30\n",
+      "zip_code": "8351"
+    },
+    {
       "pk": 2151,
       "franchise": 1,
       "name": "PETROL SEMIČ",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nSobota\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nNedelja, Praznik\n00:00-07:00, 07:00-21:00, 21:00-00:00\n",
       "zip_code": "8250"
-    },
-    {
-      "pk": 2164,
-      "franchise": 1,
-      "name": "PETROL SLOVENSKE  KONJICE",
-      "address": "LIPTOVSKA ULICA 4",
-      "lat": 46.34170285,
-      "lng": 15.43100146,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.868,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.934,
-        "KOEL": 1.318,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "3210"
     }
   ],
   "position": null
