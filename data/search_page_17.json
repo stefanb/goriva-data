@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2293,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO IVANČNA GORICA",
+      "address": "Cesta 2. grupe odredov 4",
+      "lat": 45.936326,
+      "lng": 14.805261,
+      "prices": {
+        "95": 1.592,
+        "dizel": 1.718,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1295"
+    },
+    {
       "pk": 2294,
       "franchise": 2,
       "name": "BS MOL PAY&GO POSTOJNA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6240"
-    },
-    {
-      "pk": 2341,
-      "franchise": 5,
-      "name": "SHELL LJUTOMER",
-      "address": "Kolodvorska ulica 2A",
-      "lat": 46.52613423254767,
-      "lng": 16.193609363823846,
-      "prices": {
-        "95": 1.592,
-        "dizel": 1.718,
-        "98": null,
-        "100": 1.889,
-        "dizel-premium": 2.069,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Sat: 6-22; Sun: 8-20",
-      "zip_code": "9240"
     }
   ],
   "position": null
