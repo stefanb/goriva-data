@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
+      "pk": 2180,
+      "franchise": 1,
+      "name": "PETROL CELJE - POLULE",
+      "address": "CESTA V LAŠKO 4A",
+      "lat": 46.21772911,
+      "lng": 15.26310535,
+      "prices": {
+        "95": 1.53,
+        "dizel": 1.607,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.2,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-14:00\n",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2181,
       "franchise": 1,
       "name": "PETROL ZREČE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "2370"
-    },
-    {
-      "pk": 2207,
-      "franchise": 1,
-      "name": "PETROL RAVNE NA KOROŠKEM",
-      "address": "KOROŠKA CESTA 4A",
-      "lat": 46.54726828,
-      "lng": 14.96495101,
-      "prices": {
-        "95": 1.53,
-        "dizel": 1.607,
-        "98": null,
-        "100": 1.808,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.025,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "2390"
     }
   ],
   "position": null

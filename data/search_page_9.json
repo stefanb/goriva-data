@@ -196,6 +196,30 @@
       "zip_code": "8257"
     },
     {
+      "pk": 2160,
+      "franchise": 1,
+      "name": "PETROL ŠKOCJAN",
+      "address": "DOLNJA STARA VAS 50",
+      "lat": 45.89728,
+      "lng": 15.300093,
+      "prices": {
+        "95": 1.53,
+        "dizel": 1.607,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.2,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 06. julij 2026",
+      "zip_code": "8275"
+    },
+    {
       "pk": 2161,
       "franchise": 1,
       "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-18:00\n\nSobota\n07:00-11:30, 12:00-16:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "3260"
-    },
-    {
-      "pk": 2180,
-      "franchise": 1,
-      "name": "PETROL CELJE - POLULE",
-      "address": "CESTA V LAŠKO 4A",
-      "lat": 46.21772911,
-      "lng": 15.26310535,
-      "prices": {
-        "95": 1.53,
-        "dizel": 1.607,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.2,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-14:00\n",
-      "zip_code": "3000"
     }
   ],
   "position": null
