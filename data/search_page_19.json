@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2367,
-      "franchise": 5,
-      "name": "SHELL KOČEVJE",
-      "address": "Gornje Ložine 1A",
-      "lat": 45.68934644998123,
-      "lng": 14.799691221318923,
-      "prices": {
-        "95": 1.53,
-        "dizel": 1.607,
-        "98": null,
-        "100": 1.869,
-        "dizel-premium": 1.639,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1332"
-    },
-    {
       "pk": 2368,
       "franchise": 5,
       "name": "SHELL SLOVENSKE KONJICE",
@@ -602,6 +578,30 @@
       "direction": "Jesenice",
       "open_hours": "00:00-23:59\n",
       "zip_code": "4240"
+    },
+    {
+      "pk": 847,
+      "franchise": 2,
+      "name": "BS MOL RAVBARKOMANDA VZHOD",
+      "address": "Javorniška pot 9a",
+      "lat": 45.78312588,
+      "lng": 14.22304178,
+      "prices": {
+        "95": 1.639,
+        "dizel": 1.709,
+        "98": null,
+        "100": null,
+        "dizel-premium": 1.879,
+        "avtoplin-lpg": 1.069,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6230"
     }
   ],
   "position": null

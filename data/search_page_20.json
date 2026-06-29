@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 847,
-      "franchise": 2,
-      "name": "BS MOL RAVBARKOMANDA VZHOD",
-      "address": "Javorniška pot 9a",
-      "lat": 45.78312588,
-      "lng": 14.22304178,
-      "prices": {
-        "95": 1.639,
-        "dizel": 1.709,
-        "98": null,
-        "100": null,
-        "dizel-premium": 1.879,
-        "avtoplin-lpg": 1.069,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6230"
-    },
-    {
       "pk": 848,
       "franchise": 2,
       "name": "BS MOL RAVBARKOMANDA ZAHOD",
@@ -600,6 +576,30 @@
       },
       "distance": null,
       "direction": "Ljubljana -> Koper",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 2089,
+      "franchise": 1,
+      "name": "PETROL LOM AC - VZHOD",
+      "address": "NOTRANJSKA CESTA 77",
+      "lat": 45.89814,
+      "lng": 14.256533,
+      "prices": {
+        "95": 1.688,
+        "dizel": 1.735,
+        "98": null,
+        "100": 1.929,
+        "dizel-premium": 2.076,
+        "avtoplin-lpg": 1.079,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper -> Ljubljana",
       "open_hours": "00:00-23:59\n",
       "zip_code": "1370"
     }
