@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 835,
-      "franchise": 2,
-      "name": "BS MOL NOVO MESTO LEVIČNIKOVA",
-      "address": "Levičnikova c. 4",
-      "lat": 45.804054,
-      "lng": 15.181842,
-      "prices": {
-        "95": 1.537,
-        "dizel": 1.605,
-        "98": null,
-        "100": 1.82,
-        "dizel-premium": 1.773,
-        "avtoplin-lpg": null,
-        "KOEL": 1.193,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "8000"
-    },
-    {
       "pk": 836,
       "franchise": 2,
       "name": "BS MOL NOVO MESTO LJUBLJANSKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "8210"
+    },
+    {
+      "pk": 870,
+      "franchise": 2,
+      "name": "BS MOL VELENJE PARTIZANSKA",
+      "address": "Partizanska c. 15a",
+      "lat": 46.359472,
+      "lng": 15.099174,
+      "prices": {
+        "95": 1.537,
+        "dizel": 1.605,
+        "98": null,
+        "100": 1.82,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "01.04.2026 – 14.10.2026\nSobota\n06:00-22:00\n\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "3320"
     }
   ],
   "position": null

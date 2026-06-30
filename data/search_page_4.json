@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 870,
-      "franchise": 2,
-      "name": "BS MOL VELENJE PARTIZANSKA",
-      "address": "Partizanska c. 15a",
-      "lat": 46.359472,
-      "lng": 15.099174,
-      "prices": {
-        "95": 1.537,
-        "dizel": 1.605,
-        "98": null,
-        "100": 1.82,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "01.04.2026 – 14.10.2026\nSobota\n06:00-22:00\n\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
-      "zip_code": "3320"
-    },
-    {
       "pk": 871,
       "franchise": 2,
       "name": "BS MOL VELENJE SELO",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": ""
+    },
+    {
+      "pk": 1587,
+      "franchise": 2,
+      "name": "BS MOL LETUŠ",
+      "address": "LETUŠ 11 D",
+      "lat": 46.311732,
+      "lng": 15.026208,
+      "prices": {
+        "95": 1.537,
+        "dizel": 1.605,
+        "98": null,
+        "100": 1.82,
+        "dizel-premium": 1.773,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / April / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nJanuar / Februar / Marec / April / Oktober / November / December\nSobota\n07:00-21:00\n\nMaj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:30\n\nMaj / Junij / Julij / Avgust / September\nSobota\n07:00-21:30\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "3327"
     }
   ],
   "position": null

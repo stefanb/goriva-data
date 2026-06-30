@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1971,
-      "franchise": 1,
-      "name": "PETROL MARTJANCI",
-      "address": "MARTJANCI 83B",
-      "lat": 46.68760198,
-      "lng": 16.19649434,
-      "prices": {
-        "95": 1.537,
-        "dizel": 1.605,
-        "98": null,
-        "100": 1.814,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.193,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-19:30\n",
-      "zip_code": "9221"
-    },
-    {
       "pk": 1972,
       "franchise": 1,
       "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-19:00\n",
       "zip_code": "5282"
+    },
+    {
+      "pk": 2001,
+      "franchise": 1,
+      "name": "PETROL VIPAVA",
+      "address": "GORIŠKA CESTA 41",
+      "lat": 45.8488706,
+      "lng": 13.95468545,
+      "prices": {
+        "95": 1.537,
+        "dizel": 1.605,
+        "98": null,
+        "100": 1.814,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.193,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "5271"
     }
   ],
   "position": null

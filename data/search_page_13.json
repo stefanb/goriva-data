@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2152,
-      "franchise": 1,
-      "name": "PETROL ŠENTJERNEJ",
-      "address": "PRVOMAJSKA CESTA 10",
-      "lat": 45.8438361,
-      "lng": 15.34063504,
-      "prices": {
-        "95": 1.537,
-        "dizel": 1.605,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.193,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-18:00\n\nNedelja, Praznik\n07:00-13:00\n",
-      "zip_code": "8310"
-    },
-    {
       "pk": 2153,
       "franchise": 1,
       "name": "PETROL DVOR PRI ŽUŽEMBERKU",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-18:00\n\nSobota\n07:00-11:30, 12:00-16:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "3260"
+    },
+    {
+      "pk": 2180,
+      "franchise": 1,
+      "name": "PETROL CELJE - POLULE",
+      "address": "CESTA V LAŠKO 4A",
+      "lat": 46.21772911,
+      "lng": 15.26310535,
+      "prices": {
+        "95": 1.537,
+        "dizel": 1.605,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.193,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-14:00\n",
+      "zip_code": "3000"
     }
   ],
   "position": null

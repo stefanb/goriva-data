@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
-      "pk": 2238,
-      "franchise": 3,
-      "name": "BS MAXEN KOPER",
-      "address": "Ulica 15. maja bš",
-      "lat": 45.5371584,
-      "lng": 13.7323296,
-      "prices": {
-        "95": 1.537,
-        "dizel": 1.605,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "6000"
-    },
-    {
       "pk": 2239,
       "franchise": 3,
       "name": "BS MAXEN NIZKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n06:00-22:00\n",
       "zip_code": "4260"
+    },
+    {
+      "pk": 2283,
+      "franchise": 2,
+      "name": "BS MOL ŠALOVCI",
+      "address": "Šalovci 168",
+      "lat": 46.821993,
+      "lng": 16.278851,
+      "prices": {
+        "95": 1.537,
+        "dizel": 1.605,
+        "98": null,
+        "100": 1.82,
+        "dizel-premium": 1.773,
+        "avtoplin-lpg": null,
+        "KOEL": 1.193,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "April / Maj / Junij / Julij / Avgust / September\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n\nJanuar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n07:00-20:00\n\nApril / Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n",
+      "zip_code": "9204"
     }
   ],
   "position": null
