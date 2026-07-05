@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2065,
-      "franchise": 1,
-      "name": "PETROL LOGATEC",
-      "address": "TRŽAŠKA CESTA 21",
-      "lat": 45.91699729,
-      "lng": 14.22441176,
-      "prices": {
-        "95": 1.537,
-        "dizel": 1.605,
-        "98": null,
-        "100": 1.814,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.193,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nSobota\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nNedelja, Praznik\n00:00-07:00, 07:00-22:00, 22:00-00:00\n",
-      "zip_code": "1370"
-    },
-    {
       "pk": 2066,
       "franchise": 1,
       "name": "PETROL RADOVLJICA - KRANJSKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-21:00\n",
       "zip_code": "4220"
+    },
+    {
+      "pk": 2094,
+      "franchise": 1,
+      "name": "PETROL HRASTNIK",
+      "address": "PODKRAJ 77B",
+      "lat": 46.11937061,
+      "lng": 15.08074191,
+      "prices": {
+        "95": 1.537,
+        "dizel": 1.605,
+        "98": null,
+        "100": 1.814,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.025,
+        "KOEL": 1.193,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n08:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "1430"
     }
   ],
   "position": null

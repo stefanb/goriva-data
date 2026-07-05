@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
-      "pk": 2095,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - JUG",
-      "address": "SPODNJI PLAVŽ 24A",
-      "lat": 46.440467,
-      "lng": 14.026493,
-      "prices": {
-        "95": 1.741,
-        "dizel": 1.778,
-        "98": null,
-        "100": 1.975,
-        "dizel-premium": 2.089,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "4270"
-    },
-    {
-      "pk": 2100,
-      "franchise": 1,
-      "name": "PETROL VOKLO AC - ZAHOD",
-      "address": "GASILSKA CESTA 55",
-      "lat": 46.22788,
-      "lng": 14.419719,
-      "prices": {
-        "95": 1.741,
-        "dizel": 1.778,
-        "98": null,
-        "100": 1.975,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.089,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "4208"
-    },
-    {
       "pk": 2141,
       "franchise": 1,
       "name": "PETROL ČATEŽ AC - JUG",
@@ -556,6 +508,30 @@
       "zip_code": "2000"
     },
     {
+      "pk": 2010,
+      "franchise": 1,
+      "name": "PETROL ORMOŽ",
+      "address": "KOLODVORSKA CESTA 5",
+      "lat": 46.40764081,
+      "lng": 16.15117853,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 18. julij 2026",
+      "zip_code": "2270"
+    },
+    {
       "pk": 2035,
       "franchise": 1,
       "name": "PETROL IZOLA MANDRAČ",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 18. julij 2026",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2090,
+      "franchise": 1,
+      "name": "PETROL BLAGOVICA",
+      "address": "BLAGOVICA 30",
+      "lat": 46.17650516,
+      "lng": 14.80743334,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 18. julij 2026",
+      "zip_code": "1223"
     }
   ],
   "position": null

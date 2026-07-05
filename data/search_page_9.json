@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
-      "pk": 2037,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - RAKOVNIK",
-      "address": "DOLENJSKA CESTA 136A",
-      "lat": 46.03323598,
-      "lng": 14.52693479,
-      "prices": {
-        "95": 1.537,
-        "dizel": 1.605,
-        "98": null,
-        "100": 1.814,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
-      "zip_code": "1000"
-    },
-    {
       "pk": 2038,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ŠMARTINSKA 45",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-10:30, 11:00-16:00, 16:00-00:00\n\nSobota\n00:00-07:00, 07:00-13:00, 13:00-00:00\n\nNedelja, Praznik\n00:00-00:00\n",
       "zip_code": "1270"
+    },
+    {
+      "pk": 2065,
+      "franchise": 1,
+      "name": "PETROL LOGATEC",
+      "address": "TRŽAŠKA CESTA 21",
+      "lat": 45.91699729,
+      "lng": 14.22441176,
+      "prices": {
+        "95": 1.537,
+        "dizel": 1.605,
+        "98": null,
+        "100": 1.814,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.193,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nSobota\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nNedelja, Praznik\n00:00-07:00, 07:00-22:00, 22:00-00:00\n",
+      "zip_code": "1370"
     }
   ],
   "position": null
