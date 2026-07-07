@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 836,
-      "franchise": 2,
-      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
-      "address": "Ljubljanska cesta 11",
-      "lat": 45.8139,
-      "lng": 15.153116666666667,
-      "prices": {
-        "95": 1.561,
-        "dizel": 1.64,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": 1.814,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "8000"
-    },
-    {
       "pk": 838,
       "franchise": 2,
       "name": "BS MOL ORMOŽ",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "01.04.2026 – 14.10.2026\nSobota\n06:00-22:00\n\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "3320"
+    },
+    {
+      "pk": 871,
+      "franchise": 2,
+      "name": "BS MOL VELENJE SELO",
+      "address": "Selo 10a",
+      "lat": 46.36972,
+      "lng": 15.13265,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.64,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": 1.814,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
       "zip_code": "3320"
     }
   ],

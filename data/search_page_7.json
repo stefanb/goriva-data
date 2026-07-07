@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1972,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA - TIŠINSKA JUG",
-      "address": "TIŠINSKA ULICA 29D",
-      "lat": 46.651421,
-      "lng": 16.14565,
-      "prices": {
-        "95": 1.561,
-        "dizel": 1.64,
-        "98": null,
-        "100": 1.858,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.025,
-        "KOEL": 1.233,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nSobota\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nNedelja, Praznik\n00:00-07:00, 07:00-21:00, 21:00-00:00\n",
-      "zip_code": "9000"
-    },
-    {
       "pk": 1973,
       "franchise": 1,
       "name": "PETROL GODOVIČ",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "5271"
+    },
+    {
+      "pk": 2002,
+      "franchise": 1,
+      "name": "PETROL AJŠEVICA",
+      "address": "AJŠEVICA 19",
+      "lat": 45.9530272,
+      "lng": 13.69107053,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.64,
+        "98": null,
+        "100": 1.858,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.025,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "5000"
     }
   ],
   "position": null

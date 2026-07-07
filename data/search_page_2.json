@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 797,
-      "franchise": 2,
-      "name": "BS MOL ILIRSKA BISTRICA",
-      "address": "Bazoviška 45",
-      "lat": 45.559604,
-      "lng": 14.244346,
-      "prices": {
-        "95": 1.561,
-        "dizel": 1.64,
-        "98": null,
-        "100": 1.863,
-        "dizel-premium": 1.814,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "26.06.2026 – 31.08.2026\n00:00-23:59\n",
-      "zip_code": "6250"
-    },
-    {
       "pk": 798,
       "franchise": 2,
       "name": "BS MOL IZOLA",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "06:00-22:00\n",
+      "zip_code": "8000"
+    },
+    {
+      "pk": 836,
+      "franchise": 2,
+      "name": "BS MOL NOVO MESTO LJUBLJANSKA",
+      "address": "Ljubljanska cesta 11",
+      "lat": 45.8139,
+      "lng": 15.153116666666667,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.64,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": 1.814,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "8000"
     }
   ],

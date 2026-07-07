@@ -100,30 +100,6 @@
       "zip_code": "2283"
     },
     {
-      "pk": 2306,
-      "franchise": 33,
-      "name": "Bencinski servis Stella",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.53,
-        "dizel": 1.607,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.2,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
       "pk": 2314,
       "franchise": 22,
       "name": "BS DEMOL",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-20:00\n\nJanuar / Februar / Marec / Oktober / November / December\nNedelja, Praznik\n08:00-20:00\n\nApril / Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nApril / Maj / Junij / Julij / Avgust / September\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "6272"
+    },
+    {
+      "pk": 797,
+      "franchise": 2,
+      "name": "BS MOL ILIRSKA BISTRICA",
+      "address": "Bazoviška 45",
+      "lat": 45.559604,
+      "lng": 14.244346,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.64,
+        "98": null,
+        "100": 1.863,
+        "dizel-premium": 1.814,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "26.06.2026 – 31.08.2026\n00:00-23:59\n",
+      "zip_code": "6250"
     }
   ],
   "position": null
