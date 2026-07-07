@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2360,
+      "franchise": 5,
+      "name": "SHELL LOKEV",
+      "address": "Lokev 1a",
+      "lat": 45.66133077329971,
+      "lng": 13.919418145832134,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.64,
+        "98": null,
+        "100": 1.879,
+        "dizel-premium": 1.899,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "6219"
+    },
+    {
       "pk": 2361,
       "franchise": 5,
       "name": "SHELL KOMENDA",
@@ -578,30 +602,6 @@
       "direction": "Lenti",
       "open_hours": "00:00-23:59\n",
       "zip_code": "9244"
-    },
-    {
-      "pk": 796,
-      "franchise": 2,
-      "name": "BS MOL GROSUPLJE CIKAVA",
-      "address": "Ljubljanska cesta 129",
-      "lat": 45.9730555555556,
-      "lng": 14.625555555555556,
-      "prices": {
-        "95": 1.669,
-        "dizel": 1.749,
-        "98": null,
-        "100": 1.969,
-        "dizel-premium": 1.919,
-        "avtoplin-lpg": 1.069,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Grosuplje",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1290"
     }
   ],
   "position": null
