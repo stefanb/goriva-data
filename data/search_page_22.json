@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 785,
-      "franchise": 2,
-      "name": "BS MOL TRUCK LENDAVA",
-      "address": "Trimlini 65b",
-      "lat": 46.54818511,
-      "lng": 16.44478697,
-      "prices": {
-        "95": null,
-        "dizel": 1.64,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "9220"
-    },
-    {
       "pk": 786,
       "franchise": 2,
       "name": "BS MOL TRUCK MARIBOR",
@@ -194,6 +170,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 22. julij 2026",
       "zip_code": "1000"
+    },
+    {
+      "pk": 2058,
+      "franchise": 1,
+      "name": "PETROL ZADVOR",
+      "address": "CESTA II. GRUPE ODREDOV 48",
+      "lat": 46.03588324,
+      "lng": 14.59614121,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 22. julij 2026",
+      "zip_code": "1261"
     },
     {
       "pk": 2097,
@@ -372,12 +372,12 @@
       "lng": 15.310556,
       "prices": {
         "95": null,
-        "dizel": 1.557,
+        "dizel": 1.59,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": 0.89,
-        "KOEL": 1.19,
+        "KOEL": 1.223,
         "hvo": null,
         "cng": null,
         "lng": null
