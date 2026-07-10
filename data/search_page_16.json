@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=15&position=&radius=",
   "results": [
     {
+      "pk": 2241,
+      "franchise": 3,
+      "name": "BS MAXEN BENEDIKT",
+      "address": "Radgonska cesta bš",
+      "lat": 46.6088,
+      "lng": 15.893144,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.64,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "2234"
+    },
+    {
       "pk": 2242,
       "franchise": 3,
       "name": "BS MAXEN ČRNOMELJ",
@@ -577,30 +601,6 @@
       "distance": null,
       "direction": "",
       "open_hours": "24 ur - črpalka brez osebja",
-      "zip_code": "2313"
-    },
-    {
-      "pk": 2266,
-      "franchise": 5,
-      "name": "SHELL FRAM MARIBOR RETAIL",
-      "address": "TURNEJEVA ULICA 35",
-      "lat": 46.449892,
-      "lng": 15.651698,
-      "prices": {
-        "95": 1.561,
-        "dizel": 1.64,
-        "98": null,
-        "100": 1.879,
-        "dizel-premium": 1.899,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24 ur - črpalka z osebjem",
       "zip_code": "2313"
     }
   ],

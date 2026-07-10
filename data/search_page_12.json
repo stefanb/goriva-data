@@ -484,6 +484,30 @@
       "zip_code": "8000"
     },
     {
+      "pk": 2149,
+      "franchise": 1,
+      "name": "PETROL BRESTANICA",
+      "address": "CESTA PRVIH BORCEV 17",
+      "lat": 45.995159,
+      "lng": 15.476035,
+      "prices": {
+        "95": 1.561,
+        "dizel": 1.64,
+        "98": null,
+        "100": 1.858,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.233,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 23. julij 2026",
+      "zip_code": "8280"
+    },
+    {
       "pk": 2150,
       "franchise": 1,
       "name": "PETROL VAVTA VAS",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-12:00, 12:30-16:00\n",
       "zip_code": "8361"
-    },
-    {
-      "pk": 2154,
-      "franchise": 1,
-      "name": "PETROL VINICA",
-      "address": "VINICA 61",
-      "lat": 45.45963416,
-      "lng": 15.2553875,
-      "prices": {
-        "95": 1.561,
-        "dizel": 1.64,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek\n06:00-20:00\n\nTorek\n06:00-20:00\n\nSreda\n06:00-20:00\n\nČetrtek\n06:00-20:00\n\nPetek\n05:00-22:00\n\nSobota\n05:00-22:00\n\nNedelja, Praznik\n05:00-22:00\n",
-      "zip_code": "8344"
     }
   ],
   "position": null

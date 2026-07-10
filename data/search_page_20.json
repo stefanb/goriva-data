@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 796,
+      "franchise": 2,
+      "name": "BS MOL GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.719,
+        "dizel": 1.799,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": 1.998,
+        "avtoplin-lpg": 1.069,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1290"
+    },
+    {
       "pk": 823,
       "franchise": 2,
       "name": "BS MOL LOPATA JUG",
@@ -578,30 +602,6 @@
       "direction": "Ljubljana -> Koper",
       "open_hours": "00:00-23:59\n",
       "zip_code": "1370"
-    },
-    {
-      "pk": 2123,
-      "franchise": 1,
-      "name": "PETROL LUKOVICA AC - JUG",
-      "address": "KOSESKEGA CESTA 1",
-      "lat": 46.166803,
-      "lng": 14.693314,
-      "prices": {
-        "95": 1.759,
-        "dizel": 1.808,
-        "98": null,
-        "100": 2.019,
-        "dizel-premium": 2.128,
-        "avtoplin-lpg": 1.003,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1225"
     }
   ],
   "position": null
