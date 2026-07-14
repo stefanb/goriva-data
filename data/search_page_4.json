@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 862,
-      "franchise": 2,
-      "name": "BS MOL ŠENTJUR",
-      "address": "Ljubljanska c. 20a",
-      "lat": 46.214942,
-      "lng": 15.38352,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": 1.948,
-        "dizel-premium": 1.898,
-        "avtoplin-lpg": null,
-        "KOEL": 1.324,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "3230"
-    },
-    {
       "pk": 863,
       "franchise": 2,
       "name": "BS MOL ŠKOFIJE VZHOD",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "01.04.2026 – 14.10.2026\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-23:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": ""
+    },
+    {
+      "pk": 1571,
+      "franchise": 2,
+      "name": "BS MOL DRAMLJE",
+      "address": "LAZE PRI DRAMLJAH 6B",
+      "lat": 46.260293,
+      "lng": 15.3918165,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.948,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": 0.928,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-22:00\n\nNedelja, Praznik\n08:00-22:00\n",
+      "zip_code": "3222"
     }
   ],
   "position": null
