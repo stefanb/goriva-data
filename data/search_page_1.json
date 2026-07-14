@@ -340,30 +340,6 @@
       "zip_code": "9220"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.561,
-        "dizel": 1.64,
-        "98": 1.903,
-        "100": 1.903,
-        "dizel-premium": 1.718,
-        "avtoplin-lpg": null,
-        "KOEL": 1.233,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2288,
       "franchise": 2,
       "name": "BS MOL PAY&GO TRŽIČ",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "8250"
+    },
+    {
+      "pk": 773,
+      "franchise": 2,
+      "name": "BS MOL CELJE MARIBORSKA JUG",
+      "address": "Mariborska c. 84",
+      "lat": 46.23923,
+      "lng": 15.27456,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.948,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.324,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota, Nedelja, Praznik\n06:00-22:00\n",
+      "zip_code": "3000"
     }
   ],
   "position": null
