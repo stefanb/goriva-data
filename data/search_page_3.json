@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 814,
-      "franchise": 2,
-      "name": "BS MOL LIPOVCI",
-      "address": "Lipovci 243b",
-      "lat": 46.625125,
-      "lng": 16.214332,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": 1.948,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.324,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "9231"
-    },
-    {
-      "pk": 815,
-      "franchise": 2,
-      "name": "BS MOL LITIJA",
-      "address": "Zasavska c. 1",
-      "lat": 46.058713,
-      "lng": 14.832858,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": 1.948,
-        "dizel-premium": 1.898,
-        "avtoplin-lpg": null,
-        "KOEL": 1.324,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "1270"
-    },
-    {
-      "pk": 816,
-      "franchise": 2,
-      "name": "BS MOL LJUBLJANA LETALIŠKA",
-      "address": "Letališka c. 33b",
-      "lat": 46.062474,
-      "lng": 14.570349,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": 1.948,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-19:00\n",
-      "zip_code": "1000"
-    },
-    {
       "pk": 817,
       "franchise": 2,
       "name": "BS MOL LJUBLJANA LITIJSKA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "3210"
+    },
+    {
+      "pk": 856,
+      "franchise": 2,
+      "name": "BS MOL SMEDNIK",
+      "address": "Smednik 12a",
+      "lat": 45.90773,
+      "lng": 15.37137,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.948,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": 0.928,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Novo Mesto",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "8274"
+    },
+    {
+      "pk": 857,
+      "franchise": 2,
+      "name": "BS MOL SPODNJA IDRIJA",
+      "address": "Vojkova ulica 24",
+      "lat": 46.01699,
+      "lng": 14.0288,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.948,
+        "dizel-premium": 1.898,
+        "avtoplin-lpg": null,
+        "KOEL": 1.324,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "5280"
+    },
+    {
+      "pk": 858,
+      "franchise": 2,
+      "name": "BS MOL SPODNJI DUPLEK",
+      "address": "C. 4.julija 69",
+      "lat": 46.501143,
+      "lng": 15.751535,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.948,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.324,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "2241"
     }
   ],
   "position": null

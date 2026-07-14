@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=9&position=&radius=",
   "results": [
     {
-      "pk": 2051,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - POLJE",
-      "address": "ZALOŠKA CESTA 166",
-      "lat": 46.053796,
-      "lng": 14.587178,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.324,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-20:00\n",
-      "zip_code": "1260"
-    },
-    {
-      "pk": 2053,
-      "franchise": 1,
-      "name": "PETROL DOBROVA",
-      "address": "POLHOGRAJSKA CESTA 12",
-      "lat": 46.0520304,
-      "lng": 14.42151956,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.324,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-13:00\n",
-      "zip_code": "1356"
-    },
-    {
-      "pk": 2054,
-      "franchise": 1,
-      "name": "PETROL PODPEČ",
-      "address": "JEZERO 103",
-      "lat": 45.973133,
-      "lng": 14.422124,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.324,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-17:00\n",
-      "zip_code": "1352"
-    },
-    {
       "pk": 2055,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - ČRNUČE, DUNAJSKA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n08:00-16:00\n",
       "zip_code": "4207"
+    },
+    {
+      "pk": 2080,
+      "franchise": 1,
+      "name": "PETROL ŠKOFJA LOKA - TRATA",
+      "address": "KIDRIČEVA CESTA 57A",
+      "lat": 46.17302892,
+      "lng": 14.33101817,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.92,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.933,
+        "KOEL": 1.324,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-14:00\n",
+      "zip_code": "4220"
+    },
+    {
+      "pk": 2082,
+      "franchise": 1,
+      "name": "PETROL KAMNIK - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 10A",
+      "lat": 46.21205029,
+      "lng": 14.59993502,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.92,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.324,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-19:30\n",
+      "zip_code": "1241"
+    },
+    {
+      "pk": 2083,
+      "franchise": 1,
+      "name": "PETROL RADOVLJICA - GORENJSKA",
+      "address": "GORENJSKA CESTA 41A",
+      "lat": 46.34844567,
+      "lng": 14.16883456,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.933,
+        "KOEL": 1.324,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-09:30, 10:00-16:00, 16:30-20:00\n",
+      "zip_code": "4240"
     }
   ],
   "position": null
