@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2334,
+      "franchise": 5,
+      "name": "SHELL ROGAŠKA SLATINA",
+      "address": "Tržišče 12 b",
+      "lat": 46.308,
+      "lng": 15.5665,
+      "prices": {
+        "95": 1.588,
+        "dizel": 1.723,
+        "98": null,
+        "100": 1.949,
+        "dizel-premium": 1.979,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek - Sobota 6:00 - 22:00\r\n\r\nNedelja 8:00 - 20:00",
+      "zip_code": "3250"
+    },
+    {
       "pk": 2335,
       "franchise": 5,
       "name": "SHELL ŠMARJE PRI JELŠAH",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "1351"
-    },
-    {
-      "pk": 2359,
-      "franchise": 5,
-      "name": "SHELL MARIBOR V",
-      "address": "Maribor Ptujska 2",
-      "lat": 46.522438503045684,
-      "lng": 15.679910715884338,
-      "prices": {
-        "95": 1.588,
-        "dizel": 1.723,
-        "98": null,
-        "100": 1.949,
-        "dizel-premium": 1.979,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
     }
   ],
   "position": null
