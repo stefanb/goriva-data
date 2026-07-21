@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1932,
-      "franchise": 1,
-      "name": "PETROL PRAGERSKO",
-      "address": "PTUJSKA CESTA 20",
-      "lat": 46.39511839,
-      "lng": 15.65879604,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.855,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.464,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:30-12:00\n",
-      "zip_code": "2331"
-    },
-    {
       "pk": 1933,
       "franchise": 1,
       "name": "PETROL RAČE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "5291"
+    },
+    {
+      "pk": 1961,
+      "franchise": 1,
+      "name": "PETROL LJUTOMER",
+      "address": "PREŠERNOVA ULICA 19",
+      "lat": 46.52201409,
+      "lng": 16.19426906,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.855,
+        "98": null,
+        "100": 2.016,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.464,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "9240"
     }
   ],
   "position": null

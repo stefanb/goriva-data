@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 769,
-      "franchise": 2,
-      "name": "BS MOL BRESTOVICA",
-      "address": "Brestovica 116b",
-      "lat": 45.81302,
-      "lng": 13.62228,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.855,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
-      "zip_code": "6223"
-    },
-    {
       "pk": 771,
       "franchise": 2,
       "name": "BS MOL BREŽICE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
       "zip_code": "9231"
+    },
+    {
+      "pk": 815,
+      "franchise": 2,
+      "name": "BS MOL LITIJA",
+      "address": "Zasavska c. 1",
+      "lat": 46.058713,
+      "lng": 14.832858,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.855,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": 2.098,
+        "avtoplin-lpg": null,
+        "KOEL": 1.464,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "1270"
     }
   ],
   "position": null

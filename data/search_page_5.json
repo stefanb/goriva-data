@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=4&position=&radius=",
   "results": [
     {
-      "pk": 1563,
-      "franchise": 2,
-      "name": "BS MOL GORNJA RADGONA",
-      "address": "LJUTOMERSKA CESTA 12",
-      "lat": 46.6699694,
-      "lng": 15.9961534,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.855,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": 2.098,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": ""
-    },
-    {
       "pk": 1564,
       "franchise": 2,
       "name": "BS MOL HOČE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-18:00\n",
       "zip_code": "2342"
+    },
+    {
+      "pk": 1932,
+      "franchise": 1,
+      "name": "PETROL PRAGERSKO",
+      "address": "PTUJSKA CESTA 20",
+      "lat": 46.39511839,
+      "lng": 15.65879604,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.855,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.464,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:30-12:00\n",
+      "zip_code": "2331"
     }
   ],
   "position": null
