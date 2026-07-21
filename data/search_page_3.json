@@ -4,78 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 812,
-      "franchise": 2,
-      "name": "BS MOL LAZARET",
-      "address": "Jadranska c. 1",
-      "lat": 45.59283,
-      "lng": 13.72411,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.855,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": 2.098,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-20:00\n\nApril / Maj\n07:00-21:00\n\nJunij / Julij / Avgust / September\n07:00-22:00\n",
-      "zip_code": "6280"
-    },
-    {
-      "pk": 813,
-      "franchise": 2,
-      "name": "BS MOL LESCE",
-      "address": "Hraška c. 17",
-      "lat": 46.365369,
-      "lng": 14.16032,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.855,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "4248"
-    },
-    {
-      "pk": 814,
-      "franchise": 2,
-      "name": "BS MOL LIPOVCI",
-      "address": "Lipovci 243b",
-      "lat": 46.625125,
-      "lng": 16.214332,
-      "prices": {
-        "95": 1.649,
-        "dizel": 1.855,
-        "98": null,
-        "100": 1.998,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.464,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "9231"
-    },
-    {
       "pk": 815,
       "franchise": 2,
       "name": "BS MOL LITIJA",
@@ -602,6 +530,78 @@
       "direction": "",
       "open_hours": "06:00-22:00\n",
       "zip_code": "6210"
+    },
+    {
+      "pk": 854,
+      "franchise": 2,
+      "name": "BS MOL SLOVENSKA BISTRICA ŽOLGARJEVA",
+      "address": "Žolgarjeva ulica 16",
+      "lat": 46.385322,
+      "lng": 15.571972,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.855,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": 2.098,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "2310"
+    },
+    {
+      "pk": 855,
+      "franchise": 2,
+      "name": "BS MOL SLOVENSKE KONJICE",
+      "address": "Liptovska 36a",
+      "lat": 46.34068,
+      "lng": 15.41675,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.855,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.464,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "3210"
+    },
+    {
+      "pk": 856,
+      "franchise": 2,
+      "name": "BS MOL SMEDNIK",
+      "address": "Smednik 12a",
+      "lat": 45.90773,
+      "lng": 15.37137,
+      "prices": {
+        "95": 1.649,
+        "dizel": 1.855,
+        "98": null,
+        "100": 1.998,
+        "dizel-premium": 2.098,
+        "avtoplin-lpg": 0.928,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Novo Mesto",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "8274"
     }
   ],
   "position": null
