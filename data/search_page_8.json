@@ -292,6 +292,30 @@
       "zip_code": "5212"
     },
     {
+      "pk": 2010,
+      "franchise": 1,
+      "name": "PETROL ORMOŽ",
+      "address": "KOLODVORSKA CESTA 5",
+      "lat": 46.40764081,
+      "lng": 16.15117853,
+      "prices": {
+        "95": 1.583,
+        "dizel": 1.882,
+        "98": null,
+        "100": 1.925,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.494,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "2270"
+    },
+    {
       "pk": 2011,
       "franchise": 1,
       "name": "PETROL PTUJ - ORMOŠKA 25",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "2250"
-    },
-    {
-      "pk": 2025,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 11",
-      "address": "TRŽAŠKA CESTA 11",
-      "lat": 46.53817035,
-      "lng": 15.64737991,
-      "prices": {
-        "95": 1.583,
-        "dizel": 1.882,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.933,
-        "KOEL": 1.494,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Ljubljana -> Maribor",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-20:00\n",
-      "zip_code": "2000"
     }
   ],
   "position": null

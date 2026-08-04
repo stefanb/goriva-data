@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 796,
+      "franchise": 2,
+      "name": "BS MOL GROSUPLJE CIKAVA",
+      "address": "Ljubljanska cesta 129",
+      "lat": 45.9730555555556,
+      "lng": 14.625555555555556,
+      "prices": {
+        "95": 1.748,
+        "dizel": 2.018,
+        "98": null,
+        "100": 2.059,
+        "dizel-premium": 2.358,
+        "avtoplin-lpg": 0.988,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Grosuplje",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "1290"
+    },
+    {
       "pk": 823,
       "franchise": 2,
       "name": "BS MOL LOPATA JUG",
@@ -252,7 +276,7 @@
       "lng": 15.64986497,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": null,
@@ -276,7 +300,7 @@
       "lng": 15.65055471,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": null,
@@ -300,7 +324,7 @@
       "lng": 15.880214,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": 2.421,
@@ -324,7 +348,7 @@
       "lng": 16.007142,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": null,
@@ -348,7 +372,7 @@
       "lng": 15.699297,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": 2.421,
@@ -372,7 +396,7 @@
       "lng": 15.701209,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": 2.421,
@@ -396,7 +420,7 @@
       "lng": 13.628483,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": 2.421,
@@ -420,7 +444,7 @@
       "lng": 13.627636,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": 2.421,
@@ -444,7 +468,7 @@
       "lng": 13.719403,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": null,
@@ -468,7 +492,7 @@
       "lng": 13.928699,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": 2.421,
@@ -492,7 +516,7 @@
       "lng": 16.166272,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": null,
@@ -516,7 +540,7 @@
       "lng": 16.164346,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": null,
@@ -540,7 +564,7 @@
       "lng": 15.826899,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": null,
@@ -564,7 +588,7 @@
       "lng": 16.51791,
       "prices": {
         "95": 1.8,
-        "dizel": 2.02,
+        "dizel": 2.07,
         "98": null,
         "100": 2.096,
         "dizel-premium": 2.421,
@@ -578,30 +602,6 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "00:00-23:59\n",
       "zip_code": "9220"
-    },
-    {
-      "pk": 2030,
-      "franchise": 1,
-      "name": "PETROL POVIR AC - JUG",
-      "address": "POVIR 95",
-      "lat": 45.703393,
-      "lng": 13.940151,
-      "prices": {
-        "95": 1.8,
-        "dizel": 2.02,
-        "98": null,
-        "100": 2.096,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.993,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Fernetiči -> Ljublja",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6210"
     }
   ],
   "position": null
