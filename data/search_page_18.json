@@ -4,6 +4,78 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
+      "pk": 2357,
+      "franchise": 5,
+      "name": "SHELL TEPANJE",
+      "address": "Tepanje 4b",
+      "lat": 46.34088409645317,
+      "lng": 15.469610360423939,
+      "prices": {
+        "95": 1.583,
+        "dizel": 1.882,
+        "98": null,
+        "100": 1.939,
+        "dizel-premium": 2.059,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3210"
+    },
+    {
+      "pk": 2358,
+      "franchise": 5,
+      "name": "SHELL BREZOVICA",
+      "address": "Tržaška cesta 565",
+      "lat": 46.02261874034981,
+      "lng": 14.407761204034685,
+      "prices": {
+        "95": 1.583,
+        "dizel": 1.882,
+        "98": null,
+        "100": 1.939,
+        "dizel-premium": 2.179,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1351"
+    },
+    {
+      "pk": 2359,
+      "franchise": 5,
+      "name": "SHELL MARIBOR V",
+      "address": "Maribor Ptujska 2",
+      "lat": 46.522438503045684,
+      "lng": 15.679910715884338,
+      "prices": {
+        "95": 1.583,
+        "dizel": 1.882,
+        "98": null,
+        "100": 1.939,
+        "dizel-premium": 2.179,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2360,
       "franchise": 5,
       "name": "SHELL LOKEV",
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "24/7",
       "zip_code": "8340"
-    },
-    {
-      "pk": 2243,
-      "franchise": 3,
-      "name": "BS MAXEN GRAD",
-      "address": "Grad bš",
-      "lat": 46.7978208,
-      "lng": 16.0886368,
-      "prices": {
-        "95": 1.603,
-        "dizel": 1.828,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9264"
-    },
-    {
-      "pk": 2244,
-      "franchise": 3,
-      "name": "BS MAXEN DOLNJI LAKOŠ",
-      "address": "Glavna ulica bš",
-      "lat": 46.5525523,
-      "lng": 16.430912,
-      "prices": {
-        "95": 1.603,
-        "dizel": 1.828,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2245,
-      "franchise": 3,
-      "name": "BS MAXEN SELNICA OB DRAVI",
-      "address": "Spodnja Selnica bš",
-      "lat": 46.5546048,
-      "lng": 15.5078896,
-      "prices": {
-        "95": 1.603,
-        "dizel": 1.828,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "2352"
     }
   ],
   "position": null

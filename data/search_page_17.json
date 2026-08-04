@@ -4,6 +4,78 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2324,
+      "franchise": 19,
+      "name": "LOGO BENCINSKI SERVIS d.o.o.",
+      "address": "Ljubljanska cesta 62",
+      "lat": 45.96802,
+      "lng": 14.66103,
+      "prices": {
+        "95": 1.583,
+        "dizel": 1.882,
+        "98": null,
+        "100": 1.922,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.494,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "VSAK DAN 5,30 do 22,30",
+      "zip_code": "1290"
+    },
+    {
+      "pk": 2332,
+      "franchise": 2,
+      "name": "BS MOL RAVNE",
+      "address": "Dobja vas 18b",
+      "lat": 46.544943013174425,
+      "lng": 14.939777713626901,
+      "prices": {
+        "95": 1.583,
+        "dizel": 1.882,
+        "98": null,
+        "100": 1.939,
+        "dizel-premium": 2.243,
+        "avtoplin-lpg": 0.928,
+        "KOEL": 1.494,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "2390"
+    },
+    {
+      "pk": 2334,
+      "franchise": 5,
+      "name": "SHELL ROGAŠKA SLATINA",
+      "address": "Tržišče 12 b",
+      "lat": 46.308,
+      "lng": 15.5665,
+      "prices": {
+        "95": 1.583,
+        "dizel": 1.882,
+        "98": null,
+        "100": 1.939,
+        "dizel-premium": 2.179,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek - Sobota 6:00 - 22:00\r\n\r\nNedelja 8:00 - 20:00",
+      "zip_code": "3250"
+    },
+    {
       "pk": 2335,
       "franchise": 5,
       "name": "SHELL ŠMARJE PRI JELŠAH",
@@ -530,78 +602,6 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2234"
-    },
-    {
-      "pk": 2357,
-      "franchise": 5,
-      "name": "SHELL TEPANJE",
-      "address": "Tepanje 4b",
-      "lat": 46.34088409645317,
-      "lng": 15.469610360423939,
-      "prices": {
-        "95": 1.583,
-        "dizel": 1.882,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.059,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3210"
-    },
-    {
-      "pk": 2358,
-      "franchise": 5,
-      "name": "SHELL BREZOVICA",
-      "address": "Tržaška cesta 565",
-      "lat": 46.02261874034981,
-      "lng": 14.407761204034685,
-      "prices": {
-        "95": 1.583,
-        "dizel": 1.882,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.179,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "1351"
-    },
-    {
-      "pk": 2359,
-      "franchise": 5,
-      "name": "SHELL MARIBOR V",
-      "address": "Maribor Ptujska 2",
-      "lat": 46.522438503045684,
-      "lng": 15.679910715884338,
-      "prices": {
-        "95": 1.583,
-        "dizel": 1.882,
-        "98": null,
-        "100": 1.939,
-        "dizel-premium": 2.179,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "2000"
     }
   ],
   "position": null
