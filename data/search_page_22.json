@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 785,
-      "franchise": 2,
-      "name": "BS MOL TRUCK LENDAVA",
-      "address": "Trimlini 65b",
-      "lat": 46.54818511,
-      "lng": 16.44478697,
-      "prices": {
-        "95": null,
-        "dizel": 1.882,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "9220"
-    },
-    {
       "pk": 786,
       "franchise": 2,
       "name": "BS MOL TRUCK MARIBOR",
@@ -266,6 +242,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 19. avgust 2026",
       "zip_code": "2382"
+    },
+    {
+      "pk": 2225,
+      "franchise": 1,
+      "name": "PETROL NOVO MESTO - TOPLIŠKA",
+      "address": "TOPLIŠKA CESTA 9",
+      "lat": 45.79863637,
+      "lng": 15.15095997,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "8000"
     },
     {
       "pk": 2273,
