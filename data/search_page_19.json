@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2242,
+      "franchise": 3,
+      "name": "BS MAXEN ČRNOMELJ",
+      "address": "Ulica heroja Stariha bš",
+      "lat": 45.5729152,
+      "lng": 15.1853056,
+      "prices": {
+        "95": 1.603,
+        "dizel": 1.828,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8340"
+    },
+    {
       "pk": 2243,
       "franchise": 3,
       "name": "BS MAXEN GRAD",
@@ -578,30 +602,6 @@
       "direction": "Koper -> Ljubljana",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6240"
-    },
-    {
-      "pk": 2018,
-      "franchise": 1,
-      "name": "PETROL MURSKA SOBOTA AC - SEVER",
-      "address": "BAKOVSKA ULICA 53",
-      "lat": 46.635944,
-      "lng": 16.166272,
-      "prices": {
-        "95": 1.79,
-        "dizel": 2.06,
-        "98": null,
-        "100": 2.086,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.003,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "9000"
     }
   ],
   "position": null
