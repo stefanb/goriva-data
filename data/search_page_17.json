@@ -28,6 +28,30 @@
       "zip_code": "3270"
     },
     {
+      "pk": 2296,
+      "franchise": 15,
+      "name": "DISCONT OiL - BS Maribor",
+      "address": "Tržaška cesta 35",
+      "lat": 46.529195,
+      "lng": 15.646512,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.753,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.899,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
+      "zip_code": "2000"
+    },
+    {
       "pk": 2297,
       "franchise": 16,
       "name": "Agas Maribor",
@@ -134,7 +158,7 @@
         "95": 1.519,
         "dizel": 1.753,
         "98": null,
-        "100": 1.922,
+        "100": 1.864,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 1.356,
@@ -302,7 +326,7 @@
         "95": 1.519,
         "dizel": 1.753,
         "98": null,
-        "100": 1.922,
+        "100": 1.864,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 1.356,
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Mon-Sat: 6-22h, Sun: 8-20h",
       "zip_code": "8000"
-    },
-    {
-      "pk": 2344,
-      "franchise": 5,
-      "name": "SHELL ARCLIN",
-      "address": "3211 Arclin – Škofja Vas, Arclin 101",
-      "lat": 46.27879929325074,
-      "lng": 15.300271376669105,
-      "prices": {
-        "95": 1.519,
-        "dizel": 1.753,
-        "98": null,
-        "100": 1.879,
-        "dizel-premium": 2.119,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Mon-Fri: 6-21h, Sat6-22h, Sun: 8-16h",
-      "zip_code": "3211"
     }
   ],
   "position": null
