@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2368,
+      "franchise": 5,
+      "name": "SHELL SLOVENSKE KONJICE",
+      "address": "Liptovska cesta 32B",
+      "lat": 46.34011896303725,
+      "lng": 15.418721900923186,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.753,
+        "98": null,
+        "100": 1.879,
+        "dizel-premium": 1.679,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Bencinski servis je trajno zaprt.",
+      "zip_code": "2310"
+    },
+    {
       "pk": 2369,
       "franchise": 5,
       "name": "SHELL LUCIJA VZHOD",
@@ -386,30 +410,6 @@
       "direction": "",
       "open_hours": "24 ur - črpalka brez osebja",
       "zip_code": "2313"
-    },
-    {
-      "pk": 2306,
-      "franchise": 33,
-      "name": "Bencinski servis Stella",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.583,
-        "dizel": 1.882,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.494,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
     },
     {
       "pk": 2327,
