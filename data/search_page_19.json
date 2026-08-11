@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2374,
+      "franchise": 2,
+      "name": "BS MOL LJUTOMER",
+      "address": "Kolodvorska 7a",
+      "lat": 46.5289,
+      "lng": 16.19006,
+      "prices": {
+        "95": 1.519,
+        "dizel": 1.753,
+        "98": null,
+        "100": 1.854,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.356,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "9240"
+    },
+    {
       "pk": 2378,
       "franchise": 1,
       "name": "PETROL ARNOVSKI GOZD",
@@ -314,30 +338,6 @@
       "direction": "",
       "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
       "zip_code": "2256"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.583,
-        "dizel": 1.882,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.494,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 2316,
