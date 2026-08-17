@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 1559,
+      "franchise": 2,
+      "name": "BS MOL PINCE",
+      "address": "LENDAVSKA CESTA 44 A",
+      "lat": 46.522006,
+      "lng": 16.51979,
+      "prices": {
+        "95": 1.734,
+        "dizel": 1.938,
+        "98": null,
+        "100": 2.034,
+        "dizel-premium": 2.284,
+        "avtoplin-lpg": 0.988,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "smer Murska Sobota",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "9220"
+    },
+    {
       "pk": 1568,
       "franchise": 2,
       "name": "BS MOL LORMANJE",
@@ -578,30 +602,6 @@
       "direction": "Ljubljana -> Karavan",
       "open_hours": "00:00-23:59\n",
       "zip_code": "4270"
-    },
-    {
-      "pk": 784,
-      "franchise": 2,
-      "name": "BS MOL TRUCK SEŽANA",
-      "address": "Partizanska 77",
-      "lat": 45.70387478,
-      "lng": 13.8514001,
-      "prices": {
-        "95": null,
-        "dizel": 1.753,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6210"
     }
   ],
   "position": null
