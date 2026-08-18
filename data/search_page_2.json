@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2294,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO POSTOJNA",
-      "address": "Industrijska cesta 4",
-      "lat": 45.769831,
-      "lng": 14.197979,
-      "prices": {
-        "95": 1.562,
-        "dizel": 1.837,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6230"
-    },
-    {
-      "pk": 2295,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
-      "address": "Vilharjeva cesta 58",
-      "lat": 45.576279,
-      "lng": 14.23011,
-      "prices": {
-        "95": 1.562,
-        "dizel": 1.837,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6250"
-    },
-    {
       "pk": 769,
       "franchise": 2,
       "name": "BS MOL BRESTOVICA",
@@ -602,6 +554,54 @@
       "direction": "Koper",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-20:00\n\nApril / Maj\n07:00-21:00\n\nJunij / Julij / Avgust / September\n07:00-22:00\n",
       "zip_code": "6280"
+    },
+    {
+      "pk": 813,
+      "franchise": 2,
+      "name": "BS MOL LESCE",
+      "address": "Hraška c. 17",
+      "lat": 46.365369,
+      "lng": 14.16032,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.919,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "4248"
+    },
+    {
+      "pk": 814,
+      "franchise": 2,
+      "name": "BS MOL LIPOVCI",
+      "address": "Lipovci 243b",
+      "lat": 46.625125,
+      "lng": 16.214332,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.919,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.47,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "9231"
     }
   ],
   "position": null
