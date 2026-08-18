@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 858,
-      "franchise": 2,
-      "name": "BS MOL SPODNJI DUPLEK",
-      "address": "C. 4.julija 69",
-      "lat": 46.501143,
-      "lng": 15.751535,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": null,
-        "100": 1.919,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.47,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "2241"
-    },
-    {
       "pk": 859,
       "franchise": 2,
       "name": "BS MOL STARI TRG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": ""
+    },
+    {
+      "pk": 1564,
+      "franchise": 2,
+      "name": "BS MOL HOČE",
+      "address": "MIKLAVŠKA CESTA 80",
+      "lat": 46.5005164,
+      "lng": 15.6550055,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.919,
+        "dizel-premium": 2.218,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja\n07:00-22:00\n\nPraznik\n08:00-20:00\n",
+      "zip_code": "2311"
     }
   ],
   "position": null
