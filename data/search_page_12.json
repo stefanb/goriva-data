@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=11&position=&radius=",
   "results": [
     {
-      "pk": 2113,
-      "franchise": 1,
-      "name": "PETROL KRANJ - STANETA ŽAGARJA 53B",
-      "address": "CESTA STANETA ŽAGARJA 53B",
-      "lat": 46.24371235,
-      "lng": 14.36955351,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-14:00\n",
-      "zip_code": "4000"
-    },
-    {
       "pk": 2114,
       "franchise": 1,
       "name": "PETROL LESCE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n06:00-22:00\n",
       "zip_code": "8270"
+    },
+    {
+      "pk": 2140,
+      "franchise": 1,
+      "name": "PETROL SEVNICA",
+      "address": "PREŠERNOVA ULICA 9",
+      "lat": 46.0077338,
+      "lng": 15.3050164,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.47,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n07:00-13:00\n",
+      "zip_code": "8290"
     }
   ],
   "position": null

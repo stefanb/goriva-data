@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=6&position=&radius=",
   "results": [
     {
-      "pk": 1962,
-      "franchise": 1,
-      "name": "PETROL LENDAVA",
-      "address": "KOLODVORSKA ULICA 8A",
-      "lat": 46.55996722,
-      "lng": 16.44790177,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": null,
-        "100": 1.932,
-        "dizel-premium": 2.225,
-        "avtoplin-lpg": 0.976,
-        "KOEL": 1.47,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "9220"
-    },
-    {
       "pk": 1963,
       "franchise": 1,
       "name": "PETROL ROGAŠOVCI",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-21:00\n",
       "zip_code": "5220"
+    },
+    {
+      "pk": 1990,
+      "franchise": 1,
+      "name": "PETROL KOPER, SERMIN",
+      "address": "SERMIN 7D",
+      "lat": 45.55178982,
+      "lng": 13.76037054,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.932,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.976,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "6000"
     }
   ],
   "position": null
