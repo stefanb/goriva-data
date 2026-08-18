@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1929,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PARTIZANSKA",
-      "address": "PARTIZANSKA CESTA 58",
-      "lat": 46.56486151,
-      "lng": 15.65925818,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": null,
-        "100": 1.932,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.47,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1930,
       "franchise": 1,
       "name": "PETROL MARIBOR - PTUJSKA 111",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-17:00, 17:30-20:00\n\nSobota\n07:00-10:00, 10:30-17:00, 17:30-20:00\n\nNedelja, Praznik\n13:00-17:00, 17:30-20:00\n",
       "zip_code": "5213"
+    },
+    {
+      "pk": 1959,
+      "franchise": 1,
+      "name": "PETROL ŠEMPETER PRI GORICI - PREKOMORSKIH BRIGAD",
+      "address": "CESTA PREKOMORSKIH BRIGAD 64A",
+      "lat": 45.93235392,
+      "lng": 13.63826623,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.932,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-18:00\n",
+      "zip_code": "5290"
     }
   ],
   "position": null

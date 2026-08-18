@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 2293,
-      "franchise": 2,
-      "name": "BS MOL PAY&GO IVANČNA GORICA",
-      "address": "Cesta 2. grupe odredov 4",
-      "lat": 45.936326,
-      "lng": 14.805261,
-      "prices": {
-        "95": 1.562,
-        "dizel": 1.837,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1295"
-    },
-    {
       "pk": 2294,
       "franchise": 2,
       "name": "BS MOL PAY&GO POSTOJNA",
@@ -602,6 +578,30 @@
       "direction": "Trst",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n08:00-15:00\n",
       "zip_code": "6240"
+    },
+    {
+      "pk": 812,
+      "franchise": 2,
+      "name": "BS MOL LAZARET",
+      "address": "Jadranska c. 1",
+      "lat": 45.59283,
+      "lng": 13.72411,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.919,
+        "dizel-premium": 2.218,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Koper",
+      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-20:00\n\nApril / Maj\n07:00-21:00\n\nJunij / Julij / Avgust / September\n07:00-22:00\n",
+      "zip_code": "6280"
     }
   ],
   "position": null

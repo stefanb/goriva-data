@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
-      "pk": 2137,
-      "franchise": 1,
-      "name": "PETROL ŽIRI",
-      "address": "JOBSTOVA CESTA 35",
-      "lat": 46.043743,
-      "lng": 14.10785,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": null,
-        "100": 1.932,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.47,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-18:00\n",
-      "zip_code": "4226"
-    },
-    {
       "pk": 2138,
       "franchise": 1,
       "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nSobota\n00:00-06:00, 06:00-22:00, 22:00-00:00\n\nNedelja, Praznik\n00:00-07:00, 07:00-21:00, 21:00-00:00\n",
       "zip_code": "8250"
+    },
+    {
+      "pk": 2164,
+      "franchise": 1,
+      "name": "PETROL SLOVENSKE  KONJICE",
+      "address": "LIPTOVSKA ULICA 4",
+      "lat": 46.34170285,
+      "lng": 15.43100146,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.932,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.976,
+        "KOEL": 1.47,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
+      "zip_code": "3210"
     }
   ],
   "position": null
