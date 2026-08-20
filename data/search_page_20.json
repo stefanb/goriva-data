@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 793,
-      "franchise": 2,
-      "name": "BS MOL GRABONOŠ",
-      "address": "Grabonoš 4c",
-      "lat": 46.584129,
-      "lng": 16.008947,
-      "prices": {
-        "95": 1.749,
-        "dizel": 1.998,
-        "98": null,
-        "100": 2.048,
-        "dizel-premium": 2.339,
-        "avtoplin-lpg": 1.028,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Lenti",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "9244"
-    },
-    {
       "pk": 796,
       "franchise": 2,
       "name": "BS MOL GROSUPLJE CIKAVA",
@@ -602,6 +578,30 @@
       "direction": "Maribor -> Madžarska",
       "open_hours": "00:00-23:59\n",
       "zip_code": "2230"
+    },
+    {
+      "pk": 2027,
+      "franchise": 1,
+      "name": "PETROL PINCE AC - JUG",
+      "address": "PINCE-MAROF 55",
+      "lat": 46.521752,
+      "lng": 16.51791,
+      "prices": {
+        "95": 1.749,
+        "dizel": 1.996,
+        "98": null,
+        "100": 2.053,
+        "dizel-premium": 2.347,
+        "avtoplin-lpg": 1.036,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "9220"
     }
   ],
   "position": null

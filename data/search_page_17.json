@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2257,
-      "franchise": 3,
-      "name": "BS MAXEN AJDOVŠČINA",
-      "address": "Vipavska cesta bš",
-      "lat": 45.8809344,
-      "lng": 13.9107888,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "5270"
-    },
-    {
       "pk": 2266,
       "franchise": 5,
       "name": "SHELL FRAM MARIBOR RETAIL",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "VSAK DAN 5,30 do 22,30",
       "zip_code": "1290"
+    },
+    {
+      "pk": 2332,
+      "franchise": 2,
+      "name": "BS MOL RAVNE",
+      "address": "Dobja vas 18b",
+      "lat": 46.544943013174425,
+      "lng": 14.939777713626901,
+      "prices": {
+        "95": 1.582,
+        "dizel": 1.857,
+        "98": null,
+        "100": 1.929,
+        "dizel-premium": 2.218,
+        "avtoplin-lpg": 0.968,
+        "KOEL": 1.47,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
+      "zip_code": "2390"
     }
   ],
   "position": null
