@@ -316,54 +316,6 @@
       "zip_code": "2313"
     },
     {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": 1.98,
-        "100": 1.98,
-        "dizel-premium": 1.753,
-        "avtoplin-lpg": null,
-        "KOEL": 1.47,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
-      "pk": 2296,
-      "franchise": 15,
-      "name": "DISCONT OiL - BS Maribor",
-      "address": "Tržaška cesta 35",
-      "lat": 46.529195,
-      "lng": 15.646512,
-      "prices": {
-        "95": 1.582,
-        "dizel": 1.857,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": 0.899,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
-      "zip_code": "2000"
-    },
-    {
       "pk": 2288,
       "franchise": 2,
       "name": "BS MOL PAY&GO TRŽIČ",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
       "zip_code": "6223"
+    },
+    {
+      "pk": 771,
+      "franchise": 2,
+      "name": "BS MOL BREŽICE",
+      "address": "C.Svobode 35",
+      "lat": 45.913737,
+      "lng": 15.595365,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": 1.965,
+        "dizel-premium": 2.264,
+        "avtoplin-lpg": null,
+        "KOEL": 1.517,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "8250"
+    },
+    {
+      "pk": 773,
+      "franchise": 2,
+      "name": "BS MOL CELJE MARIBORSKA JUG",
+      "address": "Mariborska c. 84",
+      "lat": 46.23923,
+      "lng": 15.27456,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": 1.965,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.517,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota, Nedelja, Praznik\n06:00-22:00\n",
+      "zip_code": "3000"
     }
   ],
   "position": null

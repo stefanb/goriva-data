@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&position=&radius=",
   "results": [
     {
-      "pk": 771,
-      "franchise": 2,
-      "name": "BS MOL BREŽICE",
-      "address": "C.Svobode 35",
-      "lat": 45.913737,
-      "lng": 15.595365,
-      "prices": {
-        "95": 1.608,
-        "dizel": 1.903,
-        "98": null,
-        "100": 1.965,
-        "dizel-premium": 2.264,
-        "avtoplin-lpg": null,
-        "KOEL": 1.517,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "8250"
-    },
-    {
-      "pk": 773,
-      "franchise": 2,
-      "name": "BS MOL CELJE MARIBORSKA JUG",
-      "address": "Mariborska c. 84",
-      "lat": 46.23923,
-      "lng": 15.27456,
-      "prices": {
-        "95": 1.608,
-        "dizel": 1.903,
-        "98": null,
-        "100": 1.965,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.517,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota, Nedelja, Praznik\n06:00-22:00\n",
-      "zip_code": "3000"
-    },
-    {
       "pk": 774,
       "franchise": 2,
       "name": "BS MOL CELJE LJUBLJANSKA",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "1270"
+    },
+    {
+      "pk": 816,
+      "franchise": 2,
+      "name": "BS MOL LJUBLJANA LETALIŠKA",
+      "address": "Letališka c. 33b",
+      "lat": 46.062474,
+      "lng": 14.570349,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": 1.965,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-19:00\n",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 817,
+      "franchise": 2,
+      "name": "BS MOL LJUBLJANA LITIJSKA",
+      "address": "Litijska c. 40",
+      "lat": 46.047401,
+      "lng": 14.546097,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": 1.965,
+        "dizel-premium": 2.264,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "1000"
     }
   ],
   "position": null

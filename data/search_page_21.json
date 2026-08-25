@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2201,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - JUG",
+      "address": "ZALOKE 16",
+      "lat": 45.908304,
+      "lng": 15.400616,
+      "prices": {
+        "95": 1.775,
+        "dizel": 2.041,
+        "98": null,
+        "100": 2.09,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.036,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "8274"
+    },
+    {
       "pk": 2202,
       "franchise": 1,
       "name": "PETROL ZALOKE AC - SEVER",
@@ -578,30 +602,6 @@
       "direction": "smer Maribor",
       "open_hours": "00:00-23:59\n",
       "zip_code": "2230"
-    },
-    {
-      "pk": 784,
-      "franchise": 2,
-      "name": "BS MOL TRUCK SEŽANA",
-      "address": "Partizanska 77",
-      "lat": 45.70387478,
-      "lng": 13.8514001,
-      "prices": {
-        "95": null,
-        "dizel": 1.903,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6210"
     }
   ],
   "position": null

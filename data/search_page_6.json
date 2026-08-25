@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=5&position=&radius=",
   "results": [
     {
-      "pk": 1933,
-      "franchise": 1,
-      "name": "PETROL RAČE",
-      "address": "LJUBLJANSKA CESTA 22",
-      "lat": 46.45289915,
-      "lng": 15.67336264,
-      "prices": {
-        "95": 1.608,
-        "dizel": 1.903,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.517,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-13:00\n",
-      "zip_code": "2327"
-    },
-    {
-      "pk": 1934,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - TRŽAŠKA 10",
-      "address": "TRŽAŠKA CESTA 10",
-      "lat": 46.54123587,
-      "lng": 15.64785997,
-      "prices": {
-        "95": 1.608,
-        "dizel": 1.903,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-21:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "2000"
-    },
-    {
       "pk": 1935,
       "franchise": 1,
       "name": "PETROL ŠEMPETER PRI GORICI - PADLIH BORCEV",
@@ -436,6 +388,30 @@
       "zip_code": "5216"
     },
     {
+      "pk": 1956,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PTUJSKA 188",
+      "address": "PTUJSKA CESTA 188",
+      "lat": 46.52829802,
+      "lng": 15.67244913,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": 1.969,
+        "dizel-premium": null,
+        "avtoplin-lpg": 0.976,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 07. september 2026",
+      "zip_code": "2000"
+    },
+    {
       "pk": 1957,
       "franchise": 1,
       "name": "PETROL KOBARID",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
       "zip_code": "9262"
+    },
+    {
+      "pk": 1964,
+      "franchise": 1,
+      "name": "PETROL DOLNJI LAKOŠ",
+      "address": "GLAVNA ULICA 3",
+      "lat": 46.55372124,
+      "lng": 16.44233518,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.517,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "9220"
     }
   ],
   "position": null
