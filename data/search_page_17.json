@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2255,
+      "franchise": 3,
+      "name": "BS MAXEN NOVO MESTO",
+      "address": "Mirnopeška cesta bš",
+      "lat": 45.8202208,
+      "lng": 15.1490384,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "8000"
+    },
+    {
       "pk": 2256,
       "franchise": 3,
       "name": "BS MAXEN KRANJ",
@@ -578,30 +602,6 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
       "zip_code": "9201"
-    },
-    {
-      "pk": 2323,
-      "franchise": 2,
-      "name": "BS MOL KOPER LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.55757,
-      "lng": 13.75353,
-      "prices": {
-        "95": 1.608,
-        "dizel": 1.903,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota, Nedelja, Praznik\n06:00-14:00\n",
-      "zip_code": "6000"
     }
   ],
   "position": null

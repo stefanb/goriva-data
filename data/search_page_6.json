@@ -148,6 +148,30 @@
       "zip_code": "2000"
     },
     {
+      "pk": 1941,
+      "franchise": 1,
+      "name": "PETROL OPLOTNICA",
+      "address": "PARTIZANSKA CESTA 31",
+      "lat": 46.38403,
+      "lng": 15.448916,
+      "prices": {
+        "95": 1.608,
+        "dizel": 1.903,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.517,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 08. september 2026",
+      "zip_code": "2317"
+    },
+    {
       "pk": 1942,
       "franchise": 1,
       "name": "PETROL SELNICA OB DRAVI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
       "zip_code": "9262"
-    },
-    {
-      "pk": 1964,
-      "franchise": 1,
-      "name": "PETROL DOLNJI LAKOŠ",
-      "address": "GLAVNA ULICA 3",
-      "lat": 46.55372124,
-      "lng": 16.44233518,
-      "prices": {
-        "95": 1.608,
-        "dizel": 1.903,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.517,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "9220"
     }
   ],
   "position": null
