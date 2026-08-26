@@ -9,12 +9,23 @@ on:
     branches: [ master ]
     paths-ignore:
     - 'data/**'
+    - 'history/**'
   pull_request:
     branches: [ master ]
   schedule:
     # * is a special character in YAML so you have to quote this string
     - cron:  '15 */1 * * *'
   workflow_dispatch:
+    inputs:
+      rebuild_history:
+        description: 'Rebuild history/ from scratch instead of incrementally'
+        type: boolean
+        default: false
+
+# Never let a slow run overlap with the next hourly one (they would race on the push)
+concurrency:
+  group: update
+  cancel-in-progress: false
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -26,8 +37,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it.
+    # Full history is needed so the history build can read the snapshots since the last run.
     - uses: actions/checkout@v7
+      with:
+        fetch-depth: 0
 
     - name: Install jq
       run: |
@@ -54,4 +68,28 @@ jobs:
         push-branch: 'master'
         commit-message: 'Data update from goriva.si 🤖'
         files: 'data/*.json'
+        name: 'goriva.si scrape bot 🤖'
+
+    # Derive the machine-readable price history (history/) from the snapshots committed above.
+    # A failure here must never block the data update; the next run simply catches up.
+    - name: Build history
+      id: history
+      if: github.ref == 'refs/heads/master'
+      continue-on-error: true
+      run: |
+        if [ "${{ github.event.inputs.rebuild_history }}" = "true" ]; then
+          python3 scripts/build_history.py --rebuild
+        else
+          python3 scripts/build_history.py
+        fi
+        git status --short history/
+
+    - name: Publish history to git
+      if: github.ref == 'refs/heads/master' && steps.history.outcome == 'success'
+      uses: github-actions-x/commit@v2.9
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        push-branch: 'master'
+        commit-message: 'History update 🤖'
+        files: 'history/*'
         name: 'goriva.si scrape bot 🤖'
