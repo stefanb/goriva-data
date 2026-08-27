@@ -18,6 +18,7 @@ Prices are in **EUR per litre** (EUR/kg for CNG/LNG) as reported by the source.
 | [`daily/<year>.csv`](daily/) | `date,station_pk,fuel,price` | **One price per calendar day** (local date), as change events: a row when the daily price differs from the previous day. |
 | [`snapshots.csv`](snapshots.csv) | `ts,commit,count,pages,stations,duplicates,changes` | One row per processed snapshot (git commit): provenance and scrape-quality info. |
 | [`stations.csv`](stations.csv) | `pk,franchise_pk,name,address,zip_code,lat,lng,first_seen,last_seen` | Every station ever seen, with its latest known attributes. |
+| [`stations_geocoded.csv`](stations_geocoded.csv) | `pk,name,address,zip_code,lat,lng,method,gurs_address,gurs_lat,gurs_lng,distance_m,error` | Every station's address checked against the official address register (GURS): official coordinates and the distance to the published ones. Updated by hand, see below. |
 | [`station_franchise.csv`](station_franchise.csv) | `ts,station_pk,franchise_pk` | Events: the station's franchise (brand) as of `ts`; a row is emitted on first sight and on every change. |
 | [`fuels.csv`](fuels.csv) | `pk,code,name,long_name` | Fuel types. `code` is the value used in the `fuel` column of `prices/` and `daily/`. |
 | [`franchises.csv`](franchises.csv) | `pk,name` | Franchises (brands). Includes franchises that no longer exist at the source. |
@@ -79,6 +80,36 @@ Use this table when you only need a date, not a time.
   every update) and filled in only for stations that have disappeared.
 - Attributes (`name`, `address`, coordinates, `franchise_pk`) are the latest
   observed values; franchise changes over time are in `station_franchise.csv`.
+
+### [`stations_geocoded.csv`](stations_geocoded.csv)
+
+The source's addresses and coordinates are not always right (stations with a
+`bš` address, i.e. no house number, typos, coordinates of a different site,
+`1E-15` placeholders). This table checks every row of `stations.csv` against the
+official address register (GURS *Register prostorskih enot*, data of
+2026-08-23) with the `geocode` CLI:
+
+- `method = address`: the address was geocoded; `gurs_address` is the
+  normalised official address, `gurs_lat`/`gurs_lng` the official coordinates of
+  its address point and `distance_m` the planar (equirectangular, whole metres)
+  distance from the coordinate published by goriva.si. Address points sit on the
+  building, station coordinates typically at the pumps, so a few tens of metres
+  are normal; hundreds of metres or more mean a wrong coordinate or a wrong
+  address (the value shows which of the two to distrust, not which one is right).
+- `method = reverse`: the address could not be geocoded (`error` says why:
+  `missing house number`, `address not found`, `multiple addresses match`); the
+  row instead holds the **nearest** official address to the published
+  coordinate, as a suggestion. `distance_m` is then the distance to that
+  address, by construction small, and says nothing about the address quality.
+- Only `pk,name,address,zip_code,lat,lng` are copied from `stations.csv`; join on
+  `pk` for the rest.
+
+As of 2026-08-27: 549 of 603 stations geocoded by address (79 % within 25 m,
+median 12 m; 14 stations are more than 500 m off, one has a `1E-15` coordinate),
+54 by reverse geocoding (21 of them `bš` addresses). The file is regenerated
+**by hand** with `python3 scripts/check_addresses.py` (needs the `geocode`
+binary in `PATH`); the GitHub workflow does not run it and does not need
+`geocode`, so it is only as fresh as its last commit.
 
 ## Examples
 
@@ -218,6 +249,7 @@ python3 scripts/build_history.py --rebuild   # from scratch, needs a full clone 
 python3 scripts/build_history.py             # incremental, run by the workflow
 python3 scripts/build_history.py --verify    # rebuild into a temp dir and compare
 python3 scripts/analyze_hours.py             # hour-of-day statistics (read-only, ~15 s)
+python3 scripts/check_addresses.py           # stations_geocoded.csv; needs the geocode CLI (~15 s)
 ```
 
 Source: [goriva.si](https://goriva.si) (Ministry of the Economy, Tourism and
