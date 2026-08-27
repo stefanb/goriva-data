@@ -19,7 +19,7 @@ Prices are in **EUR per litre** (EUR/kg for CNG/LNG) as reported by the source.
 | [`snapshots.csv`](snapshots.csv) | `ts,commit,count,pages,stations,duplicates,changes` | One row per processed snapshot (git commit): provenance and scrape-quality info. |
 | [`stations.csv`](stations.csv) | `pk,franchise_pk,name,address,zip_code,lat,lng,first_seen,last_seen` | Every station ever seen, with its latest known attributes. |
 | [`station_franchise.csv`](station_franchise.csv) | `ts,station_pk,franchise_pk` | Events: the station's franchise (brand) as of `ts`; a row is emitted on first sight and on every change. |
-| [`fuels.csv`](fuels.csv) | `pk,code,name,long_name` | Fuel types. `code` is the key used in `prices.fuel`. |
+| [`fuels.csv`](fuels.csv) | `pk,code,name,long_name` | Fuel types. `code` is the value used in the `fuel` column of `prices/` and `daily/`. |
 | [`franchises.csv`](franchises.csv) | `pk,name` | Franchises (brands). Includes franchises that no longer exist at the source. |
 | [`state.json`](state.json) | | Last processed commit; used by the incremental update. |
 
@@ -189,7 +189,7 @@ filtered out:
   the API ordering can shift in between, so a station may appear on two pages
   while another falls between pages. Duplicates are dropped (first occurrence
   wins, prices are identical); the missing station simply produces no event
-  for that snapshot. `snapshots.csv.duplicates` shows when this happened
+  for that snapshot. The `duplicates` column of `snapshots.csv` shows when this happened
   (128 snapshots so far).
 - **Temporarily missing stations.** For the same reason, and during source
   outages, stations can be absent from a few snapshots (e.g. from
@@ -201,7 +201,7 @@ filtered out:
 - **Page cap (until 2026-08-27).** The scraper used to fetch a fixed 22 pages
   (550 stations) while the API reported 551–555 stations at times, so up to a
   handful of stations were unobserved in some periods. Since 2026-08-27 all
-  pages are fetched (`snapshots.csv.pages` shows the count).
+  pages are fetched (the `pages` column of `snapshots.csv` shows the count).
 - **Number formatting.** Older snapshots were normalised by `jq` 1.6 (which
   prints `1.56` for `1.560`); prices are compared numerically at three
   decimals, so formatting differences never produce events.
