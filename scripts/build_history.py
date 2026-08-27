@@ -8,6 +8,10 @@ Modes:
   build_history.py --rebuild  full rebuild from the first commit (needs full clone)
   build_history.py --verify   rebuild into a temp dir and compare with history/
 
+Outputs: price change events (history/prices/<year>.csv), one price per local
+calendar day derived from them (history/daily/<year>.csv, see finalize_daily),
+snapshot provenance, stations, franchises and fuels.
+
 Only the Python standard library is used. Git blobs are read through a single
 ``git cat-file --batch`` process, which makes a full rebuild take about a
 minute. See history/README.md for the output schema.
@@ -23,19 +27,27 @@ import subprocess
 import sys
 import tempfile
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import date, datetime, time, timedelta, timezone
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 REPO = Path(__file__).resolve().parent.parent
 HISTORY = REPO / "history"
 PRICE_QUANTUM = Decimal("0.001")
 MAX_PAGES = 200  # safety bound when probing pages of a snapshot
 
+# Daily prices: the price in effect at DAILY_CUTOFF local time counts for that calendar day.
+# Prices change at local midnight and are visible in the 00:15 scrape (sometimes delayed by an
+# hour or two); 03:00 exists on both DST transition days and precedes the daytime noise.
+LOCAL_TZ = ZoneInfo("Europe/Ljubljana")
+DAILY_CUTOFF = time(3, 0)
+
 STATION_FIELDS = ["pk", "franchise_pk", "name", "address", "zip_code", "lat", "lng", "first_seen", "last_seen"]
 STATION_ATTRS = ["name", "address", "zip_code", "lat", "lng"]
 SNAPSHOT_FIELDS = ["ts", "commit", "count", "pages", "stations", "duplicates", "changes"]
 PRICE_FIELDS = ["ts", "station_pk", "fuel", "price"]
+DAILY_FIELDS = ["date", "station_pk", "fuel", "price"]
 FRANCHISE_EVENT_FIELDS = ["ts", "station_pk", "franchise_pk"]
 FUEL_FIELDS = ["pk", "code", "name", "long_name"]
 FRANCHISE_FIELDS = ["pk", "name"]
@@ -49,8 +61,24 @@ def git(*args, check=True):
     return subprocess.run(["git", *args], cwd=REPO, check=check, capture_output=True, text=True).stdout
 
 
+TS_FORMAT = "%Y-%m-%dT%H:%M:%SZ"
+
+
 def format_ts(unix):
-    return datetime.fromtimestamp(int(unix), timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return datetime.fromtimestamp(int(unix), timezone.utc).strftime(TS_FORMAT)
+
+
+def parse_ts(ts):
+    return datetime.strptime(ts, TS_FORMAT).replace(tzinfo=timezone.utc)
+
+
+def local_date(ts):
+    return parse_ts(ts).astimezone(LOCAL_TZ).date()
+
+
+def daily_cutoff(day):
+    """UTC timestamp string of DAILY_CUTOFF local time on ``day`` (comparable with event ts)."""
+    return datetime.combine(day, DAILY_CUTOFF, tzinfo=LOCAL_TZ).astimezone(timezone.utc).strftime(TS_FORMAT)
 
 
 def format_price(value):
@@ -106,7 +134,10 @@ class History:
         self.last_commit = None
         self.last_ts = None
         self.present = set()    # station pks present in the last processed snapshot
-        self._price_writers = {}
+        self.daily = {}         # (station_pk, fuel) -> daily price as of daily_cutoff(daily_through)
+        self.daily_through = None  # last finalized local date
+        self.pending = []       # price events with ts > daily_cutoff(daily_through), in ts order
+        self._year_writers = {}
 
     # ---- loading existing output (incremental mode) -------------------------------------------
 
@@ -117,11 +148,21 @@ class History:
         state = json.loads(state_file.read_text())
         self.last_commit = state["last_commit"]
         self.last_ts = state["last_ts"]
+        if "daily_through" not in state:
+            raise SystemExit("history/daily not built yet - run with --rebuild first")
+        self.daily_through = date.fromisoformat(state["daily_through"])
+        cutoff = daily_cutoff(self.daily_through)
 
         for path in sorted((self.out_dir / "prices").glob("*.csv")):
             with path.open(newline="") as f:
                 for row in csv.DictReader(f):
                     self.prices[(row["station_pk"], row["fuel"])] = row["price"]
+                    if row["ts"] > cutoff:
+                        self.pending.append([row["ts"], row["station_pk"], row["fuel"], row["price"]])
+        for path in sorted((self.out_dir / "daily").glob("*.csv")):
+            with path.open(newline="") as f:
+                for row in csv.DictReader(f):
+                    self.daily[(row["station_pk"], row["fuel"])] = row["price"]
         with (self.out_dir / "station_franchise.csv").open(newline="") as f:
             for row in csv.DictReader(f):
                 self.franchise[row["station_pk"]] = row["franchise_pk"]
@@ -153,16 +194,22 @@ class History:
         self._snap_file, self.snap_writer = self._append_writer(self.out_dir / "snapshots.csv", SNAPSHOT_FIELDS)
         self._fr_file, self.fr_writer = self._append_writer(self.out_dir / "station_franchise.csv", FRANCHISE_EVENT_FIELDS)
 
+    def _year_writer(self, subdir, year, fields):
+        key = (subdir, year)
+        if key not in self._year_writers:
+            self._year_writers[key] = self._append_writer(self.out_dir / subdir / f"{year}.csv", fields)
+        return self._year_writers[key][1]
+
     def price_writer(self, ts):
-        year = ts[:4]
-        if year not in self._price_writers:
-            self._price_writers[year] = self._append_writer(self.out_dir / "prices" / f"{year}.csv", PRICE_FIELDS)
-        return self._price_writers[year][1]
+        return self._year_writer("prices", ts[:4], PRICE_FIELDS)
+
+    def daily_writer(self, day):
+        return self._year_writer("daily", f"{day.year:04d}", DAILY_FIELDS)
 
     def close_writers(self):
-        for f, _ in self._price_writers.values():
+        for f, _ in self._year_writers.values():
             f.close()
-        self._price_writers = {}
+        self._year_writers = {}
         self._snap_file.close()
         self._fr_file.close()
 
@@ -183,14 +230,22 @@ class History:
         dump("stations.csv", STATION_FIELDS, stations)
         dump("fuels.csv", FUEL_FIELDS, (self.fuels[pk] for pk in sorted(self.fuels, key=int)))
         dump("franchises.csv", FRANCHISE_FIELDS, (self.franchises[pk] for pk in sorted(self.franchises, key=int)))
-        (self.out_dir / "state.json").write_text(
-            json.dumps({"last_commit": self.last_commit, "last_ts": self.last_ts}, indent=2) + "\n"
-        )
+        state = {
+            "last_commit": self.last_commit,
+            "last_ts": self.last_ts,
+            "daily_through": self.daily_through.isoformat() if self.daily_through else None,
+        }
+        (self.out_dir / "state.json").write_text(json.dumps(state, indent=2) + "\n")
 
     # ---- processing one snapshot --------------------------------------------------------------
 
     def process_snapshot(self, sha, ts, pages, fuel_json, franchise_json):
         """Diff one snapshot (list of parsed pages) against the current state and append events."""
+        if self.daily_through and ts <= daily_cutoff(self.daily_through):
+            raise SystemExit(
+                f"snapshot {sha[:8]} at {ts} precedes the finalized daily cutoff for {self.daily_through} "
+                "(rewritten history?) - run with --rebuild"
+            )
         stations = {}
         duplicates = 0
         for page in pages:
@@ -240,6 +295,7 @@ class History:
 
         writer = self.price_writer(ts)
         writer.writerows(price_rows)
+        self.pending.extend(price_rows)
         self.fr_writer.writerows(franchise_rows)
         count = pages[0].get("count", "") if pages else ""
         self.snap_writer.writerow([ts, sha, count, len(pages), len(stations), duplicates, len(price_rows)])
@@ -247,7 +303,41 @@ class History:
         self.present = set(stations)
         self.last_commit = sha
         self.last_ts = ts
+        self.finalize_daily()
         return len(price_rows)
+
+    def finalize_daily(self):
+        """Emit daily rows for every local day whose cutoff has been passed by the last snapshot.
+
+        The daily price of day D is the last event with ts <= daily_cutoff(D); a row is written
+        only when it differs from the previous day's daily price. Because snapshots are
+        processed in ts order, day D is final once last_ts >= daily_cutoff(D).
+        """
+        while True:
+            if self.daily_through is not None:
+                day = self.daily_through + timedelta(days=1)
+            elif self.pending:
+                day = local_date(self.pending[0][0])
+            else:
+                return
+            cutoff = daily_cutoff(day)
+            if cutoff > self.last_ts:
+                return
+            window = {}
+            consumed = 0
+            for ts, pk, fuel, price in self.pending:
+                if ts > cutoff:
+                    break
+                window[(pk, fuel)] = price  # last event before the cutoff wins
+                consumed += 1
+            del self.pending[:consumed]
+            rows = []
+            for key in sorted(window, key=lambda k: (int(k[0]), k[1])):
+                if window[key] != self.daily.get(key, ""):
+                    self.daily[key] = window[key]
+                    rows.append([day.isoformat(), key[0], key[1], window[key]])
+            self.daily_writer(day).writerows(rows)
+            self.daily_through = day
 
 
 def list_commits(rev_range):
@@ -343,7 +433,7 @@ def incremental():
     return run(history, commits)
 
 
-OUTPUT_ITEMS = ["prices", "snapshots.csv", "stations.csv", "station_franchise.csv", "fuels.csv", "franchises.csv", "state.json"]
+OUTPUT_ITEMS = ["prices", "daily", "snapshots.csv", "stations.csv", "station_franchise.csv", "fuels.csv", "franchises.csv", "state.json"]
 
 
 def replace_history(tmp_dir):

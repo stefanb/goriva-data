@@ -15,6 +15,7 @@ Prices are in **EUR per litre** (EUR/kg for CNG/LNG) as reported by the source.
 | File | Rows | Description |
 | --- | --- | --- |
 | `prices/<year>.csv` | `ts,station_pk,fuel,price` | **Price change events**, one file per calendar year of `ts`. |
+| `daily/<year>.csv` | `date,station_pk,fuel,price` | **One price per calendar day** (local date), as change events: a row when the daily price differs from the previous day. |
 | `snapshots.csv` | `ts,commit,count,pages,stations,duplicates,changes` | One row per processed snapshot (git commit): provenance and scrape-quality info. |
 | `stations.csv` | `pk,franchise_pk,name,address,zip_code,lat,lng,first_seen,last_seen` | Every station ever seen, with its latest known attributes. |
 | `station_franchise.csv` | `ts,station_pk,franchise_pk` | Events: the station's franchise (brand) as of `ts`; a row is emitted on first sight and on every change. |
@@ -39,6 +40,27 @@ Prices are in **EUR per litre** (EUR/kg for CNG/LNG) as reported by the source.
 - `fuel` codes: `95`, `dizel`, `98`, `100`, `dizel-premium`, `avtoplin-lpg`,
   `KOEL` (heating oil), `hvo`, `cng`, `lng`. `hvo`/`cng`/`lng` exist since
   2024-06.
+
+### `daily/<year>.csv` semantics
+
+Use this table when you only need a date, not a time.
+
+- The daily price of `(station_pk, fuel)` on local calendar day `date`
+  (`Europe/Ljubljana`) is **the price in effect at 03:00 local time on that
+  day**, i.e. the last `prices/` event with `ts <= 03:00 local`. A row is
+  written only when that value differs from the previous day's; the first
+  observation also produces a row. Forward-fill by `date` to get a value for
+  every day. Empty `price` = no price for that fuel at that time.
+- Why 03:00: prices change at local midnight and are visible in the 00:15
+  scrape (commit ~00:29 local), which is occasionally delayed by an hour or two;
+  03:00 is before the daytime noise starts (05h+) and exists on both DST
+  transition days. See *When do prices change?* below. The exact cutoff barely
+  matters (00:00 → 427k rows, 03:00 → 429k, 12:00 → 434k).
+- Files are split by the year of `date`; rows are ordered by `date`,
+  `station_pk`, `fuel`. The first day with rows is 2020-10-02 (the first
+  snapshot was taken on 2020-10-01 after 03:00).
+- Intraday flip-flops (see *Data quality*) that revert before the next cutoff
+  disappear; ones that span a cutoff remain as day-level changes.
 
 ### `snapshots.csv`
 
@@ -97,8 +119,66 @@ one = prices[(prices.station_pk == 771) & (prices.fuel == "dizel")].set_index("t
 one.plot(drawstyle="steps-post")
 ```
 
+Daily table (already local-date based), e.g. the national median per day:
+
+```sql
+WITH d AS (
+  SELECT *, LEAD(date) OVER (PARTITION BY station_pk, fuel ORDER BY date) AS until
+  FROM read_csv('history/daily/*.csv') WHERE fuel = 'dizel' AND price IS NOT NULL
+),
+days AS (SELECT unnest(generate_series(DATE '2020-10-02', current_date, INTERVAL 1 DAY))::DATE AS day)
+SELECT day, median(price) AS median_dizel, count(*) AS stations
+FROM days JOIN d ON d.date <= day AND (d.until IS NULL OR d.until > day)
+GROUP BY day ORDER BY day;
+```
+
 Time zone: Slovenian regulated prices change at local midnight on Tuesdays, so
-convert `ts` to `Europe/Ljubljana` before grouping by day.
+convert `ts` to `Europe/Ljubljana` before grouping by day (or use `daily/`).
+
+## When do prices change?
+
+Distribution of all 558 011 price change events by hour of day in
+`Europe/Ljubljana` (as of 2026-08-26; regenerate with
+`python3 scripts/analyze_hours.py`):
+
+```
+00h ##################################################  358194  64.2%
+01h #                                                    10977   2.0%
+02h                                                       1975   0.4%
+03h                                                        327   0.1%
+04h                                                       2412   0.4%
+05h                                                       4540   0.8%
+06h ##                                                   15019   2.7%
+07h                                                       6297   1.1%
+08h                                                       7060   1.3%
+09h #                                                     7353   1.3%
+10h                                                       6275   1.1%
+11h #                                                     8123   1.5%
+12h #                                                    12674   2.3%
+13h #                                                    11358   2.0%
+14h ##                                                   14792   2.7%
+15h #                                                    13876   2.5%
+16h                                                       4858   0.9%
+17h                                                       5159   0.9%
+18h #                                                    13416   2.4%
+19h #                                                     7495   1.3%
+20h #                                                    13172   2.4%
+21h #                                                    10184   1.8%
+22h ##                                                   19556   3.5%
+23h                                                       2919   0.5%
+```
+
+- **Two thirds of all changes are visible in the first scrape after local
+  midnight** (00:15 local, commit ~00:29). In 2024–2025 the share is 89–93 %;
+  59 % of all events fall on a Tuesday (the regulated price cycle).
+- In UTC the peak splits into 22Z (summer) and 23Z (winter). **Do not cut days
+  by the UTC date** — summer midnight changes would land on the previous day.
+- Most daytime events are source-side noise: 110 k events (20 %) are
+  short-lived reversals `A→B→A` with `B` lasting ≤ 24 h, and in 76 % of those
+  `B` is exactly the price that was in effect *before* `A`, i.e. the source
+  intermittently served stale data (worst in 2021–2023, mostly Petrol and
+  MOL & INA stations). The `daily/` table with its 03:00 cutoff removes the
+  intraday part of this noise; multi-day stale periods remain.
 
 ## Data quality notes
 
@@ -131,6 +211,7 @@ filtered out:
 python3 scripts/build_history.py --rebuild   # from scratch, needs a full clone (~1 min)
 python3 scripts/build_history.py             # incremental, run by the workflow
 python3 scripts/build_history.py --verify    # rebuild into a temp dir and compare
+python3 scripts/analyze_hours.py             # hour-of-day statistics (read-only, ~15 s)
 ```
 
 Source: [goriva.si](https://goriva.si) (Ministry of the Economy, Tourism and
