@@ -14,14 +14,14 @@ Prices are in **EUR per litre** (EUR/kg for CNG/LNG) as reported by the source.
 
 | File | Rows | Description |
 | --- | --- | --- |
-| `prices/<year>.csv` | `ts,station_pk,fuel,price` | **Price change events**, one file per calendar year of `ts`. |
-| `daily/<year>.csv` | `date,station_pk,fuel,price` | **One price per calendar day** (local date), as change events: a row when the daily price differs from the previous day. |
-| `snapshots.csv` | `ts,commit,count,pages,stations,duplicates,changes` | One row per processed snapshot (git commit): provenance and scrape-quality info. |
-| `stations.csv` | `pk,franchise_pk,name,address,zip_code,lat,lng,first_seen,last_seen` | Every station ever seen, with its latest known attributes. |
-| `station_franchise.csv` | `ts,station_pk,franchise_pk` | Events: the station's franchise (brand) as of `ts`; a row is emitted on first sight and on every change. |
-| `fuels.csv` | `pk,code,name,long_name` | Fuel types. `code` is the key used in `prices.fuel`. |
-| `franchises.csv` | `pk,name` | Franchises (brands). Includes franchises that no longer exist at the source. |
-| `state.json` | | Last processed commit; used by the incremental update. |
+| [`prices/<year>.csv`](prices/) | `ts,station_pk,fuel,price` | **Price change events**, one file per calendar year of `ts`. |
+| [`daily/<year>.csv`](daily/) | `date,station_pk,fuel,price` | **One price per calendar day** (local date), as change events: a row when the daily price differs from the previous day. |
+| [`snapshots.csv`](snapshots.csv) | `ts,commit,count,pages,stations,duplicates,changes` | One row per processed snapshot (git commit): provenance and scrape-quality info. |
+| [`stations.csv`](stations.csv) | `pk,franchise_pk,name,address,zip_code,lat,lng,first_seen,last_seen` | Every station ever seen, with its latest known attributes. |
+| [`station_franchise.csv`](station_franchise.csv) | `ts,station_pk,franchise_pk` | Events: the station's franchise (brand) as of `ts`; a row is emitted on first sight and on every change. |
+| [`fuels.csv`](fuels.csv) | `pk,code,name,long_name` | Fuel types. `code` is the key used in `prices.fuel`. |
+| [`franchises.csv`](franchises.csv) | `pk,name` | Franchises (brands). Includes franchises that no longer exist at the source. |
+| [`state.json`](state.json) | | Last processed commit; used by the incremental update. |
 
 ### `prices/<year>.csv` semantics
 
