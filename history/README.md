@@ -198,9 +198,10 @@ filtered out:
 - **Source typos.** A handful of values are clearly wrong at the source, e.g.
   `1020.000` (January 2021, meant `1.020`), `0.001`, and a number of `1.000`/
   `2.000` placeholders. They are kept verbatim.
-- **Page cap.** The scraper fetches a fixed 22 pages (550 stations) while the
-  API has reported 551–555 stations at times, so a few stations may be
-  unobserved in some periods.
+- **Page cap (until 2026-08-27).** The scraper used to fetch a fixed 22 pages
+  (550 stations) while the API reported 551–555 stations at times, so up to a
+  handful of stations were unobserved in some periods. Since 2026-08-27 all
+  pages are fetched (`snapshots.csv.pages` shows the count).
 - **Number formatting.** Older snapshots were normalised by `jq` 1.6 (which
   prints `1.56` for `1.560`); prices are compared numerically at three
   decimals, so formatting differences never produce events.
