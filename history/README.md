@@ -185,7 +185,8 @@ Distribution of all 558 011 price change events by hour of day in
 Everything is published as scraped; the following known artefacts are **not**
 filtered out:
 
-- **Pagination races.** The 22 result pages are fetched one after another and
+- **Pagination races.** The result pages (25 stations each, currently 23
+  pages) are fetched one after another and
   the API ordering can shift in between, so a station may appear on two pages
   while another falls between pages. Duplicates are dropped (first occurrence
   wins, prices are identical); the missing station simply produces no event
