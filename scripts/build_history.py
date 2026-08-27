@@ -21,7 +21,6 @@ import argparse
 import csv
 import filecmp
 import json
-import os
 import shutil
 import subprocess
 import sys

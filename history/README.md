@@ -209,6 +209,10 @@ filtered out:
 
 ## Rebuilding
 
+The scripts need only Python 3.9+ (standard library: `zoneinfo`, `decimal`,
+`csv`, …) and `git`; there are no third-party dependencies to install. On
+Windows, `zoneinfo` additionally needs `pip install tzdata`.
+
 ```
 python3 scripts/build_history.py --rebuild   # from scratch, needs a full clone (~1 min)
 python3 scripts/build_history.py             # incremental, run by the workflow
