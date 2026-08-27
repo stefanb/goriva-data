@@ -23,7 +23,7 @@ Prices are in **EUR per litre** (EUR/kg for CNG/LNG) as reported by the source.
 | [`franchises.csv`](franchises.csv) | `pk,name` | Franchises (brands). Includes franchises that no longer exist at the source. |
 | [`state.json`](state.json) | | Last processed commit; used by the incremental update. |
 
-### `prices/<year>.csv` semantics
+### [`prices/<year>.csv`](prices/) semantics
 
 - A row means: *in the snapshot taken at `ts`, the price of `fuel` at station
   `station_pk` was different from the previously recorded value and is now
@@ -41,7 +41,7 @@ Prices are in **EUR per litre** (EUR/kg for CNG/LNG) as reported by the source.
   `KOEL` (heating oil), `hvo`, `cng`, `lng`. `hvo`/`cng`/`lng` exist since
   2024-06.
 
-### `daily/<year>.csv` semantics
+### [`daily/<year>.csv`](daily/) semantics
 
 Use this table when you only need a date, not a time.
 
@@ -62,7 +62,7 @@ Use this table when you only need a date, not a time.
 - Intraday flip-flops (see *Data quality*) that revert before the next cutoff
   disappear; ones that span a cutoff remain as day-level changes.
 
-### `snapshots.csv`
+### [`snapshots.csv`](snapshots.csv)
 
 - `ts` is the commit time of the snapshot, typically 1–3 minutes after the
   actual fetch. Snapshots are taken hourly but only committed when something
@@ -72,7 +72,7 @@ Use this table when you only need a date, not a time.
   snapshot, `duplicates` the number of stations that appeared on two pages
   (pagination race, see below), `changes` the number of price rows emitted.
 
-### `stations.csv`
+### [`stations.csv`](stations.csv)
 
 - `first_seen`/`last_seen` are snapshot timestamps. `last_seen` is **empty for
   stations present in the latest snapshot** (so the file does not change on
