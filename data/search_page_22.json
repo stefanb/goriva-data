@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 1568,
-      "franchise": 2,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.789,
-        "dizel": 2.044,
-        "98": null,
-        "100": 2.098,
-        "dizel-premium": 2.389,
-        "avtoplin-lpg": 1.028,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2230"
-    },
-    {
       "pk": 784,
       "franchise": 2,
       "name": "BS MOL TRUCK SEŽANA",
@@ -170,6 +146,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 09. september 2026",
       "zip_code": "2272"
+    },
+    {
+      "pk": 1970,
+      "franchise": 1,
+      "name": "PETROL GORNJA RADGONA - MELE",
+      "address": "LJUTOMERSKA CESTA 36",
+      "lat": 46.66198841,
+      "lng": 16.01446177,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "9250"
     },
     {
       "pk": 2035,
