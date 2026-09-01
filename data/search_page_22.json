@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 1568,
-      "franchise": 2,
-      "name": "BS MOL LORMANJE",
-      "address": "LORMANJE 22D",
-      "lat": 46.566917,
-      "lng": 15.8255,
-      "prices": {
-        "95": 1.794,
-        "dizel": 1.949,
-        "98": null,
-        "100": 2.119,
-        "dizel-premium": 2.319,
-        "avtoplin-lpg": 1.028,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "smer Maribor",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2230"
-    },
-    {
       "pk": 784,
       "franchise": 2,
       "name": "BS MOL TRUCK SEŽANA",
@@ -122,6 +98,30 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "5290"
+    },
+    {
+      "pk": 1930,
+      "franchise": 1,
+      "name": "PETROL MARIBOR - PTUJSKA 111",
+      "address": "PTUJSKA CESTA 111",
+      "lat": 46.53248364,
+      "lng": 15.66759889,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 14. september 2026",
+      "zip_code": "2000"
     },
     {
       "pk": 1944,
@@ -372,12 +372,12 @@
       "lng": 15.310556,
       "prices": {
         "95": null,
-        "dizel": 1.853,
+        "dizel": 1.761,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": 0.89,
-        "KOEL": 1.517,
+        "KOEL": 1.402,
         "hvo": null,
         "cng": null,
         "lng": null
