@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2324,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVIS d.o.o.",
-      "address": "Ljubljanska cesta 62",
-      "lat": 45.96802,
-      "lng": 14.66103,
-      "prices": {
-        "95": 1.623,
-        "dizel": 1.811,
-        "98": null,
-        "100": 1.975,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.412,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "VSAK DAN 5,30 do 22,30",
-      "zip_code": "1290"
-    },
-    {
       "pk": 2332,
       "franchise": 2,
       "name": "BS MOL RAVNE",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "2234"
+    },
+    {
+      "pk": 2357,
+      "franchise": 5,
+      "name": "SHELL TEPANJE",
+      "address": "Tepanje 4b",
+      "lat": 46.34088409645317,
+      "lng": 15.469610360423939,
+      "prices": {
+        "95": 1.623,
+        "dizel": 1.811,
+        "98": null,
+        "100": 1.989,
+        "dizel-premium": 2.059,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3210"
     }
   ],
   "position": null
