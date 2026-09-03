@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
+      "pk": 2256,
+      "franchise": 3,
+      "name": "BS MAXEN KRANJ",
+      "address": "Cesta Staneta Žagarja bš",
+      "lat": 46.24224,
+      "lng": 14.3774704,
+      "prices": {
+        "95": 1.623,
+        "dizel": 1.811,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "24/7",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2257,
       "franchise": 3,
       "name": "BS MAXEN AJDOVŠČINA",
@@ -578,30 +602,6 @@
       "direction": "Koper",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota, Nedelja, Praznik\n06:00-14:00\n",
       "zip_code": "6000"
-    },
-    {
-      "pk": 2324,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVIS d.o.o.",
-      "address": "Ljubljanska cesta 62",
-      "lat": 45.96802,
-      "lng": 14.66103,
-      "prices": {
-        "95": 1.623,
-        "dizel": 1.811,
-        "98": null,
-        "100": 1.975,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.412,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "VSAK DAN 5,30 do 22,30",
-      "zip_code": "1290"
     }
   ],
   "position": null
