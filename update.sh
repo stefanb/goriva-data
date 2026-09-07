@@ -14,7 +14,8 @@
 # the loop fast (no sleeps) to minimise the window.
 #
 # Because of that unstable ordering the per-page diffs are noisy, so all pages
-# are also merged into data/search.json, deduplicated by pk and sorted by pk.
+# are also merged into data/search.json, deduplicated by pk and sorted by pk,
+# and exported as data/search.geojson for GIS tools.
 set -euo pipefail
 
 API="https://goriva.si/api/v1"
@@ -56,8 +57,28 @@ jq -s '[.[].results[]] | unique_by(.pk) | {count: length, results: .}' \
 # https://goriva.si/api/v1/franchise/
 "${CURL[@]}" "$API/franchise/?format=json" | jq '.' > "$tmp/franchise.json"
 
+# https://geojson.org/ view of search.json for GIS tools: one Point feature per
+# station, prices flattened to price_<fuel> properties, franchise name joined in.
+# Coordinates outside a generous Slovenia bounding box (the API returns 1E-15
+# for stations without a location) yield geometry: null so the station is kept.
+# Features are sorted by pk so the git diff shows only real changes.
+jq --slurpfile franchises "$tmp/franchise.json" '
+  ($franchises[0] | map({key: (.pk | tostring), value: .name}) | from_entries) as $franchise_name
+  | {
+      type: "FeatureCollection",
+      features: [ .results | sort_by(.pk) | .[] | {
+        type: "Feature",
+        id: .pk,
+        geometry: (if .lat >= 45 and .lat <= 47 and .lng >= 13 and .lng <= 17
+                   then {type: "Point", coordinates: [.lng, .lat]} else null end),
+        properties: ({pk, franchise, franchise_name: $franchise_name[.franchise | tostring],
+                      name, address, zip_code, open_hours, direction}
+                     + (.prices | with_entries(.key |= "price_" + .)))
+      }]
+    }' "$tmp/search.json" > "$tmp/search.geojson"
+
 # Replace the snapshot: drop pages that no longer exist, then move the new files in.
 rm -f data/search_page_*.json
-mv "$tmp"/*.json data/
+mv "$tmp"/*.json "$tmp"/*.geojson data/
 
-echo "Fetched $pages search pages, $(jq '.count' data/search_page_1.json) stations reported by the API, $(jq '.count' data/search.json) unique stations in search.json"
+echo "Fetched $pages search pages, $(jq '.count' data/search_page_1.json) stations reported by the API, $(jq '.count' data/search.json) unique stations in search.json, $(jq '.features | length' data/search.geojson) GeoJSON features"

@@ -67,7 +67,7 @@ jobs:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: 'master'
         commit-message: 'Data update from goriva.si 🤖'
-        files: 'data/*.json'
+        files: 'data/*.json data/*.geojson'
         name: 'goriva.si scrape bot 🤖'
 
     # Derive the machine-readable price history (history/) from the snapshots committed above.
