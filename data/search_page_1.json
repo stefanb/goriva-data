@@ -340,54 +340,6 @@
       "zip_code": "2342"
     },
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.623,
-        "dizel": 1.811,
-        "98": null,
-        "100": 1.983,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.412,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nJanuar / Februar / Marec / April / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek\n06:00-18:00\n\nSobota, Nedelja, Praznik\nZaprto cel dan\n",
-      "zip_code": "9220"
-    },
-    {
-      "pk": 2268,
-      "franchise": 9,
-      "name": "BS Pesniška vrata",
-      "address": "Pesnica pri Mariboru 32e",
-      "lat": 46.601243,
-      "lng": 15.674333,
-      "prices": {
-        "95": 1.623,
-        "dizel": 1.811,
-        "98": 1.983,
-        "100": 1.983,
-        "dizel-premium": 1.753,
-        "avtoplin-lpg": null,
-        "KOEL": 1.412,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek - petek: 6-22\r\nsobota: 7-22\r\nnedelja in praznik: 8-20",
-      "zip_code": "2211"
-    },
-    {
       "pk": 2296,
       "franchise": 15,
       "name": "DISCONT OiL - BS Maribor",
@@ -410,54 +362,6 @@
       "direction": "",
       "open_hours": "Odpiralni čas:\r\nPonedeljek - petek: 07:00 - 20:00\r\nSobota: 07:00 - 19:00\r\nNedelja in prazniki: 08:00 - 13:00",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2306,
-      "franchise": 33,
-      "name": "Bencinski servis Stella",
-      "address": "Juršinci 81a",
-      "lat": 46.4832476,
-      "lng": 15.965107,
-      "prices": {
-        "95": 1.623,
-        "dizel": 1.811,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.412,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
-      "zip_code": "2256"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.623,
-        "dizel": 1.811,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.412,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 2288,
@@ -602,6 +506,102 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "1295"
+    },
+    {
+      "pk": 2294,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO POSTOJNA",
+      "address": "Industrijska cesta 4",
+      "lat": 45.769831,
+      "lng": 14.197979,
+      "prices": {
+        "95": 1.654,
+        "dizel": 1.919,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6230"
+    },
+    {
+      "pk": 2295,
+      "franchise": 2,
+      "name": "BS MOL PAY&GO ILIRSKA BISTRICA",
+      "address": "Vilharjeva cesta 58",
+      "lat": 45.576279,
+      "lng": 14.23011,
+      "prices": {
+        "95": 1.654,
+        "dizel": 1.919,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6250"
+    },
+    {
+      "pk": 769,
+      "franchise": 2,
+      "name": "BS MOL BRESTOVICA",
+      "address": "Brestovica 116b",
+      "lat": 45.81302,
+      "lng": 13.62228,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-19:00\n\nApril / Maj / Junij / Julij / Avgust / September\n07:00-20:00\n",
+      "zip_code": "6223"
+    },
+    {
+      "pk": 771,
+      "franchise": 2,
+      "name": "BS MOL BREŽICE",
+      "address": "C.Svobode 35",
+      "lat": 45.913737,
+      "lng": 15.595365,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": 2.034,
+        "dizel-premium": 2.298,
+        "avtoplin-lpg": null,
+        "KOEL": 1.544,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "8250"
     }
   ],
   "position": null
