@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=2&position=&radius=",
   "results": [
     {
-      "pk": 811,
-      "franchise": 2,
-      "name": "BS MOL KRVAVI POTOK",
-      "address": "Krvavi potok 1",
-      "lat": 45.61885,
-      "lng": 13.910126,
-      "prices": {
-        "95": 1.674,
-        "dizel": 1.939,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Trst",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n08:00-15:00\n",
-      "zip_code": "6240"
-    },
-    {
-      "pk": 812,
-      "franchise": 2,
-      "name": "BS MOL LAZARET",
-      "address": "Jadranska c. 1",
-      "lat": 45.59283,
-      "lng": 13.72411,
-      "prices": {
-        "95": 1.674,
-        "dizel": 1.939,
-        "98": null,
-        "100": 2.034,
-        "dizel-premium": 2.298,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Januar / Februar / Marec / Oktober / November / December\n07:00-20:00\n\nApril / Maj\n07:00-21:00\n\nJunij / Julij / Avgust / September\n07:00-22:00\n",
-      "zip_code": "6280"
-    },
-    {
       "pk": 813,
       "franchise": 2,
       "name": "BS MOL LESCE",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Januar / Februar / Marec / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n07:00-19:00\n\nJanuar / Februar / Marec / Oktober / November / December\nNedelja, Praznik\n08:00-18:00\n\nApril / Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n07:00-20:00\n\nApril / Maj / Junij / Julij / Avgust / September\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "6224"
+    },
+    {
+      "pk": 853,
+      "franchise": 2,
+      "name": "BS MOL SEŽANA",
+      "address": "Partizanska 63a",
+      "lat": 45.705649,
+      "lng": 13.863156,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": 2.034,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "6210"
+    },
+    {
+      "pk": 854,
+      "franchise": 2,
+      "name": "BS MOL SLOVENSKA BISTRICA ŽOLGARJEVA",
+      "address": "Žolgarjeva ulica 16",
+      "lat": 46.385322,
+      "lng": 15.571972,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": 2.034,
+        "dizel-premium": 2.298,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "06:00-22:00\n",
+      "zip_code": "2310"
     }
   ],
   "position": null

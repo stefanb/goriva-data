@@ -4,54 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
-      "pk": 853,
-      "franchise": 2,
-      "name": "BS MOL SEŽANA",
-      "address": "Partizanska 63a",
-      "lat": 45.705649,
-      "lng": 13.863156,
-      "prices": {
-        "95": 1.674,
-        "dizel": 1.939,
-        "98": null,
-        "100": 2.034,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 854,
-      "franchise": 2,
-      "name": "BS MOL SLOVENSKA BISTRICA ŽOLGARJEVA",
-      "address": "Žolgarjeva ulica 16",
-      "lat": 46.385322,
-      "lng": 15.571972,
-      "prices": {
-        "95": 1.674,
-        "dizel": 1.939,
-        "98": null,
-        "100": 2.034,
-        "dizel-premium": 2.298,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "2310"
-    },
-    {
       "pk": 855,
       "franchise": 2,
       "name": "BS MOL SLOVENSKE KONJICE",
@@ -602,6 +554,54 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-23:00\n\nNedelja, Praznik\n08:00-20:00\n",
       "zip_code": "1310"
+    },
+    {
+      "pk": 1556,
+      "franchise": 2,
+      "name": "BS MOL LOGATEC",
+      "address": "TRŽAŠKA 74A",
+      "lat": 45.9166669,
+      "lng": 14.218824,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": 2.034,
+        "dizel-premium": 2.298,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n05:00-23:00\n\nNedelja, Praznik\n08:00-20:00\n",
+      "zip_code": "1370"
+    },
+    {
+      "pk": 1557,
+      "franchise": 2,
+      "name": "BS MOL CELJE, MARIBORSKA",
+      "address": "MARIBORSKA CESTA 111",
+      "lat": 46.2451779,
+      "lng": 15.2776158,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": 2.034,
+        "dizel-premium": 2.298,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek\n00:00-23:00\n\nTorek, Sreda, Četrtek, Petek, Sobota\n05:00-23:00\n\nNedelja\n08:00-23:59\n\nPraznik\n08:00-20:00\n",
+      "zip_code": "3000"
     }
   ],
   "position": null
