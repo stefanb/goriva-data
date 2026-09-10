@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2084,
+      "franchise": 1,
+      "name": "PETROL KRANJ - STANETA ŽAGARJA 58B",
+      "address": "CESTA STANETA ŽAGARJA 58B",
+      "lat": 46.24334118,
+      "lng": 14.36914271,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": 2.036,
+        "dizel-premium": 2.298,
+        "avtoplin-lpg": null,
+        "KOEL": 1.544,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n08:00-13:00\n",
+      "zip_code": "4000"
+    },
+    {
       "pk": 2085,
       "franchise": 1,
       "name": "PETROL PODKOREN",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:30-09:00, 09:30-14:00\n\nSobota\n07:00-09:30, 10:00-13:00\n",
       "zip_code": "1215"
-    },
-    {
-      "pk": 2117,
-      "franchise": 1,
-      "name": "PETROL JESENICE - CESTA ŽELEZARJEV",
-      "address": "CESTA ŽELEZARJEV 7B",
-      "lat": 46.43218809,
-      "lng": 14.06315786,
-      "prices": {
-        "95": 1.674,
-        "dizel": 1.939,
-        "98": null,
-        "100": 2.036,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:30-23:00\n\nSobota\n06:00-23:00\n\nNedelja, Praznik\n06:00-23:00\n",
-      "zip_code": "4270"
     }
   ],
   "position": null

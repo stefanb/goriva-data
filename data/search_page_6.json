@@ -196,6 +196,30 @@
       "zip_code": "2000"
     },
     {
+      "pk": 1944,
+      "franchise": 1,
+      "name": "PETROL LOVRENC NA POHORJU",
+      "address": "MARIBORSKA CESTA 43",
+      "lat": 46.54696377,
+      "lng": 15.40182431,
+      "prices": {
+        "95": 1.674,
+        "dizel": 1.939,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.544,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-16:00\n\nSobota\n07:00-16:00\n",
+      "zip_code": "2344"
+    },
+    {
       "pk": 1947,
       "franchise": 1,
       "name": "PETROL NOVA GORICA - VOJKOVA VZHOD",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n07:00-20:00\n",
       "zip_code": "9262"
-    },
-    {
-      "pk": 1964,
-      "franchise": 1,
-      "name": "PETROL DOLNJI LAKOŠ",
-      "address": "GLAVNA ULICA 3",
-      "lat": 46.55372124,
-      "lng": 16.44233518,
-      "prices": {
-        "95": 1.674,
-        "dizel": 1.939,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.544,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "9220"
     }
   ],
   "position": null
