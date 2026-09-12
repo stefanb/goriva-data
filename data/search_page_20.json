@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 791,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI SEVER",
+      "address": "Partizanska c. 130",
+      "lat": 45.70492,
+      "lng": 13.84554,
+      "prices": {
+        "95": 1.889,
+        "dizel": 2.129,
+        "98": null,
+        "100": 2.229,
+        "dizel-premium": 2.489,
+        "avtoplin-lpg": 1.028,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Benetke",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6210"
+    },
+    {
       "pk": 793,
       "franchise": 2,
       "name": "BS MOL GRABONOŠ",
@@ -578,30 +602,6 @@
       "direction": "Maribor -> Ljubljana",
       "open_hours": "00:00-23:59\n",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2229,
-      "franchise": 1,
-      "name": "PETROL STARINE AC - JUG",
-      "address": "ZAGRAD PRI OTOČCU 111",
-      "lat": 45.841312,
-      "lng": 15.217206,
-      "prices": {
-        "95": 1.891,
-        "dizel": 2.128,
-        "98": null,
-        "100": 2.227,
-        "dizel-premium": 2.49,
-        "avtoplin-lpg": 1.046,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "8222"
     }
   ],
   "position": null
