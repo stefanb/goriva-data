@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2357,
-      "franchise": 5,
-      "name": "SHELL TEPANJE",
-      "address": "Tepanje 4b",
-      "lat": 46.34088409645317,
-      "lng": 15.469610360423939,
-      "prices": {
-        "95": 1.728,
-        "dizel": 1.991,
-        "98": null,
-        "100": 2.089,
-        "dizel-premium": 2.059,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "3210"
-    },
-    {
       "pk": 2358,
       "franchise": 5,
       "name": "SHELL BREZOVICA",
@@ -602,6 +578,30 @@
       "direction": "Benetke",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6210"
+    },
+    {
+      "pk": 793,
+      "franchise": 2,
+      "name": "BS MOL GRABONOŠ",
+      "address": "Grabonoš 4c",
+      "lat": 46.584129,
+      "lng": 16.008947,
+      "prices": {
+        "95": 1.944,
+        "dizel": 2.179,
+        "98": null,
+        "100": 2.284,
+        "dizel-premium": 2.544,
+        "avtoplin-lpg": 1.028,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Lenti",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "9244"
     }
   ],
   "position": null

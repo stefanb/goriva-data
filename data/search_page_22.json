@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 784,
-      "franchise": 2,
-      "name": "BS MOL TRUCK SEŽANA",
-      "address": "Partizanska 77",
-      "lat": 45.70387478,
-      "lng": 13.8514001,
-      "prices": {
-        "95": null,
-        "dizel": 1.991,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6210"
-    },
-    {
       "pk": 785,
       "franchise": 2,
       "name": "BS MOL TRUCK LENDAVA",
@@ -266,6 +242,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 03. oktober 2026",
       "zip_code": "1373"
+    },
+    {
+      "pk": 2155,
+      "franchise": 1,
+      "name": "PETROL METLIKA - CESTA XV BRIGADE JUG",
+      "address": "CESTA XV. BRIGADE 35",
+      "lat": 45.64976238,
+      "lng": 15.30623221,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 03. oktober 2026",
+      "zip_code": "8330"
     },
     {
       "pk": 2273,
