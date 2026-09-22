@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 785,
-      "franchise": 2,
-      "name": "BS MOL TRUCK LENDAVA",
-      "address": "Trimlini 65b",
-      "lat": 46.54818511,
-      "lng": 16.44478697,
-      "prices": {
-        "95": null,
-        "dizel": 2.012,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "9220"
-    },
-    {
       "pk": 786,
       "franchise": 2,
       "name": "BS MOL TRUCK MARIBOR",
@@ -170,6 +146,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 05. oktober 2026",
       "zip_code": "9250"
+    },
+    {
+      "pk": 1989,
+      "franchise": 1,
+      "name": "PETROL TOLMIN",
+      "address": "TRG MARŠALA TITA 18",
+      "lat": 46.18282816,
+      "lng": 13.73383929,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 05. oktober 2026",
+      "zip_code": "5220"
     },
     {
       "pk": 2035,
@@ -372,12 +372,12 @@
       "lng": 15.310556,
       "prices": {
         "95": null,
-        "dizel": 1.941,
+        "dizel": 1.962,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": 0.94,
-        "KOEL": 1.592,
+        "KOEL": 1.635,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -420,12 +420,12 @@
       "lng": 15.597476,
       "prices": {
         "95": null,
-        "dizel": 1.991,
+        "dizel": 2.012,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": null,
-        "KOEL": 1.6,
+        "KOEL": 1.633,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -492,7 +492,7 @@
       "lng": 15.052119626875369,
       "prices": {
         "95": null,
-        "dizel": 1.991,
+        "dizel": 2.012,
         "98": null,
         "100": null,
         "dizel-premium": null,
