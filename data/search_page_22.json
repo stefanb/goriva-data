@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2096,
+      "franchise": 1,
+      "name": "PETROL HRUŠICA AC - SEVER",
+      "address": "SPODNJI PLAVŽ 24B",
+      "lat": 46.440937,
+      "lng": 14.028828,
+      "prices": {
+        "95": 2.015,
+        "dizel": 2.25,
+        "98": null,
+        "100": 2.292,
+        "dizel-premium": 2.647,
+        "avtoplin-lpg": 1.046,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana -> Karavan",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "4270"
+    },
+    {
       "pk": 784,
       "franchise": 2,
       "name": "BS MOL TRUCK SEŽANA",
@@ -98,30 +122,6 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "5290"
-    },
-    {
-      "pk": 1930,
-      "franchise": 1,
-      "name": "PETROL MARIBOR - PTUJSKA 111",
-      "address": "PTUJSKA CESTA 111",
-      "lat": 46.53248364,
-      "lng": 15.66759889,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 09. oktober 2026",
-      "zip_code": "2000"
     },
     {
       "pk": 1946,

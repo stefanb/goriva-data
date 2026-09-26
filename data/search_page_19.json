@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2354,
+      "franchise": 5,
+      "name": "SHELL CELJE AERO",
+      "address": "Dečkova cesta 39",
+      "lat": 46.24061678625168,
+      "lng": 15.256515119602888,
+      "prices": {
+        "95": 1.748,
+        "dizel": 2.012,
+        "98": null,
+        "100": 2.099,
+        "dizel-premium": 2.379,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "3000"
+    },
+    {
       "pk": 2355,
       "franchise": 5,
       "name": "SHELL POSTOJNA TRŽAŠKA",
@@ -576,30 +600,6 @@
       },
       "distance": null,
       "direction": "Ljubljana",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "6210"
-    },
-    {
-      "pk": 791,
-      "franchise": 2,
-      "name": "BS MOL FERNETIČI SEVER",
-      "address": "Partizanska c. 130",
-      "lat": 45.70492,
-      "lng": 13.84554,
-      "prices": {
-        "95": 1.964,
-        "dizel": 2.199,
-        "98": null,
-        "100": 2.289,
-        "dizel-premium": 2.644,
-        "avtoplin-lpg": 1.028,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Benetke",
       "open_hours": "00:00-23:59\n",
       "zip_code": "6210"
     }
