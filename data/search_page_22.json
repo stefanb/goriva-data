@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 2232,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
-      "prices": {
-        "95": 1.911,
-        "dizel": 2.021,
-        "98": null,
-        "100": 2.232,
-        "dizel-premium": 2.451,
-        "avtoplin-lpg": 1.036,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2286"
-    },
-    {
       "pk": 784,
       "franchise": 2,
       "name": "BS MOL TRUCK SEŽANA",
@@ -170,6 +146,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 23. julij 2026",
       "zip_code": "6310"
+    },
+    {
+      "pk": 2042,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - ZALOŠKA",
+      "address": "ZALOŠKA CESTA 60A",
+      "lat": 46.05587096,
+      "lng": 14.53893203,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 19. oktober 2026",
+      "zip_code": "1000"
     },
     {
       "pk": 2052,
@@ -372,12 +372,12 @@
       "lng": 15.310556,
       "prices": {
         "95": null,
-        "dizel": 1.879,
+        "dizel": 1.833,
         "98": null,
         "100": null,
         "dizel-premium": null,
         "avtoplin-lpg": 0.94,
-        "KOEL": 1.552,
+        "KOEL": 1.506,
         "hvo": null,
         "cng": null,
         "lng": null
@@ -492,7 +492,7 @@
       "lng": 15.052119626875369,
       "prices": {
         "95": null,
-        "dizel": 1.929,
+        "dizel": 1.883,
         "98": null,
         "100": null,
         "dizel-premium": null,
