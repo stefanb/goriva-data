@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2256,
-      "franchise": 3,
-      "name": "BS MAXEN KRANJ",
-      "address": "Cesta Staneta Žagarja bš",
-      "lat": 46.24224,
-      "lng": 14.3774704,
-      "prices": {
-        "95": 1.744,
-        "dizel": 1.883,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "24/7",
-      "zip_code": "4000"
-    },
-    {
       "pk": 2257,
       "franchise": 3,
       "name": "BS MAXEN AJDOVŠČINA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n07:00-22:00\n",
       "zip_code": "2390"
+    },
+    {
+      "pk": 2334,
+      "franchise": 5,
+      "name": "SHELL ROGAŠKA SLATINA",
+      "address": "Tržišče 12 b",
+      "lat": 46.308,
+      "lng": 15.5665,
+      "prices": {
+        "95": 1.744,
+        "dizel": 1.883,
+        "98": null,
+        "100": 2.109,
+        "dizel-premium": 2.329,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek - Sobota 6:00 - 22:00\r\n\r\nNedelja 8:00 - 20:00",
+      "zip_code": "3250"
     }
   ],
   "position": null
