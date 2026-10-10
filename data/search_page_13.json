@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2143,
+      "franchise": 1,
+      "name": "PETROL BREŽICE - CESTA SVOBODE",
+      "address": "CESTA SVOBODE 1",
+      "lat": 45.90080568,
+      "lng": 15.60410967,
+      "prices": {
+        "95": 1.744,
+        "dizel": 1.883,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.506,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-19:00\n",
+      "zip_code": "8250"
+    },
+    {
       "pk": 2144,
       "franchise": 1,
       "name": "PETROL BOŠTANJ PRI SEVNICI",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-19:00\n",
       "zip_code": "3330"
-    },
-    {
-      "pk": 2171,
-      "franchise": 1,
-      "name": "PETROL VOJNIK",
-      "address": "CELJSKA CESTA 35A",
-      "lat": 46.28580502,
-      "lng": 15.30428269,
-      "prices": {
-        "95": 1.744,
-        "dizel": 1.883,
-        "98": null,
-        "100": 2.111,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.506,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "3212"
     }
   ],
   "position": null
