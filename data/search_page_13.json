@@ -4,6 +4,54 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=12&position=&radius=",
   "results": [
     {
+      "pk": 2138,
+      "franchise": 1,
+      "name": "PETROL LJUBLJANA - BARJANSKA CESTA",
+      "address": "BARJANSKA CESTA 90",
+      "lat": 46.031446,
+      "lng": 14.499955,
+      "prices": {
+        "95": 1.702,
+        "dizel": 1.923,
+        "98": null,
+        "100": 2.041,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.016,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-22:00\n\nSobota\n07:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "1000"
+    },
+    {
+      "pk": 2139,
+      "franchise": 1,
+      "name": "PETROL KRŠKO - CESTA KRŠKIH ŽRTEV",
+      "address": "CESTA KRŠKIH ŽRTEV 136A",
+      "lat": 45.941161,
+      "lng": 15.484993,
+      "prices": {
+        "95": 1.702,
+        "dizel": 1.923,
+        "98": null,
+        "100": 2.041,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.016,
+        "KOEL": 1.546,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n06:00-22:00\n",
+      "zip_code": "8270"
+    },
+    {
       "pk": 2140,
       "franchise": 1,
       "name": "PETROL SEVNICA",
@@ -554,54 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-13:00, 13:30-17:00\n\nNedelja, Praznik\n08:30-12:00\n",
       "zip_code": "3000"
-    },
-    {
-      "pk": 2168,
-      "franchise": 1,
-      "name": "PETROL CELJE - HUDINJA",
-      "address": "MARIBORSKA CESTA 121",
-      "lat": 46.247231,
-      "lng": 15.278929,
-      "prices": {
-        "95": 1.702,
-        "dizel": 1.923,
-        "98": null,
-        "100": 2.041,
-        "dizel-premium": 2.368,
-        "avtoplin-lpg": 1.016,
-        "KOEL": 1.546,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
-      "zip_code": "3000"
-    },
-    {
-      "pk": 2169,
-      "franchise": 1,
-      "name": "PETROL LJUBNO OB SAVINJI",
-      "address": "LOKE 10",
-      "lat": 46.33779188,
-      "lng": 14.83876308,
-      "prices": {
-        "95": 1.702,
-        "dizel": 1.923,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.546,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n07:00-19:00\n\nNedelja, Praznik\n08:00-11:30, 12:00-17:00\n",
-      "zip_code": "3333"
     }
   ],
   "position": null
