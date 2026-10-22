@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
+      "pk": 790,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI JUG",
+      "address": "Partizanska c. 98",
+      "lat": 45.704437,
+      "lng": 13.846496,
+      "prices": {
+        "95": 1.869,
+        "dizel": 2.059,
+        "98": null,
+        "100": 2.164,
+        "dizel-premium": 2.489,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6210"
+    },
+    {
       "pk": 791,
       "franchise": 2,
       "name": "BS MOL FERNETIČI SEVER",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "9000"
-    },
-    {
-      "pk": 2026,
-      "franchise": 1,
-      "name": "PETROL LORMANJE AC - JUG",
-      "address": "LORMANJE 22C",
-      "lat": 46.564825,
-      "lng": 15.826899,
-      "prices": {
-        "95": 1.869,
-        "dizel": 2.061,
-        "98": null,
-        "100": 2.162,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.076,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor -> Madžarska",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2230"
     }
   ],
   "position": null

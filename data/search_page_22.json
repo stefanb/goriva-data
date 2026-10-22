@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
+      "pk": 2232,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - ZAHOD",
+      "address": "DEŽNO PRI PODLEHNIKU 2",
+      "lat": 46.329098,
+      "lng": 15.878359,
+      "prices": {
+        "95": 1.869,
+        "dizel": 2.061,
+        "98": null,
+        "100": 2.162,
+        "dizel-premium": 2.49,
+        "avtoplin-lpg": 1.076,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "2286"
+    },
+    {
       "pk": 784,
       "franchise": 2,
       "name": "BS MOL TRUCK SEŽANA",
@@ -146,30 +170,6 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 23. julij 2026",
       "zip_code": "6310"
-    },
-    {
-      "pk": 2052,
-      "franchise": 1,
-      "name": "PETROL LJUBLJANA - TRNOVO",
-      "address": "RIHARJEVA ULICA 31",
-      "lat": 46.03925962,
-      "lng": 14.50003317,
-      "prices": {
-        "95": null,
-        "dizel": null,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Začasno zaprto do 04. november 2026",
-      "zip_code": "1000"
     },
     {
       "pk": 2097,

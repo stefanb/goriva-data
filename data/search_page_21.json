@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=20&position=&radius=",
   "results": [
     {
+      "pk": 2026,
+      "franchise": 1,
+      "name": "PETROL LORMANJE AC - JUG",
+      "address": "LORMANJE 22C",
+      "lat": 46.564825,
+      "lng": 15.826899,
+      "prices": {
+        "95": 1.869,
+        "dizel": 2.061,
+        "98": null,
+        "100": 2.162,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.076,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Maribor -> Madžarska",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "2230"
+    },
+    {
       "pk": 2027,
       "franchise": 1,
       "name": "PETROL PINCE AC - JUG",
@@ -578,30 +602,6 @@
       "direction": "Ljubljana -> Novo Me",
       "open_hours": "00:00-23:59\n",
       "zip_code": "8210"
-    },
-    {
-      "pk": 2232,
-      "franchise": 1,
-      "name": "PETROL PODLEHNIK AC - ZAHOD",
-      "address": "DEŽNO PRI PODLEHNIKU 2",
-      "lat": 46.329098,
-      "lng": 15.878359,
-      "prices": {
-        "95": 1.869,
-        "dizel": 2.061,
-        "98": null,
-        "100": 2.162,
-        "dizel-premium": 2.49,
-        "avtoplin-lpg": 1.076,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2286"
     }
   ],
   "position": null
