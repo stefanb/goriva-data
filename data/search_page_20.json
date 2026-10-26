@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 782,
-      "franchise": 2,
-      "name": "BS MOL DRAVSKO POLJE SEVER",
-      "address": "Gerečja vas 1g",
-      "lat": 46.428104,
-      "lng": 15.796613,
-      "prices": {
-        "95": 1.919,
-        "dizel": 2.109,
-        "98": null,
-        "100": 2.234,
-        "dizel-premium": 2.559,
-        "avtoplin-lpg": 1.069,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Maribor",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "2288"
-    },
-    {
       "pk": 790,
       "franchise": 2,
       "name": "BS MOL FERNETIČI JUG",
@@ -586,6 +562,30 @@
       "address": "ZALOKE 16",
       "lat": 45.908304,
       "lng": 15.400616,
+      "prices": {
+        "95": 1.919,
+        "dizel": 2.111,
+        "98": null,
+        "100": 2.232,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.076,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "8274"
+    },
+    {
+      "pk": 2202,
+      "franchise": 1,
+      "name": "PETROL ZALOKE AC - SEVER",
+      "address": "ZALOKE 15",
+      "lat": 45.909601,
+      "lng": 15.400316,
       "prices": {
         "95": 1.919,
         "dizel": 2.111,
