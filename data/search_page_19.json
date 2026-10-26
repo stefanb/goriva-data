@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
-      "pk": 2355,
-      "franchise": 5,
-      "name": "SHELL POSTOJNA TRŽAŠKA",
-      "address": "Tržaška cesta 60b",
-      "lat": 45.772716370874754,
-      "lng": 14.200187856694102,
-      "prices": {
-        "95": 1.702,
-        "dizel": 1.923,
-        "98": null,
-        "100": 2.069,
-        "dizel-premium": 2.369,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "",
-      "zip_code": "6230"
-    },
-    {
       "pk": 2356,
       "franchise": 5,
       "name": "SHELL BENEDIKT",
@@ -602,6 +578,30 @@
       "direction": "Maribor",
       "open_hours": "00:00-23:59\n",
       "zip_code": "2288"
+    },
+    {
+      "pk": 790,
+      "franchise": 2,
+      "name": "BS MOL FERNETIČI JUG",
+      "address": "Partizanska c. 98",
+      "lat": 45.704437,
+      "lng": 13.846496,
+      "prices": {
+        "95": 1.919,
+        "dizel": 2.109,
+        "98": null,
+        "100": 2.234,
+        "dizel-premium": 2.559,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "Ljubljana",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "6210"
     }
   ],
   "position": null

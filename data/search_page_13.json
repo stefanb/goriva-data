@@ -484,30 +484,6 @@
       "zip_code": "8275"
     },
     {
-      "pk": 2161,
-      "franchise": 1,
-      "name": "PETROL METLIKA - CESTA XV BRIGADE SEVER",
-      "address": "CESTA XV. BRIGADE 34",
-      "lat": 45.65043013,
-      "lng": 15.30556866,
-      "prices": {
-        "95": 1.702,
-        "dizel": 1.923,
-        "98": null,
-        "100": 2.041,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.546,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "06:00-22:00\n",
-      "zip_code": "8330"
-    },
-    {
       "pk": 2163,
       "franchise": 1,
       "name": "PETROL BREŽICE - TOVARNIŠKA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-19:00\n\nNedelja, Praznik\n08:00-19:00\n",
       "zip_code": "3305"
+    },
+    {
+      "pk": 2167,
+      "franchise": 1,
+      "name": "PETROL CELJE - LJUBLJANSKA",
+      "address": "LJUBLJANSKA CESTA 38",
+      "lat": 46.235056,
+      "lng": 15.24900341,
+      "prices": {
+        "95": 1.702,
+        "dizel": 1.923,
+        "98": null,
+        "100": 2.041,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-19:00\n\nSobota\n07:00-13:00, 13:30-17:00\n\nNedelja, Praznik\n08:30-12:00\n",
+      "zip_code": "3000"
     }
   ],
   "position": null
