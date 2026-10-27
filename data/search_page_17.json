@@ -110,7 +110,7 @@
         "95": 1.627,
         "dizel": 1.935,
         "98": null,
-        "100": 1.979,
+        "100": 1.959,
         "dizel-premium": 2.369,
         "avtoplin-lpg": null,
         "KOEL": null,
@@ -134,7 +134,7 @@
         "95": 1.627,
         "dizel": 1.935,
         "98": null,
-        "100": 2.041,
+        "100": 1.952,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 1.558,
@@ -158,7 +158,7 @@
         "95": 1.627,
         "dizel": 1.935,
         "98": null,
-        "100": 2.111,
+        "100": 1.952,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 1.558,
@@ -446,7 +446,7 @@
         "95": 1.627,
         "dizel": 1.935,
         "98": null,
-        "100": 2.04,
+        "100": 1.951,
         "dizel-premium": null,
         "avtoplin-lpg": null,
         "KOEL": 1.558,
@@ -484,6 +484,30 @@
       "zip_code": "4220"
     },
     {
+      "pk": 2306,
+      "franchise": 33,
+      "name": "Bencinski servis Stella",
+      "address": "Juršinci 81a",
+      "lat": 46.4832476,
+      "lng": 15.965107,
+      "prices": {
+        "95": 1.627,
+        "dizel": 1.935,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.558,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Vsak dan od 6.00 do 21.00\r\nNedelja 7.00 do 17.00",
+      "zip_code": "2256"
+    },
+    {
       "pk": 2307,
       "franchise": 19,
       "name": "Bencinski servis Sodražica",
@@ -506,6 +530,30 @@
       "direction": "",
       "open_hours": "5.30-22.00",
       "zip_code": "1317"
+    },
+    {
+      "pk": 2315,
+      "franchise": 21,
+      "name": "Bencinski servis STRANICE",
+      "address": "Osredek 33",
+      "lat": 46.36054099833075,
+      "lng": 15.385325730057207,
+      "prices": {
+        "95": 1.627,
+        "dizel": 1.935,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.558,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
+      "zip_code": "3214"
     },
     {
       "pk": 2316,
@@ -554,54 +602,6 @@
       "direction": "Murska Sobota - Grad (Kuzma)",
       "open_hours": "ponedeljek: 6.00 - 19.00\r\ntorek:          6.00 - 19.00\r\nsreda:          6.00 - 19.00\r\nčetrtek:        6.00 - 19.00\r\npetek:          6.00 - 19.00\r\nsobota:        6.00 - 19.00\r\nnedelja:       7.00 - 16.00\r\nprazniki:      7.00 - 16.00",
       "zip_code": "9201"
-    },
-    {
-      "pk": 2323,
-      "franchise": 2,
-      "name": "BS MOL KOPER LUKA",
-      "address": "Vojkovo nabrežje 38",
-      "lat": 45.55757,
-      "lng": 13.75353,
-      "prices": {
-        "95": 1.627,
-        "dizel": 1.935,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Koper",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota, Nedelja, Praznik\n06:00-14:00\n",
-      "zip_code": "6000"
-    },
-    {
-      "pk": 2324,
-      "franchise": 19,
-      "name": "LOGO BENCINSKI SERVIS d.o.o.",
-      "address": "Ljubljanska cesta 62",
-      "lat": 45.96802,
-      "lng": 14.66103,
-      "prices": {
-        "95": 1.627,
-        "dizel": 1.935,
-        "98": null,
-        "100": 2.04,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.558,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "VSAK DAN 5,30 do 22,30",
-      "zip_code": "1290"
     }
   ],
   "position": null
