@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=18&position=&radius=",
   "results": [
     {
+      "pk": 2356,
+      "franchise": 5,
+      "name": "SHELL BENEDIKT",
+      "address": "Radgonska cesta 15",
+      "lat": 46.61058906474378,
+      "lng": 15.89398684995135,
+      "prices": {
+        "95": 1.626,
+        "dizel": 1.949,
+        "98": null,
+        "100": 1.959,
+        "dizel-premium": 0.001,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "2234"
+    },
+    {
       "pk": 2357,
       "franchise": 5,
       "name": "SHELL TEPANJE",
@@ -410,30 +434,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-22:00\n\nSobota\n06:00-22:00\n\nNedelja, Praznik\n06:00-22:00\n",
       "zip_code": "3301"
-    },
-    {
-      "pk": 2315,
-      "franchise": 21,
-      "name": "Bencinski servis STRANICE",
-      "address": "Osredek 33",
-      "lat": 46.36054099833075,
-      "lng": 15.385325730057207,
-      "prices": {
-        "95": 1.627,
-        "dizel": 1.935,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.558,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "ponedeljek-sobota  6-22 ure\r\nnedelja in prazniki   7-22 ure",
-      "zip_code": "3214"
     },
     {
       "pk": 2367,
