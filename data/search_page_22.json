@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 2095,
-      "franchise": 1,
-      "name": "PETROL HRUŠICA AC - JUG",
-      "address": "SPODNJI PLAVŽ 24A",
-      "lat": 46.440467,
-      "lng": 14.026493,
-      "prices": {
-        "95": 1.893,
-        "dizel": 2.187,
-        "98": null,
-        "100": 2.187,
-        "dizel-premium": 2.586,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "4270"
-    },
-    {
       "pk": 2096,
       "franchise": 1,
       "name": "PETROL HRUŠICA AC - SEVER",
@@ -242,6 +218,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 21. november 2026",
       "zip_code": "1411"
+    },
+    {
+      "pk": 2160,
+      "franchise": 1,
+      "name": "PETROL ŠKOCJAN",
+      "address": "DOLNJA STARA VAS 50",
+      "lat": 45.89728,
+      "lng": 15.300093,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 21. november 2026",
+      "zip_code": "8275"
     },
     {
       "pk": 2161,
