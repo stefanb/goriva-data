@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=8&position=&radius=",
   "results": [
     {
+      "pk": 2022,
+      "franchise": 1,
+      "name": "PETROL PTUJ - ZAGREBŠKA",
+      "address": "ZAGREBŠKA CESTA 49B",
+      "lat": 46.40705215,
+      "lng": 15.866315,
+      "prices": {
+        "95": 1.506,
+        "dizel": 1.848,
+        "98": null,
+        "100": 1.84,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": 1.471,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-19:00\n",
+      "zip_code": "2250"
+    },
+    {
       "pk": 2023,
       "franchise": 1,
       "name": "PETROL MARIBOR - PUHOVA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n00:00-06:00, 06:00-20:00, 20:00-00:00\n\nSobota\n00:00-06:00, 06:00-10:00, 10:30-13:00, 13:00-00:00\n\nNedelja, Praznik\n00:00-00:00\n",
       "zip_code": "1000"
-    },
-    {
-      "pk": 2053,
-      "franchise": 1,
-      "name": "PETROL DOBROVA",
-      "address": "POLHOGRAJSKA CESTA 12",
-      "lat": 46.0520304,
-      "lng": 14.42151956,
-      "prices": {
-        "95": 1.506,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.471,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-13:00\n",
-      "zip_code": "1356"
     }
   ],
   "position": null
