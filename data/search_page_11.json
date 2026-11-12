@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=10&position=&radius=",
   "results": [
     {
+      "pk": 2080,
+      "franchise": 1,
+      "name": "PETROL ŠKOFJA LOKA - TRATA",
+      "address": "KIDRIČEVA CESTA 57A",
+      "lat": 46.17302892,
+      "lng": 14.33101817,
+      "prices": {
+        "95": 1.506,
+        "dizel": 1.848,
+        "98": null,
+        "100": 1.84,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.153,
+        "KOEL": 1.471,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-10:00, 10:30-15:30\n\nSobota\n07:00-14:00\n",
+      "zip_code": "4220"
+    },
+    {
       "pk": 2082,
       "franchise": 1,
       "name": "PETROL KAMNIK - LJUBLJANSKA",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-14:00\n",
       "zip_code": "4000"
-    },
-    {
-      "pk": 2114,
-      "franchise": 1,
-      "name": "PETROL LESCE",
-      "address": "HRAŠKA CESTA 13A",
-      "lat": 46.36782569,
-      "lng": 14.15376274,
-      "prices": {
-        "95": 1.506,
-        "dizel": 1.848,
-        "98": null,
-        "100": null,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.471,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n07:00-20:00\n\nSobota\n08:00-19:00\n\nNedelja, Praznik\n08:00-16:00\n",
-      "zip_code": "4248"
     }
   ],
   "position": null
