@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=7&position=&radius=",
   "results": [
     {
+      "pk": 1995,
+      "franchise": 1,
+      "name": "PETROL ILIRSKA BISTRICA",
+      "address": "VILHARJEVA CESTA 33C",
+      "lat": 45.575503,
+      "lng": 14.23202,
+      "prices": {
+        "95": 1.444,
+        "dizel": 1.798,
+        "98": null,
+        "100": 1.782,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.153,
+        "KOEL": 1.421,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n06:00-21:00\n\nNedelja, Praznik\n07:00-21:00\n",
+      "zip_code": "6250"
+    },
+    {
       "pk": 1996,
       "franchise": 1,
       "name": "PETROL POSTOJNA",
@@ -578,30 +602,6 @@
       "direction": "Ljubljana -> Maribor",
       "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-21:00\n\nSobota\n07:00-20:00\n\nNedelja, Praznik\n07:00-20:00\n",
       "zip_code": "2000"
-    },
-    {
-      "pk": 2028,
-      "franchise": 1,
-      "name": "PETROL SLIVNICA VZHOD",
-      "address": "LJUBLJANSKA CESTA 61",
-      "lat": 46.493923,
-      "lng": 15.652196,
-      "prices": {
-        "95": 1.444,
-        "dizel": 1.798,
-        "98": null,
-        "100": 1.782,
-        "dizel-premium": null,
-        "avtoplin-lpg": 1.153,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-19:00\n",
-      "zip_code": "2311"
     }
   ],
   "position": null
