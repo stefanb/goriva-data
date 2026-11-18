@@ -364,30 +364,6 @@
       "zip_code": "3342"
     },
     {
-      "pk": 2190,
-      "franchise": 1,
-      "name": "PETROL CELJE - LANOVŽ",
-      "address": "IPAVČEVA ULICA 19",
-      "lat": 46.23718054,
-      "lng": 15.25657342,
-      "prices": {
-        "95": 1.444,
-        "dizel": 1.798,
-        "98": null,
-        "100": 1.782,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.421,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n06:00-20:00\n\nSobota\n06:00-20:00\n\nNedelja, Praznik\n08:00-20:00\n",
-      "zip_code": "3000"
-    },
-    {
       "pk": 2191,
       "franchise": 1,
       "name": "PETROL ŠOŠTANJ",
@@ -601,6 +577,30 @@
       "distance": null,
       "direction": "",
       "open_hours": "00:00-23:59\n",
+      "zip_code": "3000"
+    },
+    {
+      "pk": 2200,
+      "franchise": 1,
+      "name": "PETROL CELJE - KIDRIČEVA SEVER",
+      "address": "KIDRIČEVA ULICA 21",
+      "lat": 46.23557589,
+      "lng": 15.27676905,
+      "prices": {
+        "95": 1.444,
+        "dizel": 1.798,
+        "98": null,
+        "100": 1.782,
+        "dizel-premium": null,
+        "avtoplin-lpg": 1.153,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek\n05:00-21:00\n\nSobota\n06:00-19:00\n\nNedelja, Praznik\n08:00-18:00\n",
       "zip_code": "3000"
     }
   ],
