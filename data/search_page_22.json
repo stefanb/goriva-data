@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=21&position=&radius=",
   "results": [
     {
-      "pk": 2367,
-      "franchise": 5,
-      "name": "SHELL KOČEVJE",
-      "address": "Gornje Ložine 1A",
-      "lat": 45.68934644998123,
-      "lng": 14.799691221318923,
-      "prices": {
-        "95": 1.76,
-        "dizel": 1.929,
-        "98": null,
-        "100": 2.119,
-        "dizel-premium": 2.379,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Bencinski servis je trajno zaprt.",
-      "zip_code": "1332"
-    },
-    {
       "pk": 2368,
       "franchise": 5,
       "name": "SHELL SLOVENSKE KONJICE",
@@ -242,6 +218,30 @@
       "direction": "",
       "open_hours": "Začasno zaprto do 05. december 2026",
       "zip_code": "8330"
+    },
+    {
+      "pk": 2163,
+      "franchise": 1,
+      "name": "PETROL BREŽICE - TOVARNIŠKA",
+      "address": "TOVARNIŠKA CESTA 2",
+      "lat": 45.91870681,
+      "lng": 15.59341049,
+      "prices": {
+        "95": null,
+        "dizel": null,
+        "98": null,
+        "100": null,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Začasno zaprto do 05. december 2026",
+      "zip_code": "8250"
     },
     {
       "pk": 2190,

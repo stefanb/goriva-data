@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA d.o.o.",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.444,
-        "dizel": 1.798,
-        "98": null,
-        "100": 1.782,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.421,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nJanuar / Februar / Marec / April / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek\n06:00-18:00\n\nSobota, Nedelja, Praznik\nZaprto cel dan\n",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2268,
       "franchise": 9,
       "name": "BS Pesniška vrata",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Pon - Pet.:  6-22\r\nSob: 7-21 \r\nNed.: 8-20",
       "zip_code": "2204"
+    },
+    {
+      "pk": 2337,
+      "franchise": 5,
+      "name": "SHELL LITIJA",
+      "address": "Ljubljanska cesta 10 B",
+      "lat": 46.057722042151795,
+      "lng": 14.82292837241754,
+      "prices": {
+        "95": 1.444,
+        "dizel": 1.798,
+        "98": null,
+        "100": 1.799,
+        "dizel-premium": 2.239,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon-Sob; 5-23h \r\nNedelja: 8-20h",
+      "zip_code": "1270"
     }
   ],
   "position": null
