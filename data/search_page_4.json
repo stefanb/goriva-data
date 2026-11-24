@@ -4,6 +4,30 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=3&position=&radius=",
   "results": [
     {
+      "pk": 867,
+      "franchise": 2,
+      "name": "BS MOL ŠTANJEL",
+      "address": "Štanjel 80",
+      "lat": 45.81842,
+      "lng": 13.84414,
+      "prices": {
+        "95": 1.413,
+        "dizel": 1.738,
+        "98": null,
+        "100": 1.754,
+        "dizel-premium": null,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n09:00-19:00\n\nNedelja, Praznik\n08:00-16:00\n",
+      "zip_code": "6222"
+    },
+    {
       "pk": 869,
       "franchise": 2,
       "name": "BS MOL TREBNJE",
@@ -578,30 +602,6 @@
       "direction": "",
       "open_hours": "Nedelja, Praznik\n08:00-20:00\n\nPonedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n",
       "zip_code": ""
-    },
-    {
-      "pk": 1580,
-      "franchise": 2,
-      "name": "BS MOL PTUJ",
-      "address": "PUHOVA ULICA 18A",
-      "lat": 46.421507,
-      "lng": 15.88666,
-      "prices": {
-        "95": 1.413,
-        "dizel": 1.738,
-        "98": null,
-        "100": 1.754,
-        "dizel-premium": 2.184,
-        "avtoplin-lpg": 1.149,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Ponedeljek, Torek, Sreda, Četrtek, Petek, Sobota\n06:00-22:00\n\nNedelja, Praznik\n08:00-22:00\n",
-      "zip_code": "2250"
     }
   ],
   "position": null
