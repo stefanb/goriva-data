@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=16&position=&radius=",
   "results": [
     {
-      "pk": 2267,
-      "franchise": 6,
-      "name": "EKO-NAFTA",
-      "address": "Trimlini 65A, 9220 Lendava - Lendva",
-      "lat": 46.5429019,
-      "lng": 16.4429144,
-      "prices": {
-        "95": 1.413,
-        "dizel": 1.738,
-        "98": null,
-        "100": 1.756,
-        "dizel-premium": null,
-        "avtoplin-lpg": null,
-        "KOEL": 1.361,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Maj / Junij / Julij / Avgust / September\nPonedeljek, Torek, Sreda, Četrtek, Petek\n06:00-19:00\n\nJanuar / Februar / Marec / April / Oktober / November / December\nPonedeljek, Torek, Sreda, Četrtek\n06:00-18:00\n\nSobota, Nedelja, Praznik\nZaprto cel dan\n",
-      "zip_code": "9220"
-    },
-    {
       "pk": 2268,
       "franchise": 9,
       "name": "BS Pesniška vrata",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "Pon\tdo Sob \r\n06:00 - 21:00\r\nNed\t\r\n08:00 - 20:00",
       "zip_code": "3240"
+    },
+    {
+      "pk": 2336,
+      "franchise": 5,
+      "name": "SHELL MIKLAVŽ",
+      "address": "Ptujska cesta 135",
+      "lat": 46.53067,
+      "lng": 15.67062,
+      "prices": {
+        "95": 1.413,
+        "dizel": 1.738,
+        "98": null,
+        "100": 1.769,
+        "dizel-premium": 2.179,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "Pon - Pet.:  6-22\r\nSob: 7-21 \r\nNed.: 8-20",
+      "zip_code": "2204"
     }
   ],
   "position": null

@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=17&position=&radius=",
   "results": [
     {
-      "pk": 2336,
-      "franchise": 5,
-      "name": "SHELL MIKLAVŽ",
-      "address": "Ptujska cesta 135",
-      "lat": 46.53067,
-      "lng": 15.67062,
-      "prices": {
-        "95": 1.413,
-        "dizel": 1.738,
-        "98": null,
-        "100": 1.769,
-        "dizel-premium": 2.179,
-        "avtoplin-lpg": null,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "",
-      "open_hours": "Pon - Pet.:  6-22\r\nSob: 7-21 \r\nNed.: 8-20",
-      "zip_code": "2204"
-    },
-    {
       "pk": 2337,
       "franchise": 5,
       "name": "SHELL LITIJA",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "",
       "zip_code": "6219"
+    },
+    {
+      "pk": 2361,
+      "franchise": 5,
+      "name": "SHELL KOMENDA",
+      "address": "Potok pri Komendi 8",
+      "lat": 46.20581146877878,
+      "lng": 14.523937545251142,
+      "prices": {
+        "95": 1.413,
+        "dizel": 1.738,
+        "98": null,
+        "100": 1.769,
+        "dizel-premium": 2.179,
+        "avtoplin-lpg": null,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "",
+      "zip_code": "1218"
     }
   ],
   "position": null

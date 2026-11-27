@@ -4,30 +4,6 @@
   "previous": "https://goriva.si/api/v1/search/?format=json&franchise=&name=&o=&page=19&position=&radius=",
   "results": [
     {
-      "pk": 796,
-      "franchise": 2,
-      "name": "BS MOL GROSUPLJE CIKAVA",
-      "address": "Ljubljanska cesta 129",
-      "lat": 45.9730555555556,
-      "lng": 14.625555555555556,
-      "prices": {
-        "95": 1.629,
-        "dizel": 1.924,
-        "98": null,
-        "100": 1.944,
-        "dizel-premium": 2.374,
-        "avtoplin-lpg": 1.196,
-        "KOEL": null,
-        "hvo": null,
-        "cng": null,
-        "lng": null
-      },
-      "distance": null,
-      "direction": "Grosuplje",
-      "open_hours": "00:00-23:59\n",
-      "zip_code": "1290"
-    },
-    {
       "pk": 823,
       "franchise": 2,
       "name": "BS MOL LOPATA JUG",
@@ -602,6 +578,30 @@
       "direction": "",
       "open_hours": "00:00-23:59\n",
       "zip_code": "8222"
+    },
+    {
+      "pk": 2232,
+      "franchise": 1,
+      "name": "PETROL PODLEHNIK AC - ZAHOD",
+      "address": "DEŽNO PRI PODLEHNIKU 2",
+      "lat": 46.329098,
+      "lng": 15.878359,
+      "prices": {
+        "95": 1.63,
+        "dizel": 1.926,
+        "98": null,
+        "100": 1.947,
+        "dizel-premium": 2.38,
+        "avtoplin-lpg": 1.208,
+        "KOEL": null,
+        "hvo": null,
+        "cng": null,
+        "lng": null
+      },
+      "distance": null,
+      "direction": "",
+      "open_hours": "00:00-23:59\n",
+      "zip_code": "2286"
     }
   ],
   "position": null
